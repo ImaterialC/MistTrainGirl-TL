@@ -1,0 +1,32 @@
+マナ補充=Mana Refill
+補充マナ=<size\=12>Mana C.</size>
+補充=Fill
+練習時間=Training
+未解放=Locked
+未セット=Not Set
+ギア獲得まで=Next Gear in
+自主練リザルト=Self-Training Results
+自主練を実行して下記のアイテムを獲得しました=Self-training items obtained
+最大値を超えた分のマナはストックされないのでご注意です!=Please note that any overspent mana will not be stored in excess!
+ゴールドやアイテムを使用して練習を行うのに必要なマナを補充できます=You can use gold or items to replenish the mana needed to train.
+選択一括リセット=Reset Selection
+マナ=Mana
+マナを補充しました=Mana Refilled
+補充完了=Refill Completed
+r:"^([0-9]+)時間([0-9]+)分([0-9]+)秒$"=$1h $2m $3s
+r:"^([0-9]+)時間([0-9]+)分$"=$1h $2m
+所持スタミナ=Stamina
+1回=1 time
+
+時間　　  分　　  秒=hrs  　    m      　s
+分=m
+全てのスロット\n 解放で次のエリア=All slots\nUnlock next area
+時間　　　分　　　秒=hrs  　    m      　s
+自主練に参加するキャラを選択してください=<size\=13>Select characters for self-training</size>
+自主練キャラ設定=Self-Training Settings
+所持ギア数表示=<size\=13>Show Gear Amount</size>
+設定中レイヤーを外します=Remove Set Layer
+設定中レイヤーの練習を終了します。\r\n報酬獲得までのカウントダウンがリセットされますが\r\nよろしいですか？=This will end the set Layer's training.\r\nThe countdown to obtained rewards will be reset.\r\nIs this OK?
+レイヤーの変更=Change Layer
+設定中レイヤーを変更します=Change Set Layer
+練習中のレイヤーを変更すると\r\n報酬獲得までのカウントダウンがリセットされます=If you change the training Layer,\r\nthe countdown to obtained rewards will be reset.

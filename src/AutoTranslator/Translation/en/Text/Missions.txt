@@ -1,0 +1,250 @@
+//Maps
+r:"^メインクエスト ([\s\S]+)(HARD)$"=Main Quest $1 (Hard)
+r:"^メインクエスト ([\s\S]+)(VERYHARD)$"=Main Quest $1 (Very Hard)
+
+//Events
+sr:"^([\s\S]+)を連れていずれかのクエストを([0-9]+)回クリアする。$"=Clear any quests $2 times with $1.
+sr:"^([\s\S]+)を連れてエネミーを([0-9]+)体討伐する。$"=Defeat $2 Enemies with $1.
+sr:"^([\s\S]+)を仲間にする。$"=Have A $1 [$2] join your ranks.
+お化け屋敷=Haunted House
+風紀委員=Disciplinary Committee Member
+演劇=Theater
+特鉄隊の学園祭=Special Steel Squad Academy Festival
+10DAYSログインM=10 Days Login M
+
+鉄路の先のランコントル=Rencontre Beyond the Railroad
+サメさんポーチ=Sharky Pouch
+sr:"^『([\S\s]+)』のNORMALクエスト（前半）を制覇する。$"=Clear all Normal Quests (First Half) in $1.
+sr:"^([\S\s]+)を連れていずれかのクエストでエネミーを([0-9]+)体討伐する。$"=Defeat $2 Enemies in quests with $1.
+sr:"^『([\S\s]+)』で([\S\s]+)を([0-9]+)個ドロップさせる。$"=Obtain $3 $2 drops in $1.
+sr:"^『([\S\s]+)』のドロップボーナスクエストを([0-9]+)回クリアする。$"=Clear $1 quests with drop bonuses $2 times.
+sr:"^『([\S\s]+)』のクエストで敵を100体撃破する。$"=Defeat 100 enemies in $1 quests.
+sr:"^【([\S\s]+)】メインクエストを800回クリアする。$"=[$1] Clear Main Quests 800 times.
+sr:"^【([\S\s]+)】トレジャークエストを500回クリアする。$"=[$1] Clear Treasure Quests 500 times.
+【グリザイアコラボ記念M】トレジャークエストのステージ1-5 (VHARD)をクリアする。=[Grisaia Collab Memorial M] Clear Treasure Quest 1-5 (VHard).
+【グリザイアコラボ記念M】トレジャークエストのステージ2-5 (VHARD)をクリアする。=[Grisaia Collab Memorial M] Clear Treasure Quest 2-5 (VHard).
+sr:"^【([\S\s]+)】トレジャークエストのステージ1-5 (VHARD)をクリアする。$"=[$1] Clear Treasure Quest 1-5 (VHard).
+グリザイアコラボ記念M=Grisaia Collab Memorial M
+現在挑戦できるスペシャルミッションはありません\nショップのミッションパック購入で挑戦可能となります=There is no special mission that you can currently challenge. You can challenge by purchasing a shop mission pack
+『鉄路の先のランコントル』のクエストで敵=enemies in Rencontre Beyond the Railroad quests
+『いかがわロリコンスイミング』のクエストで敵=enemies in Ica River Lolitacon Swimming quests
+
+sr:"^『([\S\s]+)』のNORMALクエスト（前半）を制覇する。$"=Conquer $1 Normal Quests (First half).
+sr:"^『([\S\s]+)』のNORMALクエスト（後半）を制覇する。$"=Conquer $1 Normal Quests (Second half).
+sr:"^『([\S\s]+)』のHARDクエスト（前半）を制覇する。$"=Conquer $1 Hard Quests (First half).
+sr:"^『([\S\s]+)』のHARDクエスト（後半）を制覇する。$"=Conquer $1 Hard Quests (Second half).
+sr:"^『([\S\s]+)』のVHARDクエスト（前半）を制覇する。$"=Conquer $1 V. Hard Quests (First half).
+sr:"^『([\S\s]+)』のVHARDクエスト（後半）を制覇する。$"=Conquer $1 V. Hard Quests (Second half).
+
+マグロマン=Tunafish Man
+ミッションポイント=Mission Point
+
+//Altar of Judgement
+sr:"^【([\S\s]+)】降魔の祭壇を([0-9]+)階クリアする。$"=[$1] Clear Altar of Judgement $2th floor.
+
+sr:"^「([\s\S]+)」のNORMALクエストをクリアする。$"=Clear $1 Quest, Normal Difficulty.
+sr:"^「([\s\S]+)」のHARDクエストをクリアする。$"=Clear $1 Quest, Hard Difficulty.
+sr:"^「([\s\S]+)」のVHARDクエストをクリアする。$"=Clear $1 Quest, Very Hard Difficulty.
+sr:"^イベント『([\s\S]+)』に参加する。$"=Participate in the $1 event.
+sr:"^「([\s\S]+)」で累計スコア([0-9]+)を獲得する。$"=Get a total "$1" score of $2.
+
+//Character Missions
+sr:"^([\s\S]+)のギアレベルを20にする。$"=Have $1 reach Gear Level 20.
+sr:"^([\s\S]+)のレイヤーレベルを50にする。$"=Have $1 reach Layer Level 50.
+sr:"^([\s\S]+)を仲間にする。$"=Recruit $1.
+
+//Special
+sr:"^【([\s\S]+)】ログイン日数が([0-9]+)日に到達する。$"=[$1] Reach a total of $2 log in days.
+おかわりM=Refill M
+ドーヴァー召喚M=Dover Summon M
+セントーサ召喚M=Sentosa Summon M
+
+//Dailies
+r:"^いずれかの敵を([0-9]+)体討伐する$"。=Defeat $1 enemies.
+【派遣任務】1回実行する。=Run Dispatches 1 time.
+r:"^【派遣任務】([0-9]+)回実行する。$"=Run Dispatches $1 time.
+いずれかのクエストを1回クリアする。=Clear any quests 1 time.
+r:"^いずれかのクエストを([0-9]+)回クリアする。$"=Clear any quests $1 times.
+1日1回無料ガチャを1回引く。=Draw the daily free gacha.
+【掘り出し物】デイリー、ウィークリーショップのいずれかでアイテムを購入する。=Purchase items in either the daily or weekly Bargain Store.
+デイリーミッションを1個クリアする。=Clear 1 daily mission.
+r:"^デイリーミッションを([0-9]+)個クリアする。$"=Clear $1 daily missions.
+
+//Weeklies
+r:"^【派遣任務】([0-9]+)回実行する。$"=Run Dispatch Missions $1 times.
+r:"^いずれかのクエストを([0-9]+)回クリアする。$"=Clear any quests $1 times.
+フレンドからPTスキルをレンタルしてお得意様メーターを1人分MAXにする。=Rent PT skills from 1 friend and max out their Friendship Meter.
+r:"^フレンドからPTスキルをレンタルしてお得意様メーターを([0-9]+)人分MAXにする。$"=Rent PT skills from $1 friends and max out their Friendship Meters.
+r:"^素材クエスト、討伐任務、試練の塔、舞踏演武のいずれかのクエストを([0-9]+)回クリアする。$"=Clear either: Material Quest, Ticket Quest, Tower Quest, or Battle Festival total $1 times.
+r:"^ウィークリーミッションを([0-9]+)個クリアする。$"=Clear $1 weekly missions.
+
+r:"^ポーション×([0-9]+)$"=Potion x $1
+獲得日時=Issued
+達成ミッション未受取数=Number of unclaimed missions
+
+//Events
+【グリザイアコラボ直前M】メインクエスト第1部第36章、ステージ36-5 (NORMAL)をクリアする。=[Grisaia Collab Eve M] Clear Main Quest Arc 1, Episode 36, Stage 36-5 (Normal).
+【グリザイアコラボ直前M】メインクエスト第2部第60章、ステージ60-5 (NORMAL)をクリアする。=[Grisaia Collab Eve M] Clear Main Quest Arc 2, Episode 36, Stage 60-5 (Normal).
+【グリザイアコラボ直前M】メインクエスト第3部第84章、ステージ84-5 (NORMAL)をクリアする。=[Grisaia Collab Eve M] Clear Main Quest Arc 3, Episode 36, Stage 84-5 (Normal).
+【グリザイアコラボ直前M】メインクエスト第4部第108章、ステージ108-5 (NORMAL)をクリアする。=[Grisaia Collab Eve M] Clear Main Quest Arc 4, Episode 108, Stage 108-5 (Normal).
+
+【金恋コラボ直前M】メインクエスト第1部第18章、ステージ36-5 (NORMAL)をクリアする。=[Kinkoi Pre-Collab M] Clear Main Quest Part 1, Episode 18, Stage 36-5 (Normal).
+【金恋コラボ直前M】メインクエスト第2部第12章、ステージ60-5 (NORMAL)をクリアする。=[Kinkoi Pre-Collab M] Clear Main Quest Part 2, Episode 12, Stage 60-5 (Normal).
+【金恋コラボ直前M】メインクエスト第3部第12章、ステージ84-5 (NORMAL)をクリアする。=[Kinkoi Pre-Collab M] Clear Main Quest Part 3, Episode 12, Stage 84-5 (Normal).
+【金恋コラボ直前M】メインクエスト第4部第12章、ステージ108-5 (NORMAL)をクリアする。=[Kinkoi Pre-Collab M] Clear Main Quest Part 4, Episode 12, Stage 108-5 (Normal).
+
+//Raid
+sr:"^【([\S\s]+)】いずれかのクエストを([0-9]+)回クリアする。$"=[$1] Clear any quests $2 times.
+sr:"^【([\S\s]+)】いずれかの敵を([0-9]+)体討伐する。$"=[$1] Defeat $2 enemies.
+1日目 ハロウィンM=Day 1 Halloween M
+2日目 ハロウィンM=Day 2 Halloween M
+sr:"^『([\S\s]+)』のVHARDクエストの2-5をクリアする。$"=Complete $1 VHARD Quest 2-5 .
+sr:"^『([\S\s]+)』のNORMALクエストの([0-9]+)-([0-9]+)をクリアする。$"=Clear $1 Normal Quest $2-$3.
+
+//Training Camp
+r:"^トレーニングキャンプのクエストを([0-9]+)回クリアする。$"=Clear Training Camp quests $1 times.
+sr:"^イベント『入隊訓練：([\s\S]+)』に参加する。$"=Participate in the event: Training Camp - $1.
+
+//Achievements
+r:"^剣のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Sword Weapon Mastery Level $1.
+r:"^斧のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Axe Weapon Mastery Level $1.
+r:"^魔具のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Artifact Weapon Mastery Level $1.
+r:"^拳のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Gauntlet Weapon Mastery Level $1.
+r:"^鞭のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Whip Weapon Mastery Level $1.
+r:"^杖のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Staff Weapon Mastery Level $1.
+r:"^槍のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Spear Weapon Mastery Level $1.
+r:"^弓のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Bow Weapon Mastery Level $1.
+r:"^銃のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach Gun Weapon Mastery Level $1.
+r:"^ゲームを開始してから([0-9]+)日経過する。$"=Pass $1 days since starting the game.
+r:"^装備進化素材クエストの([0-9]+)階層目をクリアする。$"=Clear Equipment Evolution Quest Level $1.
+
+12月31日(Thu)23時59分まで=Ends December 31st (Thu) 23:59
+10月31日(Thu)23時59分まで=Ends October 31 (Thu) 23:59
+3月17日(Mon)23時59分まで=Ends March 17 (Mon) 23:59
+r:"([0-9]+)/([0-9]+)に行ったメンテナンス延長に伴うお詫びです$"=Apologies for the extended\r\nmaintenance on $1/$2.
+r:"([0-9]+)/([0-9]+)のメンテナンスご協力のお礼です。$"=Thank you for your cooperation\r\nwith the maintenance on $1/$2.
+
+sr:"^([\s\S]+)×([0-9]+)$"=$1 x $2
+
+//Rewards
+FanzaGames人気ランキング1位記念のプレゼントです。=This is a gift to celebrate 1st place in the Fanza Games popularity ranking.
+FanzaGames人気ランキング2位記念のプレゼントです。=This is a gift to celebrate 2nd place in the Fanza Games popularity ranking.
+FanzaGames人気ランキング3位記念のプレゼントです。=This is a gift to celebrate 3rd place in the Fanza Games popularity ranking.
+FanzaGames人気ランキング＆FanzaGames人気ランキングSP １位記念のプレゼントです。=This is a gift to celebrate 1st place in the FanzaGames Popularity Rankings & FanzaGames Popularity Rankings SP.
+所持上限のため受け取りできなかったアイテムです。=This item could not be received due to inventory limit.
+受け取り期限切れミッション報酬=Expired mission reward
+r:"^([0-9]+)/([0-9]+)ログイン時の受け取り期限切れミッション報酬です。$"=This is the expired mission reward that you can receive when you log in on $1/$2.
+ハロウィンキャンペーンのお知らせ画像の不具合に関するお詫びです。=We apologize for the error in the Halloween campaign announcement image.
+sr:"^([\s\S]+)×10$"=$1 x 10
+お菓子のプレゼント=Sweets Present
+
+//Raid
+sr:"^『([\s\S]+)』のNORMALクエストの([0-9]+)-5をクリアする。$"=Clear Hard Quest $2-5 in $1.
+sr:"^『([\s\S]+)』のHARDクエストの([0-9]+)-5をクリアする。$"=Clear Hard Quest $2-5 in $1.
+sr:"^『([\s\S]+)』のVHARDクエストの([0-9]+)-5をクリアする。$"=Clear V. Hard Quest $2-5 in $1.
+インフェルノレイドに参加する=Participate in an Inferno Raid.
+戦功ガチャを10回引く。=Draw Battle Merit Gacha 10 times.
+フレンドまたはランダムでレイドボスを撃破する。=Defeat a Raid Boss with a friend or random.
+難易度EASYのレイドを敗北せずに撃破する。=Defeat an Easy difficulty raid without losing.
+難易度NORMALのレイドを敗北せずに撃破する。=Defeat a Normal difficulty raid without losing.
+難易度HARDのレイドを敗北せずに撃破する。=Defeat a Hard difficulty raid without losing.
+難易度VHARDのレイドを敗北せずに撃破する。=Defeat a V. Hard difficulty raid without losing.
+魔王様はコスプレがお好き=The Demon Lord Loves Cosplay
+魔王様はコスプレがお好き =The Demon Lord Loves Cosplay
+陽気なサンタが聖夜を回す=Jolly Santa Spins the Holy Night
+陽気なサンタが聖夜を回す =Jolly Santa Spins the Holy Night
+
+『Limitedガチャ【浅薄な嘘ツンデレ】』の提供割合の表記不具合に関する補填です。=It is a compensation for the notation of the provision percentage of "Limited gacha [shallow lie tsundere]".
+専用嘘ツンデレガチャ切符=Exclusive Lying Tsundere Gacha Ticket
+専用コラボSPガチャ切符=Exclusive Collabn SP Gacha Tticket
+『グリザイアコラボ記念スペシャルガチャ』の提供割合の表記不具合に関する補填です。	=It is a compensation for the notation of the provision ratio of "Grisaia Collab Memorial Special Gacha".	
+一部のガチャの排出確率の表記に関する不具合のお詫びです。=This is an apology for a defect on the notation of some gacha emission probability.
+11/1実施の緊急メンテナンスにご協力いただいたお礼と、ご迷惑をお掛けしたお詫びです。=We apologize for your cooperation in the emergency maintenance on 11/1 and inconvenience.
+ガチャ確率不具合に関する追加補填です。=This is additional compensation for the gacha probability glitch.
+「DMM GAMES FESTIVAL」で当選したプレゼント賞品です。=This is a prize won at "DMM GAMES FESTIVAL".
+ユーザーの皆様にご迷惑をお掛けしたことへのお詫びです。=We apologize for any inconvenience caused to our users.
+※期限ありのプレゼントは200件超えると古い順から削除されます=※Oldest expirable gifts are deleted if they exceed 200.
+ミストレ4.5周年生放送の色々なお詫びと車掌の皆様への感謝です。=Apologies for the various events surrounding the 4.5th anniversary live broadcast of Mist Train and thanks to all the Conductors.
+ミストレ4.5周年生放送の報酬です。=This is a reward for the Mist Train 4.5th anniversary live broadcast.
+ミスト4.5周年記念生放送=Mist 4.5th Anniversary Live Broadcast
+
+グリザイアコラボSP=Grisaia Collab SP
+専用コラボSPガチャ切符を消費して10連ガチャを引きます=Spend a dedicated collaboration SP gacha ticket and draw 10 consecutive gacha
+3日目 ハロウィンM=Day 3 Halloween M
+4日目 ハロウィンM=Day 4 Halloween M
+5日目 ハロウィンM=Day 5 Halloween M
+
+//EXP Camp
+経験値キャンプ=EXP Camp
+12月5日(Thu)23時59分まで=Ends Dec 5th (Thu) 23:59
+
+//Battalion
+『大隊戦』Normalの階層ミッションを全てクリアする。=Complete all Normal level missions in Battalion Battle.
+『大隊戦』Extraの階層ミッションを全てクリアする。=Complete all Extra level missions in Battalion Battle.
+『大隊戦』Riskyの階層ミッションを全てクリアする。=Complete all Risky level missions in Battalion Battle.
+大隊戦3 びビスト！？ファッション大革命！=Battalion Battle 3 - BiByst!? Fashion Revolution!
+大隊戦=Battalion
+
+r:"^討伐任務 ([0-9]+)階層$"=Ticket Quest Level $1
+r:"^サイドストーリー ([0-9]+)-1(HARD)$"=Side Story 1-1 (Hard)
+r:"^サイドストーリー ([0-9]+)-1(VERYHARD)$"=Side Story $1-1 (Very Hard)
+次のクエストに再出撃=Re-sortie for the next quest
+【金恋コラボ記念M】トレジャークエストのステージ2-5 (VHARD)をクリアする。=[Kin Koi Collab M] Clear Treasure Quest Stage 2-5 (VHard).
+【金恋コラボ記念M】トレジャークエストのステージ1-5 (VHARD)をクリアする。=[Kin Koi Collab M] Clear Treasure Quest Stage 1-5 (VHard).
+
+//Boss Rush
+【新春記念M】BOSS RUSHクエスト1 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 1 (Normal).
+【新春記念M】BOSS RUSHクエスト2 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 2 (Normal).
+【新春記念M】BOSS RUSHクエスト3 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 3 (Normal).
+【新春記念M】BOSS RUSHクエスト4 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 4 (Normal).
+【新春記念M】BOSS RUSHクエスト5 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 5 (Normal).
+sr:"^【([\s\S]+)】トレジャークエストを([0-9]+)回クリアする。$"=[$1] Clear the Treasure Quest $2 times.
+年末記念M=Year End Celebration M
+【年末記念M】SSランカスター[可憐な振袖少女]を連れてエネミーを300体討伐する。※過去にスキルを取得している場合、報酬は付与されません=[Year End Celebration M] Have SS Lancaster [Dainty Furisode Girl] defeat 300 enemies. ※If you have already acquired the skill, you will not be rewarded.
+【年末記念M】SSイズモノハクト[縁結びの先へ]を連れてエネミーを300体討伐する。※過去にスキルを取得している場合、報酬は付与されません=[Year End Celebration M] Have SS Izumo no Hakuto [Beyond the Matchmaking] defeat 300 enemies. ※If you have already acquired the skill, you will not be rewarded.
+【年末記念M】SSヴィクトリア[賀正侍女]を連れてエネミーを300体討伐する。※過去にスキルを取得している場合、報酬は付与されません=[Year End Celebration M] Have SS Victoria [New Year Maid] defeat 300 enemies. ※If you have already acquired the skill, you will not be rewarded.
+【新春記念M】メインクエストを100回クリアする。=[New Year Celebration M] Clear Main Quests 100 times.
+【新春記念M】舞踏演武難易度3をクリアする。=[New Year Celebration M] Clear Battle Festival Level 3.
+鋼鉄賢者キャッシュ襲来=Steel Wiseman Cash Attack
+女騎士\r\nガチャメダル=Knightess\r\nGacha medal
+
+巡回任務で1時間分上昇効果を獲得する。（帰還要請書使用を含む）=Claim 1 hour of rewards in Patrol Duty (includes usage of Return Request Forms).
+r:"^巡回任務で([0-9]+)時間分上昇効果を獲得する。（帰還要請書使用を含む）$"=Claim $1 hours of rewards in Patrol Duty (includes usage of Return Request Forms). 
+【くまさん祭り記念M】トレジャークエストのステージ1-5 (VHARD)をクリアする。=[Kumasan Festival Commemorative M] Complete Treasure Quest Stage 1-5 (VHARD).
+くまさん祭り記念M=Kumasan Festival Commemorative M
+くまさん祭りM=Kumasan Festival M
+くまさん祭り強化M=Kumasan Festival Enhancement M
+バレンタイン記念M=Valentine Memorial M
+パワーアップ応援M=Power-up Support M
+パワーアップ応援ジュエルミッション=Power-up Support Jewel Mission
+4.5周年直前M=4.5th Anniversary M
+『異界からの来遊者！？　お姉ちゃんたちはクマったサン』のクエストで敵=Otherworld Visitors!? The Onee-chans are Bears quests
+【メイン・サイド攻略M】サイドストーリー第1章、ステージ2-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 1, Stage 2-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第2章、ステージ4-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 2, Stage 4-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第3章、ステージ6-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 3, Stage 6-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第4章、ステージ8-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 4, Stage 8-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第5章、ステージ10-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 5, Stage 10-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第6章、ステージ12-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 6, Stage 12-5 (NORMAL).
+【メイン・サイド攻略M】サイドストーリー第7章、ステージ14-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Side Story Chapter 7, Stage 14-5 (NORMAL).
+【メイン・サイド攻略M】メインクエスト第1部第18章、ステージ36-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Chapter 18 of Main Quest Part 1, Stage 36-5 (NORMAL).
+【メイン・サイド攻略M】メインクエスト第2部第12章、ステージ60-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 2 Chapter 12, Stage 60-5 (NORMAL).
+【メイン・サイド攻略M】メインクエスト第3部第12章、ステージ84-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 3 Chapter 12, Stage 84-5 (NORMAL).
+【メイン・サイド攻略M】メインクエスト第4部第12章、ステージ108-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 4 Chapter 12, Stage 108-5 (NORMAL).
+【メイン・サイド攻略M】メインクエスト第5部第6章、ステージ120-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 5 Chapter 6, Stage 120-5 (NORMAL).
+決戦エリアでボスに1回挑戦する。=Challenge any boss once in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に1回挑戦する。$"=Challenge the $1 once in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に3回挑戦する。$"=Challenge the $1 3 times in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に5回挑戦する。$"=Challenge the $1 5 times in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に累計10,000ダメージを与える。$"=Deal a total of 10,000 damage to $1 in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に累計100,000,000ダメージを与える。$"=Deal a total of 100,000,000 damage to $1 in the Decisive Battle Area.
+sr:"^決戦エリアで([\S\s]+)に累計500,000,000ダメージを与える。$"=Deal a total of 500,000,000 damage to $1 in the Decisive Battle Area.
+
+『空守たちの聖域』のソロモードをクリアする。=Complete the solo mode of The Sky Guardians' Sanctuary.
+
+r:"^投票期間中に([0-9]+)票投票を行う。$"=Cast $1 votes during the voting period.
+r:"^前線基地の建物総合計Lvが([0-9]+)に到達する。$"=The total building level of your base reaches $1.
+『空守たちの聖域』のクエストでボス「解呪を阻止する者」=[Sky Guardians' Sanctuary] boss "Curse-Breaker Blocker"
+4.5周年イベント『空守たちの聖域』の不具合に関するお詫びです。=We apologize for the problem with the 4.5th anniversary event, "Sky Guardians' Sanctuary".
+空守ポーション=Sky Guardian Potion
+PCダウンロード版での不具合のお詫びです。=We apologize for the problem with the PC download version.
+『くまさん祭りルーレット』参加証獲得枚数報酬です。=This reward is based on the number of participation certs obtained in the "Kumasan Festival Roulette."

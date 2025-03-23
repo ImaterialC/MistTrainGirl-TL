@@ -1,0 +1,9 @@
+バトルチュートリアル=Battle Tutorial
+AUTOモード=AUTO Mode
+ターゲティング=Targeting
+属性優劣=Element Advantage
+スキルと連携=Skills and Connects
+×  表示を消す=× Hide Shown
+バトルで使用される編成はチュートリアル用の固定編成となります=The formation used in battle is a fixed formation for tutorials.
+バトルのチュートリアルを再度確認することができます=You can check the battle tutorial again
+特別授業=Special Lessons

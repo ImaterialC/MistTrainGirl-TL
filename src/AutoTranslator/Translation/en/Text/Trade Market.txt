@@ -1,0 +1,122 @@
+sr:"^([\S\s]+)交換$"=$1 Trade
+メインクエスト\r\nアイテム=Main Quest\r\nItems
+メインクエスト\r\n武器=Main Quest\r\nWeapons
+メインクエスト\r\n防具=Main Quest\r\nArmors
+メインクエスト\r\n装飾=Main Quest\r\nAccessories
+サイドストーリー\r\nアイテム=Side Story\r\nItems
+カジノコイン\r\nアイテム=Casino Chip\r\nItems
+カジノコイン\r\n装飾=Casino Chip\r\nAccessories
+カジノコイン\r\n防具=Casino Chip\r\nArmors
+カジノコイン\r\n武器=Casino Chip\r\nWeapons
+カジノコイン\r\nPTスキル=Casino Chip\r\nPT Skills
+カジノコイン\r\nギア=Casino Chip\r\nGears
+風見一姫\r\nガチャメダル=Kazuki Kazami\r\nGacha Medal
+鉄路\r\nガチャメダル=Railroad\r\nGacha Medal
+アイテム=Item
+残り交換回数=Remaining exchanges
+sr:"^([\S\s]+)で対象のアイテムと交換しますか？$"=Trade $1 for the item?
+sr:"^([\S\s]+)ガチャメダルを消費してレイヤーを召喚します$"=Spend $1 Gacha Medal to summon the Layer
+交換完了=Trade Complete
+購入数\n=Quantity\n
+交換済みの商品のためできません=Item has already been traded.
+交換素材が不足しているため交換ができません=Unable to perform the trade due to the lack of trade materials.
+付与したいアビリティを選択してください=Please select the ability you want to grant
+
+討伐任務=Ticket Quest
+ガチャ関連=Gacha Related
+強化素材=Upgrade Material
+舞踏演武=Battle Festival
+特鉄券=Special Steel Ticket
+ギア所持数=Gears Owned
+
+sr:"^([\s\S]+)x1$"=$1 x1
+
+//Gacha Medals
+sr:"^([\s\S]+)を消費して\r\n<color\=#773038>([\s\S]+)</color>を召喚しますか？$"=Do you want to summon\r\n<color\=#773038>$1</color>\r\nwith $2?
+4周年Ⅲ\r\nガチャメダル=4th Anniversary III\r\nGacha Medal
+4周年Ⅱ\r\nガチャメダル=4th Anniversary II\r\nGacha Medal
+4周年Ⅰ\r\nガチャメダル=4th Anniversary I\r\nGacha Medal
+4周年ガチャメダルⅢ=4th Anniversary Gacha Medal III
+4周年ガチャメダルⅡ=4th Anniversary Gacha Medal II
+4周年ガチャメダルⅠ=4th Anniversary Gacha Medal I
+
+// Layer Summon
+sr:"^A([\s\S]+)のギアx50を消費して\r\n<color\=#773038>([\s\S]+)</color>を召喚しますか？$"=Do you want to summon\r\n<color\=#773038>$1</color>\r\nwith $2 Gear x50?
+sr:"^S([\s\S]+)のギアx150を消費して\r\n<color\=#773038>([\s\S]+)</color>を召喚しますか？$"=Do you want to summon\r\n<color\=#773038>$1</color>\r\nwith $2 Gear x150?
+sr:"^SS([\s\S]+)のギアx250を消費して\r\n<color\=#773038>([\s\S]+)</color>を召喚しますか？$"=Do you want to summon\r\n<color\=#773038>$1</color>\r\nwith $2 Gear x250?
+
+※SSレイヤーギア×250でレイヤー召喚から召喚できます=※You can summon an unowned SS Layer using 250 SS Layer Gear.
+※Sレイヤーギア×150でレイヤー召喚から召喚できます=※You can summon an unowned S Layer using 150 S Layer Gear.
+※Aレイヤーギア×50でレイヤー召喚から召喚できます=※You can summon an unowned A Layer using 50 A Layer Gear.
+sr:"^([\s\S]+) を召喚しました$"=Summoned $1.
+sr:"^([\s\S]+)×([0-9]+)を交換しました$"=$1 x$2 has been traded.
+対象のアイテムと交換しました=Exchanged for the target item
+
+//Event
+アイテム交換確認=Item exchange confirmation
+パケトレバッジで対象のアイテムと交換しますか?=Would you like to exchange with Pakémon Gym Badges?
+鉄路の結晶で対象のアイテムと交換しますか？=Would you like to exchange with Railway Crystals?
+手作りバタークッキー=Handmade Butter Cookies
+レンチ=Wrench
+
+討伐任務へ=To Ticket Quest
+カジノへ=To Casino
+イベントへ=To Event
+舞踏演武へ=To Battle Festival
+サイドへ=To Side
+クエストへ=To Quest
+副官周回中のため使用できません=Cannot be used due to Adjutant Auto Lap.
+
+
+キャラクターの全ての装備を一括で外します=Remove all equipment from all characters at once.
+選択している編成キャラ全てが対象となります=All selected characters are included
+無料で対象のアイテムを購入しますか？=Would you like to purchase the item for free?
+メイン・サイド攻略\r\n交換所=Main Side Strategy\r\nTrade Market
+第八回選抜総選挙投票券=8th General Election Voting Ticket
+4.5周年ガチャメダルⅠ=4.5th Anniversary Gacha Medal I
+4.5周年\r\n超ご指名SS切符=4.5th Anniversary\r\nSuper Select SS Ticket
+4.5周年\r\nご指名SS切符=4.5th aAnniversary\r\nSelect SS Ticket
+NORMAL 2-5\nクリアで解放=Clear Normal 2-5\nto unlock
+4.5周年Ⅰ\r\nガチャメダル=4.5th Anniversary I\r\nGacha Medal
+
+//Bargain
+掘り出し物=Bargain
+「経験値キャンプ」をクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で過去のイベント武器などと交換することが出来る。=Items that can be obtained by clearing the "Experience Camp".\nIt can be exchanged for past event weapons at the "event" of the exchange.
+おまかせ使用する=Use Omakake
+まとめて使用する=Use collectively
+まとめて使用するでは選択したアイテムを所持分全て使用するすることができます=Use all at once allows you to use all of the selected items you own.
+ゴールドやミストジュエルでアイテムを購入できます=You can purchase items with gold and mist jewels.
+残り更新可能回数5/5=Remaining refreshes 5/5
+x200で現在のラインナップを更新=X200 to Update Current Lineup
+次の更新=Refreshes
+くまさん祭りガチャメダルⅠ=Kuma-san Festival Gacha Medal I
+ペイジン\r\nガチャメダル=Beijing\r\nGacha Medal
+くまさん祭りⅠ\r\nガチャメダル=Kumasan Festival I\r\nGacha Medal
+3.5周年復刻\r\nガチャメダル=3.5th Anniversary Rerun\r\nGacha Medal
+天空の討伐勲章\r\n=Sky Medal\r\n
+
+らぷそでぃ\r\nガチャメダル=Rhapsody\r\nGacha medal
+少女とヤンキー\r\nガチャメダル=Girl and Gangster\r\nGacha medal
+SSヴェローナ=SS Verona
+SSメッシーナ=SS Messina
+SSイズモノハクト=SS Izumo no Hakuto
+SSハバロフスク=SS Khabarovsk
+SSズエラット=SS Zouerat
+SSペンシルベニア=SS Pennsylvania
+SSコスタリカ=SS Costa Rica
+SSアサヒカワ=SS Asahikawa
+SSメンローパーク=SS Menlo Park
+SSパレルモ=SS Palermo
+SSグアテマラ=SS Guatemala
+SSパンクラス=SS Pancras
+SSデトロイト=SS Detroit
+SSトゥームストーン=SS Tombstone
+SSヴィクトリア=SS Victoria
+SSアマノハシダテ=SS Amanohashidate
+くまさん祭りⅡ\r\nガチャメダル=Kumasan Festival II\r\nGacha Medal
+Aクロミ=A-Kuromi
+SSクロミ=SS Kuromi
+SSパッスィ=SS Passy
+Aサーシャ=A Sasha
+SSサーシャ=SS Sasha
+SSペイジン=SS Beijing

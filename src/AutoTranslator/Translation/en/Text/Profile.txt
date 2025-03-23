@@ -1,0 +1,554 @@
+//Profile Menu
+プロフ=Profile
+誕生日=Birthday
+ボイス=Voice
+タイプ=Type
+短所=Weaknesses
+長所=Strengths
+特技=Talents
+趣味=Hobbies
+嫌いなもの=Dislikes
+好きなもの=Likes
+ベースキャラ詳細=Base Character Details
+
+所属=Affiliation
+その他=Others
+セントイリス=St. Iris
+ニシキ=Nishiki
+ヴェルフォレット=Verforet
+アイゼングラート=Eisengrad
+フレイマリン=Flamarine
+フテラブリュケ=Fterabrucke
+ノールヴァイス=Nordweiß
+
+星座=Constellation
+Aquarius
+魚座=Pisces
+牡羊座=Aries
+おうし座=Taurus
+牡牛座=Taurus
+双子座=Gemini
+蟹座=Cancer
+獅子座=Leo
+乙女座=Virgo
+天秤座=Libra
+蠍座=Scorpio
+射手座=Sagittarius
+Capricorn
+
+種族=Race
+人間=Human
+獣人=Beastkin
+鬼人=Kijin
+エルフ=Elf
+
+r:"^1月([0-9])+日$"=Jan $1
+r:"^12月([0-9])+日$"=Dec $1
+
+合計ベース値=Total Stat
+ベース能力値=Base Stat
+初登場=First Appearance
+戦闘不能=Knocked Out
+スキル2=Skill 2
+スキル1=Skill 1
+連携時=When Connected
+戦闘開始=Start of Battle
+タイトルコール=Title Voice
+HOMEボイス1=Home Voice 1
+HOMEボイス2=Home Voice 2
+HOMEボイス3=Home Voice 3
+思い出Rank2=Memories Rank 2
+思い出Rank4=Memories Rank 4
+思い出Rank5=Memories Rank 5
+思い出Rank8=Memories Rank 8
+思い出Rank10=Memories Rank 10
+
+//Weapon
+剣=Sword
+斧=Axe
+魔具=Artifact
+拳=Gauntlet
+杖=Staff
+槍=Spear
+銃=Gun
+
+//1 Awilda
+水泳部部長のアルビダだ！\r\n世界情勢が落ち着いたら開催される予定の全国水泳大会の強化選手として選ばれたので、\r\n日夜、血の汗を流して水泳に励んでいるぞ！=I'm Awilda, captain of the swimming club!\r\nI was selected as a training athlete for the national swimming championships that will be held once the world situation has settled down,\r\nso I'm working hard day and night, with sweat and blood!
+水泳部、青春=Swimming club, youth
+自分の姿が映るもの、孤独=Self reflections, loneliness
+泳ぐこと、部活動、部員勧誘=Swimming, club activities, recruiting members
+水泳、シンクロナイズドスイミング=Swimming, synchronized swimming
+常にポジティブで元気=Always positive and upbeat
+誰に対しても距離を詰めすぎる=Never giving anyone enough space
+
+//2 Tayshet
+タイシェトだよ。アイゼングラートから来たの。\r\nタイシェトは、どんな命令も遂行する。\r\nでも、人は殺さない。悪いことはしない。\r\nこのお約束、ずっと守ってる。タイシェトはアイゼングラートの軍人。\r\nもう悪い子じゃないんだよ。=I'm Tayshet. Come from Eisengrad.\r\nTayshet will carry out any order.\r\nBut won't kill anyone. Won't do anything bad. \r\nAlways kept this promise. Tayshet is an Eisengradian soldier. Not a bad kid anymore.
+地吹雪=Ground blizzard
+誰もいない雪原=Empty snow fields
+肉をさばくこと=Cutting meat
+ウソをつかないこと=Doesn't lie
+他人の気持ちを考慮した言動が取れない=Unable to consider other people's feelings
+斧の手入れ=Caring for her axe
+
+//3 Kuala Lum
+わたくしは幼少期から箱入りで育ったから、あまり世間のことをよく知らないのよ～。\r\nただ将来、家業を継ぐためにお勉強をしたから、\r\n茶葉の栽培や経営については詳しいつもり～♪=I grew up in a sheltered environment, so I don't know much about the woorld～.\r\nHowever, I studied to inherit the family business in the future,\r\nso I think I know a lot about tea cultivation and managemeeent～.
+お茶=Tea
+ギスギスした雰囲気=Hostile atmospheres
+お茶の品種改良、お茶会=Tea breeding and tea parties
+お茶で他人をリラックスさせる=Relaxing others with tea
+美味しいお茶を振る舞ってくれる=Serving delicious tea
+暗くて狭い場所に収まって動かなくなる=Getting stuck inside dark and confined spaces
+
+//4 Jeran
+がるるるる！　ジエランは虎で、フレイマリンの森で暮らしてたのだ～！\r\n今は保護っていうのをされて、斧で切った木を売ったりして暮らしてるのだ～！=Grrrrr! Jeran was tiger, who lived in Flamarine Jungleee～!\r\nIt's now under protection and selling wood already chopped with axe for money～!
+大自然、狩猟、動物、肉=Nature, hunting, animals, meat
+機械、座学、ライオン=Machines, studies, lions
+ジャングルでの散歩、昼寝、腕試し=Jungle walks, naps, testing her skills
+サバイバル術、木材などの調達や加工=Survival skills, sourcing and processing wood, etc.
+動物にやさしく、無邪気=Kind to animals, innocent
+人間的な常識に疎い=Ignorant of human common sense
+
+//5 Volklingen
+あたし、もともとアイゼングラートの辺境に配属されてたのよね。\r\nそこらの地域じゃ悪代官……じゃなくて、代官さまって敬われてたのよ？=I was originally assigned to the outskirts of Eisengrad.\r\nI was respected as the maleficent governor... I mean, the MAGNIFICENT governor over there, y'know?
+父親、地位、名誉、財産=Her father, status, prestige, fortune
+貧乏、慈善活動=Being poor, charity
+小銭をせびる=Begging for pocket change
+特になし=Nothing in particular
+身体能力が常人離れしている=Superhuman physical abilities
+すべて。自分に甘く他人に厳しい=Everything. Lenient with herself and strict with others.
+
+//6 Ohana
+オハナです。学生寮の寮母をやってます。\r\nみんなにおいしいごはんを食べてもらうことが一番のしあわせです。\r\n戦いはあまり好きじゃないですけど、ちょっとだけならお力になれますよ。=I'm Ohana. I work as a dorm matron at the student dormitory.\r\nMy greatest joy is making sure everyone eats delicious food.\r\nI don't like fighting that much, but I can help out a little bit.
+子ども、芝桜=Children, moss phlox
+暴力、貧困=Violence, poverty
+料理=Cooking
+料理、洗濯、徒手格闘=Cooking, laundry, hand-to-hand combat
+どんな人でも受け入れられる広い心=An open mind that accepts everyone
+子ども扱いしすぎることがある=Sometimes treats others like children too much
+
+//7 Futamata
+私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！\r\n地元じゃオオエ四天王なんて呼ばれてるわ。\r\n戦いも得意だけど、歌と踊りならもっと得意っ♪\r\n主なライブ会場は公民館。いつか、オオエ山を私のファンで埋め尽くすことが夢よ。\r\nミュージック、スタート！=I'm Futamata♪ One of Ooeyama's mountain god Ooenomiya's shishou! Idol too!\r\nNatively, I'm known as one of Ooe Big Four.\r\nI'm good at fighting, but I'm even better at singing and dancing♪\r\nMy main live venue is the community center.\r\nMy dream is to one day fill Ooeyama with my fans. Music, start!
+歌や踊り=Singing and dancing
+泣き顔、マイナス思考=Crying faces, negative thoughts
+折り紙、和紙アート=Origami, washi paper art
+折り紙、習字=Origami, calligraphy
+いつでも笑顔=Always smiling
+可愛さの話になると前にでしゃばる=First to butt in when it comes to cuteness
+
+//8 Penang Hill
+うちは、フレイマリンのナイトクラブ――『夜の蝶』の店員だったの。\r\n主にダンスと、地下のリングでの拳闘試合をしてたかな。今は休職中だけど。=I used to work at a nightclub in Flamarine ―― Night Butterfly personnel.\r\nI mainly danced and did boxing matches in the underground ring.\r\nI'm on leave now though.
+蝶々、舞踏、拳闘=Butterflies, dancing, boxing
+害虫、水（汗が落ちてしまうから）=Pests, water (it washes off her sweat)
+舞踏、地下拳闘、森林浴=Dancing, underground boxing, forest bathing
+舞踏、拳闘、フェロモン=Dancing, boxing, pheromones
+夢のために努力できる=She can work hard for her dreams
+極度の汗かき、他人を信じず素っ気ない言動をする=Excessive sweating, distrustful and cold to others
+
+//9 Finchley
+フィンチリーだ。セントイリスの騎士学校で教官職を兼任している。\r\n鬼教官などと言われているが、私のしていることは生き残るために必要な訓練だ。\r\n愛想がいいほうではないが、鬼というほど怖くはないぞ。=I'm Finchley. The instructor at the St. Irish Knight Academy.\r\nThey all call me the demon instructor, but what I do is training people to survive.\r\nWhile I'm not particularly amicable, I'm not as scary as the demon they say I am.
+子供、オハナの握り飯=Children, Ohana's nigirimeshi
+結果を成果のみで決めつけること=Judging solely by results alone
+ピアノ演奏=Playing the piano
+楽器の演奏、歌唱=Playing instruments, singing
+一つの情報に流されないこと=Doesn't get convinced by one piece of information
+言葉を取り繕うこと=Making excuses
+
+//10 Queensway
+セントイリス騎士団所属のクインズウェイです。\r\nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。\r\n鉄道の先、私にしか歩めない道を探して！=I'm Queensway of the Order of St. Iris. I'm still a knight student,\r\nbut I'll do my best to live up to the name of the Special Steel Squad.\r\nI'll seek a path that only I can stride forth beyond the railroads!
+オシャレなカフェ、鉄道関連のもの=Stylish cafes, railway related things
+不真面目な人=Unscrupulous people
+カフェ巡り=Visiting cafes
+侍女から教わった剣術=Swordsmanship learned from her attendant
+正義感が強く、利他の心が強い=A strong sense of justice and altruism
+自分と異なる価値観などに柔軟に対応できない=Inflexible when dealing with differing values
+
+//11 Notting Hill
+セントイリス騎士団のノッティングヒルよ。特鉄隊に入隊できて光栄だわ。\r\n先に特鉄隊に入ったクインズウェイとはライバル関係にあるの。\r\n私のようなライバルがいてクインズウェイも誇らしいことでしょうね。\r\n期待を裏切らないよう全力を尽くすわ。騎士の教えと、我が剣に誓って。=I'm Notting Hill of the Order of St. Iris. I'm honoured to join the SSS.\r\nI'm Queensway's rival, she joined the SSS before me.\r\nI reckon Queensway is proud to have a rival like me.\r\nI'll do my best not to disappoint you. I swear on my knight's teachings and on my sword.
+競争=Competition
+努力をしない人=People who don't make an effort
+観劇=Theatre plays
+騎士団仕込みの剣術=Swordsmanship trained by the Order
+有言実行=Walking the talk
+自分ができるかどうかから試すところ=Attempts things she couldn't do
+
+//12 Ooenomiya
+オオエ山の守人オオエノミヤじゃ。ニシキの外れで隠居暮らしをしておった。\r\nニシキ軍には昔からたびたび協力してきたが、\r\nまさか連合軍に力を貸すことになろうとは……。\r\nまあ、わしのことよりも、一緒に入った弟子たちのことを気にかけてやってくれ。\r\nわしは、あやつらのお守りで来たようなものじゃからのう。=Ooeyama's guardian, Ooenomiya ja. I was living in retirement on the outskirts of Nishiki. I have often cooperated with the Nishikese Army since long ago,\r\nbut I never thought I would lend my strength to the Allied Forces...\r\nWell, rather than me, take care of the disciples who're with me instead please.\r\nOld me here's their protector, after all.
+ぶどうジュース（特にアイゼングラート産）=Grape juice (especially Eisengradian)
+酒（酒での失敗が多いため）=Alcohol (causes her to make many mistakes)
+ノンアルドリンクを飲むこと=Drinking non-alcoholic drinks
+剣術、金属探知=Kenjutsu, metal detection
+面倒見がいい=Caring
+酒癖が悪い=Bad drinking habits
+
+//13 Putra
+やっほー！　プトラだよ♪\r\nフレイマリンの海で元気に育った海女ガール！\r\n素潜りは得意だから水の中に物を落としたらあたしに言ってね！=Hey-yo! I'm Putra♪\r\nThe diver girl who grew up healthy in the Flamarinian sea!\r\nI'm good at free diving, so if you drop something in the water, let me know!
+ナシゴレン=Nasi goreng
+寒いところ=Cold places
+水泳、水浴び=Swimming, bathing
+素潜り=Free diving
+いつも笑顔を絶やさないこと=Always keep smiling
+相手のパーソナルスペースに踏み込みすぎてしまう=Invading other people's personal space too much
+
+//14 Karakawa
+オオエ四天王のカラカワです。\r\nわたくしは、男の人が苦手……なのです。\r\n特に体に触られたら命の危機なのです。触った人の命が。\r\n男の人に触られるとはーどぱんちがさくれつしてしまうのです。\r\nでも、車掌さまはぜんぜん平気なのです。わたくしと、仲良くしてください。なのです。=I'm Karakawa, one of the Ooe Big Four.\r\nI'm not good with men... nano-desu.\r\nEspecially if they touch my body, it's dangerous. To their life who touches me.\r\nIf a man touches me, I end up throwing him a hard punch.\r\nBut Conductor-sama doesn't faze me at all. Please be friends with me. Nano-desu.
+かわいい女の子、高いところ=Cute girls, high places
+軽薄そうな男性=Frivolous men
+槍を使った空中散歩=Airborne strolling with her spear
+幅広い槍術=Wide range of spearmanship
+精神攻撃に強い=Resistant to mental attacks
+男性に触られると殴ってしまう癖=Habit of hitting men when they touch her
+
+//15 Alexandra
+あたしはこの武器で色んな果物とかを混ぜ合わせて、\r\n美味しいミックスジュースがつくれるのよ！\r\n学園や列車でも大評判なんだから！　もちろん、無料じゃねぇわよ？=With this weapon, I can mix various fruits and other ingredients\r\nto make delicious mixed juice!\r\nIt's a big hit at the academy and on the Train!\r\nOf course, it ain't free, y'know?
+フレッシュジュースなど=Fresh juice etc.
+叱られること、実家、虫=Being scolded, her parents' house, insects
+砂泳ぎ=Sand swimming
+根が素朴な良い子=Good kid with a simple personality
+すぐに調子に乗る=Gets carried away easily
+ジュース作り=Juice making
+
+//16 Phnom Penh
+おねぇさんね、故郷の学校ではけっこう優等生だったんだよ？\r\nお勉強も家事も戦闘も、一通りできるよ？　心中相手として不足はないね？=Big sis here was a pretty good student at school back in your hometown, y'know?\r\nGood at everything from studying to housework to fighting, y'know?\r\nMore than enough to be a suicide partner, right?
+酸欠、水の中の景色、笑顔=Issue in the water, a smile
+水害、他人の趣味を端から否定する人=People who dismiss floods and other people's hobbies from the outside
+酸欠=Oxygen deficiency
+潜水、救命処置=Diving, life-saving treatment
+非常時にも慌てず的確な対処ができる=You can deal accurately without panicking in emergencies
+他人を水中に引きずり込もうとする=Trying to drag others into the water
+
+//17 Fussen
+余のことを知りたいと？　余は貴様に毛ほども興味がないのだけどね。\r\n余はアイゼングラートを旧くから統べる王侯貴族の末裔……\r\nまぁ、それだけ理解していたまえ。=You wish to know about me? I have absolutely not a hair of interest in you.\r\nI'm a descendant from a royal family that has ruled over Eisengrad for ages...\r\nWell, that's all you need to know.
+芸術品、愛らしいもの=Art, lovely things
+俗物との交流、一般庶民の義務=Interacting with snobs, duties of common people
+芸術品の蒐集=Art collecting
+下級の魔物を使役できる=Can dominate lesser monsters
+確かな審美眼を持っている=Has a keen eye for aesthetics
+世間に関わる気がない=No desire to engage with society
+
+//18 Novella
+私はヴェルフォレット憲兵隊のノヴェラ。\r\n薬師をやっているから薬の調合や香水作りが得意なんだ。\r\nところで、ヴィヴィアンを見なかった？\r\n試してみたい媚薬……いや、使ってほしい香水があるから、\r\nそれを渡したいんだけど……。=I'm of the Verforench Gendarmerie, Novella.\r\nI'm a pharmacist, so I'm good at compounding medicines and making perfume.\r\nBy the way, have you seen Vivienne? I have an aphrodisiac... \r\nno, a perfume I'd like her to try, so I'd like you to pass it to her...
+女の子の体=A girl's body
+女の子に気安く触る男=Men who casually touch girls
+薬の調合、香水作り=Medicine compounding, perfume making
+ナンパ、女子へのボディタッチ=Picking up girls, touching girls' bodies
+女の子なら誰とでも仲良くなれる=Can get along with any girl
+女の子の体を触りすぎてしまうところ=Touching a girl's body too much
+
+//19 Karlsruhe
+わたしは一応、幼少期より軍属ですが実戦経験はあまり豊富ではありません。\r\n主に後方支援、特に軍法会議の差配や広報などに従事していました。\r\nその点を踏まえて、わたしを上手に用いてくださいねぇ……閣下♪=Although I have been a military officer since I was a child, I don't have much combat experience.\r\nI was mainly involved in logistical support, especially managing military courts and public relations.\r\nPlease keep this in mind and use me well ja... Eure Exzellenz♪
+陰謀=Conspiracies
+個人主義者、貴族=Individualists, the nobility
+映画製作など=Film production etc.
+陰謀を巡らせること=Plotting conspiracies
+何事も事前の計画を怠らないこと=Never fails to plan everything in advance
+成果がでるまで時間がかかる=It takes time to get results
+
+//20 Yakutsk
+アイゼングラート軍所属のヤクーツクよ。\r\n雪と氷と幻霧の多い北部出身。\r\nアイゼングラート軍の名に恥じない戦いを見せてあげる。軍人として。=Eisengradian Army soldier, Yakutsk.\r\nI come from the snow, ice, and Phantom Mist filled north.\r\nAllow me to show you battles worthy of the name of the Eisengradian Army. As a soldier.
+ボルシチ=Borscht
+お化け=Ghosts
+絵本や冒険小説を読むこと=Reading picture books and adventure novels
+武器の分解・組み立て、家事全般=Dis/Assembling weapons, household chores
+責任感が強い=Strong sense of responsibility
+本心よりキツイことを言ってしまう=Says harsher things than what she really meant
+
+//21 Shimoamazu
+オオエ山の守人オオエノミヤの一番弟子、二代目シモアマヅよ。\r\n地元ではオオエ四天王なんて呼ばれているけど、そんなたいそうなものではないわ。\r\n私はアマノハシダテの世話係。それ以上でもそれ以下でもないのだから。=I am Ooeyama's guardian Ooenomiya's first disciple, Shimoamazu the second.\r\nLocally, we are known as the Ooe Big Four, but we're nothing special.\r\nI am Amanohashidate's caretaker. Nothing more, nothing less.
+洞窟、暗所=Caves, dark places
+無責任な人など=Irresponsible people etc.
+人形遊び=Playing with dolls
+暗視、霊視=Night vision, clairvoyance
+何事にも動かない、孤独や暗闇に強い=Unwavering, unphased by loneliness and darkness
+言葉にうまく感情をのせられないこと=Unable to express emotions well in words
+
+22-Amanohashidate
+23-Orleans
+24-Yoshino
+25-Volgo
+26-Leipzig
+27-Fayette
+28-Murmansk
+29-Amiens
+30-Anzio
+31-Dover
+32-Bourse
+33-Rouen
+34-Lancaster
+35-Vivienne
+36-Salem
+//Roswell
+我々は、有史以前からこの惑星を観察してきました。\r\n現在は、このロズウェルという肉体を端末にして実地調査をしています。=We have been observing this planet since prehistoric times.\r\nCurrently, we are conducting our field research using this flesh vessel called Roswell as our terminal.
+宇宙全体=Everything outer space related
+特定周波数の音波、鳩=Specific soundwave frequencies, pigeons
+天体観測=Astronomical observations
+人知の及ばぬことができる=Can do things beyond human comprehension
+知識が豊富で思考能力が抜群に高い=Extensive knowledge and excellent thinking skills
+この惑星の常識がない=No common sense of this planet
+
+38-Acapulco
+39-Las Vegas
+40-Abashiri
+41-Passy
+42-Tianjin
+43-Detroit
+44-Chitose
+45-Pancras
+46-Naypyidaw
+47-Puerto Rico
+48-Shibuya
+49-Beijing
+50-Pennsylvania
+51-Termini
+52-Victoria
+53-Tombstone
+54-Nara
+55-Rennes
+56-Kuang
+57-Blanche
+58-Oculus
+59-Freiburg
+60-King's Cross
+61-Batu
+62-Carthage
+63-Tokachi
+64-Verona
+65-Part-Dieu
+66-Honolulu
+67-Columbia
+68-Shanghai
+69-Frankfurt
+70-Messina
+71-Brittany
+72-Udon Thani
+73-Tendou
+74-Stia
+75-Izumo no Hakuto
+76-Khabarovsk
+77-Zouerat
+78-Petropav
+79-Waterloo
+80-Blackfriar
+81-Akihabara
+82-Munich
+83-Ayala
+84-Port Royal
+85-Austerlitz
+86-Costa Rica
+87-Kinugawa
+88-Nikkou
+89-Khajuraho
+90-Pleven
+91-Grenoble
+92-Wernigerode
+93-Fontaine
+94-Bestyakh
+95-Karamachi
+96-Shiyan
+97-Woking
+98-Sentosa
+99-San Diego
+100-Monte Carlo
+101-Susukino
+102-Napoli
+103-Yokosuka
+104-Euston
+105-Urga
+106-Asahikawa
+107-Pittsburgh
+108-Annecy
+109-Menlo Park
+110-Versailles
+111-Miyako
+112-Adelaide
+113-Goslar
+114-Margit Eberbach
+115-Momoyo Kawakami
+116-Tsubame Matsunaga
+117-Benkei Musashibou
+118-Aki Mogami
+119-Yukie Mayuzumi
+120-
+121-
+122-
+123-
+124-
+125-Yukikaze Mizuki
+126-Rinko Akiyama
+127-Felicia
+128-Kirara Onisaki
+129-Hebiko Aishu
+130-Asagi Igawa
+131-Khao Yai
+132-Vorkuta
+133-Addis Ababa
+134-Tsurugaoka
+135-Baraboo
+136-Oaxaca
+137-Etretat
+138-Berrigan
+139-Kumamoto
+140-Catania
+141-Isobe
+142-Mary
+143-Yuuzen
+144-Dr. Gloria
+145-Palermo
+146-Quedlinburg
+147-Oshiage
+148-Hachiroku
+149-Olivi
+150-Reina
+151-Niiroku
+152-Hiyoko
+153-Celia
+154-Mio Kisaki
+155-Akane Ryuuzouji
+156-Risona Okura
+157-Luna Sakurakouji
+158-Minato Yanagase
+159-Maki
+160-Vincennes
+161-Karasuma
+162-Pu'unene
+163-Guernica
+164-Byst
+165-Abbey Road
+166-Whisper
+167-Iraklion
+168-Cattleya
+169-Lovelia
+170-Sumire
+171-Bercy
+172-Shuri
+173-Nordhausen
+174-Istanbul
+175-Guatemala
+176-Oxford
+177-Salekhard
+178-Arisaka
+179-Islington
+180-Shimoamazu I
+181-Nazca
+182-Nanjai
+183-Maika Kamikura
+184-Shiranui Mizuki
+185-Asuka Kurashina
+186-Misaki Tobisawa
+187-Mashiro Arisaka
+188-Rika Ichinose
+189-Ariake
+190-Dalian
+191-Shenyang
+192-
+193-Nazuna
+194-
+195-Ashikaga
+196-Shirotaegiku
+197-Isogiku
+198-Oncidium
+199-Oenothera
+200-Suiren
+201-Hibiki Migita
+202-Makura Migita
+203-Nagi Minokasa
+204-Kisaki Houshou
+205-Paulette Hinai
+206-Fukami Mikasa
+207-Luxor
+208-Attyria
+209-Invalides
+210-Charing Cross
+211-Kazuki Kazami
+212-Asako Kusakabe
+213-Amane Suou
+214-Michiru Matsushima
+215-Yumiko Sakaki
+216-Sachi Komine
+217-Makina Irisu
+//218 Sylvie
+シルヴィア・ル・クルスクラウン・ソルティレージュ・シスアよ。\r\nソルティレージュの第九王女で、特技はピアノ。\r\nノーブル学園の生徒として、日々勉学に励んでいるの。\r\n大切な友達に囲まれて、それに央路とも再会できて、とっても楽しい毎日を送っているわ。=My name is Sylvia le Cruzcrown Sortilège Sisua.\r\nI'm the ninth princess of Sortilège, and piano's where my talent lies.\r\nAs a Noble Academy student, I study hard every day.\r\nI'm surrounded by my precious friends, and I've been reunited with Ouro, so I'm having a great time every day.
+メロンパン=Melon bread
+長時間の飛行機の移動=Long flight trips
+食べ歩き=Eating out
+ピアノの演奏、ピアノの調律、どれだけでも食べられる=Playing piano, tuning piano, eating as much as she wants
+無邪気で天真爛漫。なんでもよく食べる。=Innocent and carefree. Eats anything.
+少し世間知らずな面があって、やや騙されやすい。=A little naive and easily gullible.
+
+//219 Reina Kisaki
+あたし妃玲奈ってゆーの。玲奈って呼んで。ヨロ。\r\nすげーファッションデザイナーになりたくて、ノーブル学園に入ったんだけど、あたしはオーロと同じ庶民なんだわー。\r\nだからって訳じゃないけど、ま、気楽に絡んでよ。=My name's Kisaki Reina. Call me Reina. Yoro.\r\nI wanna be a great fashion designer, so I entered Noble Academy, but like Ouro I'm just a commoner.\r\nNot that that's why I'm here, but feel free to talk to me.
+コーヒー牛乳=Coffee milk
+ホラーなもの=Horror stuff
+おしゃれ全般、最近はシルヴィをからかうこと=Fashion in general, teasing Sylvie as of recent
+服のデザイン=Clothing design
+気さくで明るい。誰とでも仲良くなれる。=Friendly and cheerful. Amicable with anyone.
+下ネタ好き=Likes dirty jokes
+
+//220 Ria Souma
+……僧間理亜。別に仲良くしてくれなくていい。\r\nオレはオレで、好きにやってるから。\r\nてか、これ以上言うこともねーから。=......Souma Ria. Spare me your friendly gesture.\r\nI'm what I am, and I do what I want.\r\n'tually, there's nothing more I can say.
+冷凍食品、水面に沈んでいく夕日を眺めること=Frozen food, watching the sun set over the water
+必要以上に構ってくる人=People who pays more attention than necessary
+喫煙、寝ること=Smoking, sleeping
+歌うこと=Singing
+怖そうに見えるが根は優しい。=Appears scary, but kind at heart.
+何事にも退屈そうでヒネくれたところがある。=Seems bored with everything and has a twisted side.
+
+//221 Elle
+エロイナ・ディ・カバリェロ・イスタです。\r\n……私の名前がなにか？\r\nああ、長くて呼びにくいと。でしたらエルで構いません。\r\n騎士としてシルヴィ様をお守りすることが私の使命。\r\nどんな場所であってもそれだけは絶対に変わりません。=My name's Heroina di Caballero ista.\r\n...What's my name?\r\nAh, it's long and hard to pronounce. In that case, you can just call me Elle.\r\nAs a knight, my mission is to protect Sylvie-sama.\r\nNo matter where I am, that will never change.
+フェンシング=Fencing
+音楽関係=Music stuff
+シルヴィの警護=Sylvie's guard
+武芸、フェンシング=Martial arts, fencing
+武芸百般に精通し、非常に腕が立つ。=Well versed in all kinds of martial arts, extremely skilled.
+騙されやすいところがある。音痴。=Easily deceived. Tone deaf.
+
+//222 Mina
+カミナル・ル・プルテア・ソルティレージュ・シスア。\r\nソルティレージュの第十王女ですわ。\r\nそう、わたくしは麗しのシルヴィ姉様の妹ですの。\r\nお姉さまを見かけたらまずわたくしに知らせること、いいですわね？=Caminal le Pultaia Sortilège Sisua.\r\nI am the tenth princess of Sortilège.\r\nYes, I am my beautiful Sylvie onee-sama's younger sister.\r\nIf you see my onee-sama, please let me know first, okay?
+シルヴィ姉様=Sylvie onee-sama
+だらしない人、マナーがなっていない人=Sloppy people, people with poor manners
+シルヴィファンクラブの運営=Managing the Sylvie Fan Club
+バレエ=Ballet
+相手を身分で判断せず、人間性で判断する。=Doesn't judge people by their status, judges them by their humanity.
+だらしない人に対しては厳しい。=Stern towards sloppy people.
+
+//223 Ayaka Jougasaki
+わたくしの名前は城ヶ崎絢華。自慢するわけじゃないけど、テレビ局会長の娘よ。\r\nクルスクラウンさんたちと同じノーブル学園の生徒だけど、\r\n市松さんとは一緒にしないで欲しいわね。\r\n「成金」だなんて言われてるけど、\r\nわたくしは彼のような、ぽっと出の庶民とは違うもの。=My name is Jougasaki Ayaka. I don't mean to brag, but I'm the daughter of a TV station's president.\r\nI'm a Noble Academy student, the same school as Cruzcrown-santachi, but I'd rather you not lump me in with Ichimatsu-san.\r\nThey call me a "nouveau riche,"\r\nbut I'm not like him, who's a mere commoner that just popped up.
+小さい頃に出会った「イチ君」="Ichi-kun" whom she met when she was little
+庶民=Commoners
+エッチな妄想=Lewd fantasies
+プロデュース=Producer
+受けた恩はきっちり返す。=Will repay any kindness she receives.
+物腰は柔らかいがドＳで毒舌。=Gentle demeanor but is extremely sadistic and has a sharp tongue.
+
+224-Sasha
+225-Kuromi
+
+//Intro
+五車学園の学生対魔忍、相州蛇子だよ～。車掌ちゃん、よろしくね。\r\n蛇子、ふうまちゃんと一緒に『独立遊撃隊』をやってるんだ。\r\n私の忍術は『獣遁の術』。この特鉄隊でだって、タコ足とタコ墨を使っていっぱい活躍しちゃうんだから。=Aishu Hebiko here～ Taimanin student of Gosha Academy. Nice to meet you, Conductor. Hebiko's a member of the Independent Rangers with Fuma-chan. Ninjutsu art is Beast Transformer. Even within the SSS, Hebiko will use octopus legs and ink to play the part actively.
+
+わたしはフレイマリンにおける政治の中枢――水中神殿でばりばり働く、官僚なの。\r\nというか、主にアホな姉さまの尻拭いばかりしているの。ストレス溜まるの。=I am a bureaucrat who works hard in the government centre of Flamarine - the Underwater Temple. Well, I am basically just cleaning up my dumb sister's mess. It's stressing me out.
+
+アキバはジャンク品とか拾って、それを修理して闇市で売ったりして\r\n生計を立ててたんでちゅ。捨て子だったし育った場所もスラムだったし、\r\n他にどうしようもなくって。でもね、そこで出会えたひとたちはみんな優しいし\r\n大好きだし、楽しいことばっかりだし、アキバはぜんぜん不幸じゃないでちゅよ！\r\nガラクタの山のなかにも尊いものはありまちゅ！=Akiba scrounges around for junk to repair and shell on the black market. That's how to make my living. Akiba was an abandoned child myself growing up in the slums. But you know, all the people I met down there are so kind. Akiba had so much fun, love them! Akiba's not unhappy at all! There's plenty of loot to find in a heap of junk!
+
+対魔忍・秋山凜子だ。訳あって、この世界で共に戦うことになった。\r\n元の世界でも、異界の者たちを数多く見てきたが……今度は私たちがそうなるとはな。\r\nだが、これもなにかの縁だろう。この世界を幻霧の闇が覆うなら……\r\nこの空遁の術と剣技で、明日への鉄路を切り拓こう。=Taimanin, Akiyama Rinko. For some reason, I have decided to fight together with you in this world. I've seen a lot of otherworldly people coming to our original world... but it seems this time's different for us. I believe fate meant for this to happen. If the darkness of the Phantom Mist covers this world... Let's open up the railroad to tomorrow with my Void Arts and my Itto Style sword skills.
+
+あたしはＭニシキの北方、人類生存圏の外にある『動物園』の支配者。\r\n人呼んで、『氷の女王』――特鉄隊でいちばん偉いのはおまえだろうけど、\r\nあたしも偉い。とても偉い。\r\nなので、王と女王、パパと娘、そういう対等で愛のある関係を望む。=I am the ruler of Doubutsuen in the northern part of M. Nishiki, outside of human society. They call me the Ice Queen ―― Not only am I likely the best in the SSS, I am also great. Very great. So, I would like a loving relationship that I can reciprocate equally, like a king and a queen, or a daughter and her Papa.
+
+アシカガだ。\r\nニシキ軍『東軍』の一将。\r\nやや出遅れてしまったが、私も特鉄隊の一員として車掌と共に戦わせてもらう。\r\n家名や肩書きで判断しないでくれ。\r\n私はあなたの槍。敵を貫くこの実力を見てほしい。=Ashikaga. One of the generals of the Nishiki Army's Eastern Division. I'm somewhat late, but I will fight alongside Conductor, as a member of the Special Steel Squad. Do avoid judging me by my family name or title. I am your spear. I want you to showcase this ability of mine to pierce the enemy.
+
+貴様に謎々を出すわ、世界で最も優れた人種は何？\r\n当然、ダークエルフよね。\r\nあたしの故郷は人類発祥の地で、そこで暮らす{{A}}はすべてダークエルフよ。\r\nあたしたちこそが、最も純粋で偉大な『{{A}}』というわけよ。=I'll pose a riddle to you: what is the best race in the world? Dark elves, of course. My home is the cradle of mankind, and all the people there are dark elves. We are the purest and greatest of humanity.
+
+フテラブリュケの神子アティリアです。\r\n自分のことはほとんど憶えていません。\r\nでも、自分が竜族であることと、イリスエアの空を飛んでいたことは憶えています。\r\n今のわたくしにできることは、平和のために祈ること。それから、おいしいものを食べることです。=I'm Attyria, Divine Child of Fterabrucke. I don't recall much about myself. But I do remember that I was a dragon, and that I flew in the skies of Iris Air. All I can do now is pray for peace. And also to eat delicious food.
+
+フレイマリンから来たアデレードだ。\r\n見てわかると思うけど、アタシにも動物の耳としっぽがついてるんだ。\r\nなんの動物かわかるか？　ほらアレだよ。おなかに袋をもった、あの動物。\r\nそう！　カンガルー！　だからアタシもケンカが強いぞ！　シュッシュッシュウーッ！=I'm Adelaide from the Flamarinian outbacks. As ya can see, I av a pair of animal ears 'n a tail. Do ya know what kind of animal it is? Aye, that one. That animal with the pouch in its belly. Bloody oath, it's a kangaroo! That's why I'm good as gold in fights! Swish-swish SWOOSH!
+
+Mヴェルフォレットのアヌシーだよ。『アヌシーの宝石湖』のまもり人をしていたの。\r\n地元の人からは『宝石湖の乙女』って呼ばれることもあるんだよ。\r\nえへへ、アヌシー、うまくご挨拶できたよね？\r\n車掌さま？　じょうずにできたら、アヌシーをよしよし、してね？=It's Annecy of M. Verforet. Annecy was formerly a keeper with the title Annecy of the Jewel Lake. The locals sometimes call Annecy the Maiden of the Jewel Lake instead. Well, that was a nice greeting from Annecy, wasn't it? Seigneur Conductor? If Annecy did well, please give her a headpat, okay?
+
+わたしはニシキの最北端に位置する『エゾ監獄』の所長で、\r\n囚人たちからは『獄長』なんて呼ばれて怖がられてるわ……。\r\nどうせ、誰もわたしの監獄からは逃れられない……。=I am the warden of Ezo Prison, the northernmost prison in Nishiki, the prisoners call me the prison warden and are afraid of me... After all, no one can escape from my prison...
+
+アビーロードだ。出身は荒野の果ての危険地帯。『外の部隊』がよく出入りする特別区で育った。\r\n礼儀がなってないってのはわかってる。自分でもちゃんとしなきゃって思ってるよ。\r\n文句があるなら裏でコソコソ言ってねーでハッキリ教えてくれ。アタシもそうする。=Abbey Road. I come from a dangerous area at the edge of the wilderness, where I grew up in a special ward frequented by Out-Siders. I know I'm lacking in manners. I know I have to behave myself. If you have a problem with me, stop talking behind my back and tell me straight. I'll do the same.
+
+アマちゃんは、アマノハシダテっていうんだよ！\r\nおししょうの弟子だから、オオエ四天王って呼ばれてるんだって。\r\nおししょうはね、とっても強くて、とっても優しい山神さまなの。\r\nアマちゃんは、おししょうのことがだぁ～い好き！=Ama-chan's called wittle Amanohashidate! We're the Shishou's apprentices, so that's why they call us the Ooe Big Four. Our Shishou is super strong, but real sweet. I just wuv her!
+
+アミアンです。遺跡や神聖な場所を巡るのが好きです。\r\n大雨と雷が苦手です。\r\nイヤなことがあっても、あきらめなければいつかは報われると信じています。\r\nネガティブだって思わないでくださいね？=I'm Amiens. I love exploring archaeological ruins and sacred sites. I do not like rainstorms and lightning. I believe that you'll be rewarded if you don't ever give up, no matter how bad things get. Please don't think that I'm a negative Nancy now, okay?
+
+巷で噂の美少女の名前は、入巣蒔菜。ちゃんと覚えてほしいのよさ。\r\n好きな食べ物は、パンと天姉ぇが作ったカレー。コードネームは「福ダヌキ」！=The name of the beautiful girl who is the talk of the town is Irisu Makina-noyosa. You should remember it well.\r\nMy favorite foods are bread and Ten-nee's curry. My code name is "Fuku Danuki"!

@@ -1,0 +1,15 @@
+//Anzio's Climatic Runway
+前の難易度クリアで解放=Released by clearing the previous difficulty
+スコア=Score
+ハイスコア=High Sc.
+スモック=Smock
+メイド服=Maid Top
+ウェディング=Wedding
+学生服=School Uniform
+ミニゲーム=Mini Game
+アピールポイントと魅了ポイントを1.2倍=1.2x Appeal Points & Charm Points
+受けるダメージを軽減（50%カット）=Decreases damage taken (-50%)
+魅了ポイントを1.5倍=1.5x Charm Points
+アピールポイントを1.5倍=1.5x Appeal Points
+ハイスコア更新!=New High Score!
+再挑戦=Retry

@@ -1,0 +1,258 @@
+コード入力=Input Code
+データ連携=Data Linkage
+ヘルプ=Help
+次へ=Next
+設定画面=Config
+権利表記=ToS
+フレンド一覧の確認申請と承認ができます=Add and request friend
+プレイヤーの情報を確認できます=Check your player information
+プロフィールに表示するレイヤーを選択してください=Select the layer to display in your profile
+検索=Search
+未承認=Unapproved
+申請中=Pending
+フレンド承認=Friend Approval
+申請できませんでした=Could not request.
+アビリティ4まで解放=Unlock Ability 4
+フレンド=Friend
+一括解除=Bulk Cancel
+フレンド数=Friend(s)
+フレンド解除=Unfriend
+承認=Accept
+申請承認=Accept Request
+フレンド申請=Friend Request
+一括申請=Bulk Request
+リスト更新=Update List
+ID検索=ID Search
+交換=Trade
+プレゼントは届いていません=No available presents
+受取履歴=History
+期限なし=No Deadline
+期限あり=W/ Deadline
+r:"^([0-9]+)件受取$"=Claim $1
+パーティ=Party
+一括受取=Claim All
+ガチャ切符=Gacha Ticket
+以下のアイテムを受け取りました=You have received the following items
+獲得=Get
+現在開催中のイベントはありません=There are no current events
+ボーナス一覧=Bonus List
+トレインボード=Train Board
+※半角英数字(大文字・小文字)をご入力ください\n※5回連続で入力を間違えた場合、24時間シリアルコードが入力できなくなります\n※5回連続で入力を間違えた後、再度5回入力を間違えた場合\nシリアルコードを入力できなくなります\n解除の際はサポートまでご連絡をお願いいたします=Enter the 8-digit serial code\n\nPlease enter single-byte alphanumeric characters (upper and lower case).\nIf you make a mistake five times in a row, you will not be able to enter your serial code for 24 hours.\nPlease contact our support for cancellation.
+車掌どの! ミッションを<color\=#a52e5e>1</color>個達成しました!\r\nミッションページから受け取りましょう=Sir Conductor! <color\=#a52e5e>1</color> mission is done! Claim rewards from Missions tab.
+r:"^車掌どの! ミッションを<color\=#a52e5e>([0-9]+)</color>個達成しました!\r\nミッションページから受け取りましょう$"=Sir Conductor! <color\=#a52e5e>$1</color> missions are done! Claim rewards from Missions tab.
+ガチャへ=Gacha
+一覧へ=List
+データの更新があります=There are data updates
+データ更新のため再起動します=Restart to update data
+
+//[Player Profile]
+表示レイヤー変更=Display Layer Change
+自己紹介=Intro
+ランク=Rank
+称号=Title
+プレイヤーランク=Player Rank
+武器マスターレベル=Mastery Level
+
+[Equipment]
+武器=Weapon
+宝珠=Orb
+隊列=Formation
+装飾品=Accessory
+装飾=Decoration
+ドレス=Dress
+防具=Armor
+育成アイテム=Training Item
+装備アイテム=Equip Item
+所持一覧=Owned List
+あと=Left
+一括購入=Bulk Purchase
+購入回数=Number of Purchases
+必要数=Required Amount
+護符=Amulet
+耳飾=Earring
+首輪=Necklace
+腕輪=Bracelet
+指輪=Ring
+誘惑=Charm
+毒=Poison
+装飾種=Accesory Type
+
+[System]
+無しのみ=Without
+Lv1のみ=Lv1 Only
+レベル=Level
+進化前のみ=Pre-evo Only
+進化装備=Evolved Equipment
+SSまで選択=Up to SS
+Sまで選択=Up to S
+Aまで選択=Up to A
+Bまで選択=Up to B
+手動=Manual
+シナリオテキストの文字送り設定を行います=Settings for scenario text.
+物攻=ATK
+物防=DEF
+命中=HIT
+速さ=SPD
+魔攻=MATK
+魔防=MDEF
+回復力=RCV
+幸運=LUCK
+
+[Battle]
+通常=Normal
+通常オート=Normal Auto
+制限オート=Limited Auto
+全力オート=Full Auto
+オートバトル=Auto Battle
+スペシャルスキル=Special Skill
+Sスキルオート=S-Skill Auto
+Sスキル=S-Skill
+トランス=Trance
+コネクト=Connect
+スペシャルスキル使用タイミングの設定=Settings for special skill usage timing.
+再生=Play
+スキル使用時のアニメーション演出再生設定=Settings for animation playback when using skills.
+即時=Immediate
+効果演出=Effect Direction
+効果演出のON/OFF設定=Settings for effect animation ON/OFF.
+バフ=Buff
+デバフ=Debuff
+ブレイク=Break
+ブレイク\n=Break
+スキップ=Skip
+解放項目=Unlock Menu
+解放ボード=Unlocked Board
+
+[Settings]
+タイトルへ戻りますか？=Do you want to return to title?
+レンタルパーティスキル=Rental Party Skill
+第一パーティ確認=Confirm First Party
+レンタルするパーティスキルを選択してください=Please select the party skill to rent
+100日前=100 days ago
+最終ログイン=Last Login
+シナリオの設定=Scenario Settings
+スロット=Slot
+全員一括選択=Select All
+戦力ランキング=Strength Ranking
+
+[Auto-Sell]
+各レアリティ毎に自動売却設定ができます=Auto-sell settings can be set for each rarity.
+スロット無し=Slot-less
+アビリティ無しのみ=Ability-less Only
+アビリティ、スロット無し=Abilities, Slot-less
+全て含む=Include All
+装備(武器、防具、装飾)の各レアリティ毎に自動売却設定ができます=You can set automatic sale settings for each equipment
+ドロップする装備品が自動売却の対象となります=Dropped equips are subject to automatic sale
+売却対象=Sell Targets
+クエストドロップ装備の自動売却設定を行います=Set up automatic sale of quest drop equipment
+自動売却の設定=Auto-Sell Setup
+初期値に戻す=Default Settings
+無料=Free
+
+シルバーミッション=Silver Mission
+達成度=Achievement
+報酬獲得=Rewards Obtained
+挑戦=Trial
+購入=Buy
+価格=Price
+スペシャル=Special
+実績=Achievements
+イベント=Event
+ウィークリー=Weekly
+デイリー=Daily
+総戦力=Total Power
+
+//Store
+売却済  =Sold Out
+追加報酬はMAX100ptまで=Additional rewards up to 100PT Max
+追加報酬はMAX200ptまで=Additional rewards up to 200PT Max
+
+//Home Screen
+ホーム画面表示設定=Home Screen Display Settings
+お気に入りのキャラクター達やパーティスキルをマイページで表示する設定を行う事が出来ます♪=You can set your favorite characters and party skills to be displayed on your My Page♪
+選択=Set
+切替=Switch
+マイページに移動するたびにランダム表示=<size\=14>Display Randomly on My Page Visits</size>
+表示するイラストを3枚まで選択できます=<size\=17>You can set up to 3 illustrations to display.</size>
+表示するキャラを5人まで選択できます=<size\=17>You can set up to 5 characters to display.</size>
+
+//Mist Tower Quest
+前の階層をクリアで解放=Clear the previous level to unlock
+試練の塔=Tower Quests
+毎月1日のログイン時にクリア状況がリセットされます=Progress resets on the 1st of each month.
+達成済み=Cleared
+現在のリセット階層=Current Reset Floor
+現在到達階=Current Floor
+ミッション未クリア優先表示=Show Uncompleted
+装備に必要な進化素材を獲得=Acquire materials required for equipment upgrades
+表示するクエストがありません=There are no quests to display
+
+//Extreme Magic Arms
+坑道詳細=Tunnel Details
+おすすめ耐性=Resistance
+おすすめ属性=Weakness
+
+//Warehouse
+表示中倉庫=Current
+倉庫一覧=List
+倉庫拡張=Warehouse Expansion	
+収納数=Number of storage
+倉庫=Warehouse
+移動先選択=Move Selected
+おまかせ移動=Auto Move
+移動対象が選択されていません=There is nothing to move
+移動先決定=Deciding Location
+倉庫6=Warehouse 6
+倉庫5=Warehouse 5
+倉庫4=Warehouse 4
+倉庫3=Warehouse 3
+倉庫2=Warehouse 2
+倉庫1=Warehouse 1
+倉庫一覧/武器=List of Warehouses/Weapons
+倉庫名倉庫名倉庫名倉庫名=Warehouse Name Warehouse Name Warehouse Name Warehouse Name 
+
+ウェポンマスターポイント+1=Weapon Master Point +1
+全てのスロット\n 解放で次のエリアへ=Unlock all slots to\nmove on to the next area
+まもなく完了する派遣任務が選択されているため、即時帰還を行えません=You have selected a dispatch mission that will soon be completed, so you cannot return immediately.
+タイトル=Title
+自動=Auto
+装備一覧の設定=Equipment List Settings
+おまかせ売却の選択対象の設定を行います=Auto Sale Settings
+承認されたフレンドがいません=No approved friends.
+設定を変更しました。=The settings have been changed.
+2倍速=2x Speed
+バトル進行速度の設定=Settings form animation speed.
+バトルスピード=Battle Speed
+3倍速=3x Speed
+オートバトル種類の設定=Settings for auto battle type.
+
+sr:"^([^\d])(\d{4})年$"=$1 $2
+sr:"^([^\d])0?1月$"=$1 Jan
+sr:"^([^\d])0?2月$"=$1 Feb
+sr:"^([^\d])0?3月$"=$1 Mar
+sr:"^([^\d])0?4月$"=$1 Apr
+sr:"^([^\d])0?5月$"=$1 May
+sr:"^([^\d])0?6月$"=$1 Jun
+sr:"^([^\d])0?7月$"=$1 Jul
+sr:"^([^\d])0?8月$"=$1 Aug
+sr:"^([^\d])0?9月$"=$1 Sep
+sr:"^([^\d])10月$"=$1 Oct
+sr:"^([^\d])11月$"=$1 Nov
+sr:"^([^\d])12月$"=$1 Dec
+sr:"^([^\d])(\d{1,2})日$"=$1 $2
+sr:"^([^\d])(\d{1,2})時(\d{1,2})分$"=$1 $2:$3
+sr:"(\d| |:|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)+まで"=Ends $1
+
+//Mission Card
+r:"^報酬受取期間：([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Reward period: Exp. $1/$2/$3 $4:$5
+r:"^MP獲得期間：([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=MP Receive Period: Exp. $1/$2/$3 $4:$5
+
+現在申請中のフレンド依頼はありません=There are currently no open friend requests.
+一括取り下げ=Deselect All
+申請削除=Delete Request
+自動承認=Auto Confirm
+現在申請は届いていません=Application has not yet been received
+申請一括承認=Confirm Bulk Request
+申請=Request
+エラー文言=Error Message
+申請完了=Request Completed

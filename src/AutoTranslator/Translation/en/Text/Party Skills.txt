@@ -1,0 +1,1288 @@
+コスト減少-1=Cost Reduction -1
+r:"^Lv.([0-9]+)で解放$"=<size\=8>Unlocked at Lv.$1</size>
+変化前=Pre-Change
+変化後=Post-Change
+シナリオ=Scenario
+上限突破を行います=Proceed With Limit Break
+上限突破確認=Confirm Limit Break
+選択したアイテムを使用し、\r\n上限突破を行いますがよろしいですか？=Would you like to use the\r\nselected item to limit break?
+LEVEL 上限=Level Limit
+レベル上限上昇=Level Limit Up
+
+//Select Party Skill
+発揮アビリティ効果=Ability Effect
+効果1=Eff 1
+効果2=Eff 2
+効果3=Eff 3
+効果4=Eff 4
+
+//A Story
+『鉄路の探求者』との対峙=Confronting the Railway Seeker
+ヒットプラス【Ⅰ】=Hit Plus [I]
+r:"^パーティ全員の命中を([0-9]+)上昇させる。$"=Increases all party members' HIT by $1.
+ヒットプロダクト【Ⅰ】=Hit Product [I]
+r:"^パーティ全員の命中を([0-9]+)%上昇させる。$"=Increases all party members' HIT by $1%.
+
+目的とは=What is the Purpose?
+ラックプラス【Ⅰ】=Luck Plus [I]
+r:"^パーティ全員の幸運を([0-9]+)上昇させる。$"=Increases all party members' LUCK by $1.
+ラックプロダクト【Ⅰ】=Luck Product [I]
+r:"^パーティ全員の幸運を([0-9]+)%上昇させる。$"=Increases all party members' LUCK by $1%.
+
+おいしいえきべん=Delicious Ekiben
+スピードプラス【Ⅰ】=Speed ​​Plus [I]
+r:"^パーティ全員の速さを([0-9]+)上昇させる。$"=Increases all party members' SPD by $1.
+スピードプロダクト【Ⅰ】=Speed ​​Product [I]
+r:"^パーティ全員の速さを([0-9]+)%上昇させる。$"=Increases all party members' SPD by $1%.
+
+穏やかな交流=Calm Exchange
+リカバリープラス【Ⅰ】=Recovery Plus [I]
+r:"^パーティ全員の回復力を([0-9]+)上昇させる。$"=Increases all party members' RCV by $1.
+リカバリープロダクト【Ⅰ】=Recovery Product [I]
+r:"^パーティ全員の回復力を([0-9]+)%上昇させる。$"=Increases all party members' RCV by $1%.
+
+幻影に惑う=Bewildered by Illusions
+ガードプラス【Ⅰ】=Guard Plus [I]
+r:"^パーティ全員の物理防御力を([0-9]+)上昇させる。$"=Increases all party members' DEF by $1.
+ガードプロダクト【Ⅰ】=Guard Product [I]
+r:"^パーティ全員の物理防御力を([0-9]+)%上昇させる。$"=Increases all party members' DEF by $1%.
+
+犬猿の仲=Fight Like Cats & Dogs
+マインドプラス【Ⅰ】=Mind Plus [I]
+r:"^パーティ全員の魔法防御力を([0-9]+)上昇させる。$"=Increases all party members' MDEF by $1.
+マインドプロダクト【Ⅰ】=Mind Product [I]
+r:"^パーティ全員の魔法防御力を([0-9]+)%上昇させる。$"=Increases all party members' MDEF by $1%.
+
+聖なるホーリーパワー=Sacred Holy Power
+アタックプラス【Ⅰ】=Attack Plus [I]
+r:"^パーティ全員の物理攻撃力を([0-9]+)上昇させる。$"=Increases all party members' ATK by $1.
+アタックプロダクト【Ⅰ】=Attack Product [I]
+r:"^パーティ全員の物理攻撃力を([0-9]+)%上昇させる。$"=Increases all party members' ATK by $1%.
+
+決意の一矢=An Arrow of Determination
+マジックプラス【Ⅰ】=Magic Plus [I]
+r:"^パーティ全員の魔法攻撃力を([0-9]+)上昇させる。$"=Increases all party members' MATK by $1.
+マジックプロダクト【Ⅰ】=Magic Product [I]
+r:"^パーティ全員の魔法攻撃力を([0-9]+)%上昇させる。$"=Increases all party members' MATK by $1%.
+
+//S Story
+窮屈なお茶会=Cramped Tea Party
+貫の一撃【Ⅰ】=Pierce Strike [I]
+r:"^貫属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Pierce Element attack damage by $1%.
+スタンバリア【Ⅱ】=Stun Barrier [I]
+r:"^パーティ全員の気絶耐性を([0-9]+)%上昇させる。$"=Increases all party members' Stun Resistance by $1%.
+バーストダメージアップ【…=Burst Damage Up [...
+r:"^エレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Element Burst damage dealt by $1%.
+
+紅血の中の邂逅=Red-Blooded Encounter
+ヘイトプロダクト【Ⅰ】：1&2=Hate Product [I]: 1 & 2
+ヘイトプロダクト【Ⅰ】：…=Hate Product [I]:...
+ポジション1・2のヘイトを上昇(中)させる。=Increases Position 1 and 2's self hostility (M).
+フルコンディション攻【小】：3&4&5=Full Condition Attack [S]: 3 & 4 & 5
+フルコンディション攻【小…=Full Condition Attack [S]...
+ポジション3・4・5が、HPが満タンの時、敵に与えるダメージが上昇（小）する。=When Position 3, 4 and 5's HP is full, increases damage dealt to enemies (S).
+ダメージアップ【小】：ALL=Damage Up [S]: All
+ダメージアップ【小】：A…=Damage Up [S]: All
+r:"^パーティ全員の敵に与えるダメージを([0-9]+)%上昇させる。$"=Increases all party member's damage dealt to enemies by $1%.
+
+最前線、叶う望み=On the Front Lines, Hopes Come True
+ヘイトプロダクト【Ⅰ】：1&2&3=Hate Product [I]: 1 & 2 & 3
+ポジション1・2・3のヘイトを上昇(中)させる。=Increases Position 1, 2 and 3's self hostility (M).
+スピードプロダクト【Ⅰ】：1&2&3=Speed ​​Product [I]: 1 & 2 & 3
+スピードプロダクト【Ⅰ】…=Speed ​​Product [I]...
+r:"^ポジション1・2・3の速さを([0-9]+)%上昇させる。$"=Increases Position 1, 2 and 3's SPD by $1%.
+スピードプラス【Ⅱ】=Speed ​​Plus [II]
+
+特鉄隊副長として=As Adjutant of the Special Steel Squad
+HPプラス【Ⅰ】=HP Plus [I]
+r:"^パーティ全員のHPを([0-9]+)上昇させる。$"=Increases all party member's HP by $1.
+マジックプラス【Ⅱ】=Magic Plus [II]
+ダメージアップ【大】：魔法=Damage Up [L]: Magical
+r:"^魔法攻撃のダメージを([0-9]+)%上昇させる。$"=Increases magical attack damage by $1%.
+
+一触即発の船上=A Tense Moment on Board
+ターンラック【中】：ALL=Turn Luck [M]: All
+ターン開始時、稀に自身の幸運を上昇（中）させる。※効果は2ターンのみ=At the start of a turn, rarely increases LUCK (M). ※Effect lasts this turn only
+横一列の進攻【Ⅲ】=Horizontal Advance [III]
+r:"^横一列のダメージを([0-9]+)%上昇させる。$"=Increases horizontal attack damage by $1%.
+
+我、彩雲神の加護を受けし者=I, Protected by the Iridescent Goddess
+マジックプラス【Ⅱ】：1=Magic Plus [II]: 1
+r:"^ポジション([0-9]+)の魔法攻撃力を([0-9]+)上昇させる。$"=Increases Position $1's MATK by $2.
+アタックプラス【Ⅱ】：1=Attack Plus [II]: 1
+r:"^ポジション([0-9]+)の物理攻撃力を([0-9]+)上昇させる。$"=Increases Position $1's ATK by $2.
+バーストダメージアップ【Ⅲ】=Burst Damage Up [III]
+
+明かされた内通者=The Traitor Revealed
+ターンパワー【中】：ALL=Turn Power [M]: All
+ターン開始時、稀に自身の物理攻撃力を上昇（中）させる。※効果は2ターンのみ=At the start of a turn, rarely increases ATK (M). ※Effect lasts this turn only
+HPプロダクト【Ⅰ】=HP Product [I]
+r:"^パーティ全員のHPを([0-9]+)%上昇させる。$"=Increases all party members' HP by $1%.
+
+過去を書き換える影響=The Impact of Rewriting the Past
+アタックプロダクト【Ⅰ】：斧=Attack Product [I]: Axe
+アタックプロダクト【Ⅰ】…=Attack Product [I]...
+r:"^武器種が斧のレイヤーの物理攻撃力を([0-9]+)%上昇させる。$"=Increases Axe weapon Layers' ATK by $1%.
+斧の進攻【Ⅱ】=Axe Advance [II]
+r:"^武器種が斧のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Axe weapon Layers' damage dealt by $1%.
+
+地獄から助ける義理=The Obligation To Help From Hell
+ドレインアタック【小】：…=Drain Attack [S]:...
+ドレインアタック【小】：3&4&5=Drain Attack [S]: 3 & 4 & 5
+ポジション3・4・5が、攻撃した時、ごく稀に自身を回復（小）する。=When Position 3, 4 or 5 is attacking, very rarely recovers HP (S).
+ガード&マインドプロダク…=Guard & Mind Product...
+ガード&マインドプロダクト【Ⅰ】：1=Guard & Mind Product [I]: 1
+r:"^ポジション１の物理防御力と魔法防御力を([0-9]+)%上昇させる$"=Increases Position 1's DEF and MDEF by $1%
+
+リカルドの記憶=Ricardo's Memory
+フルコンディション攻【中…=Full Condition Offense [...
+フルコンディション攻【中】：5=Full Condition Offense [M]: 5
+ポジション5が、HPが満タンの時、敵に与えるダメージが上昇（中）させる。=When Position 5's HP is full, increases damage dealt to enemies (M).
+スピードプラス【Ⅱ】：4…=Speed ​​Plus [II]: 4...
+スピードプラス【Ⅱ】：4&5=Speed ​​Plus [II]: 4 & 5
+r:"^ポジション4・5の速さを([0-9]+)上昇させる。$"=Increases Position 4 and 5's SPD by $1.
+ヒット&スピードプロダク…=Hit & Speed ​​Product...
+ヒット&スピードプロダクト【Ⅰ】：5=Hit & Speed ​​Product [I]: 5
+r:"^ポジション([0-9]+)の命中と速さを([0-9]+)%上昇させる$"=Increases Position $1's HIT and SPD by $2%
+
+常闇の中に見えたもの=What Was Seen in the Ever-Darkness
+ヘイトプロダクト【Ⅱ】：1=Hate Product [II]: 1
+ポジション１のヘイトを上昇(大)させる。=Increases Position 1's self hostility (L).
+ガードプラス【Ⅲ】:1=Guard Plus [III]: 1
+r:"^ポジション([0-9]+)の物理防御力を([0-9]+)上昇させる。$"=Increases Position $1's DEF by $2.
+ヒールターン【中】：1=Heal Turn [M]: 1
+r:"^ポジション([0-9]+)が、ターン開始時に稀に自身を回復（中）する。$"=At the start of a turn, Position $1 rarely recovers HP (M).
+
+侍女の選択=Maid's Choice
+光の一撃【Ⅱ】=Light Strike [II]
+r:"^光属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Light Element attack damage by $1%.
+バーストダメージアップ【Ⅱ】=Burst Damage Up [II]
+
+大事な約束=An Important Promise
+スピードプラス【Ⅱ】：1=Speed ​​Plus [II]: 1
+r:"^ポジション([0-9]+)の速さを([0-9]+)上昇させる。$"=Increases Position $1's SPD by $2.
+衝の一撃【Ⅱ】=Blow Strike [II]
+r:"^衝属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Blow Element attack damage by $1%.
+ダメージアップ【特大】：…=Damage Up [VL]:...
+ダメージアップ【特大】：双属性=Damage Up [VL]: Double Element
+r:"^双属性スキルの与えるダメージを([0-9]+)%上昇させる。$"=Increases double-element damage dealt by $1%.
+
+交わす想いと抱擁=Exchanged Feelings & Embraces
+単体の進攻【Ⅱ】=Single-Target Advance [II]
+r:"^単体攻撃のダメージを([0-9]+)%上昇させる。$"=Increases single-target attack damage by $1%.
+単敵優勢【Ⅱ】=Single Enemy Advantage [II]
+r:"^敵が１体の時、敵に与えるダメージが([0-9]+)%上昇する。$"=When there is one enemy, increases damage dealt to the enemy by $1%.
+
+安らぎの理由=Reasons for Peace
+マジックプラス【Ⅱ】：3…=Magic Plus [II]: 3...
+マジックプラス【Ⅱ】：3&4=Magic Plus [II]: 3 & 4
+r:"^ポジション3・4の魔法攻撃力を([0-9]+)上昇させる。$"=Increases Position 3 and 4's by $1.
+水の一撃【Ⅱ】=Water Strike [II]
+r:"^水属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Water Element attack damage by $1%.
+チャームバリア【Ⅱ】=Charm Barrier [II]
+r:"^パーティ全員の魅了耐性を([0-9]+)%上昇させる。$"=Increases all party members' Charm Resistance by $1%.
+
+ほら行くわよ、振り返らないで=Let's Go, Don't Look Back
+ほら行くわよ、振り返らない…=Let's Go, Don't Look Back
+HPプラス【Ⅱ】=HP Plus [II]
+闇の一撃【Ⅱ】=Dark Strike [II]
+r:"^闇属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Dark Element attack damage by $1%.
+ラストヒール【小】：1=Last Cheer [S]: 1
+ポジション１が、戦闘不能時、味方全体を回復（小）する。=When Position 1 is KO'd, recovers all allies' HP (S).
+
+一番さいしょのお友達=The First Friend
+刃の一撃【Ⅱ】=Cut Strike [II]
+r:"^刃属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Cut Element attack damage by $1%.
+ダメージアップ【特大】：物理=Damage Up [VL]: Physical
+r:"^物理攻撃で与えるダメージを([0-9]+)%上昇させる。$"=Increases physical attack damage dealt by $1%.
+
+恐れない意志=The Will Not To Fear
+パラライバリア【Ⅱ】=Paralyze Barrier [II]
+r:"^パーティ全員の麻痺耐性を([0-9]+)%上昇させる。$"=Increases all party members' Paralyze Resistance by $1%.
+貫の一撃【Ⅱ】=Pierce Strike [II]
+
+ふたりに見えるもの=What the Two of Them See
+全体の進攻【Ⅱ】=All-Target Advance [II]
+r:"^全体攻撃のダメージを([0-9]+)%上昇させる。$"=Increases all-target attack damage by $1%.
+アタックプラス【Ⅱ】：槍=Attack Plus [II]: Spear
+r:"^「槍」の物理攻撃力を([0-9]+)上昇させる。$"=Increases Spear Layers' ATK by $1.
+槍の進攻【Ⅲ】=Spear Advance [III]
+r:"^武器種が槍のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Spear weapon Layers' damage dealt by $1%.
+
+幻想を断つ仲間の絆=The Friendship That Breaks Illusions
+サイレントバリア【Ⅲ】=Silent Barrier [III]
+r:"^パーティ全員の沈黙耐性を([0-9]+)%上昇させる。$"=Increases all party members' Silence Resistance by $1%.
+
+光の正体？=The True Nature of the Light?
+リカバリープラス【Ⅱ】=Recovery Plus [II]
+斧の進攻【Ⅲ】=Axe Advance [III]
+
+慈悲なる一撃=The Merciful Strike
+ダメージアップ【中】：双…=Damage Up [M]: Double...
+ダメージアップ【中】：双属性=Damage Up [M]: Double-Element
+ダメージアップ&バースト…=Damage Up & Burst...
+ダメージアップ&バーストダメージアップ…=Damage Up & Burst Damage Up...
+r:"^敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases damage dealt and Element Burst damage dealt to enemies by $1%.
+
+幻霧教幹部との対峙=Confronting the Misticism Cult Leader
+単敵優勢【Ⅰ】=Single Enemy Advantage [I]
+
+込みあげる感情=Overflowing Emotions
+
+美しい景色=Beautiful Scenery
+アタックプラス【Ⅲ】=Attack Plus [III]
+
+幻霧石の悪用=Abuse of the Mist Stone
+ダークカット【Ⅰ】=Dark Cut [I]
+r:"^パーティ全員は闇属性の攻撃を受けた際のダメージを([0-9]+)%軽減する。$"=Decreases all party members' Dark Element damage taken from attacks by $1%.
+
+アビスの管理ロボット=Admin Robot of Abyss
+アタックプラス【Ⅲ】＆ア…=Attack Plus [III] & A...
+アタックプラス【Ⅲ】＆アタックプロダク…=Attack Plus [III] & Attack Product...
+r:"^パーティ全員の物理攻撃力を([0-9]+)上昇させ、更に物理攻撃力を([0-9]+)%上昇させる$"=Increases all party member's ATK by $1 and increases ATK by $2%.
+ヒットプラス【Ⅲ】=Hit Plus [III]
+ダメージアップ【極大】：4=Damage Up [XL]: 4
+r:"^ポジション([0-9]+)が、常に敵に与えるダメージを([0-9]+)%上昇させる。$"=Constantly increases Position $1's damage dealt to enemies by $2%.
+
+洗脳ネコライフ=Brainwashed Cat Life
+チャームバリア【Ⅲ】=Charm Barrier [III]
+
+空に駆ける師弟の魔法=Master & Disciple's Sky-Soaring Magic
+マジックプロダクト【Ⅱ】：5=Magic Product [Ⅱ]: 5
+マジックプロダクト【Ⅱ】…=Magic Product [Ⅱ]...
+r:"^ポジション([0-9]+)の魔法攻撃力を([0-9]+)%上昇させる。$"=Increases Position $1's MATK by $2%.
+
+呪術と妖術=Jujutsu & Youjutsu
+バーストダメージアップ【Ⅲ】：『闇』=Burst Damage Up [III]: "Dark"
+r:"^エレメントバースト『闇＋風』『闇＋光』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Dark + Wind' and 'Dark + Light' Element Burst damage dealt by $1%.
+マジック＆スピードプロダ…=Magic & Speed ​​Prod...
+マジック＆スピードプロダクト【Ⅰ】：4=Magic & Speed ​​Product [I]: 4
+r:"^ポジション([0-9]+)の魔法攻撃力と速さを([0-9]+)%上昇させる。$"=Increases Position $1's MATK and SPD by $2%.
+闇の一撃【Ⅳ】=Dark Strike [IV]
+
+次元裂く逆転の一手=A Dimension-Shattering Turnabout
+パニックバリア【Ⅲ】=Panic Barrier [III]
+r:"^パーティ全員の混乱耐性を([0-9]+)%上昇させる。$"=Increases all party members' Confusion Resistance by $1%.
+
+断罪の彩光=Iridescent Light of Condemnation
+光の一撃【Ⅲ】=Light Strike [III]
+バーストダメージアップ【Ⅲ】：『光』=Burst Damage Up [Ⅲ]: "Light"
+r:"^エレメントバースト『光＋火』『光＋闇』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Light + Fire' and 'Light + Dark' Element Burst damage dealt by $1%.
+
+我々と共に=Along With Us
+ダメージアップ【大】：A…=Damage Up [L]: A...
+ダメージアップ【大】：ALL=Damage Up [L]: ALL
+
+//Achievement S
+長い旅の途中で=On a Long Journey
+アタックプラス【Ⅱ】=Attack Plus [II]
+
+出発進行！！=All Aboard!!
+ヒールターン【小】：ALL=Heal Turn [S]: All
+パーティ全員がターン開始時にごく稀に自身を回復（小）する。=At the start of a turn, rarely recovers all party members' HP (S).
+
+カジノで息抜き=Relax at the Casino
+ゴールドの教え【Ⅰ】=Gold Lesson [I]
+r:"^バトルで得られるゴールドの量が([0-9]+)%上昇する。$"=Increases gold amount obtained in a battle by $1%.
+
+遠方でのお仕事=Work in a Distant Place
+経験値の教え【Ⅰ】=Experience Lesson [I]
+r:"^パーティ全員のバトルで得られるレイヤー経験値が([0-9]+)%上昇する。$"=Increases all party member's Layer Experience Points earned in a battle by $1%.
+
+追い越せライバル=Surpass a Rival
+熟練度の教え【Ⅰ】=Proficiency Lesson [I]
+r:"^パーティ全員のスキル熟練度の上がりやすさを([0-9]+)%上昇させる。$"=Increases all party member's Skill Proficiency Rate in a battle by $1%.
+
+//S Event
+クールな友情=Cool Friendship
+ヘイトプロダクト【Ⅰ】：斧=Hate Product [I]: Axe
+武器種が斧のレイヤーの敵視を上昇（中）させる。=Increases Axe weapon Layers' self hostility (M).
+ターンガード【小】：ALL=Guard Turn [S]: All
+ターン開始時、稀に自身の物理防御力を上昇（小）させる。※効果は2ターンのみ=At the start of a turn, rarely increases DEF (S). ※Effect lasts 2 turns only
+
+串刺しきのこ=Skewered Mushrooms
+ヒットプロダクト【Ⅰ】：拳=Hit Product [I]: Gauntlet
+r:"^武器種が拳のレイヤーの命中を([0-9]+)%上昇させる。$"=Increases Gauntlet weapon Layers' HIT by $1%.
+拳の進攻【Ⅰ】=Gauntlet Advance [I]
+r:"^武器種が拳のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Gauntlet weapon Layers' damage dealt by $1%.
+
+熱砂の共闘=Joint Struggle in the Hot Sands
+槍の進攻【Ⅰ】=Spear Advance [I]
+ターンリカバリー【小】：ALL=Turn Recovery [S]: All
+ターンリカバリー【小】：…=Turn Recovery [S]:...
+ターン開始時、稀に自身の回復力を上昇（小）させる。※効果は2ターンのみ=At the start of a turn, rarely increases RCV (S). ※Effect lasts 2 turns only
+
+嗤う独裁者=Laughing Dictator
+スピードプロダクト【Ⅰ】：拳=Speed ​​Product [I]: Gauntlet
+r:"^武器種が拳のレイヤーの速さを([0-9]+)%上昇させる。$"=Increases Gauntlet weapon Layers' SPD by $1%.
+ターンスピード【小】：ALL=Turn Speed ​​[S]: All
+ターンスピード【小】：A…=Turn Speed ​​[S]: A ...
+ターン開始時、稀に自身の速さを上昇（小）させる。※効果は2ターンのみ=At the start of a turn, rarely increases SPD (S). ※Effect lasts 2 turns only
+
+聖女の導き=The Saint's Guidance
+魔具の進攻【Ⅰ】=Artifact Advance [I]
+r:"^武器種が魔具のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Artifact weapon damage dealt by $1%.
+
+届かない指先=Fingertips out of Reach
+ラックプロダクト【Ⅰ】：銃=Luck Product [I]: Gun
+r:"^武器種が銃のレイヤーの幸運を([0-9]+)%上昇させる。$"=Increases Gun weapon Layers' LUCK by $1%.
+火の一撃【Ⅰ】=Fire Strike [I]
+r:"^火属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Fire Element attack damage by $1%.
+
+聖なる夜と、星降る森で=On a Holy Night, in a Starry Forest
+アタックプロダクト【Ⅰ】：4&5=Attack Product [I]: 4 & 5
+r:"^ポジション([0-9]+)と([0-9]+)の物理攻撃力を([0-9]+)%上昇させる$"=Increases Position $1 and $2's ATK by $3%.
+
+パワーに頼らず根性で勝負！=Compete With Not Power But Guts!
+ドレインアタック【小】：2&3=Drain Attack [S]: 2 & 3
+ポジション2・3が、攻撃した時、ごく稀に自身を回復（小）する。=When Position 2 and 3 is attacking, very rarely recovers HP (S).
+ダメージアップ【小】：2…=Damage Up [S]: 2...
+ダメージアップ【小】：2&3=Damage up [S]: 2 & 3
+ポジション2・3が、常に敵に与えるダメージが上昇（小）する。=Constantly increases Position 2 3's damage dealt to enemies (S).
+
+貫く正義=Piercing Justice
+ガードプラス【Ⅱ】=Guard Plus [II]
+マインドプラス【Ⅱ】=Mind Plus [II]
+
+嬉しいご褒美？=A Delightful Reward?
+アタックプラス【Ⅱ】：3=Attack Plus [II]: 3
+刃の一撃【Ⅰ】=Cut Strike [I]
+
+裸！裸！=Naked! Naked!
+ヒットプラス【Ⅱ】：3&5=Hit Plus [II]: 3 & 5
+r:"^ポジション3・5の命中を([0-9]+)上昇させる。$"=Increases Position 3 and 5's HIT by $1.
+杖の進攻【Ⅱ】=Staff Advance [II]
+r:"^武器種が杖のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Staff weapon Layers' damage dealt by $1%.
+
+正しい選択=The Right Choice
+ターンスピード【中】：ALL=Turn Speed ​​[M]: All
+ターンスピード【中】：A…=Turn Speed ​​[M]: A...
+ターン開始時、稀に自身の速さを上昇（中）させる。※効果は2ターンのみ=At the start of a turn, rarely increases SPD (M). ※Effect lasts 2 turns only
+弓の進攻【Ⅰ】=Bow Advance [I]
+r:"^武器種が弓のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Bow weapon Layers' damage dealt by $1%.
+
+喧噪への憧れ=Yearning for the Hustle & Bustle
+ランダムの進攻【Ⅱ】=Random Advance [II]
+r:"^ランダム攻撃のダメージを([0-9]+)%上昇させる。$"=Increases random attack damage by $1%.
+
+はわわの功名=A Hawawa Achievement
+横一列の進攻【Ⅱ】=Horizontal Advance [II]
+
+溢れ出す思い=Overflowing Feelings
+縦一列の進攻【Ⅱ】：1=Vertical Advance [II]: 1
+r:"^ポジション１の縦一列攻撃のダメージを([0-9]+)%上昇させる。$"=Increases Position 1's vertical attack damage by $1%.
+
+対峙、地下より這い出る邪=Confrontation, the Evil From Below
+
+そんな趣味は無い=Not My Cup of Tea
+縦一列の進攻【Ⅱ】=Vertical Advance [II]
+r:"^縦一列のダメージを([0-9]+)%上昇させる。$"=Increases vertical attack damage by $1%.
+
+根拠のない自信=Unfounded Confidence
+ダメージアップ【中】：1=Damage Up [M]: 1
+ポジション１が、敵に与えるダメージを上昇（中）させる。=Increases Position 1's damage dealt to enemies (M).
+
+旅立ちと銀灯花=Departure & Silver Spider Lily
+弓の進攻【Ⅱ】=Bow Advance [II]
+ラックプロダクト【Ⅰ】：弓=Luck Product [I]: Bow
+r:"^武器種が弓のレイヤーの幸運を([0-9]+)%上昇させる。$"=Increases Bow weapon Layers' LUCK by $1%.
+
+ナンパ師一本釣り！=Fished a Fishy Flirter!
+衝の一撃【Ⅰ】=Blow Strike [I]
+
+ローリングサンオイル=Rolling Suntan Lotion
+
+ミステリオの社員たち=Employees of Mysterio
+
+コンバットオーケストラ=Combat Orchestra
+
+縁日コーディネート=Festival Coordination
+
+精神統一滝行体験=Waterfall Concentration Training
+
+紅蓮の拳=Fist of the Crimson Lotus
+
+PDTNの伝説的ライブ=PDTN's Legendary Live
+ヒットプラス【Ⅱ】=Hit Plus [II]
+風の一撃【Ⅱ】=Wind Strike [II]
+r:"^風属性攻撃のダメージ量を([0-9]+)%上昇させる。$"=Increases Wind Element attack damage by $1%.
+
+防犯作戦会議=Crime Prevention Strategy Meeting
+HPプラス【Ⅱ】:1=HP Plus [II]: 1
+r:"^ポジション([0-9]+)のHPを([0-9]+)上昇させる。$"=Increase's Position $1 HP's  by $2.
+
+茹でダコシゴキ塾！=Lobster-Red Extreme Cram School!
+
+ぎゅうぎゅう隠密調査=Crowded Covert Investigation
+
+幸せな食事=Fortunate Meal
+ターンマインド【中】：ALL=Turn Mind [M]: All
+ターンマインド【中】：A…=Turn Mind [M]: A...
+ターン開始時、稀に自身の魔法防御力を上昇（中）させる。※効果は2ターンのみ=At the start of a turn, rarely increases MDEF (M). ※Effect lasts this turn only
+
+平和で幸せな時間=Peaceful & Happy Time
+ターンマジック【中】：ALL=Turn Magic [Middle]: All
+ターンマジック【中】：A…=Turn Magic [M]: A...
+ターン開始時、稀に自身の魔法攻撃力を上昇（中）させる。※効果は2ターンのみ=At the start of a turn, rarely increases MATK (M). ※Effect lasts this turn only
+マジックプラス【Ⅱ】：5=Magic Plus [II]: 5
+
+き　ぼ　う=H O P E
+アタックプロダクト【Ⅰ】：槍=Attack Product [I]: Spear
+r:"^武器種が槍のレイヤーの物理攻撃力を([0-9]+)%上昇させる。$"=Increases Spear weapon Layers' ATK by $1%.
+
+剣技一閃=Blink of Swordsmanship
+ラックプラス【Ⅱ】=Luck Plus [II]
+
+並び立つ仲間=Friends Standing Together
+銃の進攻【Ⅱ】=Gun Advance [II]
+r:"^武器種が銃のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Gun weapon Layers' damage dealt by $1%.
+
+心配と親愛=Concern & Calamities
+
+災難にはご注意を=Beware of Disasters
+
+みーんな仲良く！=Everyone Get Along!
+フルコンディション攻【中】：3&4=Full condition attack [Middle]: 3 & 4
+ポジション3・4が、HPが満タンの時、敵に与えるダメージが上昇（中）する。=When Position 3 and 4 has full HP, increases damage dealt to enemies (M).
+
+おいしい贈り物=Delicious Gifts
+拳の進攻【Ⅱ】=Gauntlet Advance [II]
+
+エルフのスキンシップ=Elves' Skinship
+
+悪くないよメェ～=It's Not Thaaat Bad～
+
+モンスター娘とのふれあい=Interacting With Monster Girls
+
+メサイア☆メサイア♡=Messiah☆Messiah♡
+リカバリープロダクト【Ⅰ…=Recovery Product [I...
+リカバリープロダクト【Ⅰ】：鞭=Recovery Product [I]: Whip
+r:"^武器種が鞭のレイヤーの回復力を([0-9]+)%上昇させる。$"=Increases Whip weapon Layers' RCV by $1%.
+
+死霊の王様に立候補！？=Candidate as the King of the Dead!?
+
+幻霧の発生源！？=The Source of the Phantom Mist!?
+
+灼熱のオアシス=Scorching Hot Oasis
+スピードプロダクト【Ⅰ】：弓=Speed ​​Product [I]: Bow
+r:"^武器種が弓のレイヤーの速さを([0-9]+)%上昇させる。$"=Increases Bow weapon Layers' SPD by $1%.
+
+うさちゃん大好きクラブへようこそ=Welcome to the Bunny Lovers Club
+うさちゃん大好きクラブへよ…=Welcome to the Bunny Lovers Club
+うさちゃん大好きクラブへ…=Welcome to the Bunny Lovers Club
+スピードプロダクト【Ⅱ】：２=Speed ​​product [Ⅱ]: 2
+スピードプロダクト【Ⅱ】…=Speed ​​Product [II]...
+r:"^ポジション２の速さを([0-9]+)%上昇させる$"=Increases Position 2's SPD by $1%
+アタック＆スピードプロダクト【Ⅰ】：１=Attack & Speed ​​Product [Ⅰ]: 1
+アタック＆スピードプロダ…=Attack & Speed ​​Prod...
+r:"^ポジション１の物理攻撃力と速さを([0-9]+)%上昇させる$"=Increases Position 1's ATK and SPD by $1%
+
+幸せな結婚=Happy Marriage
+スピードプロダクト【Ⅰ】：３=Speed ​​Product [I]: 3
+r:"^ポジション３の速さを([0-9]+)%上昇させる$"=Increases Position 3's SPD by $1%
+
+信頼と弱音=Trust & Weakness
+バーストダメージアップ【Ⅲ】：『水＋風』=Burst Damage Up [III]: "Water + wind"
+r:"^エレメントバースト『水＋風』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Water + Wind' Element Burst damage dealt by $1%.
+
+やっておしまいなの！=You're Finished!
+
+舞台の閉幕=The Stage's Closing
+
+結界展開=Unleash the Ward
+全体の進攻【Ⅲ】=All-Target Advance [III]
+
+豪快！梯子救助！=Awesome! Ladder to the Rescue!
+ダメージアップ【大】：物理=Damage Up [L]: Physical
+バーストダメージアップ【Ⅲ】：『風+闇』=Burst Damage Up [III]: "Wind + Dark"
+エレメントバースト『風+闇』で与えるダメージを15%上昇させる。=Increases 'Wind + Dark' Element Burst damage dealt by 15%.
+
+必殺！邪王翔光拳！=Hissatsu! Jaou Shoukou Ken!
+
+シャイニング・カラスマ=Shining Crow
+
+手作りの義理？チョコ=Pity Valentine Chocolate?
+
+血濡れたチェーンソー=Bloody Chainsaw
+
+緋色に込めた想い=Thoughts in Scarlet
+単体の進攻【Ⅲ】=Single-Target Advance [III]
+r:"^刃属性スキルの敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Cut Element damage dealt and Element Burst damage dealt to enemies by $1%.
+
+幸せの音色=The Sound of Happiness
+バーストダメージアップ【Ⅲ】：『風』=Burst Damage Up [III]: "Wind"
+r:"^エレメントバースト『水＋風』『風＋闇』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Water + Wind' and 'Wind + Dark' Element Burst damage dealt by $1%.
+
+突入！イラクリオン=Charge! Iraklion
+ダメージアップ【極大】：…=Damage Up [XL]:...
+ダメージアップ【極大】：双属性=Damage Up [XL]: Double-Element
+
+ミラクル少女☆ロリポップ・ガールズ=Miracle Girls☆Lollipop Girls
+ミラクル少女☆ロリポップ・…=Miracle Girls☆Lollipop Girls
+
+抱き溢れる愛情=Embrace That's Full of Love
+貫の一撃【Ⅲ】=Pierce Strike [III]
+r:"^貫属性スキルの敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Pierce Element damage dealt and Element Burst damage dealt to enemies by $1%.
+
+祝福と対価=Blessings & Rewards
+祝福の代償=The Price of Blessing
+ポジション1のヘイトを上昇(中)させ、物理防御力と魔法防御力を10%減少させる。=Increases Position 1's self hostility (M) and decreases DEF and MDEF by 10%.
+
+身軽で優れた装備？=Lightweight and Excellent Equipment?
+バーストダメージアップ【Ⅲ】：『火+水』=Burst damage up [Ⅲ]: "Fire + Water"
+r:"^エレメントバースト『火＋水』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Fire + Water' Element Burst damage dealt by $1%.
+ラック&スピードプロダクト【Ⅱ】：2&3=Luck & Speed ​​Product [II]: 2 & 3
+ラック&スピードプロダク…=Luck & Speed ​​Product...
+r:"^ポジション2・3の幸運と速さを([0-9]+)%上昇させる。$"=Increases Position 2 and 3's LUCK and SPD by $1%.
+
+ちいさな車掌と入浴体験=Little Conductor & Bathing Experience
+
+男の勲章？もふもふしっぽ=A Man's Medal? Mofu Mofu Tail
+魔具の進攻【Ⅲ】=Artifact Advance [III]
+
+ぎゅうぎゅう寝袋三人組=Trio in a Cramped Sleeping Bag
+刃の一撃【Ⅳ】=Cut Strike [IV]
+アタック&ヒットプロダクト【Ⅱ】：2&3=Attack & Hit Product [II]: 2 & 3
+アタック&ヒットプロダク…=Attack & Hit Product...
+r:"^ポジション2・3の物理攻撃力と命中を([0-9]+)%上昇させる。$"=Increases Position 2 and 3's ATK and HIT by $1%.
+
+見　つ　け　た=I S E E Y O U
+火の一撃【Ⅲ】=Fire Strike [III]
+バーストダメージアップ【Ⅳ】：フルコン…=Burst Damage Up [IV]: Full Con...
+r:"^HPが満タンの時、エレメントバーストで与えるダメージが([0-9]+)%上昇する。$"=When HP is full, increases Element Burst damage dealt by $1%.
+
+寝技は苦手かなぁ=Not Good at Bedroom Techniques
+衝の一撃【Ⅳ】=Blow Strike [IV]
+バーストダメージアップ【Ⅳ】：『水+風』=Burst Damage Up [IV]: "Water + Wind"
+
+仰天グッバイキャノン=Astonishing Goodbye Cannon
+エレメントダメージアップ【Ⅲ】：『火』=Element Damage Up [III]: "Fire"
+エレメントダメージアップ…=Element Damage Up...
+r:"^火属性エレメントの付いている敵に対して、与えるダメージを([0-9]+)%上昇する。$"=Increases damage dealt to enemies with Fire Element stacks by $1%.
+
+残念な友情=An Unfortunate Friendship
+ガードブレイク【小】：2…=Guard Break [S]: 2...
+ガードブレイク【小】：2&4=Guard Break [S]: 2 & 4
+r:"^ポジション2・4が、攻撃時、ごく稀に物理防御力を([0-9]+)%減少させる。※効果は2ターンのみ$"=When Position 2 or 4 attacks, very rarely decreases DEF by $1%. ※Effect lasts 2 turns only
+
+狩りもの競争？=Hunting Competition?
+速さの共鳴【Ⅱ】：5=SPD ​​Resonance [II]: 5
+r:"^ポジション([0-9]+)は速さ500につきダメージを([0-9]+)%上昇させる（最大([0-9]+)%）$"=Increases Position $1's damage by $2% per 500 SPD (up to $3%).
+スピードプロダクト【Ⅲ】：5=Speed Product [III]: 5
+スピードプロダクト【Ⅲ】…=Speed Product [III]...
+r:"^ポジション([0-9]+)の速さを([0-9]+)%上昇させる$"=Increases Position $1's SPD by $2%
+
+爆走！大爆撃！=Go Wild! Big Bombing!
+ダメージアップ【特大】：SP13以上=Damage Up [VL]: SP13+
+r:"^初期SPが13以上のスキルで与えるダメージを([0-9]+)%上昇させる。$"=Increases 13+ initial SP skills' damage damage dealt by $1%.
+スピード&ヒットプロダクト【Ⅰ】=Speed ​​& Hit Product [I]
+スピード&ヒットプロダク…=Speed ​​& Hit Product...
+r:"^速さと命中を([0-9]+)%上昇させる。$"=Increases SPD and HIT by $1%.
+
+影で動く者たち=Those Who Move in the Shadows
+
+怒り心頭3人組=The Trio in a Towering Rage
+
+月下で深まる二人の絆=The Duo Bonds Deeper Under the Moon
+バーストダメージアップ【Ⅳ】：『風＋闇』=Burst Damage Up [IV]: "Wind + Dark"
+r:"^エレメントバースト『風＋闇』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Wind + Dark' Element Burst damage dealt by $1%.
+
+誇れるお仕事=A Job To Be Proud Of
+単体の進攻【Ⅳ】=Single-Target Advance [IV]
+バーストダメージアップ【Ⅳ】：『光＋闇』=Burst Damage Up [IV]: "Light + Darkness"
+r:"^エレメントバースト『光＋闇』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Light + Dark' Element Burst damage dealt by $1%.
+
+寝そべり見上げる雪と夜空=Lying Down To Look at the Snowy Night
+ダメージアップ【極大】：物理=Damage Up [XL]: Physical
+アタック＆ヒットプロダクト【Ⅰ】=Attack & Hit Product [I]
+アタック＆ヒットプロダク…=Attack & Hit Product...
+r:"^物理攻撃力と命中を([0-9]+)%上昇させる$"=Increases ATK and HIT by $1%.
+
+珍こたつの儀式=Chin-Kotatsu Ceremony
+杖の進攻【Ⅳ】=Staff Advance [IV]
+
+妄想コーディネート=Delusional Coordination
+貫の一撃【Ⅳ】=Pierce Strike [IV]
+r:"^貫属性ダメージを([0-9]+)%上昇させる$"=Increases Pierce Element damage by $1%.
+
+取り込まれたカターニア=Catania Captured
+鞭の進攻【Ⅳ】=Whip Advance [IV]
+r:"^武器種が鞭のレイヤーの与ダメージを([0-9]+)%上昇させる。$"=Increases Whip weapon Layers' damage dealt by $1%.
+
+王様だ～～れだ？=Who is the Kiiiing～～?
+
+暗闇に捕らわれた二人=The Duo Trapped in Darkness
+ダークネスバリア【Ⅲ】=Darkness Barrier [III]
+r:"^パーティ全員の暗闇耐性を([0-9]+)%上昇させる。$"=Increases all party members' Blindness Resistance by $1%.
+
+イキすぎた保健体育=Overexciting Health & Physical Class
+アタックプロダクト【Ⅱ】=Attack Product [II]
+r:"^物理攻撃力を([0-9]+)%上昇させる$"=Increase ATK by $1%.
+r:"^常に敵に与えるダメージを([0-9]+)%上昇させる。$"=Constantly increases damage dealt to enemies by $1%.
+
+おまかせギャルメイク=Let Us Handle Gal Make-Up
+マジック&ラックプロダクト【Ⅰ】=Magic & Luck Product [I]
+マジック&ラックプロダク…=Magic & Luck Product...
+r:"^魔法攻撃力と幸運を([0-9]+)%上昇させる。$"=Increases MATK and LUCK by $1%.
+
+海原に輝く花嫁=Bride Shining on the Sea
+アタック＆ラックプロダクト【Ⅰ】：拳=Attack & Luck Product [I]: Gauntlet
+アタック＆ラックプロダク…=Attack & Luck Product...
+r:"^拳の物理攻撃力と幸運を([0-9]+)%上昇させる$"=Increases Gauntlet's ATK and LUCK by $1%.
+
+お人形さんになりたい=I Wanna Be a Doll
+
+優しさと粘液=Tenderness & Mucus
+バーストダメージアップ【Ⅲ】：杖=Burst Damage Up [III]: Staff
+r:^"武器種が杖のレイヤーの、エレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Staff weapon Layers' Element Burst damage dealt by $1%.
+マジック&リカバリープロダクト【Ⅰ】=Magic & Recovery Product [I]
+マジック&リカバリープロ…=Magic & Recovery Pro...
+r:^"魔法攻撃力と回復力を([0-9]+)%上昇させる。$"=Increases MATK and RCV by $1%.
+
+イチゴの化け物に捕らえられた2人=The Duo Caught by Strawberry Monsters
+イチゴの化け物に捕らえられ…=The Duo Caught by Strawberry Monsters
+
+怪しげな宿=A Suspicious Inn
+
+危ないトラップ=Dangerous Trap
+全体の進攻【Ⅳ】=All-Target Advance [IV]
+アタックプロダクト【Ⅰ】：鞭=Attack Product [I]: Whip
+r:^"武器種が鞭のレイヤーの物理攻撃力を([0-9]+)%上昇させる。$"=Increases Whip weapon Layers' ATK by $1%.
+
+恐怖のお化け屋敷=Scary Haunted House
+マジック&バーストマジックブースト【大】=Magic & Burst Magic Boost [L]
+マジック&バーストマジッ…=Magic & Burst Magic...
+r:^"wave開始時、味方全体の魔法攻撃力とエレメントバースト時の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=At the start of a wave, increases all allies' MATK and MATK during Element Burst by $1%. ※Effect lasts this turn only
+
+おいしいりょうりができました！=Delicious Meal is Ready!
+おいしいりょうりができまし…=Delicious Meal is Ready!
+ラック&リカバリープロダクト【Ⅰ】=Luck & Recovery Product [I]
+ラック&リカバリープロダ…=Luck & Recovery Produ...
+r:^"幸運と回復力を([0-9]+)%上昇させる。$"=Increases LUCK and RCV by $1%.
+ラックプロダクト【Ⅱ】=Luck Product [II]
+r:^"幸運を([0-9]+)%上昇させる。$"=Increases LUCK by $1%.
+
+これより後夜祭！=The Post-Festivities Begin Now!
+銃の進攻【Ⅲ】=Gun Advance [III]
+ウィークダメージアップ【大】=Weak Damage Up [L]
+ウィークダメージアップ【…=Weak Damage Up [...
+r:^"常にWeak攻撃で与えるダメージを([0-9]+)%上昇させる。$"=Constantly increases weakness damage dealt by $1%.
+
+エルロンドビーム！=Elrond Beam!
+光属性バーストダメージUP【Ⅳ】=Light Element Burst Damage Up [IV]
+光属性バーストダメージU…=Light Element Burst Da...
+『火＋光』『水＋光』『風＋光』『光＋闇』のエレメントバーストで与えるダメージが20%上昇させる。=Increases 'Fire + Light', 'Water + Light', 'Wind + Light', 'Light + Dark' Element Burst damage dealt by 20%.
+マジックプラス【Ⅲ】＆マジックプロダクト【Ⅰ】=Magic Plus [III] & Magic Product [I]
+
+浮気・・・？=Infidelity...?
+軍神、来たる！=God of War is Here!
+惹かれあう二人=The Attracted Duo
+アヌシーのキーカード=Annecy's Key Card
+杖の進攻【Ⅲ】=Staff Advance [III]
+ハルツの子供はみんな夢を見る=Every Child in Dreams of Harz
+
+来遊者さんたちとの戯れ=Playing With the Visitors
+ヒットプロダクト【Ⅱ】=HIT Product [II]
+命中を20%上昇させる。=Increases HIT by 20%.
+
+水泳部の絆？=Swimming Club Bond?
+
+//Story SS
+世界を救う力=The Power To Save the World
+神子の力=Divine Child's Power
+エレメントバーストで与えるダメージが20%上昇させ、パーティ全員の沈黙耐性を30%減少させる。=Increases Element Burst damage dealt by 20% and decreases all party members' Silence Resistance by 30%.
+スピードプラス【Ⅳ】=Speed ​​Plus [IV]
+
+挑戦！フテラブリュケの番人=Challenge! Fterabrucke's Guard
+
+フテラブリュケの神子=Fterabrucke's Divine Child
+アタックプロダクト【Ⅱ】：1=Attack Product [II]: 1
+アタックプロダクト【Ⅱ】…=Attack Product [II]...
+r:^"ポジション([0-9]+)の物理攻撃力を([0-9]+)%上昇させる$"=Increases Position $1's ATK by $2%.
+
+突如の来訪者=Unexpected Visitors
+ランダムの進攻【Ⅵ】=Random Advance [VI]
+ヒット&ラックプロダクト…=Hit & Luck Product...
+ヒット&ラックプロダクト【Ⅰ】=Hit & Luck Product [I]
+r:^"命中と幸運を([0-9]+)%上昇させる。$"=Increase HIT and LUCK by $1%.
+
+優雅な踊りと救いの手=A Graceful Dance & a Helping Hand
+r:^"武器種が銃のレイヤーの敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Gun weapon Layers' damage dealt and Element Burst damage dealt to enemies by $1%.
+
+ヒットプロダクト【Ⅱ】：4&5=Hit Product [Ⅱ]: 4 & 5
+ヒットプロダクト【Ⅱ】：…=Hit Product [II]:...
+r:^"ポジション4・5の命中を([0-9]+)%上昇させる。$"=Increases Position 4 and 5's HIT by $1%.
+
+記憶と覚醒=Memory & Awakening
+
+天老会の縄張り=Tiānlǎohuì's Territory
+槍の進攻【Ⅳ】=Spear Advance [IV]
+アタック＆スピードプロダクト【Ⅰ】：槍=Attack & Speed ​​Product [I]: Spear
+r:^"槍の物理攻撃力と速さを([0-9]+)%上昇させる$"=Increases Spear's ATK and SPD by $1%.
+
+闇夜に潜む呪術師=The Sorceress Who Lurks in the Dark
+r:^"武器種が魔具のレイヤーの敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Artifact weapon Layers' damage dealt and Element Burst damage dealt to enemies by $1%.
+ダークネスバリア【Ⅱ】=Darkness Barrier [II]
+
+戦士たちへの祈り=Warriors' Prayer
+ヒールターン【大】：ALL=Heal Turn [L]: All
+パーティ全員がターン開始時に稀に自身を回復（大）する。=At the start of a turn, rarely recovers all party members' HP (L).
+
+私が守る！=I Will Protect!
+氷空の支配者=Ice Sky's Ruler
+遺跡トラップで一本釣り！=A Catch With a Ruins Trap!
+
+絶望！海神の怒り=Despair! Sea God's Wrath
+銃の進攻【Ⅳ】=Gun Advance [IV]
+ブレイドカット【Ⅱ】=Blade Cut [II]
+r:"^パーティ全員は刃属性の攻撃を受けた際のダメージを([0-9]+)%軽減する。$"=Decreases all party members' Cut Element damage taken from attacks by $1%.
+
+太古からの絆=An Ancient Bond
+マジックプラス【Ⅴ】&マジックプロダク…=Magic Plus [V] & Magic Product...
+マジックプラス【Ⅴ】&マ…=Magic Plus [V] & Ma...
+r:"^パーティ全員の魔法攻撃力を([0-9]+)上昇させ、更に魔法攻撃力を([0-9]+)%上昇させる$"=Increases all party members' MATK by $1 and MATK by $2%.
+
+選ばれし者=The Chosen One
+ヒット&リカバリープロダクト【Ⅰ】=Hit & Recovery Product [I]
+ヒット&リカバリープロダ…=Hit & Recovery Prado ...
+r:"^命中と回復力を([0-9]+)%上昇させる。$"=Increases HIT and RCV by $1%.
+
+間一髪の防ぎ=In the Nick of Time
+アタック&ヒットプロダクト【Ⅱ】=Attack & Hit Product [II]
+r:^"物理攻撃力と命中を([0-9]+)%上昇させる。$"=Increases ATK and HIT by $1%.
+ダメージカット【中】：1=Damage Cut [M]: 1
+ポジション１が、常に受けるダメージを軽減（中）する。=Constantly decreases Position 1's damage taken (M).
+
+氷壁に浮かぶ笑顔=A Smile on the Ice Wall
+ガードプラス【Ⅳ】=Guard Plus [IV]
+ガードプロダクト【Ⅱ】&マインドプロダ…=Guard Product [II] & Mind Prod...
+ガードプロダクト【Ⅱ】&…=Guard Product [II] &...
+ダークカット【Ⅲ】=Dark Cut [III]
+
+騎士の誓い=Knight's Oath
+
+嵐の前の緊張感=Tension Before the Storm
+状態異常キラー【Ⅲ】=Status Ailment Killer [III]
+r:"^状態異常が付与されている敵に与えるダメージが([0-9]+)%上昇する。$"=Increases damage dealt to enemies with status ailments by $1%.
+幸運の極意【Ⅲ】=LUCK Secret [III]
+r:"^幸運([0-9]+)につきダメージを([0-9]+)%上昇させる（最大([0-9]+)%）$"=Increases damage by $2% per $1 LUCK (Max $3%).
+
+潜んでいた研究者=The Lurking Researcher
+ウィークダメージアップ【特大】=Weak Damage Up [VL]
+
+吸いつくされる魔力=The Magic That's Sucked Out
+オールバリア【Ⅱ】=All Barrier [II]
+状態異常に対する耐性を20%上昇させる。=Increases Status Ailment Resistances by 20%.
+
+気まずい空気=Awkward Atmosphere
+楽しい稽古の時間=Fun Practice Time
+大好きで大切なたった一人の=The Only Person Loved and Cherished
+エルロンドとして=As An Elrond
+故郷への手がかり=Clues to Home
+
+静かにしましょうね♪=Let's Be Quiet♪
+状態異常キラー【Ⅴ】：沈黙=Status Ailment Killer [V]: Silence
+沈黙が付与されている敵に与えるダメージが50%上昇する。=Increases damage dealt to Silenced enemies by 50%.
+
+//Event SS
+圧倒的な力=Power Overwhelming
+まじこいの一撃【Ⅱ】=Majikoi Strike [II]
+「マルギッテ・エーベルバッハ」「川神百代」「松永燕」「武蔵坊弁慶」「最上旭」「黛由紀江」の与えるダメージ量を10%上昇させる。=Increases Margit Eberbach's, Momoyo Kawakami's, Tsubame Matsunaga's, Benkei Musashibou's, Aki Mogami's, and Yukie Mayuzumi's damage dealt by 10%.
+
+ヒールウェーブ【中】：まじこい=Heal Wave [M]: Majikoi
+ヒールウェーブ【中】：ま…=Heal Wave [M]: Ma...
+Wave開始時、稀にパーティ内の「マルギッテ・エーベルバッハ」「川神百代」「松永燕」「武蔵坊弁慶」「最上旭」「黛由紀江」を回復（中）する。=At the start of a wave, rarely recovers Margit Eberbach's, Momoyo Kawakami's, Tsubame Matsunaga's, Benkei Musashibou's, Aki Mogami's, and Yukie Mayuzumi's HP (M).
+
+魔に抗う忍びの者=Ninjas Who Resists Demons
+対魔忍の一撃【Ⅱ】=Taimanin Strike [II]
+「鬼崎きらら」「水城ゆきかぜ」「秋山凜子」「井河アサギ」「フェリシア」「相州蛇子」の与えるダメージ量を10%上昇させる。=Increases Kirara Onisaki's, Yukikaze Mizuki's, Rinko Akiyama's, Asagi Igawa's, Felicia's, and Hebiko Aishu's damage dealt by 10%.
+ダメージカット【小】：対魔忍=Damage Cut [S]: Taimanin
+ダメージカット【小】：対…=Damage Cut [S]: Tai...
+「鬼崎きらら」「水城ゆきかぜ」「秋山凜子」「井河アサギ」「フェリシア」「相州蛇子」が、常に受けるダメージを軽減（小）する。=Constantly decreases Kirara Onisaki's, Yukikaze Mizuki's, Rinko Akiyama's, Asagi Igawa's, Felicia's, and Hebiko Aishu's damage taken (S).
+
+異世界の列車で=Aboard an Otherworld Train
+まいてつの一撃【Ⅱ】=Maitetsu Strike [II]
+「ハチロク」「オリヴィ」「れいな」「ニイロク」「ひよこ」の与えるダメージ量を10％上昇させる。=Increases Hachiroku's, Olivi's, Reina's, Niiroku's, and Hiyoko's damage by 10%.
+HPプラス【Ⅲ】：まいてつ=HP Plus [III]: Maitetsu
+「ハチロク」「オリヴィ」「れいな」「ニイロク」「ひよこ」のHPを1000上昇させる。=Increases Hachiroku's, Olivi's, Reina's, Niiroku's, and Hiyoko's HP by 1000.
+
+ジョストトレインガールズ=Joust Train Girls
+ワルロマの一撃【Ⅱ】=Walroma Strike [II]
+「スィーリア」「希咲美桜」「龍造寺茜」の与えるダメージ量を10％上昇させる。=Increases Celia's, Mio Kisaki's, and Akane Ryuuzouji's damage by 10%.
+HPプラス【Ⅳ】：ワルロマ=HP Plus [IV]: Walroma
+「スィーリア」「希咲美桜」「龍造寺茜」のHPを1500上昇させる。=Increases Celia's, Mio Kisaki's, and Akane Ryuuzouji's HP by 1500.
+
+異世界のファッション調査=Otherworld's Fashion Research
+つり乙の一撃【Ⅱ】=Tsuri Otsu Strike [II]
+「大蔵りそな」「桜小路ルナ」「柳ヶ瀬湊」の与えるダメージ量を10％上昇させる。=Increases Risona Okura's, Luna Sakurakouji's and Minato Yanagase's damage by 10%.
+HPプラス【Ⅳ】：つり乙=HP Plus [IV]: Tsuri Otsu
+「大蔵りそな」「桜小路ルナ」「柳ヶ瀬湊」のHPを1500上昇させる。=Increases Risona Okura's, Luna Sakurakouji's and Minato Yanagase's HP by 1500.
+
+新たなる旅路=A New Journey
+経験値の教え【Ⅱ】=Experience Lesson [II]
+
+お約束のシチュエーション=Promised Situation
+qureateの一撃【Ⅲ】=qureate Strike [III]
+「カトレア」「ロベリア」「すみれ」の与えるダメージ量を15％上昇させる。=Increases Cattleya's, Lovelia's, and Sumire's damage dealt by 15%.
+HPプラス【Ⅴ】：qur…=HP Plus [V]: qur...
+HPプラス【Ⅴ】：qureate=HP Plus [V]: qureate
+「カトレア」「ロベリア」「すみれ」のHPを2000上昇させる。=Increases Cattleya's, Lovelia's, and Sumire's HP by 2000.
+
+新たな仲間の歓迎会=Welcome Party for New Friends
+フルコンディション攻【中】：ALL=Full Condition Offense [M]: All
+【自身のHPが満タンの時、敵に与えるダメージを上昇(中)させる。】効果を、パーティ全員に付帯する。=All party members gain buff [When HP is full, increases damage dealt to enemies (M).
+
+藝術家たちを迎えて=Welcoming the Artists
+
+ミストレホームランダービー=Mist Train Home Run Derby
+HPプロダクト【Ⅱ】=HP Product [II]
+r:"^HPを([0-9]+)%上昇させる$"=Increases HP by $1%.
+
+オオエたちの夜=Ooe Family's Night
+速さの極意【Ⅱ】=SPD Secret [II]
+r:"^ポジション1・3・4は速さ([0-9]+)につきダメージを([0-9]+)%上昇させる（最大([0-9]+)%）$"=Increases Position 1, 3, and 4's damage by $2% per $1 SPD (Max $3%).
+
+探検！エルフの森=Explore! Elven Forest
+マインドプラス【Ⅳ】=Mind Plus [IV]
+魔防の極意【Ⅰ】=MDEF Secret [I]
+r:"^ポジション3に配置しているレイヤーは魔法防御力([0-9]+)につきダメージを([0-9]+)%（最大([0-9]+)%）残りポジションのレイヤーは([0-9]+)%（最大([0-9]+)%） 上昇させる。$"=Increases Position 3 Layer's damage by $2% (Max $3%) per $1 MDEF and Layers in other Positions increases their damage by $4% (Max $5%).
+魔防の極意【Ⅱ】=MDEF Secret [II]
+r:"^ポジション3は魔法防御力([0-9]+)につきダメージを([0-9]+)%（最大([0-9]+)%）残りポジションは([0-9]+)%（最大([0-9]+)%） 上昇させる$"=Increases Position 3's damage by $2% (Max $3%) per $1 MDEF and increases remaining Positions by $4% (Max $5%).
+
+凍土の日常=Daily Life on Frozen Soil
+ヒットプラス【Ⅳ】=Hit Plus [IV]
+命中の極意【Ⅱ】=HIT Secret [II]
+r:"^命中([0-90]+)につきダメージを([0-90]+)%上昇させる（最大([0-90]+)%）$"=Increases damage by $2% per $1 HIT (Max $3%)
+
+街へ出よう！=Let's Go to the City!
+物防の極意【Ⅱ】=DEF Secret [II]
+r:"^ポジション1は物理防御力([0-9]+)につきダメージを([0-9]+)%（最大([0-9]+)%）残りポジションは([0-9]+)%（最大([0-9]+)%） 上昇させる$"=Increases Position 1's damage by $2% (Max $3%) per $1 DEF and increases remaining Positions by $4% (Max $5%).
+
+いつでもトロピカル=Always Tropical
+ラックプラス【Ⅳ】=Luck Plus [IV]
+幸運の極意【Ⅰ】=LUCK Secret [I]
+幸運の極意【Ⅱ】=LUCK Secret [II]
+r:"^パーティ全員は幸運([0-9]+)につき与ダメージを([0-9]+)%上昇させる（最大([0-9]+)%）。$"=Increases all party members' LUCK by $2% (Max $3%) per $1 LUCK.
+
+ようこそミストトレインへ！=Welcome to the Mist Train!
+
+変わる年、変わらぬ６人=Changing Years, the Unchanging Six
+ヒールターン改【小】：１=Heal Turn Break [S]: 1
+ポジション１が、ターン開始時に、稀に自身を回復（小）する。=At the start of a turn, rarely recovers Position 1's HP (S).
+
+これまでの軌跡に感謝を=Thank You for the Journey So Far
+スピードプラス【Ⅲ】：1&2&3=Speed ​​Plus [III]: 1 & 2 & 3
+スピードプラス【Ⅲ】：1…=Speed ​​Plus [III]: 1...
+r:"^ポジション1・2・3の速さを([0-9]+)上昇させる。$"=Increases Position 1, 2 and 3's SPD by $1.
+
+我ら、ドッガン団！=We're the Doggan Gang!
+やりましたな、マスター！=You Did It, Master!
+パーティ全員の物理攻撃力を30くらい？強くしますぞ！=Increases all party members' ATK to about 30? I'll make them stronger!
+グロりん、流石でやんす！=As Expected of Ye, Glorin!
+パーティ全員の速さが2%高くなるでやんす！=I'll be raising all party member's SPD by 2% right there ye!
+勝ったのはどくたぁですのよ！=The Winner Is Doctor!
+勝ったのはどくたぁですの…=The Winner Is Doctor!
+パーティ全員は物攻100につき、ダメージを1%上昇させまちゅの！　......え、最大1%？=Increases al' pairtie members' damage by 1% per 100 ATK! ......Huh, just 1%?
+
+駆ける×賭ける=Run x Bet
+火の一撃【Ⅱ】=Fire Strike [II]
+風の一撃【Ⅲ】=Wind Strike [III]
+水の一撃【Ⅲ】=Water Strike [III]
+
+ぴきゅるぴ～ぱきゅぴきゅ=Pikewrupi～Pakewpikew
+アタック＆ヒットプロダクト【Ⅰ】：斧=Attack & Hit Product [I]: Axe
+r:"^斧の物理攻撃力と命中を([0-9]+)%上昇させる$"=Increases Axe Layer's ATK and HIT by $1%.
+ランダムの進攻【Ⅳ】=Random Advance [IV]
+
+祭りの前の静けさ=Calm Before the Festival
+ラックプラス【Ⅲ】=Luck Plus [III]
+
+1年間の歩みを祝して=Celebrating a Year of Progress
+ダメージカット【小】：1=Damage Cut [S]: 1
+ポジション１が、常に受けるダメージを軽減（小）する。=Constantly decreases Position 1's damage taken (S).
+ドレインアタック改【小】：ALL=Drain Attack Kai [S]: All
+ドレインアタック改【小】…=Drain Attack Kai [S]...
+【攻撃した時、稀に自身を回復（小）する。】効果を、パーティ全員に付帯する。=All party members gain buff [When attacking, rarely recovers HP (S)].
+
+おきばりやす、車掌はん♪=Wishin' Ya De Best, Conductor-han♪
+フルコンディション【大】：ALL=Full condition [L]: All
+フルコンディション【大】…=Full Condition [L]...
+r:"^パーティ全員に、自身のHPが満タンの時、敵に与えるダメージを([0-9]+)%上昇させる。$"=When a party member's HP is full, increases their damage dealt to enemies by $1%.
+r:"^刃属性スキルの敵に与えるダメージとバーストアタックで与えるダメージを([0-9]+)%上昇させる。$"=Increases Cut Element skills' damage dealt and Burst Attack damage dealt to enemies by $1%.
+
+紅き森に佇む魔女=Witch Standing in the Crimson Forest
+マジックプロダクト【Ⅰ】：杖=Magic Product [I]: Staff
+マジックプロダクト【Ⅰ】…=Magic Product [I]...
+r:"^武器種が杖のレイヤーの魔法攻撃力を([0-9]+)%上昇させる。$"=Increases Staff weapon Layers' MATK by $1%.
+
+いつでもスマイルスマイル♪=Smile Smile All the Time♪
+アタック&スピードプロダクト【Ⅰ】：拳=Attack & Speed ​​Product [Ⅰ]: Fist
+アタック&スピードプロダ…=Attack & Speed ​​Prod...
+r:"^拳の物理攻撃力と速さを([0-9]+)%上昇させる。$"=Increases Gauntlet Layer's ATK and SPD by $1%.
+r:"^武器種が拳のレイヤーの敵に与えるダメージとバーストアタックで与えるダメージを([0-9]+)%上昇させる。$"=Increases Gauntlet weapon Layers' damage dealt and Element Burst damage dealt to enemies by $1%.
+
+新しい1年に幸せを=A New Year of Happiness
+ダメージアップ【中】：ALL=Damage Up [M]: All
+ダメージアップ【中】：A…=Damage Up [M]: A...
+マジックプラス【Ⅲ】＆マジックプロダク…=Magic Plus [III] & Magic Product...
+マジックプラス【Ⅲ】＆マ…=Magic Plus [III] & Ma...
+
+水の魔法にかけられて=Under the Magic of Water
+
+新たな仲間とともに=Together With New Friends
+
+宴と祝盃=Banquet & Celebration
+アタックプラス【Ⅲ】：2＆3=Attack Plus [III]: 2 & 3
+アタックプラス【Ⅲ】：2…=Attack Plus [III]: 2...
+r:"^ポジション2・3の物理攻撃力を([0-9]+)上昇させる。$"=Increases Position 2 and 3's ATK by $1.
+
+御一夜鉄道！出発進行！=Ohitoyo Railway! All Aboard!
+ダメージアップ【極大】：魔法=Damage Up [XL]: Magical
+r:"^魔法攻撃で与えるダメージが([0-9]+)%上昇させる。$"=Increases magical attack damage dealt by $1%.
+
+ライバルと真夏のバカンスに=Midsummer Vacation With a Rival
+
+2年を祝してケーキをどうぞ=Have A Cake to Celebrate Two Years!
+アクションパワー【Ⅱ】：1・2・3番目=Action Power [II]: 1st 2nd 3rd
+アクションパワー【Ⅱ】：…=Action Power [II]:...
+r:"^パーティ内で1・2・3番目に攻撃するレイヤーの行動前、物理攻撃力を([0-9]+)%上昇させる。※それぞれ効果は発動ターンのみ$"=Before the first, second, and third acting Layer in the party attacks, increases their ATK by $1%. ※Each effect lasts this turn only
+
+訓練後はおだんごで一息=A Dango Break After Training
+バーストダメージアップ【Ⅲ】：2・3・…=Burst Damage Up [III]: 2nd 3rd...
+パーティ内で2・3・4番目に攻撃するレイヤーの行動前、エレメントバーストで与えるダメージを15%上昇させる。※それぞれ効果は発動ターンのみ=Before the second, third, and fourth acting Layer in the party attacks, increases their Element Burst damage dealt by 15%. ※Each effect lasts this turn only
+
+ハルツのハロウィンパーティー=Harz's Halloween Party
+ハルツのハロウィンパーティ…=Harz's Halloween Party
+
+木陰でのティーパーティー=Tea Party in the Shade
+ダメージアップ【極大】：SP13以上=Damage Up [XL]: SP 13+
+r:"^初期SPが13以上のスキルで与えるダメージを([0-9]+)%上昇させる。                        $"=Increases 13+ initial SP skills' damage damage dealt by $1%.
+
+夜の監獄豆まき大会=Nighttime Prison Mamemaki Festival
+マジック＆ヒットプロダクト【Ⅱ】：5=Magic & Hit Product [II]: 5
+マジック＆ヒットプロダ…=Magic & Hit Product...
+マジック＆ヒットプロダク…=Magic & Hit Product...
+r:"^ポジション([0-9]+)の魔法攻撃力と命中を([0-9]+)%上昇させる。$"=Increases Position $1's MATK and HIT by $2%.
+いけない遊び=Naughty Play
+魔法攻撃で与えるダメージが25%上昇させ、更にポジション5が攻撃した時、稀に自身を回復（小）する。=Increases magical attack damage dealt by 25% and when Position 5 attacks, rarely recovers HP (S).
+
+ごはんを食べて反省会=Eating a Meal and Review a Battle
+修羅を超えしもの【壱】=Beyond Shura [Ichi]
+HP30%以下の時、敵に与えるダメージを15%上昇させる。=When HP is 30% or less, increases damage dealt to enemies by 15%.
+修羅を超えしもの【弐】=Beyond Shura [Ni]
+HP20%以下の時、エレメントバーストで与えるダメージを15%上昇させる。=When HP is 20% or less, increases Element Burst damage dealt by 15%.
+修羅を超えしもの【参】=Beyond Shura [San]
+HP10%以下の時、敵に与えるダメージとエレメントバーストで与えるダメージを20%上昇させる。=When HP is 10% or less, increases damage dealt and Element Burst Damage dealt to enemies by 20%.
+
+心惹かれる仲間たち=Attractive Friends
+単体の進攻【Ⅴ】：1&2&3=Single-Target Advance [V]: 1 & 2 & 3
+単体の進攻【Ⅴ】：1&2…=Single-Target Advance [V]: 1 & 2...
+r:"^ポジション1・2・3が単体攻撃で与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 1, 2 and 3's single-target attack damage dealt by $1%.
+バーストダメージアップ【Ⅳ】：『火』=Burst Damage Up [IV]: "Fire"
+r:"^エレメントバースト『火＋水』『火＋光』で与えるダメージを([0-9]+)%上昇させる。$"=Increases 'Fire + Water' and 'Fire + Light' Element Burst damage dealt by $1%.
+万全優勢：1&2&3=Perfect Advantage: 1 & 2 & 3
+r:"^ポジション1・2・3がHP50%以上の時、与えるダメージを([0-9]+)%上昇させ、更にHPが満タンの時、与えるダメージを([0-9]+)％上昇させる。$"=When Position 1, 2 and 3's HP is 50% or more, increases damage dealt by $1%, and when HP is full, increases damage dealt by $2%.
+
+ドッガン団参上！=The Doggan Gang is Here!
+r:"^ポジション5がHP50%以上の時、与えるダメージを([0-9]+)%上昇させ、更にHPが満タンの時、与えるダメージを([0-9]+)%上昇させる。                        $"=When Position 5's HP is 50% or more, increases damage dealt by $1% and when HP is full, increases damage dealt by $2%.
+
+ナイトプールで大人な一夜を=Enjoying an Adult's Night at the Pool
+大人なひと時=Adult Moment
+ポジション1の物理攻撃で与えるダメージが60%上昇させ、更に速さを20%上昇させる。=Increases Position 1's physical attack damage dealt by 60% and SPD by 20%.
+
+二人で雪まつりデート=Snow Festival Date Together
+スキルの進攻【Ⅱ】=Skill Advance [II]
+通常攻撃とスペシャルスキル以外のスキルで与えるダメージを10%上昇させる。=Excluding normal attacks and Special Skills, increases skill damage dealt by 10%.
+
+トップとパーティーの後で=After the Party With the Top
+
+//L Event
+未来からの来訪者=Visitors From the Future
+
+激闘の空中戦！=Fierce Aerial Combat!
+
+展開！大悪鬼封印術=Unleash! Daiyaki Sealing Technique
+魔具の進攻【Ⅳ】=Artifact Advance [IV]
+マジック＆スピードプロダクト【Ⅰ】：魔具=Magic & Speed ​​Product [I]: Artifact
+r:"^魔具の魔法攻撃力と速さを([0-9]+)%上昇させる。$"=Increases Artifact Layers' MATK and SPD by $1%.
+
+力強き乙女たち=The Mighty Maidens
+
+笑みがこぼれるお祭り=A Festival Filled With Smiles
+
+メカパディントン×シャークロン 新たなる海域=Mecha Paddington x Sharklone - New Seas
+メカパディントン×シャーク…=Mecha Paddington x Shark...
+海域の平和を守るために=To Maintain Peace in the Seas
+武器種が槍と鞭のレイヤーの物理攻撃力と物理防御力を25%上昇させる。=Increases Gun and Whip weapon Layers' ATK and DEF by 25%.
+ウォーターカット【Ⅳ】=Water Cut [IV]
+r:"^水属性ダメージを([0-9]+)%軽減する$"=Decreases Water Element damage by $1%.
+ヒールターン【中】：ALL=Heal Turn [M]: All
+パーティ全員がターン開始時に稀に自身を回復（中）する。=At the start of a turn, rarely recovers all party members' HP (M).
+
+学園祭のはじまり=Beginning of the Academy Festival
+アタック&バーストアタックブースト【特…=Attack & Burst Attack Boost [Special ...
+アタック&バーストアタッ…=Attack & Burst Atta...
+r:"^wave開始時、味方全体の物理攻撃力とエレメントバースト時の物理攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=At the start of a wave, increases all allies' ATK and ATK during Element Burst by $1%. ※Effect lasts this turn only
+槍の進攻【Ⅱ】=Spear Advance [II]
+バーストダメージアップ【Ⅳ】：槍=Burst Damage Up [IV]: Spear
+r:"^武器種が槍のレイヤーの敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Spear weapon Layers' damage dealt and Element Burst damage dealt to enemies by $1%.
+スピードプロダクト【Ⅱ】=Speed ​​Product [II]
+
+準備も楽しい大運動会=Athletic Meet Preparation is Fun Too
+開催準備中=Preparation in Progress
+魔法攻撃で与えるダメージを30%上昇させ、更にポジション5が、攻撃時、稀に自身の魔法攻撃力を上昇（小）させる。※効果は2ターンのみ=Increases magical attack damage dealt by 30% and when Position 5 attacks, rarely increases MATK (S). ※Effect lasts 2 turns only
+r:"^ポジション3・4・5が、敵に与えるダメージとエレメントバーストで与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 3, 4, 5's damage dealt and Element Burst damage dealt to enemies by $1%.
+マジック&バーストマジックブースト【特…=Magic & Burst Magic Boost [V...
+マジックプラス【Ⅵ】&マ…=Magic Plus [VI] & Ma...
+マジックプラス【Ⅵ】&マジックプロダク…=Magic Plus [VI] & Magic Product...
+
+開催宣言=Event Announcement
+エレメントダメージアップ【Ⅲ】：『光』=Element Damage Up [III]: "Light"
+r:"^光属性エレメントの付いている敵に対して、与えるダメージを([0-9]+)%上昇する。$"=Increases damage dealt to enemies with Light Element stacks by $1%.
+
+霧の果てに見る楽園=Paradise Beyond the Mist
+HPプロダクト【Ⅲ】=HP Product [III]
+HPを15%上昇させる。=Increases HP by 15%.
+
+キュロちゃん奪還作戦=Operation Kyuro-chan Retrieval
+真ヒールウェーブ【中】=True Heal Wave [M]
+wave開始時、パーティ全員を回復（中）する。=At the start of a wave, recovers all allies HP (M).
+
+2025年の門出を祝して=Celebrating the Start of 2025
+
+呪われし水竜『バーゼル』=Cursed Water Dragon "Basel"
+アタックプロダクト【Ⅱ】：槍=Attack Product [II]: Spear
+武器種が槍の物理攻撃力を20%上昇させる。=Increases Spear weapon's ATK by 20%.
+
+//L Paid
+疲れた体に絶品炭火焼きカレー=Exquisite Charcoal Curry for the Tired Ones
+みんなでバーベキュー=Barbecue for Everyone
+バトル開始時、全員のスペシャルスキルのチャージポイントを1回復させ、更にポジション1が、攻撃した時、稀に自身を回復（中）する。=At the start of the battle, recovers all member's Special Skill Charge Point by 1 and when position 1 is attacking, rarely recovers (M).
+幸運の共鳴【Ⅵ】=LUCK Resonance [VI]
+バーストダメージアップ【Ⅳ】：1&5=Burst Damage Up [IV]: 1 & 5
+r:"^ポジション1・5がエレメントバーストで与えるダメージが([0-9]+)%上昇する。$"=Increases Position 1 and 5's Element Burst damage dealt by $1%.
+ラックプラス【Ⅴ】&ラックプロダクト【…=Luck Plus [V] & Luck Product [...
+ラックプラス【Ⅴ】&ラッ…=Luck Plus [V] & Lu...
+r:"^パーティ全員の幸運を([0-9]+)上昇させ、更に幸運を([0-9]+)%上昇させる$"=Increases all party member's LUCK by $1 and LUCK by $2%.
+
+お菓子な魔女とゆかいな仲間たち=The Candy Witch and Her Fun Friends
+お菓子な魔女とゆかいな仲間…=The Candy Witch and Her Fun...
+トリックオアトリート=Trick or Treat
+ポジション2・3が、物理攻撃で与えるダメージを40%上昇させる。更にポジション1のHPを15%上昇させる。=Increases Position 2 and 3's physical attack damage dealt by 40%; increases Position 1's HP by 15%.
+バーストダメージアップ【Ⅳ】：1&2&3=Burst Damage Up [IV]: 1 & 2 & 3
+r:"^ポジション1・2・3がエレメントバーストで与えるダメージが([0-9]+)%上昇する。$"=Increases Position 1, 2 and 3's Element Burst damage dealt by $1%.
+
+紅葉舞う絶景露天風呂=Open-Air Bath With Autumn Leaves
+赤い紅葉と熱い湯煙=Red Autumn Leaves and Hot Steam
+ポジション1・2・3が、全体攻撃で与えるダメージを25%上昇させ、更に敵が１体の時、敵に与えるダメージが20%上昇する。=Increases Position 1, 2 and 3's all-target damage dealt by 25% and if there is one enemy, increases damage dealt to the enemy by 20%.
+物理ダメージアップ【Ⅴ】：1=Physical Damage Up [V]: 1
+物理ダメージアップ【Ⅴ】…=Physical Damage Up [V]...
+r:"^ポジション１の物理攻撃で与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 1's physical attack damage dealt by $1%.
+
+更衣室でお着替え=Changing Clothes in the Changing Room
+蒼の彼方=Across the Blue
+ポジション1・2・3が、単体攻撃で与えるダメージを25%上昇させ、更にHPが満タンの時、エレメントバーストで与えるダメージを10%上昇させる。=Increases Position 1, 2 and 3's single-target damage dealt by 25% and when HP is full, increases Element Burst damage dealt by 10%.
+アタックプラス【Ⅳ】&アタックプロダク…=Attack Plus [IV] & Attack Product...
+アタックプラス【Ⅳ】&ア…=Attack Plus [IV] & A...
+
+オオエファミリー出陣=Ooe Family Goes to Battle
+大悪鬼討伐=Daiyaki Subjugation
+物理攻撃で与えるダメージを30%上昇させ、更にエレメントの付いている敵に対して、与えるダメージを15%上昇する。=Increases physical attack damage by 30% and increases damage dealt to enemies with Element stacks by 15%.
+
+お花見より三色団子=Sanshoku Dango Over Cherry Blossom Viewing
+桜と三色団子=Sakura and Sanshoku Dango
+ポジション1・2・3が、敵に与えるダメージを45%上昇させ、更にポジション1のHPを15%上昇させる。=Increases Position 1, 2, and 3's damage dealt to enemies by 45%, and increases Position 1's HP by 15%.
+アタック＆ガードプロダクト【Ⅱ】：1=Attack & Guard Product [II]: 1
+アタック＆ガードプロダク…=Attack & Guard Produ...
+アタック=Attack
+ガードプロダク…=Guard Product...
+ガードプロダクト【Ⅱ】：1=Guard Product [II]: 1
+ポジション1の物理攻撃力と物理防御力を20%上昇させる=Increases Position 1's ATK and DEF by 20%
+
+ようこそスプリングガーデンへ=Welcome to Spring Garden
+ようこそスプリングガーデン…=Welcome to Spring Garden
+武器種が剣と斧のレイヤーが、敵に与えるダメージを40％上昇させる。=Increases Sword and Axe weapon Layers' damage dealt to enemies by 40%.
+アタック&バーストアタックブースト【極…=Attack & Burst Attack Boost [X...
+アタック&ヒットプロダクト【Ⅱ】：剣&斧=Attack & Hit Product [II]: Sword & Axe
+r:"^剣と斧の物理攻撃力と命中を([0-9]+)%上昇させる。$"=Increases Sword and Axe Layer's ATK and HIT by $1%.
+
+御一夜を守るために！=To Protect Ohitoyo!
+鉄道復興物語=Railway Restoration Story
+魔法攻撃で与えるダメージを25%上昇させ、エレメントバースト『火＋水』『火＋光』『水＋光』で与えるダメージを15%上昇させる。=Increases magical attack damage dealt by 25% and increases 'Fire + Water', 'Fire + Light', 'Water + Light' Element Burst damage dealt by 15%.
+バーストダメージアップ【Ⅳ】=Burst Damage Up [IV]
+
+寒さも忘れて雪だるま作り=Forget the Cold and Make a Snowman
+粉雪と雪だるま=Powder Snow and Snowman
+魔法攻撃で与えるダメージが20%上昇させ、ターン終了時に、稀に自身を回復（小）する。=Increases magical attack damage dealt by 20% and at the end of a turn, rarely recovers HP (S).
+エレメントダメージアップ【Ⅳ】：『光＆闇』=Element Damage Up [IV]: "Light & Dark"
+エレメントダメージアップ【Ⅳ】：『光&…=Element Damage Up [IV]: "Light & ...
+r:"^光または闇属性エレメントの付いている敵に対して、与えるダメージを([0-9]+)%上昇する。$"=Increases damage dealt to enemies with Light or Dark Element stacks by $1%.
+バーストダメージアップ【Ⅴ】：フルコンディション=Burst Damage Up [V]: Full Condition
+バーストダメージアップ【Ⅴ】：フルコン…=Burst Damage Up [V]: Full...
+マジック＆バーストマジックブースト【絶大】=Magic & Burst Magic Boost [TL]
+バーストマジックブースト【絶…=Burst Magic Boost [...
+
+運動後のストレッチ=Post-Exercise Stretches
+柔軟運動=Flexibility Exercise
+ダメージを受けた時、物理攻撃力を7%上昇させる。※効果は2ターンのみ=When attacked, increase ATK by 7%.\n* The effect is only 2 turns
+物攻の共鳴【Ⅵ】=Attack Resonance [VI]
+物攻1200につきダメージを6%上昇させる（最大60%）=Increases damage by 6% (Max 60%) for every 1200 ATK.
+バーストダメージアップ【Ⅴ】：ハーフリスキーコンディション=Burst Damage Up [V]: Half Risky Condition
+バーストダメージアップ【Ⅴ】：ハーフリ…=Burst Damage Up [V]: Half...
+HPが75％以下の時、エレメントバーストで与えるダメージが25%上昇する。=When HP is 75% or less, increases Element Burst damage dealt by 25%.
+
+速さの共鳴【Ⅴ】=SPD Resonance [V]
+速さ1000につきダメージを5%上昇させる（最大50%）=Increases damage by 5% (Max 50%) for every 1000 SPD.
+
+世話焼き娘の力=Power of a Caring Daughter
+魔法攻撃で与えるダメージが35%上昇させ、ターン終了時に、稀に自身を回復（小）する。=Increases magical attack damage dealt by 35% and at the end of turn, rarely heals HP (S).
+魔攻の共鳴【Ⅴ】=MATK Resonance [V]
+魔法攻撃力1000につきダメージを5%上昇させる（最大50%）=Increases damage by 5% for every 1000 MATK (up to 50%).
+
+じゃれあいアニマルズ=Playful Animals
+にゃんにゃん=Meow Meow
+Wave中の3ターン開始ごとに、味方全体のエレメントバースト時の物理攻撃力と魔法攻撃力を25%上昇させる。※効果は発動ターンのみ=At the start of every third turn during a wave, increases all allies' ATK during Element Burst and MATK during Element Burst by 25%. ※Effect lasts this turn only
+Wave中の3ターン開始ごとに、味方全体のエレメントバースト時の物理攻撃力と魔法攻撃力を20%上昇させる。※効果は発動ターンのみ=At the start of every third turn during a wave, increases all allies' ATK during Element Burst and MATK during Element Burst by 20%. ※Effect lasts this turn only
+単敵優勢【Ⅲ】=Single Enemy Advantage [III]
+単敵優勢【Ⅳ】=Single Enemy Advantage [IV]
+
+あなたのいちばんは？=Who's Your Number One?
+だれにもまけない気持ち=Unyielding Feelings
+5Wave目までのWave開始時、Weak攻撃で与えるダメージと敵に与えるダメージを35%上昇させる。※効果はそれぞれ発動ターンのみ=At the start of a wave up to Wave 5, increases weakness damage dealt and damage dealt to enemies by 35%. ※Each effect lasts this turn only
+ダブルパワーアップブースト【Ⅵ】=Double Power Up Boost [VI]
+ダブルパワーアップブース…=Double Power Up Boost...
+r:"^Wave開始時、物理攻撃力と魔法攻撃力を([0-9]+)%上昇させる。※効果はそれぞれ発動ターンのみ$"=At the start of a wave, increases ATK and MATK by $1%. ※Each effect lasts this turn only
+ウィークダメージアップ【極大】：1&5=Weak Damage Up [XL]: 1 & 5
+r:"^ポジション1・5がWeak攻撃で与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 1 and 5's weakness damage dealt by $1%.
+回復UP【大】=RCV Up [L]
+
+学園祭は楽しんだもん勝ち！=Enjoy Academy Festival to the Fullest!
+ダブルガードプロダクト【…=Double Guard Product [...
+楽しむ気持ち=Feelings of Having Fun
+パーティ内で1番目に行動するレイヤーの行動前、エレメントバーストで与えるダメージを35%上昇させる。更に2番目に行動するレイヤーの行動前、コンディションを15%上昇させる。※効果はそれぞれ発動ターンのみ=Before the first acting Layer in the party takes action, increases Element Burst damage dealt by 35%; before the second Layer takes action, increases Condition by 15%. ※Each effect lasts this turn only
+ダブルガードプロダクト【Ⅲ】：ノンコン…=Double Guard Product [III]: Non-Con...
+r:"^ターン開始時、HP80%以下の時、物理防御力と魔法防御力を([0-9]+)%上昇させる。※効果はそれぞれ発動ターンのみ$"=At the start of a turn, when HP is 80% or less, increases DEF and MDEF by $1%. ※Each effect lasts this turn only
+バーストダメージアップ【Ⅴ】=Burst Damage Up [V]
+r:"^エレメントバーストで与えるダメージが([0-9]+)%上昇する。$"=Increases Element Burst damage dealt by $1%.
+
+伝説のバンド結成！？=A Legendary Band is Formed!?
+華麗なるビート=Gorgeous Beat
+バトル開始時、ポジション4・5のレイヤーのCPを1回復させ、更に魔法攻撃で与えるダメージを15%上昇させる。=At the start of the battle, recovers Position 4 and 5 Layer's CP by 1 and increases magical attack damage dealt by 15%.
+マジックプロダクト【Ⅲ】=Magic Product [III]
+r:"^魔法攻撃力を([0-9]+)%上昇させる。$"=Increases MATK by $1%.
+
+寒空にかかるカーテン=Curtains Hanging Over the Cold Sky
+きれいな夜景の下で=Under the Beautiful Night View
+武器種が槍と弓のレイヤーの物理攻撃力とエレメントバーストで与えるダメージを20%上昇させる。更に命中を15%上昇させる。=Increases Spear and Bow Layer's ATK and Element Burst damage dealt by 20%; increases HIT by 15%.
+バースト命中の共鳴【Ⅵ】=Burst HIT Resonance [VI]
+r:"^命中([0-9]+)につきエレメントバーストで与えるダメージを([0-9]+)%上昇させる（最大([0-9]+)%）$"=Increases Element Burst damage dealt by $2% (Max $3%) per $1 HIT.
+ヒットプラス【Ⅴ】&ヒットプロダクト【…=Hit Plus [V] & Hit Product [...
+ヒットプラス【Ⅴ】&ヒッ…=Hit Plus [V] & Hit...
+パーティ全員の命中を300上昇させ、更にポジション1・2の命中を20%上昇させる。=Increases all party members' HIT by 300 and increases Position 1 and 2's Hit by 20%.
+
+年初めはおみくじで運試し=Trying Omikuji Luck on New Years Day
+新年のひめごと=New Year's Secret
+おみくじで大吉=Dai-kichi From Omikuji
+パーティ全員のバトルで得られるレイヤー経験値が50%上昇させ、さらにバトルで得られるゴールドの量が30%上昇する。=Increases all party members' Experience Points earned in a battle by 50% and gold amount obtained in a battle by 30%.
+熟練度の教え【Ⅱ】=Proficiency Lesson [II]
+
+波にふわふわ揺られて=Rocking Gently on the Waves
+ビーチでふたりきり♪=Just the Two of Us on the Beach♪
+浮き輪の持ち主=Owner of the Floatie
+バトルで得られるゴールドの量を50%上昇させ、更にバトル開始時、SPを2回復させる。=Increase the amount of gold obtained in a battle by 50% and at the start of the battle, recovers 2 SP.
+
+新たなる年、初めの一歩=A New Year, A First Step
+バトル開始時、全員のCPを1回復させる。更にスペシャルスキルを発動後、2ターンの間、自身のコンディションを75%上昇する。=At the start of the battle, all allies recover 1 CP; After activating a Special Skill, increases self Condition by 75% for 2 turns.
+
+新たなる地を訪れて=Visiting New Places
+未知の世界=Unknown World
+魔法攻撃で与えるダメージを40%上昇させる。更にWave開始時、パーティ全員を回復（中）する。=Increases MATK by 40%; at the start of a wave, recovers all allies' HP (M).
+ラック=Luck
+リカバリープロダクト【Ⅱ】=Recovery Product [II]
+
+かわいいって言わないと悪戯しますよ♪=Say We're Cute, or You'll Be Pranked♪
+ハッピーハロウィン=Happy Halloween
+バトル開始時、ポジション4・5が魔法攻撃で与えるダメージと単体攻撃で与えるダメージを30%上昇させる。更にターン開始時、一定確率でポジション5を回復（小）させる。=At the start of the battle, increases Position 4 and 5's magical damage dealt and single-target damage dealt by 30%; at the start of a turn, chance to recover Position 5's HP (S).
+バーストマジックブースト【極…=Burst Magic Boost [XL]
+マジック=Magic
+wave開始時、ポジション4・5の魔法攻撃力とエレメントバースト時の魔法攻撃力を20%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases Position 4 and 5's MATK and MATK during Element Burst by 20%.
+
+聖夜に贈るクリスマスケーキ=Christmas Cake on a Holy Night
+めりーくりすます♪=Merii Kurisumasu♪
+武器種が鞭・魔具・銃が敵に与えるダメージとエレメントバーストで与えるダメージを35%上昇させる。=Increase Whip, Artifact, Gun weapon's damage dealt and Element Burst damage dealt to enemies by 35%.
+ダブルパワーアップブースト【Ⅳ】=Double Power Up Boost [IV]
+幸運の共鳴【Ⅴ】=LUCK Resonance [V]
+
+金色の時間を過ごして=Spend a Golden Time
+ゴールデンタイム=Golden Time
+3Wave目までのWave開始時、物理攻撃力を25%上昇させ、更に敵に与えるダメージを30%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave up to Wave 3, incrases ATK by 25% and increases damage dealt to enemies by 30%. ※Each effect lasts this turn only
+物攻の共鳴【Ⅴ】=ATK Resonance [V]
+物攻1000につきダメージを5%上昇させる（最大50%）=Increases damage by 5% per 1000 ATK (Up to 50%).
+
+新春！羽根つき大会！=New Year! Hanetsuki Competition!
+謹賀新年の遊び=Kinga Shinnen Games
+ポジション1のレイヤーの「OverLimit」を1段階強化する。更にポジション1のレイヤーの行動前、1ターンの間、そのレイヤーの物理攻撃力とエレメントバースト時の物理攻撃力を20%上昇させる。=Increases Position 1 Layer's Over Limit stage by 1; Before Position 1 Layer takes action, increases ATK and ATK during Element Burst by 20% for 1 turn.
+
+鬼かわいいところに福来たる！=Good Fortune for the Super Cute!
+大型ハンター【Ⅳ】=Large Hunter [IV]
+かわいい鬼=Cute Oni
+1Wave目のWave開始時、武器種が槍・弓・銃のレイヤーの敵に与えるダメージを50%上昇させ、更に命中を20%上昇させる。※それぞれ効果は2ターンのみ=At the start of Wave 1, increases Spear/Bow/Gun layers' damage dealt to enemies by 50%, and also increases HIT by 20%. ※Each effect lasts 2 turns only.
+
+チョコレートはお好きですか=Do You Like Chocolate?
+手作りチョコレート=Homemade Chocolate
+
+お姉ちゃんたちをご案内！=Introducing the Onee-chans!
+かわいい来遊者さん=Cute Visitors
+ダメージ＆バーストダメー…=Damage & Burst Damage...
+ダメージ＆バーストダメージブースト【Ⅲ】=Damage & Burst Damage Boost [III]
+wave開始時、味方全体の敵に与えるダメージとエレメントバーストで与えるダメージを15%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, increases all allies' damage dealt and Element Burst damage dealt to enemies by 15%. ※Each effect lasts this turn only.
+
+夜のプールで水泳部と待ち合わせ=Swimming Club Night Meeting at the Pool
+上達する泳ぎ=Swimming to Improve
+wave開始時、武器種が「剣・斧」のレイヤーの物理攻撃力を10%上昇させ、更に武器種が杖のレイヤーの魔法攻撃力を10%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない        =At the start of a wave, increases Sword/Axe weapon Layers' ATK by 10%, and Staff weapon Layer's MATK by 10%. ※Each effect is permanent for the rest of the battle.
+
+No.1になる為に=To be No. 1
+コンディションアップ：アクション【魔具】=Condition Up: Action [Artifact]
+コンディションアップ：ア…=Condition Up: A...
+【自身の攻撃1回ごとに、1ターンの間、与えるダメージを15%上昇させる】効果を武器種が魔具のレイヤーに付与する。※『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Layers using Artifact weapons gain buff [Increases damage dealt by 20% per attack for 1 turn]. ※Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1
+月下の美人=Beauty Under the Moon
+武器種が魔具のレイヤーの魔法攻撃力を35%上昇させ、更に敵に与えるダメージを30%上昇させる。=Increases layers using Artifact weapon's MATK by 35% and also increases damage dealt to enemies by 30%.
+
+大食い！？ごちそうパーティー！=Big Eaters!? Feast Party!
+食べ過ぎ注意=Careful Not to Overeat
+
+ウィークダメージアップ…=Weak Damage Up...
+ダメージアップ&バース…=Damage Up & Burst...
+万全優勢：5=Perfect Advantage: 5
+アクションパワー【Ⅱ】…=Action Power [II]...
+フルコンディション攻【…=Full Condition Attack [...
+マジック&バーストマジ…=Magic & Burst Magi...
+マジックプラス【Ⅴ】&…=Magic Plus [V] &...
+フルコンディション【大…=Full Condition [L...
+ダメージアップ【小】：…=Damage Up [S]:...
+ヒールターン【小】：A…=Heal Turn [S]: A...
+アタック&バーストアタ…=Attack & Burst Atta...
+ダメージアップ【特大】…=Damage UP [VL]...
+アタック＆ヒットプロダ…=Attack & Hit Produ...
+勝ったのはどくたぁです…=The Winner Is Doctor...
+ダメージアップ【中】：…=Damage Up [M]:...
+アタックプラス【Ⅲ】＆…=Attack Plus [III] &...
+マジックプラス【Ⅲ】＆…=Magic Plus [III] &...
+マジックプロダクト【Ⅰ…=Magic Product [I...
+バーストダメージアップ…=Burst Damage Up...
+エレメントダメージアッ…=Element Damage Up...
+マジックプロダクト【Ⅱ…=Magic Product [II...
+ダメージアップ【極大】…=Damage Up [XL]...
+マジック＆スピードプロ…=Magic & Speed ​​Pro...
+ダメージアップ【大】：…=Damage Up [L]:...
+ダブルパワーアップブー…=Double Power Up Bo...
+ヒールウェーブ【中】：…=Heal Wave [M]:...
+ラックプラス【Ⅴ】&ラ…=Luck Plus [V] & Lu...
+物理ダメージアップ【Ⅴ…=Physical Damage Up [V...
+アタック＆スピードプロ…=Attack & Speed ​​Pro...
+ガード&マインドプロダ…=Guard & Mind Produ...
+アタック&ヒットプロダ…=Attack & Hit Produ...
+マジックプラス【Ⅵ】=Magic Plus [VI]
+リカバリープロ…=RCV Product...
+スピードプラス【Ⅵ】=Speed ​​Plus [VI]
+ラッピングガールズ=Wrapping Girls

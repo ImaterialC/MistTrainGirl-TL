@@ -1,0 +1,68 @@
+※10DAYSログインミッションはミッションを全て受領した翌日、もしくはパスの有効{{A}}切れ（20日間）で再{{B}}できるようになります\r\n※ミッションパスを複数所持していた場合は進行中ミッションの完了、もしくは{{A}}切れの翌日に自動的に次のミッションが開始されます=* 10 Days Login Missions can be repurchased the day after receiving all rewards, or at the valid deadline (20 days) of the pass.\nThe next mission will start automatically the next day.
+10Daysログインミッション報酬獲得=10 Days Login Mission Reward
+報酬を獲得しました=Received rewards
+1500DMMポイント=1500 DMM points
+480DMMポイント=480 DMM points
+ミッションパック所持数=Number of Mission Packs
+初級ミッション=Beginner Missions
+バージョン更新=Version Update
+アプリバージョンが更新されました。\r\nストアからバージョンアップを行ってください。=The app version has been updated.\r\nPlease update from the store.
+
+//Mission
+10daysログインミッションの効果が終了しました\r\n所持している残りの権利を行使して効果を継続します=10-day Login Mission pass has expired.
+残数=Left
+購入時に獲得したミストジュエル=Jewels acquired on purchase
+獲得したミストジュエル=Mist Jewels Acquired
+達成したミッション=Mission Accomplished
+ミッションを再度購入できるようになりました=You are able to buy the missions again now
+【ミッション完了までに獲得した報酬】=[Rewards earned by completing the mission]
+10daysログインミッションの効果が終了しました=The 10 Days Login Mission has ended
+
+//Quotes
+車掌どののお陰で4周年を迎えることができました♪　これからも一緒に頑張っていきましょうね！=Thanks to Lord Conductor, we celebrated our 4th anniversary! Let's keep working together!
+車掌さん、一緒に学園祭を楽しいものにしましょうね♪=Conductor, let's make the school festival fun together♪
+ログインボーナスです。特鉄隊宛に物資が届いていますよ。貨物車に入れておきましたので、ご確認ください♪=Login bonus.\nSupplies have arrived for the SSS.\nThey've been placed into the freight car, please do check them♪
+第七回トレインナイト選抜総選挙開催です！　新しい仲間も増えたので、前回よりも白熱しそうですね！=The 7th Train Knight General Election is being held!\nWith the addition of new members, it looks like it will be even more heated than last time!
+ファリンドン様の為に風紀を正してやるぞ！=I'll set the record straight for Milady Farringdon!
+車掌どの、これからは更に魅力を知ることができますね♪=Lord Conductor, Now you can learn more about my charming looks, right?♪
+車掌、後夜祭でも気を抜くなよ=Conductor, don't let your guard down even during post festivities.
+吾はさらに強くなるぞ！=I shall beest coequal stronger!
+車掌どの、どうやら私立美浜学園の皆さんがやって来るみたいです！=Lord Conductor, it looks like the students of Mihama Private Academy are coming!
+車掌どの、まだまだお祭りは終わりませんよ！もっと盛り上げていきましょうね！=Lord Conductor, the festival is not over yet! Let's liven it up some more!
+しゃしょうさんは、『ぱけもん』ってしってる？=Conductor, do you know about "Pakémon"?
+これからもよろしくだぞ！=Me thanks for your continued support!
+カミナル・ル・プルテア・ソルティレージュ・シスア。お姉さまがシルヴィと呼ばせるなら、わたくしもミナで結構ですわ。=Caminal le Pultaia Sortilège Sisua. If my onee-sama wants to be called Sylvie, then I'm happy to be called Mina.
+
+ダウンロード失敗=Download Failed
+通信環境が良い場所で、\r\nディスクの空き容量を確保して、\r\n再度お試しください。=Please try again in a location with\r\ngood Internet connectivity and\r\nwith sufficient free disk space.
+
+日目=Day
+パケモン=Pakémon
+わからないことがあれば、私に聞きなさい。=If there's anything you don't understand,\njust ask me.
+鉄路=Railroad
+私は、風見一姫。ユージのお姉ちゃんよ。=I'm Kazami Kazuki. I'm Yuji's older sister.
+もう後悔しないように、強くなります！=I'll become stronger so I won't have any regrets!
+車掌さん、美浜学園に来たときは案内してあげる。=Conductor, I'll show you around when you come to Mihama Academy.
+なんと、特鉄隊始動して1500日を迎えました！これからも頑張っていきましょうね、車掌どの♪=It's been 1500 days since the SSS was launched! Let's continue to do our best, Lord Conductor♪
+車掌くん、この格好はどうかな？=Mr. Conductor, how'd you like this look?
+みんな、ハッピークリスマースッッ！！=Everybody, HAPPY CHRISTMAAASSS!!
+車掌どの、どうやらノーブル学園の皆さんがやって来るみたいです！=Lord Conductor, it looks like there's people coming from the Noble Academy!
+//Dates
+もう。キュロちゃんは可愛いだけでいいのに。=Geez. Kyuro-chan should be just cuter.
+迷ったときはコーヒー牛乳。コーヒー牛乳で乗り越えられない試練はないぜ。=When in doubt, go for coffee milk. There's no challenge that coffee milk can't overcome.
+シルヴィアよ。シルヴィア・ル・クルスクラウン・ソルティレージュ・シスア。「シルヴィ」と呼んでちょうだい。=Sylvia. Sylvia le Cruzcrown Sortilège Sisua. Please call me "Sylvie".
+新年あけましておめでとうなのです。=Happy new year to you all.
+お菓子いっぱい作るです。=I'm going to make a lot of sweets.
+車掌どの、今年もきっと様々なことがあるでしょうが、共に頑張りましょう。=Lord Conductor, I'm sure there will be many things happening this year, but let's do our best together.
+イカ川ロリ板調査へ向かいましょう！=Let's head over to investigate the Ica River Lolitabs!
+疲れた時はやっぱチョコレートだよね♪=When yer tired, chocola'e's 'ze answer♪
+なんと、特鉄隊始動して1600日を迎えました！これからも頑張っていきましょうね、車掌どの♪=It's been 1600 days since the SSS was launched! Let's continue to do our best, Lord Conductor♪
+車掌さん、旧正月の時期になりましたね。=Conductor, it's time for Lunar New Years.
+クマも魅了できるようになりたいです！=Kuma wants to be able to charm you too!
+2025年02月17日 (月) ～ 2025年03月03日 (月) 11:59=Feb 17 (Mon), 2025 ～ Mar 3 (Mon), 2025 11:59
+クマったサン=Kumattasan
+くまさん祭り盛況のお礼です。=Thank you for the success of the Kumasan Festival.
+こうやって遊ぶのも大事ですなの～♪=It is important to play like this alsoo～!
+あなたがたは我々竜族の、永遠の友人です=You are forever friends of us dragonkin.
+第八回トレインナイト選抜総選挙開催です！　新しい仲間も増えたので、前回よりも白熱しそうですね！=The 8th Train Knights General Election is being held! Looks like it'll be even more heated than last time with the addition of new members!
+車掌さん、これからも共に歩んでいきましょう。=Conductor, let's continue to walk together.

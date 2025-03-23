@@ -1,0 +1,8 @@
+総選挙=General Election
+投票券所持数=Ballot Papers Owned
+＊投票速報、総投票数は毎日0時に更新されます=＊Poll bulletin and total votes are updated every day at midnight.
+投票結果=Poll Results
+投票詳細=Poll Details
+票=Vote
+投票=Vote
+投票済優先表示=Show Voted First

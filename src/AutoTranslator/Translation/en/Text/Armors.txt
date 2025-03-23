@@ -1,0 +1,613 @@
+重装=Heavy
+軽装=Light
+法衣=Robe
+盾=Shield
+帽子=Hat
+プロテクター=Protector
+スタンガード=Stun Guard
+バックラー=Buckler
+
+パワーレシーブ【大】=Power Receive [L]
+攻撃を受けた後、稀に自身の物理攻撃力を上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases ATK (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+マジックレシーブ【大】=Magic Receive [L]
+攻撃を受けた後、稀に自身の魔法攻撃力を上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases MATK (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+ヒットレシーブ【大】=Hit Receive [L]
+攻撃を受けた後、稀に自身の命大を上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases HIT (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+only 2 turns
+スピードレシーブ【大】=Speed ​​Receive [L]
+攻撃を受けた後、稀に自身の速さを上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases SPD (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+リカバリーレシーブ【大】=Recovery Receive [L]
+攻撃を受けた後、稀に自身の回復力を上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases RCV (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+ラックレシーブ【大】=Luck Receive [L]
+攻撃を受けた後、稀に自身の幸運を上昇（大）させる。※効果は2ターンのみ=When attacked, rarely increases LUCK (L). ※Effect lasts 2 turns only.\n　　　　　　　　　　　　　　　　　　　　
+刃属性耐性UP【Ⅰ】=Cut Element Resistance Up [I]
+衝属性耐性UP【Ⅰ】=Blow Element Resistance Up [I]
+貫属性耐性UP【Ⅰ】=Pierce Element Resistance Up [I]
+火属性耐性UP【Ⅰ】=Fire Element Resistance Up [I]
+水属性耐性UP【Ⅰ】=Water Element Resistance Up [I]
+風属性耐性UP【Ⅰ】=Wind Element Resistance Up [I]
+光属性耐性UP【Ⅰ】=Light Element Resistance Up [I]
+闇属性耐性UP【Ⅰ】=Dark Element Resistance Up [I]
+刃属性耐性UP【Ⅱ】=Cut Element Resistance Up [II]
+衝属性耐性UP【Ⅱ】=Blow Element Resistance Up [II]
+貫属性耐性UP【Ⅱ】=Pierce Element Resistance Up [II]
+火属性耐性UP【Ⅱ】=Fire Element Resistance Up [II]
+水属性耐性UP【Ⅱ】=Water Element Resistance Up [II]
+風属性耐性UP【Ⅱ】=Wind Element Resistance Up [II]
+光属性耐性UP【Ⅱ】=Light Element Resistance Up [II]
+闇属性耐性UP【Ⅱ】=Dark Element Resistance Up [II]
+刃属性耐性UP【Ⅲ】=Cut Element Resistance Up [III]
+衝属性耐性UP【Ⅲ】=Blow Element Resistance Up [III]
+貫属性耐性UP【Ⅲ】=Pierce Element Resistance Up [III]
+火属性耐性UP【Ⅲ】=Fire Element Resistance Up [III]
+水属性耐性UP【Ⅲ】=Water Element Resistance Up [III]
+風属性耐性UP【Ⅲ】=Wind Element Resistance Up [III]
+光属性耐性UP【Ⅲ】=Light Element Resistance Up [III]
+闇属性耐性UP【Ⅲ】=Dark Element Resistance Up [III]
+刃属性耐性UP【Ⅳ】=Cut Element Resistance Up [IV]
+衝属性耐性UP【Ⅳ】=Blow Element Resistance Up [IV]
+貫属性耐性UP【Ⅳ】=Pierce Element Resistance Up [IV]
+火属性耐性UP【Ⅳ】=Fire Element Resistance Up [IV]
+水属性耐性UP【Ⅳ】=Water Element Resistance Up [IV]
+風属性耐性UP【Ⅳ】=Wind Element Resistance Up [IV]
+光属性耐性UP【Ⅳ】=Light Element Resistance Up [IV]
+闇属性耐性UP【Ⅳ】=Dark Element Resistance Up [IV]
+
+物攻UP【Ⅴ】=ATK UP [V]
+物防UP【Ⅴ】=DEF UP [V]
+魔攻UP【Ⅴ】=MATK UP [V]
+魔防UP【Ⅴ】=MDEF Up [V]
+命中UP【Ⅴ】=HIT Up [V]
+速さUP【Ⅴ】=SPD ​​Up [V]
+回復UP【Ⅴ】=RCV Up [V]
+運UP【Ⅴ】=LUCK Up [V]
+物攻UP【Ⅵ】=ATK UP [VI]
+物防UP【Ⅵ】=DEF UP [VI]
+魔攻UP【Ⅵ】=MATK UP [VI]
+魔防UP【Ⅵ】=MDEF Up [VI]
+命中UP【Ⅵ】=HIT Up [VI]
+速さUP【Ⅵ】=SPD ​​Up [VI]
+回復UP【Ⅵ】=RCV Up [VI]
+運UP【Ⅵ】=LUCK Up [VI]
+エレメントガーディアン【Ⅲ】：『火』=Element Guardian [III]: "Fire"
+エレメントガーディアン【Ⅲ】：『水』=Element Guardian [III]: "Water"
+エレメントガーディアン【Ⅲ】：『風』=Element Guardian [III]: "Wind"
+エレメントガーディアン【Ⅲ】：『光』=Element Guardian [III]: "Light"
+エレメントガーディアン【Ⅲ】：『闇』=Element Guardian [III]: "Dark"
+エレメントガーディアン【Ⅱ】：『火』=Element Guardian [II]: "Fire"
+エレメントガーディアン【Ⅱ】：『水』=Element Guardian [II]: "Water"
+エレメントガーディアン【Ⅱ】：『風』=Element Guardian [II]: "Wind"
+エレメントガーディアン【Ⅱ】：『光』=Element Guardian [II]: "Light"
+エレメントガーディアン【Ⅱ】：『闇』=Element Guardian [II]: "Dark"
+r:"^火属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Fire Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^水属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Water Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^風属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Wind Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^光属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Light Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^闇属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Dark Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+
+刃属性耐性UP【Ⅲ】=Cut Element Resistance Up [III]
+r:"^刃属性の耐性が([0-9]+)%上昇する。$"=Increases Cut Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+衝属性耐性UP【Ⅲ】=Blow Element Resistance Up [III]
+r:"^衝属性の耐性が([0-9]+)%上昇する。$"=Increases Blow Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+貫属性耐性UP【Ⅲ】=Pierce Element Resistance Up [III]
+r:"^貫属性の耐性が([0-9]+)%上昇する。$"=Increases Pierce Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+火属性耐性UP【Ⅲ】=Fire Element Resistance Up [III]
+r:"^火属性の耐性が([0-9]+)%上昇する。$"=Increases Fire Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+水属性耐性UP【Ⅲ】=Water Element Resistance Up [III]
+r:"^水属性の耐性が([0-9]+)%上昇する。$"=Increases Water Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+風属性耐性UP【Ⅲ】=Wind Element Resistance Up [III]
+r:"^風属性の耐性が([0-9]+)%上昇する。$"=Increases Wind Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+光属性耐性UP【Ⅲ】=Light Element Resistance Up [III]
+r:"^光属性の耐性が([0-9]+)%上昇する。$"=Increases Light Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+闇属性耐性UP【Ⅲ】=Dark Element Resistance Up [III]
+r:"^闇属性の耐性が([0-9]+)%上昇する。$"=Increases Dark Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+sr:"^ダメージ耐性：([\s\S]+)【小】$"=Damage Resist: $1 [S]
+sr:"^([\s\S]+)からのダメージ（小）を軽減する。$"=Decreases damage from $1s (S).
+sr:"^ダメージ耐性：([\s\S]+)【中】$"=Damage Resist: $1 [M]
+sr:"^([\s\S]+)からのダメージ（中）を軽減する。$"=Decreases damage from $1s (M).
+
+
+全身防具。全員が装備できる。=A full body armor. Can be equipped by anyone.
+部分防具。全員が装備できる。=A partial armor. Can be equipped by anyone.
+
+//B
+メイル=Mail
+キャップ=Cap
+ローブ=Robe
+
+//A
+スニークプロテクター=Sneak Protector
+スニークプロテク…=Sneak Prote...
+ラウンドクロス=Round Cross
+キャットキャップ=Cat Cap
+シルバーブレイカー=Silver Breaker
+シルバーベスト=Silver Vest
+
+//A Effects
+物攻UP【Ⅰ】=ATK Up [I]
+r:"^装備したレイヤーの物理攻撃力を([0-9]+)上昇させる。$"=Increases the equipped Layer's ATK by $1.\n　　　　　　　　　　　　　　　　　　　　
+物防UP【Ⅰ】=DEF Up [I]
+r:"^装備したレイヤーの物理防御力を([0-9]+)上昇させる。$"=Increases the equipped Layer's DEF by $1.\n　　　　　　　　　　　　　　　　　　　　
+魔攻UP【Ⅰ】=MATK Up [I]
+r:"^装備したレイヤーの魔法攻撃力を([0-9]+)上昇させる。$"=Increases the equipped Layer's MATK by $1.\n　　　　　　　　　　　　　　　　　　　　
+魔防UP【Ⅰ】=MDEF Up [I]
+r:"^装備したレイヤーの魔法防御力を([0-9]+)上昇させる。$"=Increases the equipped Layer's MDEF by $1.\n　　　　　　　　　　　　　　　　　　　　
+命中UP【Ⅰ】=HIT Up [I]
+r:"^装備したレイヤーの命中を([0-9]+)上昇させる。$"=Increases the equipped Layer's HIT by $1.\n　　　　　　　　　　　　　　　　　　　　
+速さUP【Ⅰ】=SPD ​​Up [I]
+r:"^装備したレイヤーの速さを([0-9]+)上昇させる。$"=Increases the equipped Layer's SPD by $1.\n　　　　　　　　　　　　　　　　　　　　
+回復UP【Ⅰ】=RCV Up [I]
+r:"^装備したレイヤーの回復力を([0-9]+)上昇させる。$"=Increases the equipped Layer's RCV by $1.\n　　　　　　　　　　　　　　　　　　　　
+運UP【Ⅰ】=LUCK Up [I]
+r:"^装備したレイヤーの幸運を([0-9]+)上昇させる。$"=Increases the equipped Layer's LUCK by $1.\n　　　　　　　　　　　　　　　　　　　　
+
+//S
+エクリプスプレート=Eclipse Plate
+月の導きを得られると言い伝えられる重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that is said to be the guidance from the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスジャケット=Eclipse Jacket
+月の導きを得られると言い伝えられる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor that is said to be the guidance from the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスクローク=Eclipse Cloak
+月の導きを得られると言い伝えられる法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe that is said to be the guidance from the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスシールド=Eclipse Shield
+月の導きを得られると言い伝えられる盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスサークレット=Eclipse Circlet
+月の導きを得られると言い伝えられる冠。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A crown that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+
+百鬼絶壁の甲冑=Hyakki Zeppeki Armor
+百鬼夜行をも耐えるとされる重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that is said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼疾走の裃=Hyakki Shissou Kamishimo
+百鬼夜行をも耐えるとされる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor that is said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼魔硬の法衣=Hyakki Makou Robe
+百鬼夜行をも耐えるとされる法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe that is said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼防円の盾=Hyakki Bouen Shield
+百鬼夜行をも耐えるとされる盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield that is said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼形相の面=Hyakki Keisou Mask
+百鬼夜行をも耐えるとされる面。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A mask that is said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+
+新緑の重装=Verdant Heavy Armor
+新たな木々から生成された鮮やかな重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bright heavy armor produced from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の軽装=Verdant Light Armor
+新たな木々から生成された鮮やかな軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bright light armor produced from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の法衣=Verdant Robe
+新たな木々から生成された鮮やかな法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bright robe produced from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の盾=Verdant Shield
+新たな木々から生成された鮮やかな盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bright shield produced from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の帽子=Verdant Hat
+新たな木々から生成された鮮やかな帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bright hat produced from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+
+琥珀の重装=Amber Heavy Armor
+太古の琥珀から復元された重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor restored from ancient amber.\r\nEquipping the entire series will give it even more powerful effects.
+琥珀の軽装=Amber Light Armor
+太古の琥珀から復元された軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor restored from ancient amber.\r\nEquipping the entire series will give it even more powerful effects.
+琥珀の法衣=Amber Robe
+太古の琥珀から復元された法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe restored from ancient amber.\r\nEquipping the entire series will give it even more powerful effects.
+琥珀の盾=Amber Shield
+太古の琥珀から復元された盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield restored from ancient amber.\r\nEquipping the entire series will give it even more powerful effects.
+琥珀の帽子=Amber Hat
+太古の琥珀から復元された帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat restored from ancient amber.\r\nEquipping the entire series will give it even more powerful effects.
+
+白銀の重装=Hakugin Heavy Armor
+白銀の輝きを放つ重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の軽装=Hakugin Light Armor
+白銀の輝きを放つ軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の法衣=Hakugin Robe
+白銀の輝きを放つ法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の盾=Hakugin Shield
+白銀の輝きを放つ盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の帽子=Hakugin Hat
+白銀の輝きを放つ帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+
+オブシディアンプレート=Obsidian Plate
+黒曜の煌きを秘めた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンジャケット=Obsidian Jacket
+黒曜の煌きを秘めた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンクローク=Obsidian Cloak
+黒曜の煌きを秘めた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンシールド=Obsidian Shield
+黒曜の煌きを秘めた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンハット=Obsidian Hat
+黒曜の煌きを秘めた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+
+サンライトプレート=Sunlight Plate
+太陽の輝きを宿した重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトジャケット=Sunlight Jacket
+太陽の輝きを宿した軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトシールド=Sunlight Shield
+太陽の輝きを宿した盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトハット=Sunlight Hat
+太陽の輝きを宿した帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトクローク=Sunlight Cloak
+太陽の輝きを宿した法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+
+特鉄隊実践用の重装=SSS Practice Heavy Armor
+特鉄隊の隊員にのみ支給される実戦用の重装。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A combat heavy armor issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の軽装=SSS Practice Light Armor
+特鉄隊の隊員にのみ支給される実戦用の軽装。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A combat light armor issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の法衣=SSS Practice Robe
+特鉄隊の隊員にのみ支給される実戦用の法衣。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A combat robe issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の盾=SSS Practice Shield
+特鉄隊の隊員にのみ支給される実戦用の盾。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A combat shield issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の帽子=SSS Practice Hat
+特鉄隊の隊員にのみ支給される実戦用の帽子。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A combat hat issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+
+特鉄隊訓練用の重装=SSS Training Heavy Armor
+特鉄隊の隊員にのみ支給される訓練用の重装。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training heavy armor issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の軽装=SSS Training Light Armor
+特鉄隊の隊員にのみ支給される訓練用の軽装。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training light armor issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の法衣=SSS Training Robe
+特鉄隊の隊員にのみ支給される訓練用の法衣。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training robe issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の盾=SSS Training Shield
+特鉄隊の隊員にのみ支給される訓練用の盾。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training shield issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の帽子=SSS Training Hat
+特鉄隊の隊員にのみ支給される訓練用の帽子。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training hat issued only to members of the Special Steel Squad. It is rumored that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+
+//SS
+エクリプスプレート改=Eclipse Plate Kai
+エクリプスプレー…=Eclipse Plat...
+エクリプスジャケット改=Eclipse Jacket Kai
+エクリプスジャケ…=Eclipse Jack...
+エクリプスクローク改=Eclipse Cloak Kai
+エクリプスクロー…=Eclipse Cloa...
+エクリプスシールド改=Eclipse Shield Kai
+エクリプスシール…=Eclipse Shie...
+エクリプスサークレット改=Eclipse Circlet Kai
+エクリプスサーク…=Eclipse Circ...
+
+桜の重装=Sakura Heavy Armor
+模範的な特鉄隊員に送られる美しい桜の重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom heavy armor given to exemplary members of the Special Steel Squad.\r\nEquipping the whole series will give it even more powerful effects.
+桜の軽装=Sakura Light Armor
+模範的な特鉄隊員に送られる美しい桜の軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom light armor given to exemplary members of the Special Steel Squad.\r\nEquipping the whole series will give it even more powerful effects.
+桜の法衣=Sakura Robe
+模範的な特鉄隊員に送られる美しい桜の法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom robe given to exemplary members of the Special Steel Squad.\r\nEquipping the whole series will give it even more powerful effects.
+桜の盾=Sakura Shield
+模範的な特鉄隊員に送られる美しい桜の盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom shield given to exemplary members of the Special Steel Squad.\r\nEquipping the whole series will give it even more powerful effects.
+桜の帽子=Sakura Hat
+模範的な特鉄隊員に送られる美しい桜の帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom hat given to exemplary members of the Special Steel Squad.\r\nEquipping the whole series will give it even more powerful effects.
+
+紅葉の重装=Maple Heavy Armor
+ニシキにある落葉樹からつくられた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の軽装=Maple Light Armor
+ニシキにある落葉樹からつくられた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の法衣=Maple Robe
+ニシキにある落葉樹からつくられた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の帽子=Maple Hat
+ニシキにある落葉樹からつくられた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の盾=Maple Shield
+ニシキにある落葉樹からつくられた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+
+コスモレイプレート=Cosmo Ray Plate
+コスモレイプレー…=Cosmo Ray...
+遠き宇宙の技術で作られた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイジャケット=Cosmo Ray Jacket
+コスモレイジャケ…=Cosmo Ray...
+遠き宇宙の技術で作られた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイフード=Cosmo Ray Hood
+遠き宇宙の技術で作られた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイハット=Cosmo Ray Hat
+遠き宇宙の技術で作られた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイシールド=Cosmo Ray Shield
+コスモレイシール…=Cosmo Ray...
+遠き宇宙の技術で作られた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+
+蒸気機関の重装=Steam Engine Light Armor
+未知の部品を組み合わせて作られた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の軽装=Steam Engine Light Armor
+未知の部品を組み合わせて作られた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の法衣=Steam Engine Robe
+未知の部品を組み合わせて作られた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の帽子=Steam Engine Hat
+未知の部品を組み合わせて作られた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の盾=Steam Engine Shield
+未知の部品を組み合わせて作られた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+
+混沌の重装=Chaos Heavy Armor
+憎悪や憎しみが集まって作られた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の軽装=Chaos Light Armor
+憎悪や憎しみが集まって作られた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の法衣=Chaos Robe
+憎悪や憎しみが集まって作られた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の帽子=Chaos Hat
+憎悪や憎しみが集まって作られた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の盾=Chaos Shield
+憎悪や憎しみが集まって作られた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+
+//Paid
+百鬼夜怨の重装=Hyakki Yaon Heavy Armor
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の軽装=Hyakki Yaon Light Armor
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の法衣=Hyakki Yaon Robe
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の盾=Hyakki Yaon Shield
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の帽子=Hyakki Yaon Hat
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+
+黄金の重装=Golden Heavy Armor
+黄金と帝王玉を錬成してつくられた重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の軽装=Golden Light Armor
+黄金と帝王玉を錬成してつくられた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の法衣=Golden Robe
+黄金と帝王玉を錬成してつくられた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の盾=Golden Shield
+黄金と帝王玉を錬成してつくられた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の帽子=Golden Hat
+黄金と帝王玉を錬成してつくられた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+
+ぱんぷきんはっと=Pumpkin Hat
+装備しているとイタズラしたくなる帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSセイラム[古の魔女の末裔]に装備することでバトル中の見た目が変わる。=A hat that makes one want to play pranks when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Salem [Descendant of the Ancient Witch] will change her appearance during battle.
+
+温泉あひるタオル=Hot Spring Duck Towel
+装備しているとポカポカしてくる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSアミアン[果てなき探求心]に装備することでバトル中の見た目が変わる。=A light armor that makes one feel warm and fuzzy when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Amiens [Endless Inquisitiveness] will change her appearance during battle.
+
+サンタニットキャップ=Santa Knit Cap
+サンタニットキャ…=Santa Knit C...
+装備しているとプレゼントを渡したくなる帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオオエノミヤ[宴の始まり]に装備することでバトル中の見た目が変わる。=A hat that makes one eager to give a present when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Ooenomiya [Party Starter] will change her appearance during battle.
+
+迎春の着物ドレス=New Year Kimono Dress
+装備しているとおめでたい気分になる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSタイシェト[ナチュラル・サディスティック]に装備することでバトル中の見た目が変わる。=A light armor that makes one feel festive when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Tayshet [Natural Sadistic] will change her appearance during battle.
+
+バレンタインデコレーションハット=Valentine Decoration Hat
+バレンタインデコ…=Valentiine D...
+装備しているとチョコレートを渡したくなる帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブルーゼ[ブルーゼ劇場開幕☆]に装備することでバトル中の見た目が変わる。=A hat that makes one want to give chocolate when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bourse [Bourse Theater Grand Opening☆] will change her appearance during battle.
+
+半周年のタキシード=Half Anniversary Tuxedo
+半周年のタキシー…=Half Anniver...
+装備しているとお祝いをしたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプトラ[元気溌剌！海女ガール]に装備することでバトル中の見た目が変わる。=A light armor that makes one want to celebrate when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Putra [Energetic Diver Girl!] will change her appearance during battle.
+
+花盛りの外套=Flowering Coat
+装備していると花を愛でたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオハナ[花舞う格闘師範]に装備することでバトル中の見た目が変わる。=A light armor that makes one want to admire flowers when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Ohana [Flower Dance Fighting Master] will change her appearance during battle.
+
+五月晴れのワンピース=Sunny May...
+五月晴れのワンピ…=Sunny May...
+装備していると晴れやかな気持ちになる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSパンクラス[舞踏会の華]に装備することでバトル中の見た目が変わる。=A light armor that makes one feel cheerful when equipped.\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pancras [Flower of the Ball] will change her appearance during battle.
+
+感謝の白無垢=Gratitude Shiromuku
+装備していると感謝したくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヨシノ[こうぎょうけい呪術師]に装備することでバトル中の見た目が変わる。=A light armor that one will be grateful when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yoshino [Kougyoukei Jujutsushi] will change her appearance during battle.
+
+海開きの水着=Beach Opening Swimwear
+装備していると海に行きたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSペイジン[心優しき賢女]に装備することでバトル中の見た目が変わる。=A light armor that makes one want to go to the beach when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Beijing [Kind Scholar] will change her appearance during battle.
+
+夏真っ盛りの水着=Peak Summer Swimwear
+装備していると海に行きたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブルターニュ[雷鳴と共に]に装備することでバトル中の見た目が変わる。=A light armor that makes one want to go to the beach when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Brittany [Rumbling Thunder] will change her appearance during battle.
+
+1周年のドレス=1st Anniversary Dress
+装備していると盛大にお祝いをしたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフェルクリンゲン[枯れない誇り]に装備することでバトル中の見た目が変わる。=A light armor will make one want to celebrate in a big way when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Völklingen [Undying Pride] will change her appearance during battle.
+
+ハロウィンのドレス=Halloween Dress
+ハロウィンのドレ…=Halloween...
+装備しているとお菓子が欲しくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフュッセン[王の前に跪け]に装備することでバトル中の見た目が変わる。=A light armor that makes one crave sweets when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Füssen [Kneel Before the Queen] will change her appearance during battle.
+
+バニーのスーツ=Bunny Suit
+装備しているとパワーアップした気分になる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオハナ[花舞う格闘師範]に装備することでバトル中の見た目が変わる。=A light armor that makes one feel more powerful when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Ohana [Flower Dance Fighting Master] will change her appearance during battle.
+
+サンタのドレス=Santa Dress
+装備しているとプレゼントを渡したくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSシモアマヅ[冷静沈着なお世話係]に装備することでバトル中の見た目が変わる。=A light dress that makes one eager to give a present when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Shimoamazu [Calm and Collected Caretaker] will change her appearance during battle.
+
+迎春の着物=New Year Kimono
+正月を彩る美しい着物の軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヴィヴィアン[『妖精の森』の善き魔女]に装備することでバトル中の見た目が変わる。=A beautiful light kimono attire to brighten up New Year celebrations.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Vivienne [Good Witch of Fées Forest] will change her appearance during battle.
+
+パティシエのユニフォーム=Pâtissier Uniform
+パティシエのユニ…=Pâtissier Uni...
+装備しているとお菓子を作りたくなる軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSアカプルコ[雪遊びの箱庭]に装備することでバトル中の見た目が変わる。=A light armor that will make one want to make sweets when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Acapulco [Snow Games in a Mini Garden] will change her appearance during battle.
+
+舞台女優の衣装=Stage Actress's Outfit
+ヴェローナと一緒の舞台に立つ為に作られた衣装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSクインズウェイ[路を切り拓く者]に装備することでバトル中の見た目が変わる。=A costume made to appear on stage with Verona.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Queensway [Trailblazer] will change her appearance during battle.
+
+イースターの衣装=Easter Outfit
+可愛いうさぎが作成した衣装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヤクーツク[雪中デートで温めて]に装備することでバトル中の見た目が変わる。=A costume created by a cute rabbit.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yakutsk [Warming Up With a Snowy Date] will change her appearance during battle.
+
+スモック衣装=Smock Outfit
+ドーヴァーから借りたコスプレ用のスモック衣装。\r\nロズウェルが着ると少し胸のあたりが苦しいようだ…。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSロズウェル[星の河を飛び越えて]に装備することでバトル中の見た目が変わる。=A cosplay smock costume borrowed from Dover.\r\nWhen Roswell wears it, it seems a little tight around her chest...\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Roswell [Flying Across a River of Stars] will change her appearance during battle.
+
+ウエディング衣装=Wedding Outfit
+パッスィのブランドから販売しているウエディング衣装。\r\nキングスクロスが将来を想って購入していたが、まだ着たことは無い。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSルーアン[聖天使の加護]に装備することでバトル中の見た目が変わる。=A wedding attire sold under the Passy brand.\nKing's Cross had bought it with the future in mind, but has never worn it.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Rouen [Holy Angel's Blessing] will change her appearance during battle.
+
+ブラックローズビキニ=Black Rose Bikini
+ブラックローズビ…=Black Rose...
+コロンビア行きつけの服屋で購入したブラックローズビキニ。\r\n車掌を想いながら選ばれた水着で、伸縮性に優れており泳ぎやすい。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSコロンビア[華麗なる主人公]に装備することでバトル中の見た目が変わる。=A black rose bikini purchased at Columbia's favorite clothing store.\r\nThe swimsuit was chosen with Conductor in mind, and is highly stretchy and easy to swim in.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Columbia [The Splendid Protagonist] will change her appearance during battle.
+
+高級ブランドの水着=Luxury Brand Swimwear
+高級ブランドの水…=Luxury Bran...
+美しくも色気のある高級ブランドの水着。\r\nいつかムルマンスクたんと海で遊ぶために購入したらしい。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフュッセン[淑やかな祝杯を]に装備することでバトル中の見た目が変わる。=A beautiful and sexy luxury brand swimsuit. Apparently she bought it to go play in the sea with kleine Murmansk someday.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Füssen [Kneel Before the Queen] will change her appearance during battle.
+
+涼風の浴衣=Cool Breeze Yukata
+勇ましくも涼しげな涼風の浴衣。\r\nヤクーツクと一緒に選んだお気に入りの一着。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSベスチャ[背中を追う]に装備することでバトル中の見た目が変わる。=A brave and cool yukata.\r\nIt's her favorite, chosen together with Yakutsk.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bestyakh [Follow One's Back] will change her appearance during battle.
+
+2周年のドレス=2nd Anniversary Dress
+この日のためにイズリントンが用意した、2周年のドレス。\r\nエルロンド家御用達の高級ブランドから出ており、着心地抜群らしい。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヴィクトリア[破壊の侍女]に装備することでバトル中の見た目が変わる。=A dress that Islington prepared for this occasion, the 2nd anniversary.\r\nIt was made by a luxury brand used by the House Elrond, and was said to be extremely comfortable to wear.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Victoria [Maid of Destruction] will change her appearance during battle.
+
+いたずら魔女の仮装=Mischievous Witch Costume
+いたずら魔女の仮…=Mischievous...
+耐水性が高く溺れても大丈夫な、いたずら魔女の仮装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプノンペン[水中の天国]に装備することでバトル中の見た目が変わる。=A mischievous witch costume that is highly water resistant and can withstand drowning.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Phnom Penh [Underwater Heaven] will change her appearance during battle.
+
+ルナのショードレス=Luna's Show Dress
+ルナのショードレ…=Luna's Show...
+ルナがデザインし、朝日が縫製した一着。裾が千鳥掛けになっている。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS桜小路ルナ[朝日侍らす月光花]に装備することでバトル中の見た目が変わる。=This dress was designed by Luna and sewn by Asahi, and has a herringbone hem.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Luna Sakurakouji [Moonflower in the Morning Sun] will change her appearance during battle.
+
+クリスマスコスチューム=Christmas Costume
+クリスマスコスチ…=Christmas C...
+上半身がとても寒いオフショルダーコスチューム。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSトカチ[猛烈、農園体験！]に装備することでバトル中の見た目が変わる。=This off-the-shoulder costume makes the upper half of the body very cold.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Tokachi [Intense, Farm Experience!] will change her appearance during battle.
+
+ニシキ神社の巫女服=Nishikese Shrine Maiden Outfit
+ニシキ神社の巫女…=Nishikese S...
+実際にニシキの神社で使われていた巫女服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSユーストン[正義の旗を掲げ]に装備することでバトル中の見た目が変わる。=A shrine maiden outfit that was actually used at a Nishikese Shrine.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Euston [Upholding the Banner of Justice] will change her appearance during battle.
+
+ビターなエプロン=Bitter Apron
+オハナとお揃いで購入したエプロン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブラックフライア[勝利への架け橋]に装備することでバトル中の見た目が変わる。=An apron purchased to match Ohana's.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Blackfriar [The Bridge to Victory] will change her appearance during battle.
+
+電脳ねこコスチューム=Cyber ​​Cat Costume
+電脳ねこコスチ…=Cyber ​​Cat C...
+段々と猫のような言動になってしまう、不思議なコスチューム。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS[どんな困難も魔術で解決]ネピドーに装備することでバトル中の見た目が変わる。=A mysterious costume that gradually makes one behave and speak like a cat.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Naypyidaw [Anything's Solvable by Magic] will change her appearance during battle.
+
+サスペンダー付き学生服=School Uniform With Suspenders
+サスペンダー付き…=School Unif...
+ウィスパーに似合うと言われて着せられた学生服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSDr.グローリア[常識外れの甘えん坊]に装備することでバトル中の見た目が変わる。=She was told by Whisper that the school uniform would look good on her, so she was made to wear it.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Dr. Gloria [Simpleton Pampered Girl] will change her appearance during battle.
+
+魔法少女の服=Magical Girl Outfit
+魔法少女に変身して、幻霧を倒すハワァ！\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSキングスクロス[ロリポップ・ウィザード]に装備することでバトル中の見た目が変わる。=Transform into a magical girl and defeat the Phantom Mist hawa!\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS King's Cross [Lollipop Wizard] will change her appearance during battle.
+
+ウエディングドレス=Wedding Dress
+ウエディングドレ…=Wedding Dr...
+着用することで、清らかな心で将来を誓える純白のウエディングドレス。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメッシーナ[戦場を駆ける天使]に装備することでバトル中の見た目が変わる。=A pure white wedding dress that, when worn, allows one to promise their future with a pure heart.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Messina [Angel on the Battlefield] will change her appearance during battle.
+
+怪奇的なセーラー服=Mysterious Sailor Suit
+怪奇的なセーラー…=Mysterious...
+狂気さと可愛さを兼ね備えた、不思議なデザインのセーラー服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSユウゼン[波打ち際の人形遣い]に装備することでバトル中の見た目が変わる。=A sailor uniform with a strange design that combines madness and cuteness.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuzen [Puppeteer at the Shore] will change her appearance during battle.
+
+虫取りコーデ=Bug Catcher Outfit
+動きやすくて通気性も良い、夏にピッタリの服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメンローパーク[繰り返される夏祭り]に装備することでバトル中の見た目が変わる。=Easy to move in and breathable, perfect for summer.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Menlo Park [Recurring Summer Festival] will change her appearance during battle.
+
+チアガールユニフォーム=Cheer Girl Uniform
+チアガールユニフ…=Cheer Girl U...
+運動会で選手を応援するようイズリントンに頼まれ着用している。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSカラスマ[バトルスーツを身に纏い]に装備することでバトル中の見た目が変わる。=An outfit to be worn at Islington's request to cheer on the athletes at sports days.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Karasuma [Wearing a Battle Suit] will change her appearance during battle.
+
+応援団長服=Ouen Danchou Outfit
+着ることで、カリスマ的になり周囲を率いて応援することができる団服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS初代シモアマヅ[オオエの山より呪術を込めて]に装備することでバトル中の見た目が変わる。=Wearing this uniform will make one charismatic and allow them to lead those around them in cheering.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Shimoamazu I [From Ooeyama With Jujutsu] will change her appearance during battle.
+
+キュートなメイド服=Cute Maid Outfit
+キュートなメイド…=Cute Maid...
+エプロンについた可愛いウサギが特徴のメイド服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプレヴェン[魅惑のゾンビナース]に装備することでバトル中の見た目が変わる。=A maid outfit featuring a cute rabbit on the apron.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pleven [Enchanting Zombie Nurse] will change her appearance during battle.
+
+くるみ割り人形の衣装=Nutcracker Costume
+くるみ割り人形の…=Nutcracker...
+着た者は表情を変えることなく、くるみを割り続ける真っ赤な服\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSベスチャ[静かで密かなサンタさん]に装備することでバトル中の見た目が変わる。=The person wearing the red outfit continues cracking nuts without changing their facial expression.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bestyakh [Quiet and Secretive Santa] will change her appearance during battle.
+
+竜の着ぐるみ=Dragon Costume
+竜の子どもを模した着ぐるみ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオステルリッツ[大賢者のお正月]に装備することでバトル中の見た目が変わる。=A costume modeled after a baby dragon.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Austerlitz [The Great Sage's New Year] will change her appearance during battle.
+
+フライングスーツ=Flying Suit
+明日香のフライングスーツ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS倉科 明日香[ヴェルフォレット！？の努力家女子]に装備することでバトル中の見た目が変わる。=Asuka's flying suit.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Asuka Kurashina [Hardworking Girl From Verforet!?] will change her appearance during battle.
+
+POPラインジャケット=POP Line Jacket
+POPラインジャ…=POP Line Ja...
+クロスしたベルトが特徴的な、若者の間で流行りのジャケット。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフォンテーヌ[愛嬌いっぱいな子熊猫]に装備することでバトル中の見た目が変わる。=A jacket that is popular among young people, featuring crossed belts.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Fontaine [The Charming Red Panda] will change her appearance during battle.
+
+清楚な美しさのドレス=Dress of Pure Beauty
+清楚な美しさのド…=Dress of Pur...
+誰もが見惚れる、とても美しいドレス。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSイソギク[フレイマリンに咲く静謐な美]に装備することでバトル中の見た目が変わる。=A beautiful dress that everyone will adore.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Isogiku [Serene Beauty Blooming in Flamarine] will change her appearance during battle.
+
+ローズベイウェア=Rose Bay Wear
+軽量化で動きやすさを追求した、ローズベイブランドのウェア。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメアリー[みずやりのじかん]に装備することでバトル中の見た目が変わる。=A Rose Bay brand clothing that's lightweight and designed for ease of movement.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Mary [Watering Time] will change her appearance during battle.
+
+優美なブラウス=Elegant Blouse
+落ち着いた大人っぽい雰囲気のブラウス。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS右田 日々姫[ニシキをも描いていくトキメキの筆]に装備することでバトル中の見た目が変わる。=A blouse with a calm, mature feel.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Hibiki Migita [Thrilling Pen to Depict Nishiki Too] will change her appearance during battle.
+
+サメ討伐戦闘服=Shark Slaying Combat Suit
+サメに対抗するために自作した服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSウォーキング[波打ち際に狙いを定めて]に装備することでバトル中の見た目が変わる。=A custom-made outfit to fight against sharks.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Woking [Targeting the Shoreline] will change her appearance during battle.
+
+最愛のワンピース=Beloved Frock
+デザイナーの愛がこめられたワンピース。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブルーゼ[夜空の花をあのひとと]に装備することでバトル中の見た目が変わる。=A dress filled with the designer's love.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bourse [Night Sky Flowers With That Person] will change her appearance during battle.
+
+風紀委員の制服=Disciplinary Committee Uniform
+風紀を正す者の覚悟を表した制服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSチャリングクロスに装備することでバトル中の見た目が変わる。=A uniform that represents the determination of those who uphold discipline.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Charing Cross will change her appearance during battle.
+
+闇魔女っ娘ドレス=Dark Little Witch Dress
+闇堕ちしてしまった魔女っ娘のドレス。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSチトセに装備することでバトル中の見た目が変わる。=A dress worn by a little witch who has fallen into darkness.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Chitose will change her appearance during battle.
+
+滝園学園の制服=Takizono Academy Uniform
+滝園学園に通っていた時の制服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS周防天音に装備することでバトル中の見た目が変わる。=The uniform worn when attending Takizono Academy.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Amane Suou will change her appearance during battle.
+
+バトルメイジのローブ=Battle Mage Robe
+バトルメイジのロ…=Battle Mage...
+宝石を愛する魔法使いのローブ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSビストに装備することでバトル中の見た目が変わる。=A robe for a mage who loves jewels.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Byst will change her appearance during battle.
+
+レースクイーンジップパーカー=Race Queen Zip Parka
+レースクイーンジ…=Race Queen...
+レースクイーンが愛用しているジップパーカー。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS妃玲奈に装備することでバトル中の見た目が変わる。=A zip-up parka popular among race queens.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Reina Kisaki will change her appearance during battle.
+
+ホイップワンピース=Whipped Dress
+ふわっとしていて着心地のいいワンピース。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプウネネに装備することでバトル中の見た目が変わる。=A fluffy and comfortable dress.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pu'unene will change her appearance during battle.
+
+生と死の霊装=Spiritual Attire of Life and Death
+死者を尊ぶ思いのこもった霊装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオアハカに装備することでバトル中の見た目が変わる。=A spiritual attire that expresses respect for the dead.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Oaxaca will change her appearance during battle.
+
+無明戦鎧=Mumyou War Armor
+
+//Event SS
+大蛇の縁起着物=Orochi no Engi Kimono
+潮風漂う白輝着物=Shiokaze Tadayou Hakki Kimono
+信じる者のタキシード=Believer Tuxedo
+信じる者のタキシ…=Believer Tu...
+凍てつく氷晶キャップ=Frozen Ice Crystal Cap
+凍てつく氷晶キャ…=Frozen Ice C...
+闇夜に光るバニーガールの耳=Glow-in-the-Dark Bunny Girl Ears
+闇夜に光るバニー…=Glow-in-the-...
+ブラックジャケット=Black Jacket
+心躍るキャスケット=Exciting Casquette
+心躍るキャスケッ…=Exciting Cas...
+砂漠の輝黒鉄鎧=Shining Black Desert Iron Armor
+雉武将の甲冑=Kijibushou no Katchuu
+南国花束の盾=Tropical Bouquet Shield
+天老会長の軍服=Tiānlǎohuì Leader Uniform
+天女の装束=Heavenly Maiden Costume
+海女の水着=Diver Girl Swimsuit
+黒戦闘狂の隊服=Black Battle Maniac Uniform
+花魁の極上着物=Oiran Finest Kimono
+悠久のアルマ=Eternal Alma
+幸夢兎の軍服=Happy Dream Rabbit Uniform
+秘密監視官の制服=Secret Inspector Uniform
+狂呪術の着物=Mad Jujutsu Kimono
+熟練探索者の帽子=Veteran Explorer Hat
+ドッガン団長のジャージ=Doggan Admin Jersey
+ドッガン団長のジ…=Doggan Admi...
+高級宝石彫金ゴーグル=Luxury Gem Carving Goggles
+高級宝石彫金ゴー…=Luxury Gem C...
+聖魔の修道服=Sacred Demonic Robe
+鬼獅子の琉装=Kijishi no Ryuusou
+淡獄の振袖=Tangoku no Furisode
+黒天狗の制服=Black Tengu Uniform
+流黒龍の旗袍=Liúhēilóng de Qipao
+青鷺火の着物=Aosagibi no Kimono
+魔法学校の上級学生服=Academy of Magic Senior Uniform
+魔法学校の上級学…=Academy of...
+桜湯煙割烹着=Sakura Yukemuri Kappougi
+オーレリアコート=Aurelia Coat
+冥府の盛装=Underworld Ballgown
+天才発明家のレオタード=Genius Inventor Leotard
+天才発明家のレオ…=Genius Invent...
+曲芸座長のドレス=Troupe Leader Dress
+アニムスビースト=Animus Beast
+カンガルシアメイル=Kangaroosia Mail
+カンガルシアメイ…=Kangaroosia...
+ローザカペロ=Rosa Cappello
+パンプキンオブガードナー=Pumpkin of Gardner
+パンプキンオブガ…=Pumpkin of G...
+ナポリプルマスケラ=Napoli Pull Maschera
+ナポリプルマスケ…=Napoli Pull M...
+ベラトシルカチューシャ=Beratosïl Katyusha
+ベラトシルカチュ…=Beratosïl Kat...
+氷王の外套=Ice King Cloak
+爆newのローブ=Explosive New Robe
+おさるさるの盾=Osarusaru no Tate
+ノ・ブレチーロ=No Bretiro
+フローレンスキャップ=Florence Cap
+フローレンスキャ…=Florence Cap
+にゃんだふるパジャマ=Nyanderful Pajamas
+にゃんだふるパジ…=Nyanderful Pa...
+鬼怒我倭ノ盾=Kinugayamato-no-Tate
+絢爛獣耳簪=Kenran Kemonomimi Kanzashi
+エーテルシュトラアーマー=Aether Shtola Armor
+エーテルシュトラ…=Aether Shtola...
+爆漁祈願のハット=Bakuryou Kigan Hat
+スウィートフリルグローブ=Sweet Frill Glove
+スウィートフリル…=Sweet Frill Gl...
+雪空煌めく漆黒衣=Sparkling Snowy Jet Black Coat
+ノービレティアラ=Nobile Tiara
+スペシャルエレガントドレス=Special Elegant Dress
+スペシャルエレガ…=Special Elega...
+紅の着物=Red Kimono
+
+//Event S
+大蛇の着物=Orochi no Kimono
+白輝着物=Hakki Kimono
+砂塵の砂鎧=Sand Dust Armor
+赤きバニーガールの耳=Red Bunny Girl Ears
+赤きバニーガール…=Red Bunny...
+氷晶スノーキャップ=Ice Crystal Snow Cap
+氷晶スノーキャッ…=Ice Crystal...
+水鳥の装束=Waterfowl Outfit
+ブラックジャケッ…=Black Jacket
+心鎮まるキャスケット=Soothing Casquette
+心鎮まるキャスケ…=Soothing Ca...
+寒空の黒衣=Cold Sky Black Coat

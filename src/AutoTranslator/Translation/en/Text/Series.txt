@@ -1,0 +1,297 @@
+sr:"^装備中の「([\s\S]+)」の数によって、シリーズセット効果が発動する。\r\n1種効果： ([\s\S]+)\r\n2種効果： ([\s\S]+)\r\n3種効果： ([\s\S]+)$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.\r\n・1 Set: $2\r\n・2 Set: $3\r\n・3 Set: $4</size>
+sr:"^装備中の「([\s\S]+)」の数によって、シリーズセット効果が発動する。$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.</size>
+
+シリーズアビリティ一覧=Series Ability List
+
+黄金’23=Gold '23
+装備キャラクターが与えるダメージを20%上昇する。=<size\=11>Increases equipped character's damage dealt by 20%.</size>
+装備キャラクターの獲得レイヤー経験値を150%UPさせる。=<size\=11>Increases equipped character's Layer Experience Points earned by 150%.</size>
+
+紅葉’23=Maple '23
+HPが満タンの時、エレメントバーストで与えるダメージを10%上昇させる。=<size\=11>When HP is full, increases Element Burst damage dealt by 10%.</size>
+HPが満タンの時、与えるダメージが10%上昇させる。=<size\=11>When HP is full, increases damage dealt by 10%.</size>
+wave開始時に、稀に自身を回復（小）する。=<size\=11>At the start of a wave, rarely recovers HP (S).</size>
+
+コスモ=Cosmo
+装備キャラクターの速さ300につきダメージを1%上昇させる。（最大20%）=<size\=11>Increases equipped character's damage by 1% for every 300 SPD (max 20%).</size>
+速さを600上昇させる。=<size\=11>Increases SPD by 600.</size>
+攻撃時、一定確率で物理防御力と魔法防御力を6%減少させる。※効果は2ターンのみ=<size\=11>When attacking, chance to decrease DEF and MDEF by 6%. ※Effect lasts 2 turns only</size>
+
+蒸気機関=Steam Engine
+ターン終了時、与えるダメージとバーストダメージが3%上昇する。※それぞれ効果は2ターンのみ=<size\=11>At the end of a turn, increases damage dealt and Element Burst damage dealt by 3%. ※Each effect lasts 2 turns only</size>
+wave開始時に、コンディションとプロテクトを5%上昇する。※それぞれ効果は3ターンのみ=<size\=11>At the start of a wave, increases Condition and Protect by 5%. ※Each effect lasts 3 turns only</size>
+攻撃時、一定確率で物理防御力と魔法防御力が3%上昇する。※それぞれ効果は2ターンのみ=<size\=11>When attacking, chance to increase DEF and MDEF by 3%. ※Each effect lasts 2 turns only</size>
+
+混沌=Chaos
+wave開始時、自身のHPを最大HPの20%分減少と状態異常耐性を20%減少させ、コンディションを20%上昇させる。※効果は発動ターンのみ=<size\=11>At the start of a wave, decreases self Max HP by 20% and Status Ailment Resistances by 20%, and increases Condition by 20%. ※Effect lasts this turn only</size>
+行動時、自身のHPが80%未満の時、物理攻撃力と魔法攻撃力を10%上昇させる。※効果は2ターンのみ=<size\=11>When taking action, when HP is less than 80%, increases ATK and MATK by 10%. ※Effect lasts 2 turns only</size>
+行動時、自身のHPが70%未満の時、エレメントバースト時のコンディションを10%上昇させる。※効果は2ターンのみ=<size\=11>When taking action, when HP is less than 70%, increases Condition during Element Burst by 10%. ※Effect lasts 2 turns only</size>
+
+氷塊=Ice Block
+自身の物理攻撃力と魔法攻撃力を600上昇させる。=<size\=11>Increases ATK and MATK by 600.</size>
+wave開始時、エレメントバーストで与えるダメージを10%上昇させる。※効果は発動ターンのみ=<size\=11>At the start of a wave, increases Element Burst damage dealt by 10%. ※Effect lasts this turn only</size>
+wave開始時、エレメントバースト時の物理攻撃力と魔法攻撃力を10%上昇させる。※それぞれ効果は発動ターンのみ=<size\=11>At the start of a wave, increases ATK and MATK during Element Burst by 10%. ※Effect lasts this turn only</size>
+
+霧尽の極致：刃=Mist End's Pinnacle: Cut
+wave開始時、装備した「剣」「斧」「魔具」の速さを20%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases equipped Sword/Axe/Artifact's SPD by 20%. ※Effect lasts this turn only
+効果なし=No effect.
+wave開始時、装備した「剣」「斧」「魔具」のコンディション【ダメージを上昇させる効果】が30%アップする。※効果は発動ターンのみ=At the start of a wave, increases equipped Sword/Axe/Artifact's Condition by 30%. ※Effect lasts this turn only
+
+霧尽の極致：衝=Mist End's Pinnacle: Blow
+wave開始時、装備した「拳」「鞭」「杖」の速さを20%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases equipped Gauntlet/Whip/Staff's SPD by 20%. ※Effect lasts this turn only
+wave開始時、装備した「拳」「鞭」「杖」のコンディション【ダメージを上昇させる効果】が30%アップする。※効果は発動ターンのみ=At the start of a wave, increases equipped Gauntlet/Whip/Staff's Condition by 30%. ※Effect lasts this turn only
+
+霧尽の極致：貫=Mist End's Pinnacle: Pierce
+wave開始時、装備した「槍」「弓」「銃」の速さを20%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases equipped Spear/Bow/Gun's SPD by 20%. ※Effect lasts this turn only
+wave開始時、装備した「槍」「弓」「銃」のコンディション【ダメージを上昇させる効果】が30%アップする。※効果は発動ターンのみ=At the start of a wave, increases equipped Spear/Bow/Gun's Condition by 30%. ※Effect lasts this turn only
+
+エクリプス=Eclipse
+装備キャラクターのスキル熟練度上昇量を100%UPさせる。=Increases the equipped character's Skill Proficiency Rate by 100%.
+装備キャラクターの能力上昇量を100%UPさせる。=Increases the equipped character's Stat Up Rate by 100%.
+装備キャラクターの獲得レイヤー経験値を100%UPさせる。=Increases the equipped character's earned Layer Experience Points by 100%.
+
+百鬼=Hyakki
+命中と幸運をそれぞれ100上昇させる。=Increases HIT and LUCK by 100.
+最大HPを1000上昇させる。=Increases HP by 1000.
+相手に与える状態異常の効果ターンを1ターン増やす。=Increases status ailment durations by 1 turn.
+
+桜=Sakura
+プロテクトを上昇（小）させる。=Increases Protect (S).
+全能力を100上昇させる。=Increases All Stats by 100.
+最大RPを2上昇させる。=Increases RP by 2.
+
+琥珀=Amber
+装備キャラクターの速さを10%上昇させる。=Increases equipped character's SPD by 10%.
+
+新緑=Fresh Green
+HPが満タンの時、受けるダメージを10%減少させる。=When HP is full, decreases damage taken by 10%.
+装備キャラクターのWeak攻撃のダメージを10%上昇させる。=Increases equipped character's weakness damage by 10%.
+最大HPを3000上昇させる。=Increases HP by 3000.
+
+白銀=Hakugin
+エレメントバースト発動時、稀に敵全体の物理攻撃力と魔法攻撃力を減少（中）する。※効果は2ターンのみ=When an Element Burst is ignited, rarely decreases all enemies' ATK and MATK (M). ※Effect lasts 2 turns only
+速さを200上昇させる。=Increases SPD by 200.
+wave開始時、バーストアタックのダメージが上昇（中）する。※効果は2ターンのみ=At the start of a wave, increases Burst Attack damage (M). ※Effect lasts 2 turns only
+
+オブシディアン=Obsidian
+HPが50%以下の時、受けるダメージを軽減（中）する。=When HP is 50% or less, decreases damage taken (M).
+回復力を150上昇させる。=Increases RCV by 150.
+幸運を200上昇させる。=Increases LUCK by 200.
+
+サンライト=Sunlight
+全ての状態異常に対する耐性が10%上昇する。=Increases all Status Ailment Resistances by 10%.
+速さを150上昇させる。=Increases SPD by 150.
+命中を150上昇させる。=Increases HIT by 150.
+
+特鉄隊訓練兵装=SSS Training Weapons
+最大HPを500上昇させる。=Increases HP by 500.
+回復力を50と最大RPを1上昇させる。=Increases RCV by 50 and Max RP by 1.
+
+//Dresses
+ぱんぷきん=Pumpkin
+ターン開始時、一定確率で味方全体の幸運を上昇（極小）させる。※効果は2ターンのみ=At the start of a turn, chance to increase all allies' LUCK (XS). ※Effect lasts 2 turns only
+自身への敵視を減少（中）させる。=Decreases self hostility (M).
+攻撃時、稀に相手の麻痺耐性を減少（中）させる。※効果は2ターンのみ=When attacking, rarely decreases Paralysis Resistance (M). ※Effect lasts 2 turns only
+
+温泉=Hot Spring
+武器種が「槍・弓・銃」のレイヤーに装備した場合、速さを150上昇させる。=When equipped by a Spear, Bow, or Gun Layer, increases SPD by 150.
+
+サンタ=Santa
+武器種が「剣」のレイヤーに装備した場合、物理防御力を100上昇させる。=When equipped by a Sword Layer, increases DEF by 100.
+スキル【スピードウェーブ】ダメージが上昇（中）する。=Increases Speed ​​Wave skill damage (M).
+
+迎春’21=New Year '21
+武器種が「斧」のレイヤーに装備した場合、HPを1000上昇させる。=When equipped by an Axe Layer, increases HP by 1000.
+スキル【ザ・ガイア】ダメージが上昇（特大）する。=Increases The Gaia skill damage (VL).
+
+バレンタイン’21=Valentine '21
+スキル【盗賊王の一矢】ダメージが上昇（特大）する。=Increases Bandit King's Arrow skill damage (VL).
+
+半周年=Half Anniversary
+武器種が「槍」のレイヤーに装備した場合、物理攻撃力と速さを50上昇させる。=When equipped by a Spear Layer, increases ATK and SPD by 50.
+スキル【濁流の滝】ダメージが上昇（大）する。=Increases Muddy Waterfall skill damage (L).
+
+花盛り’21=Flowering '21
+武器種が「拳」のレイヤーに装備した場合、物理攻撃力を50と幸運を100上昇させる。=When equipped by a Gauntlet Layer, increases ATK by 50 and LUCK by 100.
+
+五月晴れ’21=Sunny May '21
+武器種が「銃」のレイヤーに装備した場合、魔法攻撃力を50と魔法防御力を100上昇させる。=When equipped by a Gun Layer, increases MATK by 50 and MDEF by 100.
+
+感謝’21=Gratitude '21
+武器種が「魔具」のレイヤーに装備した場合、魔法攻撃力を150上昇させる。=When equipped by an Artifact Layer, increases MATK by 150.
+魔具の与えるダメージを上昇（小）させる。=Increases Artifact damage dealt (S).
+スキル【式神の軍勢】ダメージが上昇（大）する。=Increases Shikigami no Gunzei skill damage (L).
+
+海開き’21=Beach Opening '21
+武器種が「鞭」のレイヤーに装備した場合、速さを50上昇させる。=When equipped by a Gauntlet Layer, increases SPD by 50.
+スキル【タフネスウィップ】ダメージが上昇（大）する。=Increases Toughness Whip skill damage (L).
+
+夏真っ盛り’21=Peak Summer '21
+武器種が「剣」のレイヤーに装備した場合、物理攻撃力を50上昇させる。=When equipped by a Sword Layer, increases ATK by 50.
+スキル【スーパーノヴァ】ダメージが上昇（大）する。=Increases Supernova skill damage (L).
+
+1周年=1st Anniversary
+武器種が「拳」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by a Gauntlet Layer, increases ATK by 150.
+拳の与えるダメージを上昇（中）させる。=Increases Gauntlet damage dealt (M).
+スキル【ゴーレムアーム】ダメージが上昇（特大）する。=Increases Golem Arm skill damage (VL).
+
+ハロウィン’21=Halloween '21
+スキル【轟竜の尾】ダメージが上昇（大）する。=Increases Roaring Dragon Tail skill damage (L).
+
+パワーアップバニー’21=Power Up Bunny '21
+常にWeak攻撃のダメージが上昇（中）する。=Constantly increases weakness damage dealt (M).
+スキル【九十九の拳撃】と【九十九の拳撃改】ダメージが上昇（特大）する。=Increases Tsukumo no Kengeki and Tsukumo no Kengeki Kai skill damage (VL).
+
+メリークリスマス’21=Merry Christmas '21
+スキル【天衣無縫】ダメージが上昇（大）する。=Increases Ten'i Muhou skill damage (L).
+
+迎春’22=New Year '22
+スキル【ダイヤモンドダスト】ダメージが上昇（特大）する。=Increases Diamond Dust skill damage (VL).
+
+バレンタイン’22=Valentine '22
+wave開始時、自身の物理攻撃力が上昇（小）する。※効果は2ターンのみ=At the start of a wave, increases ATK (S). ※Effect lasts 2 turns only
+スキル【ボイドタッチ】ダメージが上昇（大）する。=Increases Void Punch skill damage (L).
+
+半周年’22=Half Anniversary '22
+武器種が「剣」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by a Sword Layer, increases ATK by 150.
+攻撃を受けた後、稀に自身の物理防御力を上昇（中）させる。※効果は2ターンのみ=When attacked, rarely increases DEF (M). ※Effect lasts 2 turns only
+スキル【明王太刀】のダメージが上昇（大）する。=Increases Vidyārāja Blade skill damage (L).
+
+イースターバニー’22=Easter Bunny '22
+武器種が「鞭」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by a Whip Layer, increases ATK by 150.
+ターン開始時、一定確率で味方全体の回復力を上昇（小）させる。※効果は2ターンのみ=At the start of a turn, chance to increase all allies' RCV (S). ※Effect lasts 2 turns only
+スキル【エンプレスフルース】ダメージが上昇（大）する。=Increases Empress Fluss skill damage (L).
+
+こどもの日’22=Children's Day '22
+武器種が「斧」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by an Axe Layer, increases ATK by 150.
+ターン開始時、一定確率で味方全体の物理攻撃力を上昇（小）させる。※効果は2ターンのみ=At the start of a turn, chance to increase all allies' ATK (S). ※Effect lasts 2 turns only
+スキル【デュアルアックス】ダメージが上昇（大）する。=Increases Dual Axe skill damage (L).
+
+ジューンブライド’22=June Bride '22
+武器種が「杖」のレイヤーに装備した場合、魔法攻撃力を150上昇させる。=When equipped by a Staff Layer, increases MATK by 150.
+wave開始時、敵全体の魔法防御力を減少（中）させる。※効果は2ターンのみ=At the start of a wave, decreases all enemies' MDEF (M). ※Effect lasts 2 turns only
+威力Dの攻撃で与えるダメージが上昇（大）する。=Increases D Power attacks' damage dealt (L).
+
+リゾート’22=Resort '22
+スキル【ケーニスナップ】ダメージが上昇（大）する。=Increases Köenig Snap skill damage (L).
+
+夏休み’22=Summer Vacation '22
+wave開始時、自身の物理攻撃力が上昇（中）する。※効果は2ターンのみ=At the start of a wave, increases ATK (M). ※Effect lasts 2 turns only
+スキル【ダズリングルージュ】ダメージが上昇（大）する。=Increases Dazzling Rouge skill damage (L).
+
+夏祭り’22=Summer Festival '22
+スキル【月光猛車】ダメージが上昇（大）する。=Increases Moonlight Fierce Chariot skill damage (L).
+
+2周年’22=2nd Anniversary '22
+
+2周年’22Ⅰ=2nd Anniversary '22 I
+武器種が「銃」のレイヤーに装備した場合、物理攻撃力と魔法攻撃力を100上昇させる。=When equipped by a Gun Layer, increases ATK and MATK by 100.
+wave開始時、自身の幸運が上昇（中）する。※効果は2ターンのみ=At the start of a wave, increases LUK (M). ※Effect lasts 2 turns only
+スキル【ブラックバンド】ダメージが上昇（大）する。=Increases Black Band skill damage (L).
+
+トリックオアトリート’22=Trick or Treat '22
+武器種が「槍」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by a Staff Layer, increases ATK by 150.
+
+つり乙’22=Tsuriotsu '22
+
+クリスマス’22=Christmas '22
+威力SS以上の攻撃で与えるダメージが上昇（大）する。=Increases SS+ Power damage dealt (L).
+
+迎春’23=New Year '23
+wave開始時、味方全体の物理攻撃力が上昇（中）する。※効果は発動ターンのみ=At the start of a wave, increases all allies' ATK (M). ※Effect lasts this turn only
+貫属性または光属性攻撃で与えるダメージが上昇（大）する。=Increases Pierce Element and Light Element damage dealt (L).
+
+バレンタイン’23=Valentine '23
+武器種が「弓」のレイヤーに装備した場合、物理攻撃力を150上昇させる。=When equipped by a Bow Layer, increases ATK by 150.
+威力Cと威力Dの攻撃で与えるダメージが上昇（特大）する。=Increases C Power and D Power attack damage dealt (VL).
+
+ハーフアニバーサリー’23=Half Anniversary '23
+武器種が「杖」のレイヤーに装備した場合、魔攻を150上昇させる。=When equipped by a Staff Layer, increases MATK by 150.
+ターン開始時、一定確率で味方全体の魔法攻撃力を上昇(中)させる。※効果は2ターンのみ=At the start of a turn, chance to increase all allies' MATK (M). ※Effect lasts 2 turns only
+
+入学’23=Enrollment '23
+武器種が「銃」のレイヤーに装備した場合、魔法攻撃力を150上昇させる。=When equipped by a Gun Layer, increases MATK by 150.
+威力B以下の攻撃で与えるダメージが上昇（大）する。=Increases B- Power attack damage dealt (L).
+
+こどもの日’23=Children's Day '23
+
+ジューンブライド’23=June Bride '23
+
+夏休み’23=Summer Vacation '23
+威力A以上の攻撃で与えるダメージが上昇（大）する。=Increases A+ Power attack damage dealt (L).
+
+夏真っ盛り’23=Peak Summer '23
+攻撃時、稀に魔法防御力を10%減少させる。※効果は2ターンのみ=When attacking, rarely decreases MDEF by 10%. ※Effect lasts 2 turns only
+威力A以上の攻撃で与えるダメージが10%上昇する。=Increases A+ Power attack damage dealt by 10%.
+
+3周年’23=3rd Anniversary '23
+wave開始時、味方全体の魔法攻撃力が5%上昇する。※効果は発動ターンのみ=At the start of a wave, increases all allies' MATK by 5%. ※Effect lasts 2 turns only
+
+3周年Ⅱ’23=3rd Anniversary II '23
+
+学園祭’23=School Festival '23
+wave開始時、自身の物理攻撃力が10%上昇する。※効果は2ターンのみ=At the start of a wave, increases ATK by 10%. ※Effect lasts 2 turns only
+
+クリスマス’23=Christmas '23
+
+迎春’24=New Year '24
+武器種が「杖」のレイヤーに装備した場合、魔法攻撃力を10%上昇させる。=When equipped by a Staff Layer, increases MATK by 10%.
+
+あおかな’24=Aokana '24
+武器種が「弓」のレイヤーに装備した場合、物理攻撃力を10%上昇させる。=When equipped by a Bow Layer, increases ATK by 10%.
+威力A以上の攻撃で与えるダメージが20%上昇する。=Increases A+ Power attack damage dealt by 20%.
+
+ハーフアニバーサリー’24=Half Anniversary '24
+
+花騎士コラボ’24=Flower Knight Collab '24
+武器種が「斧」のレイヤーに装備した場合、物理攻撃力を10%上昇させる。=When equipped by an Axe Layer, increases ATK by 10%.
+wave開始時、自身の物理攻撃力が上昇15%する。※効果は2ターンのみ=At the start of a wave, increases ATK by 15%. ※Effect lasts 2 turns only
+
+こどもの日’24=Children's Day '24
+武器種が「剣」のレイヤーに装備した場合、物理攻撃力を10%上昇させる。=When equipped by a Sword Layer, increases ATK by 10%.
+
+まいてつコラボ’24=Maitetsu Collab '24
+武器種が「銃」のレイヤーに装備した場合、魔法攻撃力を10%上昇させる。=When equipped by a Gun Layer, increases MATK by 10%.
+自身がエレメントバーストで与えるダメージを20%上昇させる。=Increases Element burst damage dealt by 20%.
+
+夏休み’24=Summer Vacation '24
+武器種が「槍」のレイヤーに装備した場合、物理攻撃力を10%上昇させる。=When equipped by a Spear Layer, increases ATK by 10%.
+wave開始時、自身の物理攻撃力が15%上昇する。※効果は2ターンのみ=At the start of a wave, increases ATK by 15%. ※Effect lasts 2 turns only
+
+夏真っ盛り’24=Peak Summer '24
+自身が全体攻撃で与えるダメージを20%上昇させる。=Increases all-target attack damage dealt by 20%.
+
+4周年’24=4th Anniversary '24
+武器種が「剣」のレイヤーに装備した場合、物理攻撃力を15%上昇させる。=When equipped by a Sword Layer, increases ATK by 15%.
+自身がWeak攻撃で与えるダメージを15%上昇させる。=Increases weakness damage dealt by 15%.
+
+4周年Ⅱ’24=4th Anniversary II '24
+武器種が「魔具」のレイヤーに装備した場合、魔法攻撃力を15%上昇させる。=When equipped by an Artifact Layer, increases MATK by 15%.
+wave開始時、自身の魔法攻撃力が15%上昇する。※効果は2ターンのみ=At the start of a wave, increases MATK by 15%. ※Effect lasts 2 turns only
+
+グリザイアコラボ’24=Grisaia Collab '24
+武器種が「杖」のレイヤーに装備した場合、魔法攻撃力を15%上昇させる。=When equipped by a Staff Layer, increases MATK by 15%.
+wave開始時、味方全体の魔法攻撃力が10%上昇する。※効果は発動ターンのみ=At the start of a wave, increases all allies' MATK by 10%. ※Effect lasts this turn only
+装備キャラクターのWeak攻撃のダメージを15%上昇させる。=Increases equipped character's weakness damage by 15%.
+
+トリックオアトリート’24=Trick or Treat '24
+武器種が「斧」のレイヤーに装備した場合、物理攻撃力を15%上昇させる。=When equipped by an Axe Layer, increases ATK by 15%.
+ターン開始時、稀に自身が敵に与えるダメージを10%上昇させる。※効果は2ターンのみ=At the start of a turn, rarely increase damage dealt to enemies by 10%. ※Effect lasts 2 turns only
+自身がWeak攻撃で与えるダメージを10%上昇させる。=Increases weakness damage dealt by 10%.
+
+金恋コラボ’24=Kinkoi Collab '24
+威力S以上の攻撃で与えるダメージが25%上昇する。=Increases S+ Power attack damage dealt by 25%.
+
+迎春’25=New Year '25
+武器種が「魔具」のレイヤーに装備した場合、魔法攻撃力を10%上昇させる。=When equipped by an Artifact Layer, increases MATK by 10%.
+wave開始時、自身の命中が15%上昇する。※効果は2ターンのみ=At the start of a wave, increases HIT by 15%. ※Effect lasts 2 turns only
+装備キャラクターの速さを15%上昇させる。=Increases equipped character's SPD by 15%.
+
+旧正月’25=Lunar New Year '25
+wave開始時、味方全体のエレメントバーストで与えるダメージを8%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases all allies' Element Burst damage dealt by 8%. ※Effect lasts this turn only
+
+//Paid
+百鬼夜怨=Hyakki Yaon
+Weak攻撃のダメージを35%上昇させる。=Increases weakness damage dealt by 35%.
+エレメントバーストで与えるダメージを30%上昇させる。=Increases Element Burst damage dealt by 30%.
+属性攻撃のダメージをきわめて上昇させる。=Greatly increases any Element attack damage dealt.

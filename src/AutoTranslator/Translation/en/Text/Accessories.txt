@@ -1,0 +1,654 @@
+宝珠1選択中=Selecting Orb 1
+装飾。全員が装備できる。=An accessory. Can be equipped by anyone.
+スロットなし=No Slot
+
+暗闇耐性UP【Ⅰ】=Blindness Resist Up [I]
+気絶耐性UP【Ⅰ】=Stun Resist Up [I]
+毒化耐性UP【Ⅰ】=Poison Resist Up [I]
+睡眠耐性UP【Ⅰ】=Sleep Resist Up [I]
+麻痺耐性UP【Ⅰ】=Paralysis Resist Up [I]
+混乱耐性UP【Ⅰ】=Confusion Resist Up [I]
+魅了耐性UP【Ⅰ】=Charm Resist Up [I]
+沈黙耐性UP【Ⅰ】=Silence Resist Up [I]
+暗闇耐性UP【Ⅱ】=Blindness Resist Up [II]
+麻痺耐性UP【Ⅱ】=Paralysis Resist Up [II]
+睡眠耐性UP【Ⅱ】=Sleep Resist Up [II]
+毒化耐性UP【Ⅱ】=Poison Resist Up [II]
+気絶耐性UP【Ⅱ】=Stun Resistance Up [II]
+混乱耐性UP【Ⅱ】=Confusion Resist Up [II]
+魅了耐性UP【Ⅱ】=Charm Resist Up [II]
+沈黙耐性UP【Ⅱ】=Silence Resist Up [II]
+沈黙耐性UP【Ⅲ】=Silence Resist Up [III]
+魅了耐性UP【Ⅲ】=Charm Resist Up [III]
+混乱耐性UP【Ⅲ】=Confusion Resist Up [III]
+麻痺耐性UP【Ⅲ】=Paralysis Resist Up [III]
+睡眠耐性UP【Ⅲ】=Sleep Resist Up [III]
+毒化耐性UP【Ⅲ】=Poison Resist Up [III]
+気絶耐性UP【Ⅲ】=Stun Resist Up [III]
+暗闇耐性UP【Ⅲ】=Blindness Resist Up [III]
+異常耐性変換：物攻=Ailment Resistance Conversion: ATK
+異常耐性変換：物防=Ailment Resistance Conversion: DEF
+異常耐性変換：命中=Ailment Resistance Conversion: HIT
+異常耐性変換：速さ=Ailment Resistance Conversion: SPD
+異常耐性変換：魔攻=Ailment Resistance Conversion: MATK
+異常耐性変換：魔防=Ailment Resistance Conversion: MDEF
+異常耐性変換：幸運=Ailment Resistance Conversion: LUCK
+異常耐性変換：回復力=Ailment Resistance Conversion: RCV
+
+剣バーストダメージUP【小】=Sword Burst Damage Up [S]
+剣のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Sword Element Burst damage dealt (S).
+剣バーストダメージUP【中】=Sword Burst Damage Up [M]
+剣のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Sword Element Burst damage dealt (M).
+剣ダメージUP【小】=Sword Damage Up [S]
+剣のダメージが上昇（小）する。=Increases Sword damage (S).
+剣ダメージUP【中】=Sword Damage Up [M]
+剣のダメージが上昇（中）する。=Increases Sword damage (M).
+剣被ダメージDOWN【小】=Sword Damage Down [M]
+剣の被ダメージが減少（小）する。=Decreases Sword damage taken (S).
+剣被ダメージDOWN【中】=Sword Damage Down [M]
+剣の被ダメージが減少（中）する。=Decreases Sword damage taken (M).
+斧バーストダメージUP【小】=Axe Burst Damage Up [S]
+斧のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Axe Element Burst damage dealt (S).
+斧バーストダメージUP【中】=Axe Burst Damage Up [M]
+斧のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Axe Element Burst damage dealt (M).
+斧ダメージUP【小】=Axe Damage Up [S]
+斧のダメージが上昇（小）する。=Increases Axe damage (S).
+斧ダメージUP【中】=Axe Damage Up [M]
+斧のダメージが上昇（中）する。=Increases Axe damage (M).
+斧被ダメージDOWN【小】=Axe Damage Down [M]
+斧の被ダメージが減少（小）する。=Decreases Axe damage taken (S).
+斧被ダメージDOWN【中】=Axe Damage Down [M]
+斧の被ダメージが減少（中）する。=Decreases Axe damage taken (M).
+魔具バーストダメージUP【小】=Artifact Burst Damage Up [S]
+魔具のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Artifact Element Burst damage dealt (S).
+魔具バーストダメージUP【中】=Artifact Burst Damage Up [M]
+魔具のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Artifact Element Burst damage dealt (M).
+魔具ダメージUP【小】=Artifact Damage Up [S]
+魔具のダメージが上昇（小）する。=Increases Artifact damage (S).
+魔具ダメージUP【中】=Artifact Damage Up [M]
+魔具のダメージが上昇（中）する。=Increases Artifact damage (M).
+魔具被ダメージDOWN【小】=Artifact Damage Down [M]
+魔具の被ダメージが減少（小）する。=Decreases Artifact damage taken (S).
+魔具被ダメージDOWN【中】=Artifact Damage Down [M]
+魔具の被ダメージが減少（中）する。=Decreases Artifact damage taken (M).
+拳バーストダメージUP【小】=Gauntlet Burst Damage Up [S]
+拳のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Gauntlet Element Burst damage dealt (S).
+拳バーストダメージUP【中】=Gauntlet Burst Damage Up [M]
+拳のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Gauntlet Element Burst damage dealt (M).
+拳ダメージUP【小】=Gauntlet Damage Up [S]
+拳のダメージが上昇（小）する。=Increases Gauntlet damage (S).
+拳ダメージUP【中】=Gauntlet Damage Up [M]
+拳のダメージが上昇（中）する。=Increases Gauntlet damage (M).
+拳被ダメージDOWN【小】=Gauntlet Damage Down [S]
+拳の被ダメージが減少（小）する。=Decreases Gauntlet damage taken (S).
+拳被ダメージDOWN【中】=Gauntlet Damage Down [M]
+拳の被ダメージが減少（中）する。=Decreases Gauntlet damage taken (M).
+鞭バーストダメージUP【小】=Whip Burst Damage Up [S]
+鞭のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Whip Element Burst damage dealt (S).
+鞭バーストダメージUP【中】=Whip Burst Damage Up [M]
+鞭のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Whip Element Burst damage dealt (M).
+鞭ダメージUP【小】=Whip Damage Up [S]
+鞭のダメージが上昇（小）する。=Increases Whip damage (S).
+鞭ダメージUP【中】=Whip Damage Up [M]
+鞭のダメージが上昇（中）する。=Increases Whip damage (M).
+鞭被ダメージDOWN【小】=Whip Damage Down [S]
+鞭の被ダメージが減少（小）する。=Decreases Whip damage taken (S).
+鞭被ダメージDOWN【中】=Whip Damage Down [M]
+鞭の被ダメージが減少（中）する。=Decreases Whip damage taken (M).
+杖バーストダメージUP【小】=Staff Burst Damage Up [S]
+杖のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Staff Element Burst damage dealt (S).
+杖バーストダメージUP【中】=Staff Burst Damage Up [M]
+杖のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Staff Element Burst damage dealt (M).
+杖ダメージUP【小】=Staff Damage Up [S]
+杖のダメージが上昇（小）する。=Increases Staff damage (S).
+杖ダメージUP【中】=Staff Damage Up [M]
+杖のダメージが上昇（中）する。=Increases Staff damage (M).
+杖被ダメージDOWN【小】=Staff Damage Down [S]
+杖の被ダメージが減少（小）する。=Decreases Staff damage taken (S).
+杖被ダメージDOWN【中】=Staff Damage Down [M]
+杖の被ダメージが減少（中）する。=Decreases Staff damage taken (M).
+槍バーストダメージUP【小】=Spear Burst Damage Up [S]
+槍のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Spear Element Burst damage dealt (S).
+槍バーストダメージUP【中】=Spear Burst Damage Up [M]
+槍のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Spear Element Burst damage dealt (M).
+槍ダメージUP【小】=Spear Damage Up [S]
+槍のダメージが上昇（小）する。=Increases Spear damage (S).
+槍ダメージUP【中】=Spear Damage Up [M]
+槍のダメージが上昇（中）する。=Increases Spear damage (M).
+槍被ダメージDOWN【小】=Spear Damage Down [S]
+槍の被ダメージが減少（小）する。=Decreases Spear damage taken (S).
+槍被ダメージDOWN【中】=Spear Damage Down [M]
+槍の被ダメージが減少（中）する。=Decreases Spear damage taken (M).
+弓バーストダメージUP【小】=Bow Burst Damage Up [S]
+弓のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Bow Element Burst damage dealt (S).
+弓バーストダメージUP【中】=Bow Burst Damage Up [M]
+弓のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Bow Element Burst damage dealt (M).
+弓ダメージUP【小】=Bow Damage Up [S]
+弓のダメージが上昇（小）する。=Increases Bow damage (S).
+弓ダメージUP【中】=Bow Damage Up [M]
+弓のダメージが上昇（中）する。=Increases Bow damage (M).
+弓被ダメージDOWN【小】=Bow Damage Down [S]
+弓の被ダメージが減少（小）する。=Decreases Bow damage taken (S).
+弓被ダメージDOWN【中】=Bow Damage Down [M]
+弓の被ダメージが減少（中）する。=Decreases Bow damage taken (M).
+銃バーストダメージUP【小】=Gun Burst Damage Up [S]
+銃のエレメントバーストで与えるダメージを上昇（小）させる。=Increases Gun Element Burst damage dealt (S).
+銃バーストダメージUP【中】=Gun Burst Damage Up [M]
+銃のエレメントバーストで与えるダメージを上昇（中）させる。=Increases Gun Element Burst damage dealt (M).
+銃ダメージUP【小】=Gun Damage Up [S]
+銃のダメージが上昇（小）する。=Increases Gun damage (S).
+銃ダメージUP【中】=Gun Damage Up [M]
+銃のダメージが上昇（中）する。=Increases Gun damage (M).
+銃被ダメージDOWN【小】=Gun Damage Down [S]
+銃の被ダメージが減少（小）する。=Decreases Gun damage taken (S).
+銃被ダメージDOWN【中】=Gun Damage Down [M]
+銃の被ダメージが減少（中）する。=Decreases Gun damage taken (M).
+物攻＆物防UP【Ⅰ】=ATK & DEF Up [I]
+装備したレイヤーの物理攻撃力と魔法攻撃力を50上昇させる。=Increases equipped Layer's ATK and DEF by 50.
+物攻＆魔攻UP【Ⅱ】=ATK & MATK Up [II]
+装備したレイヤーの物理攻撃力と魔法攻撃力を100上昇させる。=Increases equipped Layer's ATK and DEF by 100.
+物防＆幸運UP【Ⅱ】=DEF & LUCK Up [II]
+装備したレイヤーの物理防御力と幸運を100上昇させる。=Increases equipped Layer's DEF and LUCK by 100.
+物攻＆命中UP【Ⅱ】=ATK & HIT Up [II]
+装備したレイヤーの物理攻撃力と命中を100上昇させる。=Increases equipped Layer's ATK and HIT by 100.
+HPプラス【大】=HP Plus [L]
+最大HPを2000上昇させる。=Increases max HP by 2000.
+
+装備したレイヤーの物理防御力を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's DEF by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの魔法防御力を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's MDEF by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの物理攻撃力を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's ATK by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの魔法攻撃力を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's MATK by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの命中を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's HIT by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの速さを20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's SPD by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの回復力を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's RCV by 20% and increases status ailment resistance by 30%.
+装備したレイヤーの幸運を20%減少させ、状態異常に対する耐性が30%上昇する。=Decreases equipped Layer's LUCK by 20% and increases status ailment resistance by 30%.
+
+//B
+リング=Ring
+イヤリング=Earrings
+バングル=Bangle
+お守り=Amulet
+チェーンメダル=Chain Medal
+
+//A
+シルバーブレス=Silver Brace
+シルバーリング=Silver Ring
+コンフュージョンガード=Confusion Guard
+
+//S
+エクリプスリング=Eclipse Ring
+月の導きを得られると言い伝えられる指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスバンド=Eclipse Band
+月の導きを得られると言い伝えられる腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスネック=Eclipse Necklace
+月の導きを得られると言い伝えられる首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A necklace that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスピアス=Eclipse Piercings
+月の導きを得られると言い伝えられるピアス。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスアミュレット=Eclipse Amulet
+月の導きを得られると言い伝えられるアミュレット。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet that is said to be the guidance of the moon.\r\nEquipping the entire series will give it even more powerful effects.
+エクリプスピアス…=Eclipse Pier...
+エクリプスネック…=Eclipse Nec...
+エクリプスバンド…=Eclipse Ban...
+エクリプスリング…=Eclipse Ring...
+エクリプスアミュ…=Eclipse Amu...
+
+百鬼絶痺の指輪=Hyakki Zehhi Ring
+百鬼夜行をも耐えるとされる指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼暗混の腕輪=Hyakki Ankon Bracelet
+百鬼夜行をも耐えるとされる腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼毒魅の首飾=Hyakki Dokumi Necklace
+百鬼夜行をも耐えるとされる首飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A necklace said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼封睡の耳飾=Hyakki Fuunemu Earrings
+百鬼夜行をも耐えるとされる耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼八防の護符=Hyakki Hachibou Amulet
+百鬼夜行をも耐えるとされる護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A talisman said to be able to withstand even the Hyakki Yagyou.\r\nEquipping the entire series will give it even more powerful effects.
+
+琥珀の指輪=Amber Ring
+太古の琥珀から復元された首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring restored from ancient amber.\nIt has a more powerful effect by equipping it in the series.
+琥珀の腕輪=Amber Bracelet
+太古の琥珀から復元された腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet restored from ancient amber.\nIt has a more powerful effect by equipping it in the series.
+琥珀の首輪=Amber Choker
+太古の琥珀から復元された首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A choker restored from ancient amber.\nIt has a more powerful effect by equipping it in the series.
+琥珀の耳飾=Amber Earrings
+太古の琥珀から復元された首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A earrings restored from ancient amber.\nIt has a more powerful effect by equipping it in the series.
+琥珀の護符=Amber Amulet
+太古の琥珀から復元された首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A amulet restored from ancient amber.\nIt has a more powerful effect by equipping it in the series.
+
+新緑の指輪=Verdant Ring
+新たな木々から生成された鮮やかな指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A vibrant ring created from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の腕輪=Verdant Bracelet
+新たな木々から生成された鮮やかな腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A vibrant bracelet created from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の首輪=Verdant Choker
+新たな木々から生成された鮮やかな首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A vibrant choker created from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の耳飾=Verdant Earrings
+新たな木々から生成された鮮やかな耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of vibrant earrings created from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+新緑の護符=Verdant Amulet
+新たな木々から生成された鮮やかな護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A vibrant talisman created from new trees.\r\nEquipping the entire series will give it even more powerful effects.
+
+白銀の指輪=Hakugin Ring
+白銀の輝きを放つ指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の腕輪=Hakugin Bracelet
+白銀の輝きを放つ腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の首輪=Hakugin Necklace
+白銀の輝きを放つ首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A necklace that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の耳飾り=Hakugin Earrings
+白銀の輝きを放つ耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+白銀の護符=Hakugin Amulet
+白銀の輝きを放つ護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A talisman that emits a silvery white glow.\r\nEquipping the entire series will give it even more powerful effects.
+
+オブシディアンリング=Obsidian Ring
+黒曜の煌きを秘めた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンバングル=Obsidian Bangle
+黒曜の煌きを秘めた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bangle that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンチョーカー=Obsidian Choker
+黒曜の煌きを秘めた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A choker that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンピアス=Obsidian Piercings
+黒曜の煌きを秘めた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+オブシディアンアミュレット=Obsidian Amulet
+黒曜の煌きを秘めた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A talisman that exudes the glow of obsidian.\r\nEquipping the entire series will give it even more powerful effects.
+
+サンライトリング=Sunlight Ring
+太陽の輝きを宿した指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトバングル=Sunlight Bangle
+太陽の輝きを宿した腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトチョーカー=Sunlight Choker
+太陽の輝きを宿した首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A choker imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトピアス=Sunlight Piercings
+太陽の輝きを宿した耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+サンライトアミュレット=Sunlight Amulet
+太陽の輝きを宿した護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A talisman imbued with the brilliance of the sun.\r\nEquipping the entire series will give it even more powerful effects.
+
+特鉄隊実践用の指輪=SSS Practice Ring
+特鉄隊の隊員にのみ支給される実践用の指輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A practical ring issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の腕輪=SSS Practice Bracelet
+特鉄隊の隊員にのみ支給される実践用の腕輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A practical bracelet issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の首輪=SSS Practice Choker
+特鉄隊の隊員にのみ支給される実践用の首輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A practical choker issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の耳飾=SSS Practice Earrings
+特鉄隊の隊員にのみ支給される実践用の耳飾。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of practical earrings issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊実践用の護符=SSS Practice Amulet
+特鉄隊の隊員にのみ支給される実践用の護符。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A practical talisman issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+
+特鉄隊訓練用の指輪=SSS Training Ring
+特鉄隊の隊員にのみ支給される訓練用の指輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training ring issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の腕輪=SSS Training Bracelet
+特鉄隊の隊員にのみ支給される訓練用の腕輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training bracelet issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の首輪=SSS Training Choker
+特鉄隊の隊員にのみ支給される訓練用の首輪。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training choker issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の耳飾=SSS Training Earrings
+特鉄隊の隊員にのみ支給される訓練用の耳飾。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of training earrings issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+特鉄隊訓練用の護符=SSS Training Amulet
+特鉄隊の隊員にのみ支給される訓練用の護符。\r\nその手のマニア間で高値で取引されているという噂がある。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A training talisman issued only to members of the Special Steel Squad.\r\nRumor has it that it is traded at high prices among enthusiasts.\r\nEquipping the entire series will give it even more powerful effects.
+
+//SS
+エクリプスリング改=Eclipse Ring Kai
+エクリプスバンド改=Eclipse Band Kai
+エクリプスネック改=Eclipse Necklace Kai
+エクリプスピアス改=Eclipse Piercings Kai
+エクリプスアミュレット改=Eclipse Amulet Kai
+
+桜の指輪=Sakura Ring
+模範的な特鉄隊員に送られる美しい桜の指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom ring given to exemplary members of the Special Steel Squad.\r\nEquipping the entire series will give it even more powerful effects.
+桜の腕輪=Sakura Bracelet
+模範的な特鉄隊員に送られる美しい桜の腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom bracelet given to exemplary members of the Special Steel Squad.\r\nEquipping the entire series will give it even more powerful effects.
+桜の首飾り=Sakura Necklace
+模範的な特鉄隊員に送られる美しい桜の首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom necklace given to exemplary members of the Special Steel Squad.\r\nEquipping the entire series will give it even more powerful effects.
+桜の耳飾り=Sakura Earrings
+模範的な特鉄隊員に送られる美しい桜の耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of beautiful cherry blossom earrings given to exemplary members of the Special Steel Squad.\r\nEquipping the entire series will give it even more powerful effects.
+桜の護符=Sakura Amulet
+模範的な特鉄隊員に送られる美しい桜の護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A beautiful cherry blossom amulet given to exemplary members of the Special Steel Squad.\r\nEquipping the entire series will give it even more powerful effects.
+
+紅葉の指輪=Maple Ring
+ニシキにある落葉樹からつくられた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の腕輪=Maple Bracelet
+ニシキにある落葉樹からつくられた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の首輪=Maple Choker
+ニシキにある落葉樹からつくられた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A choker made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の耳飾=Maple Earrings
+ニシキにある落葉樹からつくられた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+紅葉の護符=Maple Amulet
+ニシキにある落葉樹からつくられた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made from deciduous trees found in Nishiki.\r\nEquipping the whole series will give it even more powerful effects.
+
+コスモレイネックレス=Cosmo Ray Necklace
+コスモレイネック…=Cosmo Ray...
+遠き宇宙の技術で作られた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A necklace made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイリング=Cosmo Ray Ring
+遠き宇宙の技術で作られた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイバンド=Cosmo Ray Band
+遠き宇宙の技術で作られた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A band made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイピアス=Cosmo Ray Piercings
+遠き宇宙の技術で作られた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+コスモレイアミュレット=Cosmo Ray Amulet
+コスモレイアミュ…=Cosmo Ray...
+遠き宇宙の技術で作られた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made with technology from distant space.\r\nEquipping the entire series will give it even more powerful effects.
+
+蒸気機関の指輪=Steam Engine Ring
+未知の部品を組み合わせて作られた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の首輪=Steam Engine Choker
+未知の部品を組み合わせて作られた首飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A choker made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の腕輪=Steam Engine Bangle
+未知の部品を組み合わせて作られた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bangle made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の耳飾=Steam Engine Earrings
+未知の部品を組み合わせて作られた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+蒸気機関の懐中時計=Steam Engine Pocket Watch
+蒸気機関の懐中時…=Steam Engin...
+未知の部品を組み合わせて作られた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pocket watch made from an unknown combination of parts.\r\nEquipping the entire series will give it even more powerful effects.
+
+混沌の指輪=Chaos Ring
+憎悪や憎しみが集まって作られた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の首輪=Chaos Collar
+憎悪や憎しみが集まって作られた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A collar made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の耳飾=Chaos Earrings
+憎悪や憎しみが集まって作られた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の腕輪=Chaos Bangle
+憎悪や憎しみが集まって作られた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bangle made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+混沌の護符=Chaos Amulet
+憎悪や憎しみが集まって作られた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
+
+//Paid
+復刻百鬼夜怨装飾品パック=Reprint Hyakki Night Grudge Decorative Pack
+百鬼夜怨の指輪=Hyakki Yaon Ring
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の腕輪=Hyakki Yaon Bracelet
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の首輪=Hyakki Yaon Necklace
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A necklace that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の耳飾=Hyakki Yaon Earrings
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+百鬼夜怨の護符=Hyakki Yaon Amulet
+百鬼夜行を退けたが、魑魅魍魎の怨念を宿した護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
+
+黄金の指輪=Golden Ring
+黄金と帝王玉を錬成してつくられた指輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の腕輪=Golden Bracelet
+黄金と帝王玉を錬成してつくられた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bracelet made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の首輪=Golden Scarf
+黄金と帝王玉を錬成してつくられた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A scarf made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の耳飾=Golden Earrings
+黄金と帝王玉を錬成してつくられた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+黄金の護符=Golden Amulet
+黄金と帝王玉を錬成してつくられた護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made from transmuting gold and imperial topaz.\r\nEquipping the entire series will give it even more powerful effects.
+
+ぱんぷきんいやりんぐ=Pumpkin Earrings
+ぱんぷきんいやり…=Pumpkin Ea...
+装備しているとイタズラしたくなるイヤリング。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\n武器種が杖のキャラクターが装備できる。\r\nSSセイラム[古の魔女の末裔]に装備することでバトル中の見た目が変わる。=A pair of earrings that makes one want to play pranks when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Salem [Descendant of the Ancient Witch] will change her appearance during battle.
+
+温泉あひるバンド=Hot Spring Duck Band
+装備しているとポカポカしてくる腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSアミアン[果てなき探求心]に装備することでバトル中の見た目が変わる。=A band that makes one feel warm and fuzzy when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Amiens [Endless Inquisitiveness] will change her appearance during battle.
+
+サンタガーターベルト=Santa Garter Belt
+サンタガーターベ…=Santa Garte...
+装備しているとプレゼントを渡したくなるガーターベルト。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオオエノミヤ[宴の始まり]に装備することでバトル中の見た目が変わる。=A garter belt that makes one eager to give a present when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Ooenomiya [Party Starter] will change her appearance during battle.
+
+迎春の髪飾り=New Year Hairclip
+装備しているとおめでたい気分になる髪飾り。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSタイシェト[ナチュラル・サディスティック]に装備することでバトル中の見た目が変わる。=A hairclip that makes one feel festive when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Tayshet [Natural Sadistic] will change her appearance during battle.
+
+バレンタインアミュレット=Valentine Amulet
+バレンタインアミ…=Valentine A...
+装備しているとチョコレートを渡したくなる護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブルーゼ[ブルーゼ劇場開幕☆]に装備することでバトル中の見た目が変わる。=An amulet that makes one want to give chocolate when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bourse [Bourse Theater Grand Opening☆] will change her appearance during battle.
+
+半周年のボウタイ=Half Anniversary Bow Tie
+装備しているとお祝いをしたくなる首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプトラ[元気溌剌！海女ガール]に装備することでバトル中の見た目が変わる。=A bow tie that makes one want to celebrate when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Putra [Energetic Diver Girl!] will change her appearance during battle.
+
+感謝の綿帽子=Gratitude Wataboshi
+装備していると感謝したくなる耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヨシノ[こうぎょうけい呪術師]に装備することでバトル中の見た目が変わる。=A pair of ear accessories that one will be grateful when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yoshino [Kougyoukei Sorceress] will change her appearance during battle.
+
+1周年の髪飾り=1st Anniversary Hairclip
+装備していると盛大にお祝いをしたくなる護符。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフェルクリンゲン[枯れない誇り]に装備することでバトル中の見た目が変わる。=An amulet that will make one want to celebrate in a big way when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Völklingen [Undying Pride] will change her appearance during battle.
+
+バニーの髪飾り=Bunny Hairclip
+装備しているとパワーアップした気分になる耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオハナ[花舞う格闘師範]に装備することでバトル中の見た目が変わる。=A pair of ear accessories that makes one feel more powerful when equipped.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Ohana [Flower Dance Fighting Master] will change her appearance during battle.
+
+パティシエのポーチ=Pâtissier Pouch
+パティシエのポー…=Pâtissier Po...
+実はプエルトリコにあげる為に作った首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSアカプルコ[雪遊びの箱庭]に装備することでバトル中の見た目が変わる。=This neckwear was made to actually be given to Puerto Rico.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Acapulco [Snow Games in a Mini Garden] will change her appearance during battle.
+
+舞台女優の帽子=Stage Actress Hat
+演劇『ロベルタとジュリエッタ』の暗黒総統の帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSクインズウェイ[路を切り拓く者]に装備することでバトル中の見た目が変わる。=Presidente Oscuro's hat from the play "Roberta and Julietta."\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Queensway [Trailblazer] will change her appearance during battle.
+
+イースターの耳飾=Easter Ear Accessory
+語尾が「ぴょん」になると噂の付け耳。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヤクーツク[雪中デートで温めて]に装備することでバトル中の見た目が変わる。=Fake ears that makes one end their sentences with "pyon".\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yakutsk [Warming Up With a Snowy Date] will change her appearance during battle.
+
+つうがく帽子=School Hat
+カラマチから譲り受けたコスプレ用のつうがく帽子。\r\n定価の半額で買い取った。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSロズウェル[星の河を飛び越えて]に装備することでバトル中の見た目が変わる。=A cosplay hat that was offered by Karamachi.\r\nIt was purchased for half the retail price.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Roswell [Flying Across a River of Stars] will change her appearance during battle.
+
+花嫁のティアラ=Bridal Tiara
+パッスィのブランドから販売している花嫁のティアラ。\r\nあしらわれたバラや宝石は、すべて一級品をお取り寄せしている。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSルーアン[聖天使の加護]に装備することでバトル中の見た目が変わる。=A bridal tiara sold under the Passy brand.\r\nThe roses and jewels used are all top-quality, imported from other countries.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Rouen [Holy Angel's Blessing] will change her appearance during battle.
+
+紅薔薇の髪飾り=Red Rose Hairclip
+紅く美しい紅薔薇の髪飾り。\r\nコロンビアの誕生日にウォーキングがプレゼントしたもので、造形が細かいニシキ製となっている。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSコロンビア[華麗なる主人公]に装備することでバトル中の見た目が変わる。=A beautiful red rose hairclip.\r\nIt was a gift from Woking to Columbia for her birthday, and is made in Nishiki with intricate details.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Columbia [The Splendid Protagonist] will change her appearance during battle.
+
+水着のシンデレラ=Swimsuit Cinderella
+リゾートに合わせて着替えた水着のシンデレラ。\r\nアキハバラたんが持っていたペット用の水着を改造して作られた。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフュッセン[淑やかな祝杯を]に装備することでバトル中の見た目が変わる。=Cinderella in a swimsuit suited for indoors resort swimming.\r\nIt was made by modifying a pet swimsuit that Akihabara-tan had.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Füssen [Kneel Before the Queen] will change her appearance during battle.
+
+カカシ犬のお面=Scarecrow Dog Mask
+お祭り会場で売っているカカシ犬のお面。\r\nフェルクリンゲンに押し売りされ購入したが、少し愛着が湧いている。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSベスチャ[背中を追う]に装備することでバトル中の見た目が変わる。=A scarecrow dog mask sold at the festival.\r\nShe was pressured by Völklingen into buying it, but she had since grown a bit attached to it.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bestyakh [Follow One's Back] will change her appearance during battle.
+
+2周年ルーシー=2nd Anniversary Lucy
+特別な衣装に身を包んだ2周年ルーシー。\r\nバラの香りがする限定品で、パディントンとお揃いで持っているらしい。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSヴィクトリア[破壊の侍女]に装備することでバトル中の見た目が変わる。=A Lucy doll dressed in a special outfit for the 2nd anniversary.\r\nIt's a limited edition with a rose scent, and it seems to have a matching outfit with Paddington.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Victoria [Maid of Destruction] will change her appearance during battle.
+
+おかしな魔女の帽子=Funny Witch Hat
+おかしな魔女の帽…=Funny Witch...
+ペナンヒルが夜の蝶で使用していたおかしな魔女の帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプノンペン[水中の天国]に装備することでバトル中の見た目が変わる。=A strange witch's hat used by Penang Hill in Night Butterfly.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Phnom Penh [Underwater Heaven] will change her appearance during battle.
+
+純白の花飾り=Pure White Flower Accessory
+ショードレスに合わせて、朝日の友人たちが作成した髪飾り。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS桜小路ルナ[朝日侍らす月光花]に装備することでバトル中の見た目が変わる。=A hairclip created by Asahi's friends to match the show dress.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Luna Sakurakouji [Moonflower in the Morning Sun] will change her appearance during battle.
+
+ヨシノのマスコット=Yoshino's Mascot
+ヨシノのマスコッ…=Yoshino's M...
+サンタ帽がキュートなヨシノの限定マスコット。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSトカチ[猛烈、農園体験！]に装備することでバトル中の見た目が変わる。=Yoshino's limited edition mascot with a cute Santa hat.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Tokachi [Intense, Farm Experience!] will change her appearance during battle.
+
+狐のお面=Fox Mask
+ミヤコ曰く、不思議な力を持っているらしい狐のお面。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSユーストン[正義の旗を掲げ]に装備することでバトル中の見た目が変わる。=According to Miyako, it is a fox mask that appears to have mysterious powers.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Euston [Upholding the Banner of Justice] will change her appearance during battle.
+
+レッドチョコリボン=Red Chocolate Ribbon
+レッドチョコリボ…=Red Chocola...
+バレンタイン限定色として販売された希少なリボン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブラックフライア[勝利への架け橋]に装備することでバトル中の見た目が変わる。=A rare ribbon sold in a limited edition Valentine's Day color.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Blackfriar [The Bridge to Victory] will change her appearance during battle.
+
+猫耳ヘッドホン=Cat Ear Headphones
+魔力を制御することで音楽が聞こえる、猫耳。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS[どんな困難も魔術で解決]ネピドーに装備することでバトル中の見た目が変わる。=Cat ears that allow one to hear music by controlling magic.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Naypyidaw [Anything's Solvable by Magic] will change her appearance during battle.
+
+学生ベレー帽=Student Beret
+ドッガン団のロゴがオシャレなベレー帽。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSDr.グローリア[常識外れの甘えん坊]に装備することでバトル中の見た目が変わる。=A stylish beret featuring the Doggan Gang logo.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Dr. Gloria [Simpleton Pampered Girl] will change her appearance during battle.
+
+魔法少女のリボン=Magical Girl Ribbon
+子供のような、あどけない可愛さを取り戻せるリボンハワァ！\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSキングスクロス[ロリポップ・ウィザード]に装備することでバトル中の見た目が変わる。=A ribbon that will bring back that childlike, innocent cuteness hawa!\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS King's Cross [Lollipop Wizard] will change her appearance during battle.
+
+花嫁ベール=Bridal Veil
+ティアラ部分に、幸せを願って作られたジュエルがはめ込まれているベール。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメッシーナ[戦場を駆ける天使]に装備することでバトル中の見た目が変わる。=A tiara with its veil set in with jewels that are meant to bring happiness.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Messina [Angel on the Battlefield] will change her appearance during battle.
+
+白霊の天冠=White Spirit Mob Cap
+ふよふよと動く火の玉が可愛い天冠。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSユウゼン[波打ち際の人形遣い]に装備することでバトル中の見た目が変わる。=A cute mob cap with a floating fireball.\nIt has a more powerful effect by equipping it in the series.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuzen [Puppeteer at the Shore] will change her appearance during battle.
+
+麦わら帽子=Straw Hat
+しっかりと日差しを遮ってくれる麦わら帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメンローパーク[繰り返される夏祭り]に装備することでバトル中の見た目が変わる。=A straw hat that will keep the sun out.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Menlo Park [Recurring Summer Festival] will change her appearance during battle.
+
+チアリーダーリボン=Cheerleader Ribbon
+チアリーダーリボ…=Cheerleader...
+選手も観客もその場にいる全員を元気づけることができるリボン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSカラスマ[バトルスーツを身に纏い]に装備することでバトル中の見た目が変わる。=A ribbon that can cheer up everyone present, including athletes and spectators.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Karasuma [Wearing a Battle Suit] will change her appearance during battle.
+
+熱血スニーカー=Hot-Blooded Sneakers
+熱意漲る赤いスニーカー。クッション性に優れ運動もできる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS初代シモアマヅ[オオエの山より呪術を込めて]に装備することでバトル中の見た目が変わる。=A pair of red sneakers full of enthusiasm. They have excellent cushioning and are great for exercise.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Shimoamazu I [From Mt. Ooe With Sorcery] will change her appearance during battle.
+
+メイドのカチューシャ=Maid Katyusha
+メイドのカチュー…=Maid Katyu...
+シックな色で付けると上品に見えるカチューシャ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプレヴェン[魅惑のゾンビナース]に装備することでバトル中の見た目が変わる。=A headband that looks elegant in a chic color.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pleven [Enchanting Zombie Nurse] will change her appearance during battle.
+
+くるみ割り人形の帽子=Nutcracker Hat
+被るとちょび髭がはえる不思議な帽子\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSベスチャ[静かで密かなサンタさん]に装備することでバトル中の見た目が変わる。=A mysterious hat that makes one grow a moustache when worn.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bestyakh [Quiet and Secretive Santa] will change her appearance during battle.
+
+竜のかぶりもの=Dragon Headgear
+竜の子どもを模したかぶりもの。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオステルリッツ[大賢者のお正月]に装備することでバトル中の見た目が変わる。=A headgear modeled after a baby dragon.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Austerlitz [The Great Sage's New Year] will change her appearance during battle.
+
+明日香のグラシュ=Asuka's Grav Shoes
+明日香が使用している競技用のグラシュ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS倉科 明日香[ヴェルフォレット！？の努力家女子]に装備することでバトル中の見た目が変わる。=A pair of competitive grav shoes used by Asuka.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Asuka Kurashina [Hardworking Girl From Verforet!?] will change her appearance during battle.
+
+ハイトップスニーカー=High Top Sneakers
+ハイトップスニー…=High Top Sn...
+静電気を使って速く走ることができるスニーカー。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSフォンテーヌ[愛嬌いっぱいな子熊猫]に装備することでバトル中の見た目が変わる。=A pair of sneakers that uses static electricity to help one run faster.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Fontaine [The Charming Red Panda] will change her appearance during battle.
+
+清楚な美しさの髪飾り=Hairclip of Pure Beauty
+清楚な美しさの髪…=Hair Access...
+綺麗に光る2つの玉がついた髪飾り。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSイソギク[フレイマリンに咲く静謐な美]に装備することでバトル中の見た目が変わる。=A hair ornament with two balls that shines beautifully.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Isogiku [Serene Beauty Blooming in Flamarine] will change her appearance during battle.
+
+ローズベイキャップ=Rose Bay Cap
+ローズベイキャッ…=Rose Bay Cap
+シンプルなデザインと薔薇の刻印が人気なキャップ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSメアリー[みずやりのじかん]に装備することでバトル中の見た目が変わる。=A cap that's popular for its simple design and rose engraving.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Mary [Watering Time] will change her appearance during battle.
+
+優美な靴=Exquisite Shoes
+落ち着いた大人っぽい雰囲気の靴。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS右田 日々姫[ニシキをも描いていくトキメキの筆]に装備することでバトル中の見た目が変わる。=A pair of sShoes with a calm, mature feel.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Hibiki Migita [Thrilling Pen to Depict Nishiki Too] will change her appearance during battle.
+
+サメのかぶりもの=Shark Headgear
+サメの油断を誘うために着用しているかぶりもの。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSウォーキング[波打ち際に狙いを定めて]に装備することでバトル中の見た目が変わる。=A headgear worn to lure sharks into a false sense of security.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Woking [Targeting the Shoreline] will change her appearance during battle.
+
+向日葵の髪飾り=Sunflower Hairclip
+向日葵の温かさを感じる髪飾り。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSブルーゼ[夜空の花をあのひとと]に装備することでバトル中の見た目が変わる。=A hairclip that gives off the warmth of a sunflower.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Bourse [Night Sky Flowers With That Person] will change her appearance during battle.
+
+うさちゃんピン=Little Rabbit Pin
+うさぎが付いたかわいいヘアピン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSチャリングクロスに装備することでバトル中の見た目が変わる。=A cute hairpin with a rabbit design.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Charing Cross will change her appearance during battle.
+
+闇に染まったリボン=Ribbon Dyed in Darkness
+闇に染まったリボ…=Ribbon Dye...
+闇堕ちしてしまった魔女っ娘のリボン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSチトセに装備することでバトル中の見た目が変わる。=A ribbon of a little witch who has fallen into darkness.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Chitose will change her appearance during battle.
+
+幼き日の眼鏡=Childhood Glasses
+滝園学園に通っていた時の眼鏡。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS周防天音に装備することでバトル中の見た目が変わる。=A pair of glasses worn when attending Takizono Academy.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Amane Suou will change her appearance during battle.
+
+バトルメイジのエナン=Battle Mage Hennin
+バトルメイジのエ…=Battle Mage H...
+宝石を愛する魔法使いのエナン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSビストに装備することでバトル中の見た目が変わる。=A hennin of a mage that loves jewels.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Byst will change her appearance during battle.
+
+レースクイーンブーツ=Race Queen Boots
+レースクイーンブ…=Race Queen...
+レースクイーンが愛用しているブーツ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS妃玲奈に装備することでバトル中の見た目が変わる。=A pair of boots that are popular among race queens.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Reina Kisaki will change her appearance during battle.
+
+ベリーイヤー=Berry Ears
+いちごが耳のようになっているカチューシャ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプウネネに装備することでバトル中の見た目が変わる。=A headband with strawberries shaped like ears.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pu'unene will change her appearance during battle.
+
+もふねこカチューシャ=Fluffy Cat Katyusha
+もふもふなねこ耳が付いたカチューシャ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオアハカに装備することでバトル中の見た目が変わる。=A headband with fluffy cat ears.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Oaxaca will change her appearance during battle.
+
+無明簪=Mumyou Hairpin 
+
+//SS Event
+オオエノ玉盃=Ooeno Gyokuhai
+神酒が注がれた立派な盃。オオエ山の守り神の強大な力を授かることができる。=A magnificent cup filled with sacred sake. It bestows the mighty power of the guardian deity of Mt. Ooe.
+ぴきゅるぴいやりんぐ=Pikewrupi Earrings
+ぴきゅるぴいやり…=Pikewrupi E...
+隕石を加工して制作したイヤリング。\r\n2つの願い事を叶えると言われている。=A pair of earrings made from processed meteorites. It is said to grant two wishes.
+ハロウィンルーシー=Halloween Lucy
+ハロウィンルーシ…=Halloween L...
+ハロウィンを模したルーシー人形。\r\nセントイリスのお菓子屋さんで「トリックオアトリート」と言うと貰えるらしい。=A Halloween-themed Lucy doll.\r\nApparently it's possible to get one by saying "Trick or Treat" at the candy store in St. Iris.
+オハナ特製お重=Ohana Special Lunch Box
+特別な時にしか出されない、オハナお手製のご馳走が詰まったお重。\r\n装飾。全員が装備できる。=A box filled with Ohana's homemade delicacies, only served on special occasions.\r\nAccessory. Can be equipped by anyone.
+鬼コーデシューズ=Kijin Fitting Shoes
+オオエノミヤのシューズ=Ooenomiya's Shoes
+剣で与えるダメージが25%上昇する。=Increases Sword damage dealt by 25%.
+根性と気合のたすき=Konjou and Kiai Sash
+シーイェンのオシャレたすき=Shiyan's Stylish Sash
+拳で与えるダメージが25%上昇する。=Increases Gauntlet damage dealt by 25%.
+パープルジュエルペンダント=Purple Jewel Pendant
+ビストの宝石=Byst's Gem
+斧で与えるダメージが25%上昇する。=Increases Axe damage dealt by 25%.
+根性と気合のたす…=Konjou and K...
+パープルジュエル…=Purple Jewel...
+
+ブルーアンバーピアス=Blue Amber Piercings
+ブルーアンバーピ…=Blue Amber...
+高貴なブラックローズ=Noble Black Rose
+高貴なブラックロ…=Noble Black...
+聖十字の首飾り=Holy Cross Necklace
+翡玉揚巻の髪飾=Jade Agemaki Hairclip
+獄廻の封札=Prison Tour Seal
+ゴールデンルーシー=Golden Lucy
+ゴールデンルーシ…=Golden Lucy
+ストロベリーミトン=Strawberry Mitten
+ストロベリーミト…=Strawberry M...
+水四葉のイヤリング=Water Four-Leaved Earrings
+水四葉のイヤリン…=Water Four-...
+極紫華のストール=Kyoshika Stolen
+水華手裏剣の耳飾=Suika Shuriken Earrings
+ハイウィングピアス=High Wing Piercings
+ハイウィングピア…=High Wing P...
+輝煌の腕輪=Brilliant Bracelet
+プレシャスリボンチョーカー=Precious Ribbon Choker
+プレシャスリボン…=Precious Rib...
+格闘カンガルーのぬいぐるみ=Boxing Kangaroo Plush Toy
+格闘カンガルーの…=Boxing Kang...
+濃睡蓮の髪飾り=Deep Pygmy Waterlily Accessory
+黄闘の指輪=Yellow Battle Ring
+ゴー君の絆創膏=Go-Golem's Bandage
+海賊王の耳飾り=Pirate King's Earrings
+金星の夜雫=Venus Night Drops
+ブルーアシェンピアス=Blue Ashen Piercings
+ブルーアシェンピ…=Blue Ashen...
+ブラック・アナザー・バングル=Black Another Bangle
+ブラック・アナザー・バン…=Black Another...
+ブラック・アナザ…=Black Anoth...
+服従の首輪=Obedience Collar
+羊鳴宮の強運御守=Younarumiya Good Luck Charm
+名獣医の聴診器=Famous Vet's Stethoscope
+大賢者のネックレス=Great Sage's Necklace
+大賢者のネックレ…=Great Sage's...
+呪鬼の華飾り=Juki no Hana Kazari
+蒼薔薇玉の指輪=Blue Rose Orb Ring
+黄金の手錠=Golden Handcuffs
+緋黄金のリング=Scarlet Gold Ring
+開闢の蒼薔薇=Blue Rose of Creation
+紅の花飾り=Red Flower Accessory
+マキナグラフ=Machina Graph
+クレインザスカイリング=Crane the Sky Ring
+クレインザスカイ…=Crane the S...
+ハイパーニシキカチューシャ=Hyper Nishiki Katyusha
+ハイパーニシキカ…=Hyper Nishi...
+オノフィレクスリング=Onophyllex Ring
+オノフィレクスリ…=Onophyllex...
+グラスオブマキナ=Glass of Machina
+クロスポインター=Cross Pointer
+極楽往生の護符=Gokuraku Oujou no Gofu
+ネオフランクバングル=Neo Frank Bangle
+ネオフランクバン…=Neo Frank B...
+ノービレイヤリング=Nobile Earrings
+ノービレイヤリン…=Nobile Earri...
+ディアハイビスカスレイ=Dear Hibiscus Wreath
+ディアハイビスカ…=Dear Hibisc...
+アミュレットリング=Amulet Ring
+アミュレットリン…=Amulet Ring
+万華桜=Mangezakura
+リベルエデルネック=Liber Edel Necklace
+リベルエデルネッ…=Liber Edel N...
+ファントムサージュリング=Phantom Surge Ring
+ファントムサージ…=Phantom Su...
+キングルーシー=King Lucy
+ハイスソウルチョーカー=High Soul Choker
+ハイスソウルチョ…=High Soul C...
+イストウルリング=Istul Ring
+超グルメピアス=Super Gourmet Piercings
+
+//S Event
+リボンチョーカー=Ribbon Choker
+風雅の腕輪=Elegant Bracelet
+フランクバングル=Frank Bangle
+ハイビスカスレイ=Hibiscus Ray
+イリスウォッチ=Iris Watch
+豊穣の護符=Fertility Talisman
+ウィングピアス=Wing Piercings
+小熊のルーシー=Little Bear Lucy
+ソウルチョーカー=Soul Choker
+アウルリング=Owl Ring
+グルメピアス=Gourmet Piercings
+タリスマンリング=Talisman Ring
+華桜=Hanazakura
+エデルネック=Edel Necklace
+ファントムリング=Phantom Ring
+睡蓮の髪飾り=Suiren Hair Ornament
+うさぎのお弁当箱=Rabbit Obento Box
+黄銅の指輪=Brass Ring
+海賊の耳飾り=Pirate Earrings
+銀星の夜雫=Ginsei Night Droplet
+手裏剣の耳飾=Shuriken Earrings
+紫華のストール=Purple Stole
+四葉のイヤリング=Four-Leafed Earrings
+獄地の札=Hell's Ofuda
+フォースガード=Force Guard
+チャームガード=Charm Guard

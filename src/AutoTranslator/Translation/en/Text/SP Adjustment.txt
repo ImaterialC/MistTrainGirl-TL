@@ -1,0 +1,19 @@
+スキルSP調整=Skill SP Adjustment
+覚醒後に可能=Enabled after awakening
+SP調整=SP Adjustment
+sr:"^([\s\S]+)のスキル$"=$1's skills
+全て=All
+自動売却設定=Auto-Sell Settings
+自動売却対象がありません=There are no items to auto-sell.
+各レアリティごとに自動売却設定ができます=You can set up auto=sell for each rarity.
+装備（武器、防具、装飾）の各レアリティ毎に自動売却設定ができます=You can set up auto-sell for each rarity of equips (weapons, armors, accessories).
+ドロップする装備品が自動売却の対象になります=Dropped equips will be eligible for auto-sell
+※個別設定の内容は全クエスト共通で同一の装備・宝珠に対して適用されます=※Personalized settings are applied to the same equips and orbs for all quests.
+個別設定=<size\=11>Custom Settings</size>
+一括設定=<size\=12>Bulk Settings</size>
+自動売却の売却設定を選択してください=Choose your auto-sell settings.
+クエストドロップ装備の自動売却設定を行えます=You can set up auto-sale of equips dropped from quests.
+SP消費=SP Cost
+SP消費量を指定してください=Specify SP Cost
+スキル消費SPを修得時-覚醒段階間の数値を変更できます=You can change the SP cost between initial and awakening stages of a skill.
+覚醒済みスキルのSP消費量を調整します=Adjust SP cost of awakened skills

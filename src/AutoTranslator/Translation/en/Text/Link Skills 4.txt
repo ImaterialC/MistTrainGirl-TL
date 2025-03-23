@@ -1,0 +1,22 @@
+//Jungfrau
+フロストカメラート=Frost Kamerad
+「フロストカメラート」を選択した同じターンに、威力B以上の物理攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Frost Kamerad is selected, select other B+ Power physical attack skills (※Excludes total power) total 2+ excluding self on the same turn.
+【全属性エレメントの蓄積数の合計が「2」以上の敵に対して、与えるダメージを60%上昇させる】効果を味方全体に付与する。※付与効果は発動ターンのみ=All allies gain buff [Increases damage dealt by 60% to enemies with 2 or more total Element Stacks]. ※Applied buff lasts this turn only
+グレイシャインパクト=Glacier Impact
+敵単体に物理（衝）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Water) damage and recovers 3 SP.
+「グレイシャインパクト」を選択した同じターンに、初期SPが13以上の双属性スキルを、自身を除く2体以上が選択する。=When Glacier Impact is selected, select other 13+ original SP cost double-Element skills total 2+ excluding self on the same turn.
+【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet or Whip Layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
+アグレスフロスウィップ=Aggress Fluss Whip
+
+//Basel
+フルーフ・ヴァッサー=Fluch Wasser
+フルーフ・ヴァッ…=Fluch Wasser
+敵単体に物理（貫）か物理（水）で攻撃し、自身のHPを最大HPの5%分減少させる。=Attacks a single enemy with physical (Pierce) or physical (Water) damage and decreases 5% of self Max HP.
+「フルーフ・ヴァッサー」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fluch Wasser is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+自身がエレメントバーストで与えるダメージを45%上昇させ、更にエレメントバースト時の物理攻撃力を20%上昇させる。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 45% and increases ATK during Element Burst by 20%. ※Each effect lasts this turn only
+カース・ジ・ヴァルン=Curse the Varun
+カース・ジ・ヴァ…=Curse the V...
+「カース・ジ・ヴァルン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Curse the Varun is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+【エレメントバーストが発動するたびに、1ターンの間、自身がエレメントバーストで与えるダメージを15%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time an Element Burst is activated, increase Element Burst damage dealt by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+シュヴァルツレインドラフ=Schwarz Reindorf
+敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases ATK during Element Burst (L) for 1 turn.

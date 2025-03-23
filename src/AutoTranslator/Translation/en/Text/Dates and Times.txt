@@ -1,0 +1,85 @@
+//Base Dates and Times:
+
+//Years
+sr:"(\d+)年"=$1
+
+//Months
+sr:"0?1月"=Jan
+sr:"0?2月"=Feb
+sr:"0?3月"=Mar
+sr:"0?4月"=Apr
+sr:"0?5月"=May
+sr:"0?6月"=Jun
+sr:"0?7月"=Jul
+sr:"0?8月"=Aug
+sr:"0?9月"=Sep
+sr:"10月"=Oct
+sr:"11月"=Nov
+sr:"12月"=Dec
+
+//Days
+sr:"(\d+)日"=$1
+
+//Weekdays
+(日)=(Sun)
+(月)=(Mon)
+(火)=(Tue)
+(水)=(Wed)
+(木)=(Thu)
+(金)=(Fri)
+(土)=(Sat)
+
+//Time (H:M)
+sr:"(\d+)時(\d+)分"=$1:$2
+
+
+
+//Combinations:
+
+//Month and Day
+//e.g. 1月1日=1月 1日
+sr:"(\d+月)(\d+日)"=$1 $2
+
+//Month, Day, and Weekday
+//e.g. 01月16日(木)=01月 16日 (木)
+sr:"(\d+月)(\d+日)(\(\w+\))"=$1 $2 $3
+
+//Month, Day, and Time
+//e.g. 1月1日 23:59=1月 1日 23:59
+sr:"(\d+月)(\d+日) (\d+:\d+)"=$1 $2 $3
+
+//Month, Day, Weekday, and Time
+//e.g. 1月1日(水)23時59分=1月 1日 (水) 23:59
+sr:"(\d+月)(\d+日)(\(\w+\))(\d+時\d+分)"=$1 $2 $3 $4
+
+//Year, Month, and Day
+//e.g. 2024年1月1日=1月 1日, 2024年
+sr:"(\d+年)(\d+月)(\d+日)"=$2 $3, $1
+
+//Year, Month, Day, and Weekday
+//e.g. 2024年1月1日 (水)=1月 1日, 2024年 (水)
+sr:"(\d+年)(\d+月)(\d+日) (\(\w+\))"=$2 $3, $1 $4
+
+//Year, Month, Day, and Time
+//e.g. 2024年1月1日 23:59=1月 1日, 2024年 23:59
+sr:"(\d+年)(\d+月)(\d+日) (\d+:\d+)"=$2 $3, $1 $4
+
+//Year, Month, Day, Weekday, and Time
+//e.g. 2024年1月1日 (水) 23:59=1月 1日, 2024年 (水) 23:59
+sr:"(\d+年)(\d+月)(\d+日) (\(\w+\)) (\d+:\d+)"=$2 $3, $1 $4 $5
+
+
+
+//Date Ranges:
+
+//e.g. 1月1日(水)23時59分まで=Ends 1月1日(水)23時59分
+sr:"(\d.+)(?<!回復)まで"=Ends $1
+
+//e.g. 開催期間：2025/01/16 06:30まで=Event Period: Ends 2025/01/16 06:30
+sr:"開催期間：(\d.+)まで"=Event Period: Ends $1
+
+//e.g. 開催期間：2025/01/16 06:30=Event Period: 2025/01/16 06:30
+sr:"開催期間：(\d.+(?<!まで))"=Event Period: $1
+
+//e.g. 2025年01月01日 (水) ～ 2025年01月10日 (金) 23:59
+sr:"(\d.+) ～ (\d.+)"=$1 ～ $2

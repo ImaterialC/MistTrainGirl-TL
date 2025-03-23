@@ -1,0 +1,306 @@
+通常表示=Show Normal
+移動=Move
+売却\n=Sell\n
+所持枠拡張=Expand Box
+倉庫へ=Warehouse
+このレイヤーはすでに編成されています=This layer is already organized.
+交換用=Trading
+PTスキル強化=PT Skill Enhance
+経験値アイテム=EXP Item
+装備強化=Equip Strengthen
+クエスト選択=Quest Selection
+限界(ベース能力)=Limit (Base Stats)
+出撃準備=Sortie Prep
+推奨PT戦力=Recommended PT Power
+有利\n系統=Typ\nAtk
+有利\n耐性=Res\nist
+有利\n属性=We\nak
+出現エネミー一覧=Enemy List
+挑戦回数=Available Rounds
+経験値クエスト=Experience Quest
+育成クエスト=Training Quest
+素材クエスト=Material Quest
+ミニポーションを1個使用しました=1 Mini Potion Used
+本日の挑戦回数が上限に達しました=Today's challenge amount has reached the max
+自動周回再開=Resume Auto-Lap
+自動周回結果=Auto-Lap Results
+1クエスト平均行動回数=Average number of actions in 1 quest
+自動周回を終了しました=Auto-Lap has ended
+r:"^リセットまで([0-9]+)日([0-9]+)時間([0-9]+)分$"=Resets in $1 D $2 h $3 m
+ベースが同じレイヤーが編成されています=There is already a Layer with the same base organized.
+シナリオ解放=Scenario Unlocked
+以下のシナリオが解放されました=Scenarios below are unlocked:
+シナリオはイベントTOP、イベントクエスト画面\nシアターのイベントシナリオから閲覧できます=Scenarios can be viewed from the Event Main Page, Event Quest screen, Theater, Event Scenario.
+各レアリティごとに自動売却設定ができます=Auto-sell settings can be set for each rarity.
+r:"^メインクエスト ([0-9]+)-1(NORMAL)$"=Main Quest $1-1 (NORMAL)
+r:"^メインクエスト ([0-9]+)-2(NORMAL)$"=Main Quest $1-2 (NORMAL)
+r:"^メインクエスト ([0-9]+)-3(NORMAL)$"=Main Quest $1-3 (NORMAL)
+r:"^メインクエスト ([0-9]+)-4(NORMAL)$"=Main Quest $1-4 (NORMAL)
+r:"^メインクエスト ([0-9]+)-5(NORMAL)$"=Main Quest $1-5 (NORMAL)
+r:"^メインクエスト ([0-9]+)-1(HARD)$"=Main Quest $1-1 (HARD)
+r:"^メインクエスト ([0-9]+)-2(HARD)$"=Main Quest $1-2 (HARD)
+r:"^メインクエスト ([0-9]+)-3(HARD)$"=Main Quest $1-3 (HARD)
+r:"^メインクエスト ([0-9]+)-4(HARD)$"=Main Quest $1-4 (HARD)
+r:"^メインクエスト ([0-9]+)-5(HARD)$"=Main Quest $1-5 (HARD)
+r:"^メインクエスト ([0-9]+)-1(VERYHARD)$"=Main Quest $1-1 (VERYHARD)
+r:"^メインクエスト ([0-9]+)-2(VERYHARD)$"=Main Quest $1-2 (VERYHARD)
+r:"^メインクエスト ([0-9]+)-3(VERYHARD)$"=Main Quest $1-3 (VERYHARD)
+r:"^メインクエスト ([0-9]+)-4(VERYHARD)$"=Main Quest $1-4 (VERYHARD)
+r:"^メインクエスト ([0-9]+)-5(VERYHARD)$"=Main Quest $1-5 (VERYHARD)
+r:"^STAGE([0-9]+)クリア！$"=Stage $1 Cleared!
+
+//Stamina
+極石魔装を獲得=Acquired the polar stone magic
+スタミナ不足のため出撃できません=I can't sortie because of lack of stamina
+58秒=58 seconds
+スタミナ不足のためクエストに出撃できません=I can't sort out the quest because of lack of stamina
+戦闘に敗北・リタイアした場合、アイテムは消費されません=If you lose or retire in battle, you will not be consumed
+スタミナ回復=Recover Stamina
+スタミナ不足=Insufficient Stamina
+スタミナは999まで所持できますが、ランクアップなどで999を超えた場合は消失します。=Stamina can be up to 999, but any stamina exceeding 999 due to ranking up or other reasons will be lost.
+スタミナ回復に使用するアイテムを選択してください=Select the item to use to recover stamina.
+r:"^([0-9]+)個でスタミナを([0-9]+)回復$"=Spend $1 to recover $2 stamina
+スタミナ回復確認=Confirm Stamina Recovery
+ミストジュエルは無償分から消費されます。=Mist Jewels will be consumed from the free portion.
+使用数=Uses
+スタミナ上限: 999=Stamina Cap: 999
+無償 0=Free 0
+有償 1000/=Paid 1000/
+sr:"^([\S\s]+)ポーションでスタミナを回復しますか$"=Do you want to recover stamina with $1?
+sr:"^([\S\s]+)でスタミナを回復しますか$"=Do you want to recover stamina with $1?
+sr:"^([\S\s]+)ポーションを([0-9]+)個使用して\r\nスタミナを([0-9]+)回復しました$"=$3 stamina recovered using $2 $1 Potions
+スタミナを回復しました=Stamina Recovered
+ミニ=Mini
+
+回数限定=Max Tries
+r:"^残り([0-9]+)/([0-9]+)$"=$1/$2 Left
+リセット=Reset
+所持\n=Possession\n
+フレンド一覧=Friend List
+能力上昇量増加=Stat Gain Rate
+経験値獲得量増加=Experience Gain Rate
+スキル熟練度上昇率増加=Proficiency Gain Rate
+アイテム獲得量上昇=Item Amount
+アイテムドロップ率上昇=Item Drop Rate
+再レンタル可能まで=Re-rentable
+ななし=None
+選択可能なフレンドがいません=There are no friends selected
+階層=Stage
+次回開催まで\nお待ちください=Please wait until the next event
+成長限界表示=Show Limits
+成長限界=Growth Limit
+消費=Cost
+消費スタミナ=Stamina Cost
+クリア後に開放=Unlocked After Clearing
+自動周回=Auto Lap
+初回報酬=First Clear
+スコア基準値=Score Standard Value
+r:"^他能力値:([0-9]+)$"=Other Stats: $1
+最大値=Max
+ドロップアイテム=Drops
+ドロップ詳細=Drop Details
+倍=x
+出現エネミー=Enemies
+一括=Bulk
+自動売却=Auto-Sell
+r:"^([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Ends in $1/$2/$3 $4:$5
+全力AUTO=Full Power Auto
+制限AUTO=Restricted Auto
+通常AUTO=Normal Auto
+AUTO戦闘方式を設定してください=Please set the Auto battle system
+r:"^キャンペーン終了まで ([0-9]+):([0-9]+)=Campaign ends $1:$2
+自動周回の設定をしてください=Please set the auto-lap
+レンタル詳細=Rental Details
+自動進行終了=End Auto Battle
+自動周回終了=End Auto-Lap
+再戦する=Rematch
+次のシナリオへ=To Next Scenario
+クエストに出撃=Sortie in the quest
+自動で次のクエストへ挑戦する=Auto challenge next quest
+戦闘に敗北・リタイアした場合スタミナを通常の1/3消費します=Stamina cost is 1/3 if you lose or retire a battle
+スタミナを消費してクエストに出撃します=Consume stamina to set out on the quest
+イベントクエスト=Event Quest
+報酬受取期間=Claim Period
+開催中=Open
+セット中のPTスキル=Set PT Skills
+おすすめ編成=Recomm. Setup
+参加条件戦力=Minimum Power
+推奨戦力=Recomm. Power
+固定推奨戦力クエスト=Fixed Recomm. Power Quest
+EX能力値=EX Stats
+クエスト詳細=Quest Details
+35階層討伐\r\nランキング=35th Floor\r\nMilestone Rank
+位=Position
+あなたのランキング=Your Ranking
+ターン=Turn
+あなたの討伐ターン数=Number of subjugation turns
+圏外=Outside the area
+降魔の祭壇=Altar of Judgment
+フィールド効果=Field Effect
+sr:"^([\s\S]+)が現在装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=Currently equipped by $1.\r\nPress the Confirm button or change slot to confirm the change.
+sr:"^([\s\S]+)が極石魔装を装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=$1 is equipped with an Extreme Magical Arm.\r\nPress the Confirm button or change slot to confirm the changes.
+
+キャラクターを選択してポジションを入れ替えることができます=You can select a character and swap positions.
+他のパーティが副官周回しているため出撃できません=Cannot sortie as another party is in Adjutant Lapping.
+r:"^1個でスタミナを([0-9]+)回復$"=Each item recovers $1 stamina
+■使用するポーションを選択してください=■ Choose the potion you want to use
+副官周回中のパーティのため別のパーティを選択してください=Please select a different party as the party is currently under Adjutant Lapping.
+副官周回しているパーティがいずれかを出撃・使用しているため出撃できません\n・レイヤー　・装備　・PTスキル=The party cannot depart as one of the following is already used in adjutant lapping: Layer, Equipment, Party Skill
+r:"^周回回数が([0-9]+)回のため、副官周回詳細ページに戻ります$"=Rounds completed in total is $1, returning to the Adjutant Lap details page.
+r:"^キャンペーン終了まで　([0-9]+):([0-9]+)$"=Campaign ends $1:$2
+
+//Sell
+宝珠スロット=Orb Slot
+設定中=Setting
+一括選択=Bulk Select
+一括売却=Bulk Sell
+デフォルト=Default
+自動売却したいアビリティ/宝珠スロットを選択してください\n最大所持数の設定を超えてドロップした装備品が自動売却されます=Select the ability/orb slot you want to auto-sell. Any equipment that drops beyond the maximum number of items you have will be auto-sold.
+※ステータスは初期状態のものになります=※Stats will be the initial value.
+アビリティ無し=No Ability
+最大所持数=Max Owned
+
+難易度解放=Difficulty Unlock
+新たな難易度が解放されました=New difficulty level is unlocked
+<color\=#773038FF>STAGE110</color>難易度【<color\=#773038FF>HARD</color>】が解放されました\r\n<color\=#773038FF>STAGE111</color>の難易度【<color\=#773038FF>HARD</color>】が解放されました\r\n=<color\=#773038FF>STAGE110</color>Difficulty [<color\=#773038FF>HARD</color>] is unlocked\r\n<color\=#773038FF>STAGE111</color>Difficulty [<color\=#773038FF>HARD</color>] is unlocked\r\n
+<color\=#463E3C>※PTスキルが設定されていないフレンドは表示されません</color>　<color\=#D91E4A>※お得意様ゲージの蓄積は１週間毎にリセットされます</color>=<color\=#463E3C>※Friends without PT skills are not displayed.</color>　<color\=#D91E4A>※Friendship meter gauges are reset every week.</color>
+
+ゴールドや経験値、装備の進化に使う\n「幻夢石」など、育成に必要な素材を\nどっさりゲットしちゃいましょう♪=Let's get lots of materials\r\nrequired for improvements,\r\nsuch as gold, experience points, and dream stones used\r\nto upgrade equipment♪
+ゴールドや経験値、装備の進化に使う\r\n「幻霧石」など、育成に必要な素材を\r\nどっさりゲットしちゃいましょう♪=Let's get lots of materials\r\nrequired for improvements,\r\nsuch as gold, experience points, and mist stones used\r\nto upgrade equipment♪
+挑戦回数は入場許可書を使用する\r\nことで、回復できちゃいますよ♪=You can recover your number of attempts by using admission permits♪
+で再度挑戦可能=Rechallenge
+レイヤーをLvUpさせる経験値を多く獲得=Gain a lot of experience points to level up Layers
+
+ここでは装備の進化素材が採れます！\r\n幻霧石を集めて武器や防具を\r\n進化させちゃいましょう！=Here you can get materials to evolve your equipment! Collect Mist Stones to evolve your weapons and armor!
+幻霧石クエスト=Mist Stones Quest
+ゴールドクエスト=Gold Quest
+進化素材クエスト=Upgrade Materials Quest
+開催期間外です=Event Not Open
+ゴールドを多く獲得=Earn more gold
+
+極石魔装クエスト=Extreme Magic Arms Quests
+ここでは、極石魔装の素材が\r\n採れるのであります！\r\n強化素材を集めて、アリサカと一緒に\r\n極石魔装を強化するであります！=Here, is where you can get materials for Extreme Magic Arms! Collect those materials and upgrade your Extreme Magic Arms together with Arisaka!
+坑道を選択してください=Please Select Tunnel
+未選択=Not Selected Yet
+選択中坑道経路=Selected Tunnel Route
+【刃】極石魔装素材=[Cut] Extreme Magic Materials
+【衝】極石魔装素材=[Blow] Extreme Magic Materials
+【貫】極石魔装素材=[Pierce] Extreme Magic Materials
+
+様々なミニゲームで遊んで豪華報酬を獲得しよう！=Play various mini-games and get great rewards!
+ギア強化に使用する\r\nギアを獲得できます=You can acquire gear to use in gear upgrades.
+
+最高難易度討伐ランキング=Highest Difficulty Rank
+ここにテーマがはいるよ=Here is the theme
+開催期間：2022/12/31 23:59まで=Duration: 2022/12/31 until 23:59
+開催期間：2024/10/31 13:59まで=Period: Ends 2024/10/31 13:59
+到達WAVE=Achieved Wave
+sr:"^属性試練【([\S\s]+)・([\S\s]+)】$"=Element Trials [$1/$2]
+
+//Battle Festival
+報酬確認=Confirm Rewards
+到達WAVE報酬=Achieved Wave Reward
+＊ランキングによる報酬はございません\r\n＊同率の場合は先にスコアを記録したユーザが上の順位として表示されます=＊There are no rewards based on rankings.\r\n＊In the case of a tie, the user who recorded their score first will be ranked higher.
+討伐ランキングが登録されていません=Subjugation ranking is not registered
+最高難易度討伐ランキングTOP100とパーティ編成を確認できます=Top 100 rankings for the hardest difficulty and party composition
+討伐ターン=Clear Turn
+
+//Tower
+現在到達階へ=To current floor
+試練の塔のクリア状況がリセットされました=The Tower of Trials completion status has been reset
+※クリア階の0階前まで自動的にクリア状態になります=※Automatically clears up to the X0th floor before the cleared floor.
+※所持枠が上限に達した場合はプレゼントボックス（期限あり）に送られます=* If the holding frame reaches the upper limit, it will be sent to the present box (with a deadline).
+試練の塔リセット=Reset Tower of Trials
+50階までの自動クリア報酬=Auto clear rewards up to floor 50
+自動推奨戦力クエスト=Automatic Recommended Power Quest
+画面タップで閉じる=Tap the screen to close.
+r:"^バトル中に、発動したエレメントバーストの回数([0-9]+)回以内$"=Activate $1 or less Element Bursts in a battle.
+バトル終了までに誰も戦闘不能になっていない=No one is KO'ed by the end of the battle.
+バトル終了までに戦闘不能になったレイヤーが2体以下=2 or less Layers are KO'ed by the end of the battle.
+r:"^クエストクリアターン([0-9]+)ターン以内$"=Clear quest within $1 turns.
+剣・斧のレイヤーのみを編成=Clear with only Sword and/or Axe Layers.
+魔具・杖・銃のレイヤーのみを編成=Clear with only Artifact, Staff and/or Gun Layers.
+拳・鞭・杖のレイヤーのみを編成=Clear with only Gauntlet, Whip and/or Staff Layers.
+槍・弓・銃のレイヤーのみを編成=Clear with only Spear, Bow and/or Gun Layers.
+スペシャルスキルを使用せずにクエストクリア=Clear quest without using Special Skills.
+r:"^リンクスキルを([0-9]+)回以上発動する$"=Link skills $1 or more times.
+
+//Iwato
+属性選択=Select Element
+母の試練を1つクリアで解放=Unlock mother's trial 1 to unlock
+更なるステータス\n『EXステータス』\nを強化出来るクエスト=Quests to further increase 'EX Stats'
+期待。\n車掌たちなら、もっと強くなれるはず！=Expectation.\nConductor-tachi should be stronger!
+修練場を解放するための試練=Trials to unlock\ntraining grounds
+試練4=Trial 4
+試練5=Trial 5
+試練3=Trial 3
+試練2=Trial 2
+試練1=Trial 1
+刃・衝・貫【修練場5】 解放任務=Cut/Blow/Pierce [Training 5] Unlock Mission
+刃・衝・貫【修練場4】 解放任務=Cut/Blow/Pierce [Training 4] Unlock Mission
+刃・衝・貫【修練場3】 解放任務=Cut/Blow/Pierce [Training 3] Unlock Mission
+刃・衝・貫【修練場2】 解放任務=Cut/Blow/Pierce [Training 2] Unlock Mission
+刃・衝・貫【修練場1】 解放任務=Cut/Blow/Pierce [Training 1] Unlock Mission
+出現\nエネミー\n情報=Show\nenemy\ninfo
+岩戸の修練場=Iwato Training Ground
+母の試練=Mother's Trial
+HP+1500 他+150=HP+1500 Others+150
+EX能力最大値=EX Stat Max Value
+修練場=Training Grounds
+r:"^母の試練 試練([0-9]+)クリアで解放$"=Unlocked by clearing mother's trial $1
+sr:"^【([\S\s]+)】修練場([0-9]+)$"=<size\=20>[$1] Training Ground $2</size>
+HP+3000 他+300=HP+3000 Others+300
+HP+2500 他+250=HP+2500 Others+250
+HP+2000 他+200=HP+2000 Others+200
+HP+1500 他+150=HP+1500 Others+150
+HP+500 他+50=HP+500 Others+50
+
+//Raid
+自動周回は日付変更（am5:00）に強制的に終了となりますご注意ください=Please note that the auto-laps will be forcibly\r\nterminated when the date changes (at 5:00am).
+※救援範囲は敗退後、救援/参加状況＞参加中レイドリストから変更できます\r\n「フレンド」を選択→「ランダム」に変更可能\r\n「ランダム」を選択→救援範囲の変更はできません=※The rescue range can be changed upon defeat by\r\ngoing to Rescue/Participation Status > Participating Raid List.\r\n"Friends" → Can be changed to "Random"\r\n"Random" → Rescue range cannot be changed.
+続行=Continue
+バトル開始に失敗したときの設定をしてください=Please set the settings when you fail to start a battle.
+救援範囲を設定してください=Please set the rescue range.
+アイテムが尽きるまで周回します=Auto until the item runs out.
+%以下=Below X%
+達成率=Achievement rate
+開催期間：2024/11/10 23:59 まで=Duration period: 2024/11/10 until 23:59
+--分=--Pts
+開催期間：2024/11/10 23:59まで=Duration period: 2024/11/10 until 23:59
+※続行する場合、召喚アイテムを消費してランダムマッチングを行い、 バトル終了後に再度救援先を探し、\n見つかった場合は設定していた救援へと戻ります=* If you continue, consume the summoned item to random matches, search for rescue destinations again after the battle, and return to the set rescue.
+<color\=#A73C46FF>STAGE1</color>の難易度【<color\=#A73C46FF>HARD</color>】が解放されました\r\n【<color\=#A73C46FF>レイド</color>】が解放されました=[<color\=#A73C46FF>Hard</color>] difficulty has been unlocked for <color\=#A73C46FF>STAGE 1</color>.\r\n[<color\=#A73C46FF>Raid</color>] has been unlocked<size\=24><color\=#773038>襲</color></size><size\=17><color\=#48351A>撃サンタ</color></size>=<size\=24><color\=#773038>Attack</color></size><size\=17><color\=#48351A>Santa</color></size>
+レイド討伐ポイント=Raid Defeat Points
+褒章確認=Confirm Medals
+r:"^銅褒章([0-9]+)個以上で獲得$"=$1 or more Bronze Medals
+r:"^銀褒章([0-9]+)個以上で獲得$"=$1 or more Silver Medals
+r:"^金褒章([0-9]+)個以上で獲得$"=$1 or more Gold Medals
+アクマ印の紙幣=Akuma Seal Bill
+sr:"^「([\s\S]+)」\r\nをクリアすることで獲得できる、\r\nレイドボスに挑戦するためのアイテム。$"=An item for challenging raid bosses that can be obtained by clearing $1.
+アイテム不足のため出撃していません=Not deployed due to lack of items.
+ラインナップ詳細=Lineup Details
+
+//Mist Cave
+狭霧の洞穴=Mist Cave
+ここでは「宝珠」を獲得できます！\r\n装備によってセットできる「宝珠」が\r\n異なるので、装備に合ったクエストに挑戦してください♪=You can get Orbs here!\r\nThe Orbs you can set vary depending on your equipment,\r\nso try the quests that matches your equipment.
+狭霧の洞穴【武器】=Mist Cave [Weapon]
+狭霧の洞穴【防具】=Mist Cave [Armor]
+狭霧の洞穴【装飾】=Mist Cave [Acces.]
+ドロップアイテム一覧=List of item drops
+宝珠を獲得=Orbs Obtained
+
+編成名編集=Edit Party Name
+最大文字入力数は12文字までです=Up to 12 maximum letters allowed
+新しい編成名を入力してください=Enter new party name
+編成名をつけて管理することができます=Parties can be managed by naming parties
+sr:"^([\S\s]+)の新しいグループ名を入力してください$"=Enter the new group name for $1
+グループ名をつけて管理することができます=Groups can be managed by naming groups
+グループ名編集=Edit Group Name
+
+//Special Training
+※レイヤーによって、各ステータスの数値が変動する可能性があります。=※Numerical values ​​of each stat may vary depending on the layer.
+クエストをクリアした際、出撃したレイヤーのベース能力値が\r\n以下の数値まで上昇します。=When a quest is cleared, the base ability stats of the deployed layers will increase to the following values:
+アイテムを消費して特別合宿クエストに出撃します=Use Item to Start Special Training Camp Quest
+所持アイテム=Items Owned
+各ステータス=Each Stat
+第1セット=Set 1
+第2セット=Set 2

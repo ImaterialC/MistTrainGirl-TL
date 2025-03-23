@@ -1,0 +1,79 @@
+第　 　部=Pa　rt
+第　 　章=<size\=13>Epis　ode</size>
+第1部へ=To Part 1
+第2部へ=To Part 2
+第3部へ=To Part 3
+第4部へ=To Part 4
+第5部へ=To Part 5
+第1部=Part 1
+第2部=Part 2
+第3部=Part 3
+第4部=Part 4
+第5部=Part 5
+次のステージが解放されました=The next stage has been released
+STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
+r:"^第([0-9]+)部へ=To Part $1
+※シナリオ再生に必要なデータをダウンロードします\r=※Data required for scenario playback will be downloaded.\r
+バックログ確認=Backlog Check
+スキップ確認=Skip Confirmation
+現在再生中のシナリオをスキップしますか？=Do you want to skip the currently playing scenario?
+解放期間外なので解放できません=Cannot be unlocked as it is outside the unlockable period.
+戻る=Back
+
+//Unlock
+ストーリー解放=Unlock Story
+未読のストーリーを一括解放して全て既読にします=Unlock all unread stories at once to mark them as read.
+一括解放して全て既読にする=Unlock and Mark All as Read
+追憶の鍵で解放=<size\=12>Use Remembrance Key</size>
+追憶の鍵でストーリーを選択箇所まで解放しますか？=<size\=16>Use Remembrance Keys to unlock stories up to a select point?</size>
+
+あ=A
+か=KA
+さ=SA
+た=TA
+な=NA
+は=HA
+ま=MA
+や=YA
+ら=RA
+わ=WA
+レイヤー=Layer
+ベース=Base
+収集=Treasure
+アダルトシーン=Adult Scene
+一括で既読にする=Read All
+冒頭=Beginning
+追加データをDLします=Downloading Additional Data
+r:"^総ダウンロードサイズ : 約([0-9]+)KB$"=Total Download Size: About $1KB
+r:"^総ダウンロードサイズ : 約([0-9]+)MB$"=Total Download Size: About $1MB
+キャラクター選択=Character Selection
+その後――=After That――
+メイン=Main
+シナリオ付PTスキルを所持していません=PT skills without scenarios
+未読表示=Show Unread
+お気に入り=Favorite
+表示するレイヤーがありません=No layers to display
+サイド=Side
+シナリオ選択=Select Scenario 
+EXシナリオ=R-18 Scenario
+このシナリオはアダルトシーンが含まれています。\r\nどこから再生しますか？=This scenario contains adult scenes.\r\nDo you want to proceed?
+EXシナリオ確認=Confirm R-18 Scenario
+ダウンロード中... 0.0%=Downloading... 0.0%
+r:"^思い出ランク([0-9]+)で解放$"=Unlocked at Memory Rank $1
+
+巨大樹攻略編=Giant Tree Strategy Episode
+闇の天球編=Dark Celestial Sphere Episode
+鋼鉄樹の決戦編=Steel Tree Decisive Battle Episode Part 1
+フテラブリュケの巨大樹後編=Fterabrucke Giant Tree Episode Part 2
+ヴォルターヤ天球編=Voltarja Celestial Sphere
+
+MS横断レース=MS Transcontinental Race
+鋼鉄の双子星=Steel Twin Stars
+バーゼルの故郷編=Basel's Hometown Episode
+メイン第5部4章後のストーリー=Main Part 5-4 After
+
+STORY1\r\nセントイリスの鬼教官=SCENE 1\r\nSt. Iris' Demon Instructor
+『雲の渦』前線基地編=Cloud Vortex Frontline Base Episode
+聖域イミセリノス編=Sanctuary Imisélinos Episode
+聖域イミセリノス後編=Sanctuary Imisélinos Episode Part 2
+イミセリノスの大結界編=Imisélinos Great Barrier Episode
