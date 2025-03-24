@@ -17,7 +17,7 @@ r:"^第([0-9]+)部 第([0-9]+)章$"=Part $1 Episode $2
 
 次のステージが解放されました=The next stage has been unlocked
 STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
-r:"^第([0-9]+)部へ=To Part $1
+r:"^第([0-9]+)部へ$"=To Part $1
 r:"^STORY1\r\n([\S\s]+)$"=SCENE 1\r\n$1
 //Story
 ストーリーを再生します=Play the Story

@@ -1,7 +1,7 @@
 アイテム受け取り=Received items
 以下のアイテムを入手しました=You received the following items
 受け取る=Receive
-残り=Left
+残り=Until
 期間=Period
 未受取数=Unclaimed
 購入済みの商品のため購入できません=This item is already sold so you cannot purchase it.

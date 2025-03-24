@@ -5,7 +5,9 @@ r:"^メインクエスト ([\s\S]+)(VERYHARD)$"=Main Quest $1 (Very Hard)
 //Events
 sr:"^([\s\S]+)を連れていずれかのクエストを([0-9]+)回クリアする。$"=Clear any quests $2 times with $1.
 sr:"^([\s\S]+)を連れてエネミーを([0-9]+)体討伐する。$"=Defeat $2 Enemies with $1.
-sr:"^([\s\S]+)を仲間にする。$"=Have A $1 [$2] join your ranks.
+sr:"^A([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have A $1 [$2] join your ranks.
+sr:"^S([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have S $1 [$2] join your ranks.
+sr:"^SS([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have SS $1 [$2] join your ranks.
 お化け屋敷=Haunted House
 風紀委員=Disciplinary Committee Member
 演劇=Theater
@@ -60,7 +62,7 @@ sr:"^【([\s\S]+)】ログイン日数が([0-9]+)日に到達する。$"=[$1] Re
 セントーサ召喚M=Sentosa Summon M
 
 //Dailies
-r:"^いずれかの敵を([0-9]+)体討伐する$"。=Defeat $1 enemies.
+r:"^いずれかの敵を([0-9]+)体討伐する$"。$"=Defeat $1 enemies.
 【派遣任務】1回実行する。=Run Dispatches 1 time.
 r:"^【派遣任務】([0-9]+)回実行する。$"=Run Dispatches $1 time.
 いずれかのクエストを1回クリアする。=Clear any quests 1 time.
@@ -118,9 +120,7 @@ r:"^銃のウェポンマスターレベルが([0-9]+)に到達する。$"=Reach
 r:"^ゲームを開始してから([0-9]+)日経過する。$"=Pass $1 days since starting the game.
 r:"^装備進化素材クエストの([0-9]+)階層目をクリアする。$"=Clear Equipment Evolution Quest Level $1.
 
-12月31日(Thu)23時59分まで=Ends December 31st (Thu) 23:59
-10月31日(Thu)23時59分まで=Ends October 31 (Thu) 23:59
-3月17日(Mon)23時59分まで=Ends March 17 (Mon) 23:59
+
 r:"([0-9]+)/([0-9]+)に行ったメンテナンス延長に伴うお詫びです$"=Apologies for the extended\r\nmaintenance on $1/$2.
 r:"([0-9]+)/([0-9]+)のメンテナンスご協力のお礼です。$"=Thank you for your cooperation\r\nwith the maintenance on $1/$2.
 

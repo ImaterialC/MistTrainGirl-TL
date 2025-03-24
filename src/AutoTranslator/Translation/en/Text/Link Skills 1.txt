@@ -539,7 +539,7 @@
 ハームウィンド改=Hum Wind Kai
 「ハームウィンド改」を選択した同じターンに、風属性または闇属性全体スキルを、自身を除く2体以上が選択する。=When Hum Wind Kai is selected, select other Wind Element or Dark Element all-target skills total 2+ excluding self on the same turn.
 敵全体に魔法（風）または魔法（闇）で攻撃し、稀に「睡眠」の状態異常（中）を付与する。※効果は3ターンのみ=Attacks all enemies with magical (Wind) or magical (Dark) damage and rarely inflicts Sleep (M). ※Effect lasts 3 turns only
-r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ=Increases MATK by $1%. ※Effect lasts this turn only
+r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases MATK by $1%. ※Effect lasts this turn only
 メテオライトガスト=Meteorite Gust
 敵単体に魔法（風）で攻撃し、稀に発動ターンの間「気絶」の状態異常（特大）を付与する。=Attacks a single enemy with magical (Wind) damage and rarely inflicts Stun (VL) for 1 turn.
 アネモプレス=Anemo Press

@@ -79,6 +79,9 @@ sr:"^([\s\S]+)×([0-9]+)を交換しました$"=$1 x$2 has been traded.
 NORMAL 2-5\nクリアで解放=Clear Normal 2-5\nto unlock
 4.5周年Ⅰ\r\nガチャメダル=4.5th Anniversary I\r\nGacha Medal
 
+r:"^([A-Z 0-9\-])\n?クリアで解放$"=Clear $1\nto unlock
+
+
 //Bargain
 掘り出し物=Bargain
 「経験値キャンプ」をクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で過去のイベント武器などと交換することが出来る。=Items that can be obtained by clearing the "Experience Camp".\nIt can be exchanged for past event weapons at the "event" of the exchange.

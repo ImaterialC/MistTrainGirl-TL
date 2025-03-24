@@ -38,11 +38,6 @@ r:"^NORMAL 2-([0-9]+)をクリアで解放$"=Clear Normal 2-$1
 2020/12/31 後半MAP解禁！=Second Half unlocks at 2020/12/31!
 後半マップ\r\n解禁前=Second Half\r\nPre Unlock
 XX連目～YY連目：=XX Ren -YY Ren:
-12月31日(Tue)23時59分まで=Ends Dec 31 (Tue) 23:59
-12月17日(Tue)23時59分まで=Ends Dec 17 (Tue) 23:59
-開催期間：2024/12/31 23:59まで=Duration: Ends 2024/12/31 23:59
-1月1日(Wed)23時59分まで=Ends Jan 1st (Wed) 23:59
-1月31日(Fri)23時59分まで=Ends Jan 31 (Fri) 23:59
 
 sr:"^STORY1\r\n([\S\s]+)$"=STORY1\r\n$1
 sr:"^STORY2\r\n([\S\s]+)$"=STORY2\r\n$1
@@ -56,9 +51,6 @@ sr:"^STORY9\r\n([\S\s]+)$"=STORY9\r\n$1
 sr:"^STORY10\r\n([\S\s]+)$"=STORY10\r\n$1
 
 //Time
-03月17日 23:59=Mar 17 23:59
-04月11日 23:59=Apr 10 23:59
-04月14日 23:59=Apr 24 23:59
 
 //Doki Doki Treasure Hunt
 謎を<color\=#a52e5e>1</color>つ解き明かしました!\r\n入手した財宝をくぼみに嵌め込みましょう=You have solved <color\=#a52e5e>1</color> mystery!\nLet's place the treasure you got into the recess then.
@@ -136,7 +128,7 @@ SSアルビダ=SS Awilda
 強化後=After Upgrade
 強化前=Before Upgrade
 素材不足=Insufficient
-r:"^現在Lv ([0-9]+)/3=Level $1/3
+r:"^現在Lv ([0-9]+)/3$"=Level $1/3
 ドロップ=Drop
 ボスバトル=Boss Battle
 強化に使用する素材が足りません=There are not enough materials to upgrade
@@ -375,7 +367,8 @@ r:"^([0-9]+)位$"=Rank $1
 達成=Achievement
 累計スコア=Cumulative Dcore
 r:"^ハイスコア([0-9]+)以上で獲得$"=Earned with a high score of $1 or more
-r:"^ハイスコア([0-9]+)または\n累計スコア([0-9]+)以上で獲得$"=Earned with a high score of $1 or cumulative score of $2 or more.パープルドロップ×20=Purple drop x 20
+r:"^ハイスコア([0-9]+)または\n累計スコア([0-9]+)以上で獲得$"=Earned with a high score of $1 or cumulative score of $2 or more.
+パープルドロップ×20=Purple drop x 20
 
 //Mori Forest
 モリ森=Mori Forest

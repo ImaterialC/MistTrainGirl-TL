@@ -6,15 +6,15 @@
 資金決済法に基づく表示=Payment Services Act Disclosure
 ダウンロード=Download
 
-r:"^総ダウンロードサイズ : 約(\d+(\.\d+)?)|(\.\d+)KB$"=Total Download Size: About $1KB
+r:"^約([0-9\. TGMKB]+)の更新データがあります。\r\nダウンロードしますか？$"=There is about $1 of updates.\r\nContinue download?
 
-r:"^約(\d+(\.\d+)?)|(\.\d+)GBの更新データがあります。\r\nダウンロードしますか？$"=There is about $1GB of updates.\r\nContinue download?
-r:"^約(\d+(\.\d+)?)|(\.\d+)KBの更新データがあります。\r\nダウンロードしますか？$"=There is about $1MB of updates.\r\nContinue download?
-r:"^約(\d+(\.\d+)?)|(\.\d+)KBの更新データがあります。\r\nダウンロードしますか？$"=There is about $1KB of updates.\r\nContinue download?
-//r:"^ダウンロード中... (\d+(\.\d+)?)|(\.\d+)%$"=Downloading... $1%
-ダウンロード中... 100%=Downloading... 100%
-ゲーム起動中... 100%=Loading Game... 100%
-更新データ確認中... 100%=Confirming Updated Data... 100%
+r:"^総ダウンロードサイズ : 約([0-9\. TGMKB]+)$"=Total Download Size: About $1
+
+r:"^ダウンロード中... ([0-9\.]+)%$"=Downloading... $1%
+r:"^ゲーム起動中... ([0-9\.]+)%$"=Loading Game... $1%
+r:"^更新データ確認中... ([0-9\.]+)%$"=Confirming Updated Data... $1%
+
+
 
 データ読み込み失敗=Data Loading Failure
 通信環境が良い場所で再度お試しください。=Please try again in a location with good communication conditions.

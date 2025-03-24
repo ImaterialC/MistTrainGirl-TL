@@ -12,7 +12,7 @@
 第5部=Part 5
 次のステージが解放されました=The next stage has been released
 STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
-r:"^第([0-9]+)部へ=To Part $1
+r:"^第([0-9]+)部へ$"=To Part $1
 ※シナリオ再生に必要なデータをダウンロードします\r=※Data required for scenario playback will be downloaded.\r
 バックログ確認=Backlog Check
 スキップ確認=Skip Confirmation
@@ -44,8 +44,6 @@ r:"^第([0-9]+)部へ=To Part $1
 一括で既読にする=Read All
 冒頭=Beginning
 追加データをDLします=Downloading Additional Data
-r:"^総ダウンロードサイズ : 約([0-9]+)KB$"=Total Download Size: About $1KB
-r:"^総ダウンロードサイズ : 約([0-9]+)MB$"=Total Download Size: About $1MB
 キャラクター選択=Character Selection
 その後――=After That――
 メイン=Main
@@ -58,7 +56,6 @@ r:"^総ダウンロードサイズ : 約([0-9]+)MB$"=Total Download Size: About 
 EXシナリオ=R-18 Scenario
 このシナリオはアダルトシーンが含まれています。\r\nどこから再生しますか？=This scenario contains adult scenes.\r\nDo you want to proceed?
 EXシナリオ確認=Confirm R-18 Scenario
-ダウンロード中... 0.0%=Downloading... 0.0%
 r:"^思い出ランク([0-9]+)で解放$"=Unlocked at Memory Rank $1
 
 巨大樹攻略編=Giant Tree Strategy Episode
