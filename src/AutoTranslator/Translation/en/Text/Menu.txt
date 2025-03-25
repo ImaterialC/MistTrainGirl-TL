@@ -211,7 +211,6 @@ Sスキル=S-Skill
 倉庫一覧/武器=List of Warehouses/Weapons
 倉庫名倉庫名倉庫名倉庫名=Warehouse Name Warehouse Name Warehouse Name Warehouse Name 
 
-ウェポンマスターポイント+1=Weapon Master Point +1
 全てのスロット\n 解放で次のエリアへ=Unlock all slots to\nmove on to the next area
 まもなく完了する派遣任務が選択されているため、即時帰還を行えません=You have selected a dispatch mission that will soon be completed, so you cannot return immediately.
 タイトル=Title
