@@ -290,6 +290,10 @@ wave開始時、自身の命中が15%上昇する。※効果は2ターンのみ
 旧正月’25=Lunar New Year '25
 wave開始時、味方全体のエレメントバーストで与えるダメージを8%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases all allies' Element Burst damage dealt by 8%. ※Effect lasts this turn only
 
+ハーフアニバーサリー’25=Half Anniversary '25
+武器種が「剣」のレイヤーに装備した場合、エレメントバースト時の物理攻撃力を10%上昇させる。=When equipped with a weapon type on a "Sword" layer, the physical attack power when element bursts increases by 10%.
+wave開始時、自身がエレメントバーストで与えるダメージを15%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases Element Burst damage dealt by 15%. ※Effect lasts this turn only
+
 //Paid
 百鬼夜怨=Hyakki Yaon
 Weak攻撃のダメージを35%上昇させる。=Increases weakness damage dealt by 35%.

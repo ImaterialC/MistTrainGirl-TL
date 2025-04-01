@@ -123,3 +123,11 @@ SSパッスィ=SS Passy
 Aサーシャ=A Sasha
 SSサーシャ=SS Sasha
 SSペイジン=SS Beijing
+
+4.5周年ガチャメダルⅢ=4.5th Anniversary Gacha Medal III
+SSランカスター=SS Lancaster
+SS初代シモアマヅ=SS Shimoamazu I
+4.5周年Ⅲ\r\nガチャメダル=4.5th Anniversary III\r\nGacha Medal
+4.5周年Ⅱ\r\nガチャメダル=4.5th Anniversary II\r\nGacha Medal
+4.5周年セレクト\r\nガチャメダル=4.5th Anniversary Select\r\nGacha Medal
+

@@ -10,6 +10,8 @@
 第3部=Part 3
 第4部=Part 4
 第5部=Part 5
+ニシキの闇編=The Darkness of Nishiki
+ミュート解除=Unmute
 次のステージが解放されました=The next stage has been released
 STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
 r:"^第([0-9]+)部へ$"=To Part $1

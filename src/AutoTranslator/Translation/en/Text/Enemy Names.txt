@@ -226,6 +226,7 @@ sr:"^暴走した([\S\s]+)$"=Relentless $1
 ポゼッスドカウチ=Possessed Couch
 浮夢バク=Ukimu Baku
 ルナカッパ=Luna Kappa
+掘りカシラモグ=Digging Kashiramog
 打ち出のビーナス=Magic Venasu
 ナルシッソウル=Narcist Soul
 ポイズンブリンガー=Poison Bringer
@@ -419,6 +420,7 @@ r:"^3ターン毎に、自身のHPが70%以上の時、コンディションを(
 裂傷刃=Laceration Blade
 重厚な太刀筋=Heavy Sword Stroke
 幻霧教だった者=Former Mistic
+ニシキの呪い=Nishiki's Curse
 
 //Side Story
 孤独の巨鳥=Lonely Giant Bird

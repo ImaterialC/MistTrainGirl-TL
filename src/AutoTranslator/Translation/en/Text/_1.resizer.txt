@@ -1,0 +1,2 @@
+/Canvas/Root/MarketView(Clone)/Bottom/ResetTime/Label=ChangeFontSize(14)
+/Canvas/Root/MarketView(Clone)/Bottom/ResetTime/TimeLabel=ChangeFontSize(14)

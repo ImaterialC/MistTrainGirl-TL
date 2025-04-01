@@ -338,10 +338,17 @@ SSアンツィオ[神が与えた試練]=SS Anzio [A Test From God]
 [決死隊ノ怪童]=[Death Squad's Monster Child]
 
 ランカスター=Lancaster
+Aランカスター[友の背を追って]=A Lancaster [Following One Friend's Back]
+Sランカスター[新たな風を]=S Lancaster [New Wind]
+SSランカスター[変革の予感]=SS Lancaster [Change is Coming]
+SSランカスター[可憐な振袖少女]=SS Lancaster [Dainty Furisode Girl]
+SSランカスター[校門の前で待ち合わせ]=SS Lancaster [Meeting at the School Gate]
 [友の背を追って]=[Following One Friend's Back]
 [新たな風を]=[New Wind]
 [変革の予感]=[Change is Coming]
 [可憐な振袖少女]=[Dainty Furisode Girl]
+[校門の前で待ち合わせ]=[Meeting at the School Gate]
+私もアカデミーの制服に着替えてみました。\r\n以前から可愛い制服だと思っていたので、\r\nこんなふうに袖を通すことができて少し気分がいいですね。\r\nところで車掌さん？　私の制服姿、どうですか？　似合っていますか？=I tried on the academy uniform too.\r\nI've always thought it was a cute uniform,\r\nso being able to slip it on myself like this feels pleasant.\r\nBy the way, Conductor? What do you think of me in my uniform? Fitting much?
 
 ファイエット=Fayette
 [セントイリス遠征部隊]=[St. Iris Expeditionary Force]
@@ -1561,9 +1568,15 @@ SSエトルタ[因果は巡る糸車]=SS Étretat [Karma is a Spinning Wheel]
 [因果は巡る糸車]=[Karma is a Spinning Wheel]
 
 ベリガン=Berrigan
+Aベリガン[炎と戦う弓使い]=A Berrigan [The Firefighting Archer]
+Sベリガン[熱血火消しガール]=S Berrigan [Hot-Blooded Firefighter Girl]
+SSベリガン[スプラッシュアロー]=SS Berrigan [Splash Arrow]
+SSベリガン[熱血優等生]=SS Berrigan [Hot-Blooded Honors Student]
 [炎と戦う弓使い]=[The Firefighting Archer]
 [熱血火消しガール]=[Hot-Blooded Firefighter Girl]
 [スプラッシュアロー]=[Splash Arrow]
+[熱血優等生]=[Hot-Blooded Honors Student]
+これがアカデミーの制服なんですね。\r\n思っていたより可愛いデザインで、袖を通してもまだ落ち着きません……。\r\nとはいえ、入学した以上は学業に集中しなくては……！\r\n車掌さん、これからもご指導ご鞭撻のほどお願いします！=So this is the Academy's uniform eh?\r\nThe design is cuter than I expected, and I still can't settle down even after putting it on...\r\nThat said, I need to concentrate on my studies since I've enrolled...!\r\nConductor, please continue to guide and encourage me!
 
 クマモト=Kumamoto
 Aクマモト[剛腕なる熊獣人]=A Kumamoto [Mighty Bear Beastkin]
@@ -1894,6 +1907,11 @@ SSイズリントン[優しい死神]=SS Islington [Gentle Grim Reaper]
 セントイリスのエルロンド家五姉妹の４番目、イズリントンだよ！\r\nふっふっふ、今日のあたしは死神。キミの魂いただいちゃうゾ☆\r\nそれはそうと……。\r\nパディントンのためにお菓子用意して待ってるのに、あの子ったらどこに行っちゃったんだろ～。=I'm St. Iris's fourth of the five House Elrond sisters, Islington!\r\nHmhmhm, I'm the Grim Reaper for today. I'll have your soul☆\r\nBy the way... I was waiting to hand Paddington some sweets,\r\nbut I wonder where she went off to～.
 
 初代シモアマヅ=Shimoamazu I
+A初代シモアマヅ[オオエ四天王呪術師]=A Shimoamazu I [Ooe Big Four's Jujutsushi] 
+S初代シモアマヅ[天真爛漫なスパルタ呪術師]=S Shimoamazu I [Naive Spartan Jujutsushi]
+S初代シモアマヅ=S Shimoamazu I [Death Squad's Great Hero]
+SS初代シモアマヅ=SS Shimoamazu I [From Ooeyama With Jujutsu]
+SS初代シモアマヅ[呪術師の愉快なスクールライフ]=SS Shimoamazu I [The Jujutsushi's Fun School Life]
 我が初代シモアマヅ。娘は二代目シモアマヅ。\r\nオオエの山の岩戸から、ひょっこり出てきてお手伝い。\r\n親子で仲良く呪術で遊ぶ。悪用禁止。ニシキの神秘。=I am Shimoamazu the First. Musume is Shimoamazu the Second.\r\nCome out of Ooeyama's Iwato suddenly and help out.\r\nParent and child can play jujutsu together. Abuse prohibited. Nishiki's mystery.
 [天真爛漫なスパルタ呪術師]=[Naive Spartan Jujutsushi]
 自己紹介。しーちゃんの母、以上！\r\nというのは冗談。\r\n初代シモアマヅ。呪術といたずらが得意で、今日から特鉄隊員。\r\nこれからよろしく、車掌！=Self-introduction. Shi-chan's Haha, that's all!\r\nJust kidding.\r\nShimoamazu the First. Good at jujutsu and pranks, and is a member of the SSS from today.\r\nLook forward to working with you, Conductor!
@@ -1901,6 +1919,8 @@ SSイズリントン[優しい死神]=SS Islington [Gentle Grim Reaper]
 この羽織を着ると、あの日の苦痛を思い出す。\r\nそれと同時に、あの苦痛を受け入れたことも、手に取るように思い出す……。\r\n命を賭し戦い抜いた同胞たちのためにも――愛する家族をひとりにしないためにも――。\r\n誰ひとりとして死なせはしない。=Wearing this haori reminds me of the pain of that day.\r\nAt the same time, I vividly recall having to accept that pain...\r\nFor the sake of our brothers and sisters who risked their lives to fight ―― so that their beloved families would not be left alone ――\r\nI will not let anyone die.
 [オオエの山より呪術を込めて]=[From Ooeyama With Jujutsu]
 入隊。今日から特鉄隊の一員になった！\r\nしーちゃんやアマノハシダテがお世話になってる。今日からは母もお世話になる。\r\n家族みんな一緒！　きゃっきゃっ。=Enlistment. Became member of SSS from today!\r\nShi-chan and Amanohashidate are taken care of. From today, Haha will also be taken care of.\r\nWhole family is together! Kyakkyak.
+[呪術師の愉快なスクールライフ]=[The Jujutsushi's Fun School Life]
+挨拶！　おはようございます、せんせい。\r\nアカデミーでは我も女子高校。花の学生、青春まっさかり！\r\n目標は友だち千人。車掌もそのひとりになってくれるか？=Greetings! Ohayougozaimasu, sensei.\r\nAt the academy, we are also a girls' high school. Flower students, in the prime of our youth!\r\nThe goal is to make 1,000 friends. Will Conductor be one of them?
 
 神村舞華=Maika Kamimura
 [火神の対魔忍]=[Fire God Taimanin]

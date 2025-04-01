@@ -438,7 +438,11 @@ sr:"^([\S\s]+)に投票しますか？$"=Would you like to vote for $1?
 
 
 //Sky Guardian Sanctuary
+メアリーこそ素敵なドレスね。\r\nそういうのが似合う年齢になったのかしら。=That's a lovely dress, Mary.\r\nI wonder if you've reached an age where you look good in it.
 ブラックフライア......\r\nそのドレス、可愛いじゃないの。数年若く見えるわ。=Blackfriar...\r\nAin't that dress of yours cute? Shaved a few years younger from you.
+バーゼルよく頑張ったな。\r\nお前のおかげで全員無事だ……本当にありがとう。=Basel, you did a great job.\r\nThanks to you, everyone is safe... Thank you so much.
+フテラブリュケの竜族たち、そしてセントイリスの騎士たちよ……ありがとう。\r\nこれからは私も共に戦おう。共に世界を守ろう。=To the Fterabrucke dragonkin and the Order of St. Iris... thank you.\r\nFrom now on, I will fight alongside you. Let's protect the world together.
+なによ。演技力もジョークも言えないブラックフライアに言われたくないわ。\r\nもう少し私を見習ってみたら?=Whatever. I don't want to be told that by Blackfriar of all people who can neither act nor joke.\r\nWhy doesn't she try to follow my example a little more?
 ユングフラウとツェルマットの友として……\r\n全力で呪いを解いてみせよう。=As a friend of Jungfrau and Zermatt...\r\nI will do my best to break the curse.
 一度態勢を整えよう。\r\n今回の相手は一筋縄ではいかないだろうな。=Let's prepare ourselves.\r\nOur opponent will not be an easy one this time.
 何としてでも呪いを解くのだ。\r\nバーゼル……友として、私とユングフラウはお前を信じる。=You must do whatever it takes to break the curse. Basel... As your friend, Jungfrau and I believe in you.
@@ -446,7 +450,7 @@ sr:"^([\S\s]+)に投票しますか？$"=Would you like to vote for $1?
 バーゼル……ぶっ叩いて目覚めさせてやるから待ってなさい。=Basel... Just wait, I'll whack you back to your senses.
 バーゼルさん、待っていてくださいね……\r\n必ず私たちが救い出します！=Basel, please wait for us...\r\nwe'll definitely save you!
 よく笑って、強くて、優しくて……\r\nバーゼルはフテラブリュケの戦士たちよりも表情豊かでいい竜族だな。=She laughs a lot, is strong, and is kind...\r\nBasel is a better dragonkin with more expressive faces than the warriors of Fterabrucke.
-ドラゴンを倒すことがセントイリス騎士団長になるための条件……。\r\nふふ♪　メアリーったら、なかなか面白いジョークを言うじゃない。=Defeating the dragon is the condition for becoming the Order of St. Iris Knight Commander...\r\nHeh♪ Mary, you sure tell some pretty funny jokes.
+ドラゴンを倒すことがセントイリス騎士団長になるための条件……。\r\nふふ♪　メアリーったら、なかなか面白いジョークを言うじゃない。=The requirement to become Knight Commander of the Order is defeating the dragon...\r\nHeh♪ Mary, you sure tell some pretty funny jokes.
 
 名前=Name
 一括既読=Read All

@@ -5,9 +5,9 @@
 敵単体に物理（刃）と補助魔法（光）で攻撃し、3ターンの間、自身に対する敵視を上昇（大）させる。=Attacks a single enemy with physical (Cut) and magical (Light) damage and increases self hostility (L) for 2 turns.
 ギガイリスブレイク改=Giga Iris Break Kai
 敵単体に物理（刃）か物理（光）で攻撃し、3ターンの間、自身に対する敵視を上昇（大）させる。CP4以上の場合、1ターンの間、自身に対する全ての攻撃で受けるダメージを無効化する。=<size\=12>Attacks a single enemy with physical (Cut) and magical (Light) damage and increases self hostility (L) for 2 turns. If CP is 4+, nullifies all damage taken from attacks for 1 turn.</size>
-居合抜刀斬り改=Iaibattou Slash Kai
+居合抜刀斬り改=Iaibattou Slice Kai
 敵単体に物理（刃）か物理（水）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with physical (Cut) or physical (Water) damage.\nActs First when activated.
-「居合抜刀斬り改」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Iaibattou Slash Kai is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「居合抜刀斬り改」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Iaibattou Slice Kai is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の火、水、風、光、闇属性耐性を25%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases all allies' Fire, Water, Wind, Light and Dark Element Resistance by 25% if this skill is linked for the first time in this battle. ※Effects are permanent for the rest of the battle
 氷月剣=Ice Moon Sword
 敵単体に物理（刃）か物理（水）で攻撃し、自身のHPを回復させる。=Attacks a single enemy with physical (Cut) or physical (Water) damage and recovers HP.
@@ -394,11 +394,11 @@
 敵単体に物理（刃）で攻撃する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks a single enemy with physical (Cut) damage. If CP is 4+, increases ATK (VL) for 2 turns.
 
 //Kuala Lum
-剛烈斬=Resolute Slice
-「剛烈斬」を選択した同じターンに、刃属性攻撃スキルを、自身を除く2体以上が選択する。=When Resolute Slice is selected, select other Cut Element attack skills total 2+ excluding self on the same turn.
+剛烈斬=Resolute Slash
+「剛烈斬」を選択した同じターンに、刃属性攻撃スキルを、自身を除く2体以上が選択する。=When Resolute Slash is selected, select other Cut Element attack skills total 2+ excluding self on the same turn.
 自身が敵を撃破した際、自身のSPを7回復させる※効果は発動ターンのみ=When KO'ing an enemy, recovers 7 SP. ※Effect lasts this turn only
-剛烈斬改=Resolute Slice Kai
-「剛烈斬改」を選択した同じターンに、刃属性スキルを、自身を除く2体以上が選択する。=When Resolute Slice is selected, select other Cut Element skills total 2+ excluding self on the same turn.
+剛烈斬改=Resolute Slash Kai
+「剛烈斬改」を選択した同じターンに、刃属性スキルを、自身を除く2体以上が選択する。=When Resolute Slash Kai is selected, select other Cut Element skills total 2+ excluding self on the same turn.
 自身が敵を撃破した際、自身のSPを7回復させる ※効果は発動ターンのみ=When KO'ing an enemy, recovers 7 SP. ※Effect lasts this turn only
 アグワアックス=Agwa Axe
 「アグワアックス」を選択した同じターンに、刃属性全体または水属性全体スキルを、自身を除く2体以上が選択する。=When Agwa Axe is selected, select other Cut Element all-target or Water Element all-target skills total 2+ excluding self on the same turn.
@@ -553,6 +553,14 @@ r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動タ�
 「ウィンドピラー」を選択した同じターンに、風属性全体スキルまたは威力D以上の魔法攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Wind Pillar is selected, select other Wind Element all-target skills or D+ Power magical attack skills (※Excludes total power) total 2+ excluding self on the same turn.
 【1ターンの間、魔法攻撃力を30%上昇させ、最初に攻撃する】効果をポジション4のレイヤーに付与する。※効果は発動ターンのみ=Position 4 Layer gains buff 'Increases MATK by 30% for 1 turn and Acts First when attacking]. ※Applied buff lasts this turn only
 ミスフォーメテオ=Misformeteor
+シャイニング・スター=Shining Star
+「シャイニング・スター」を選択した同じターンに、風または光属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Shining Star is selected, select other Wind or Light Element included double-element skills total 2+ excluding self on the same turn.
+敵全体のエレメントバースト時の魔法防御力を10%減少させる。※効果は発動ターンのみ=Decreases all enemies' MDEF during Element Burst by 10%. ※Effect lasts this turn only
+スターダストストーム=Stardust Storm
+「スターダストストーム」を選択した同じターンに、風または光属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Stardust Storm is selected, select other Wind or Light Element included double-element skills total 2+ excluding self on the same turn.
+【行動前、1ターンの間、敵全体の全てのステータスを10%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Before taking action, decreases all enemies' All Stats by 10% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+スターリンサイクロン☆=Star Ring Cyclone☆
+敵全体に魔法（風）で攻撃し、CP4以上の場合、2ターンの間、敵全体のエレメントバースト時の魔法防御力を減少（大）させる。=<size\=13>Attacks all enemies with magical (Wind) damage. If CP is 4+, decreases all enemies' MDEF during Element Burst (L) for 2 turns.</size>
 
 //Fayette
 トリガーハッピー=Trigger Happy
@@ -731,7 +739,7 @@ r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動タ�
 
 //Futamata
 烈火拳=Rekkaken
-「烈火拳」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Rekkaken is selected, select other Blow or Fire Element included double-element skills total 3+ excluding self on the same turn.
+「烈火拳」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Rekkaken is selected, select other Blow or Fire Element included double-element skills total 2+ excluding self on the same turn.
 唯我独尊改=Yuiga Dokuson Kai
 「唯我独尊改」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Yuiga Dokuson Kai is selected, select other Blow Element physical attack skills total 2+ excluding self on the same turn.
 敵単体に物理（衝）で攻撃し、自身のSPを2回復する。=Attacks a single enemy with physical (Blow) damage and recovers 2 SP.
@@ -751,10 +759,10 @@ r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動タ�
 みんなのハートをわしわし♪=Catch Everyone's Hearts♪
 ファイアーパンチ=Fire Punch
 ランダムな対象に物理（衝）か物理（火）で3回攻撃を行う。【合計威力：S】=Attacks randomly with physical (Blow) or physical (Fire) damage 3 times. [Total power: S]
-「ファイアーパンチ」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fire Punch is selected, select other Blow or Fire Element included double-element skills total 3+ excluding self on the same turn.
+「ファイアーパンチ」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fire Punch is selected, select other Blow or Fire Element included double-element skills total 2+ excluding self on the same turn.
 味方全体の物理防御力を30%上昇させる。※効果は発動ターンのみ=Increases all allies' DEF by 30%. ※Effect lasts this turn only
 バーンザライブ=Burn the Live
-「バーンザライブ」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Burn the Live is selected, select other Blow or Fire Element included double-element skills total 3+ excluding self on the same turn.
+「バーンザライブ」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Burn the Live is selected, select other Blow or Fire Element included double-element skills total 2+ excluding self on the same turn.
 【行動後、味方全体のHPを回復し、1ターンの間、味方全体の物理攻撃力を20%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After taking action, recovers all allies' HP and increases all allies' ATK by 20% for one turn]. ※Applied buff is permanent for the rest of the battle
 ロッキンビートショック=Rockin' Beat Shock
 敵単体に物理（衝）で攻撃する。CP4以上の場合、1ターンの間、味方全体の物理攻撃力を上昇（大）する。=Attacks a single enemy with physical (Blow) damage. If CP is 4+, increases all allies' ATK (L) for 1 turn.
@@ -890,8 +898,8 @@ r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動タ�
 ぺったんストライク=Pettan Strike
 
 //Roswell
-鉞斬り=Axe Slash
-「鉞斬り」を選択した同じターンに、刃属性スキルを、自身を除く2体以上が選択する。=When Axe Slash is selected, select other Cut Element skills total 2+ excluding self on the same turn.
+鉞斬り=Axe Slice
+「鉞斬り」を選択した同じターンに、刃属性スキルを、自身を除く2体以上が選択する。=When Axe Slice is selected, select other Cut Element skills total 2+ excluding self on the same turn.
 リンクスキル発動時、敵が3体以下なら自身の物理攻撃力を50%上昇させ、敵が4体以上なら自身の「鉞斬り」発動後、敵全体に【威力D】の物理（刃）で攻撃する。※それぞれ効果は発動ターンのみ=If there are 3 or less enemies when skill is linked, increases ATK by 50%, and if there are 4 or more enemies after Axe Slice is activated, attacks all enemies with D power physical (Cut) damage. ※Each effect lasts this turn only
 ギャラクティックアクト=Galactic Act
 ランダムな対象に物理（刃）で3回攻撃し、2ターンの間、自身の物理攻撃力を上昇（特大）させる。【合計威力：S】=Attacks randomly with physical (Cut) damage 3 times and increases ATK (VL) for 2 turns. [Total power: S]
@@ -1371,7 +1379,7 @@ r:"^自身の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動タ�
 ディストーバスター=Distorted Buster
 ディストーバスタ…=Distorted Bu...
 「ディストーバスター」を選択した同じターンに、刃属性単体スキルを、自身を除く2体以上が選択する=When Distorted Buster is selected, select other Cut Element single-target skills total 2+ excluding self on the same turn.
-自身の「ギロチン斬り」を「マッドクイック」に『Change』させる。※効果はバトル中、waveの移動やターン経過では解除されない=Change Guillotine Slash to Mad Quick. ※Effect is permanent for the rest of the battle
+自身の「ギロチン斬り」を「マッドクイック」に『Change』させる。※効果はバトル中、waveの移動やターン経過では解除されない=Change Guillotine Slice to Mad Quick. ※Effect is permanent for the rest of the battle
 エルアコア・ダーラ=El Acore Dara
 敵単体に物理（刃）で攻撃し、稀に2ターンの間「混乱」の状態異常（特大）を付与する。=Attacks a single enemy with physical (Cut) damage and rarely inflicts Confusion (VL) for 2 turns.
 大乱斧=Dairanfu

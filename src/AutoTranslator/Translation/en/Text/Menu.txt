@@ -28,7 +28,7 @@ ID検索=ID Search
 受取履歴=History
 期限なし=No Deadline
 期限あり=W/ Deadline
-r:"^([0-9]+)件受取$"=Claim $1
+r:"^(\d+)件受取$"=Claim $1
 パーティ=Party
 一括受取=Claim All
 ガチャ切符=Gacha Ticket
@@ -128,7 +128,6 @@ Sスキル=S-Skill
 レンタルパーティスキル=Rental Party Skill
 第一パーティ確認=Confirm First Party
 レンタルするパーティスキルを選択してください=Please select the party skill to rent
-100日前=100 days ago
 最終ログイン=Last Login
 シナリオの設定=Scenario Settings
 スロット=Slot
@@ -195,19 +194,15 @@ Sスキル=S-Skill
 //Warehouse
 表示中倉庫=Current
 倉庫一覧=List
-倉庫拡張=Warehouse Expansion	
-収納数=Number of storage
+倉庫拡張=Remains
+収納数=Held
 倉庫=Warehouse
 移動先選択=Move Selected
 おまかせ移動=Auto Move
 移動対象が選択されていません=There is nothing to move
 移動先決定=Deciding Location
-倉庫6=Warehouse 6
-倉庫5=Warehouse 5
-倉庫4=Warehouse 4
-倉庫3=Warehouse 3
-倉庫2=Warehouse 2
-倉庫1=Warehouse 1
+r:"^倉庫(\d_)$"=Warehouse $1
+
 倉庫一覧/武器=List of Warehouses/Weapons
 倉庫名倉庫名倉庫名倉庫名=Warehouse Name Warehouse Name Warehouse Name Warehouse Name 
 
@@ -225,26 +220,9 @@ Sスキル=S-Skill
 3倍速=3x Speed
 オートバトル種類の設定=Settings for auto battle type.
 
-sr:"^([^\d])(\d{4})年$"=$1 $2
-sr:"^([^\d])0?1月$"=$1 Jan
-sr:"^([^\d])0?2月$"=$1 Feb
-sr:"^([^\d])0?3月$"=$1 Mar
-sr:"^([^\d])0?4月$"=$1 Apr
-sr:"^([^\d])0?5月$"=$1 May
-sr:"^([^\d])0?6月$"=$1 Jun
-sr:"^([^\d])0?7月$"=$1 Jul
-sr:"^([^\d])0?8月$"=$1 Aug
-sr:"^([^\d])0?9月$"=$1 Sep
-sr:"^([^\d])10月$"=$1 Oct
-sr:"^([^\d])11月$"=$1 Nov
-sr:"^([^\d])12月$"=$1 Dec
-sr:"^([^\d])(\d{1,2})日$"=$1 $2
-sr:"^([^\d])(\d{1,2})時(\d{1,2})分$"=$1 $2:$3
-sr:"(\d| |:|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)+まで"=Ends $1
-
 //Mission Card
-r:"^報酬受取期間：([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Reward period: Exp. $1/$2/$3 $4:$5
-r:"^MP獲得期間：([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=MP Receive Period: Exp. $1/$2/$3 $4:$5
+r:"^報酬受取期間：([0-9\/: ]+)まで$"=Reward period: Exp. $1
+r:"^MP獲得期間：([0-9\/: ]+)まで$"=MP Receive Period: Exp. $1
 
 現在申請中のフレンド依頼はありません=There are currently no open friend requests.
 一括取り下げ=Deselect All

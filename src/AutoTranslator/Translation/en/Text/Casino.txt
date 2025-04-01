@@ -118,6 +118,8 @@ sr:"^第3レース ([\S\s]+)杯（GI）$"=Race 3 $1 Cup (GI)
 Names
 アビ｜ロ｜ド=Abbey Road
 セント｜サ=Sentosa
+メンロ｜パ｜ク=Menlo Park
+アヌシ｜=Annecy
 メアリ｜=Mary
 イスタンブ｜ル=Istanbul
 ポ｜トロイヤル=Port Royal
@@ -253,9 +255,6 @@ sr:"^([\S\s]+)選手の調子は\n良さそうですね!\nまずまずの順位�
 sr:"^([\S\s]+)選手は\nかなり調子が悪そうですね…。\nケガなどしないといいのですが…。$"=$1 seems to be in pretty bad shape...\nI hope she doesn't get injured...
 sr:"^([\S\s]+)選手は\n少し調子が悪そうです…。\n大丈夫でしょうか…。$"=$1 seems to be a little unwell...\nI wonder if she'll be okay...
 sr:"^([\S\s]+)選手は\n絶好調のようですね!\nこれはかなりの良い結果を\n残しそうです!$"=$1 seems to be in great form!\nLooks like she'll be giving us a very good result!
-
-//Notice
-【重賞レースのご案内】10月08日(火) 23:00～ 第3レース スーパースタミナ杯 が開催されるよ～。騎走券の買い忘れには注意してね！=[Major Race Info] The 3rd race, Super Stamina Cup, will be held on Tuesday, October 8th from 23:00. Don't forget to buy your tickets!
 
 //History
 sr:"^第1レース([\S\s]+)杯（オープン）$"=Race 1 $1 (Open)

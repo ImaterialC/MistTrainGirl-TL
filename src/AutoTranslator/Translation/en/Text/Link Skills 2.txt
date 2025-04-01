@@ -16,8 +16,8 @@
 敵単体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK (VL) for 1 turn.
 
 //Stia
-火焔斬改=Flame Slice Kai
-「火焔斬改」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Flame Slice Kai is selected, select other Cut Element or Fire Element skills total 2+ excluding self on the same turn.
+火焔斬改=Flame Slash Kai
+「火焔斬改」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Flame Slash Kai is selected, select other Cut Element or Fire Element skills total 2+ excluding self on the same turn.
 自身と発動条件を満たしたレイヤーの物理攻撃力と速さを25％上昇させる。※効果は発動ターンのみ=Increases self and linked Layers' ATK and SPD by 25%. ※Effect lasts this turn only
 クリムゾンブレイク=Crimson Break
 クリムゾンブレイ…=Crimson Break
@@ -1140,11 +1140,18 @@
 //Berrigan
 水泡射=Water Bubble Shot
 「水泡射」を選択した同じターンに、貫属性または水属性単体スキルを、自身を除く3体以上が選択する。=When Bubble Shot is selected, select other Pierce Element or Water Element single-target skills total 3+ excluding self on the same turn.
-リンクスキル発動時、敵が1体なら自身の物理攻撃力を50%上昇させ、敵が2体以上なら味方全体の物理攻撃力を25%上昇させる。※それぞれ効果は発動ターンのみ=When this skill is linked, increases ATK by 50% if there is one enemy, increases all allies' ATK by 25% if there are two or more enemies. ※Effect lasts this turn only
+リンクスキル発動時、敵が1体なら自身の物理攻撃力を50%上昇させ、敵が2体以上なら味方全体の物理攻撃力を25%上昇させる。※それぞれ効果は発動ターンのみ=When this skill is linked, increases ATK by 50% if there is one enemy, increases all allies' ATK by 25% if there are two or more enemies. ※Each effect lasts this turn only
 彗星正射=Comet Direct Shot
 「彗星正射」を選択した同じターンに、貫属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Meteor Direct Shot is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
 自身の「水泡射」を【威力A】の「水泡射」に『Change』させる※効果はバトル中、waveの移動やターン経過では解除されない=Change Bubble Shot to A Power Bubble Shot. ※Effect is permanent for the rest of the battle
 エクスティンボウ=Extinct Bow
+秀才水鉄砲=Scholar Water Arquebus
+「秀才水鉄砲」を選択した同じターンに、貫または水属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Scholar Water Arquebus is selected, select other Pierce Element or Water Element included double-element skills total 2+ excluding self on the same turn.
+【全属性エレメントの蓄積数の合計が「3」以上の敵に対して、与えるダメージを20%上昇させ、更に敵から受けるダメージを15%減少させる】効果をポジション1・2のレイヤーに付与する。※付与効果は発動ターンのみ=Position 1 and 2 Layers gain buff [Increases damage dealt to enemies with 3 or more total Element Stacks by 20% and decreases damage taken from enemies by 15%]. ※Applied buff lasts this turn only
+水天逆弓=Water Deva Inverted Bow
+「水天逆弓」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Water Deva Inverted Bow is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+自身のバトル中の本リンクスキル発動回数が1回目の時に、【敵に付与する各属性のエレメント数を2増加させる】効果を武器種が「槍・弓」のレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Spear/Bow weapon Layers gain buff [Increases each Element stack applied to enemies by 2] if this skill is Linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
+ホース・ドーーン！=HOSE DOWN!
 
 //Kumamoto
 鉞投げ=Masakarinage

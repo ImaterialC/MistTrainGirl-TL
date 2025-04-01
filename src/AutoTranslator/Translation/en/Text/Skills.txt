@@ -1,4 +1,4 @@
-// Skill List
+火焔斬// Skill List
 // Ctrl+F [//Alphabet] or [//Name] to quick search.
 
 Link詳細=Link Details
@@ -313,23 +313,23 @@ request)
 //Sword Skill Names
 円月輪=Full Moon Circle
 鶴の怨念返し=Crane's Revenge
-陽炎斬り=Heat Haze Slash
-払い斬り=Cleaving Slash
+陽炎斬り=Heat Haze Slice
+払い斬り=Cleaving Slice
 剣撃乱舞=Sword Dance
 天龍閃=Heavenly Dragon Flash
-全力斬り=Full Power Slash
+全力斬り=Full Power Slice
 ライトニングブラスト=Lightning Blast
 ライトニングブラ…=Lightning Blast
 光剣=Light Sword
-多段斬り=Multi-Stage Slash
+多段斬り=Multi-Stage Slice
 明王太刀=Vidyārāja Blade
-居合抜刀斬り=Iaibattou Slash
+居合抜刀斬り=Iaibattou Slice
 十字切り=Cross Cut
 アバターブレイク=Avatar Break
 活性剣=Lively Sword
-怒涛全開斬り=Ferocious All-Out Slash
+怒涛全開斬り=Ferocious All-Out Slice
 2ターンの間、自身の物理攻撃力を上昇（大）させ、敵全体に物理（刃）で攻撃する。=Increases ATK (L) for 2 turns and attacks all enemies with physical (Cut) damage.
-火焔斬=Flame Slice
+火焔斬=Flame Slash
 敵単体に物理（刃）か物理（火）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Cut) or physical (Fire) damage.\nActs Last when activated.
 円月双輪=Full Moon Double Circle
 縦一列に物理（刃）と補助魔法（光）で2回攻撃する。【合計威力：S】=Attacks vertically with physical (Cut) and magical (Light) damage 2 times. [Total Power Rating: S]
@@ -339,13 +339,13 @@ request)
 シャイニングスピ…=Shining Speed
 2ターンの間、味方1人の速さを上昇（大）させる。=Increases an ally's SPD (L) for 2 turns.
 風神剣=Wind God Sword
-微塵斬り=Disintegrating Slash
+微塵斬り=Disintegrating Slice
 奮い立つ剣=Inspiring Sword
 ビルドアップ=Build Up
 自身のコンディション【ダメージを上昇させる効果】とプロテクト【ダメージを減少させる効果】を上昇（小）させる。※効果は2ターンのみ=Increase Condition and Protect (S). ※Effect lasts only 2 turns
 フラッシュV=Flash V
 斬空剣=Soaring Sword
-木枯らし斬り=Withering Slash
+木枯らし斬り=Withering Slice
 ストームブラスト=Storm Blast
 クロスカリバー=Cross Calibur
 ブラッディブレイク=Bloody Break
@@ -356,10 +356,10 @@ request)
 スピードウェーブ=Speed Wave
 フレイムソード=Flame Sword
 アバターノヴァ=Avatar Nova
-一刀双斬=Severing Slice
+一刀双斬=Severing Slash
 2ターンの間、自身の物理攻撃力を上昇（中）させ、横一列に物理（刃）で2回攻撃する。【合計威力：C】=Increases ATK (M) for 2 turns and attacks horizontally with physical (Cut) damage 2 times. [Total Power Rating: C]
-回雪斬=Resnowing Slice
-縮地斬り=Closing Slash
+回雪斬=Resnowing Slash
+縮地斬り=Closing Slice
 黒龍の鉤爪=Black Dragon Claws
 魅惑の剣舞=Alluring Sword Dance
 三日月=Crescent Moon
@@ -379,18 +379,18 @@ Vクラッシュ=V-Crush
 水極剣=Water Polar Sword
 豊穣剣=Fertility Sword
 敵単体に物理（刃）で攻撃し、味方全体のHPを回復する。=Attacks a single enemy with physical (Cut) damage and recovers all allies' HP.
-風来斬り=Wandering Slash
+風来斬り=Wandering Slice
 音玉=Sound Orb
 敵単体に物理（刃）で攻撃し、相手の命中を減少（小）させる。※効果は2ターンのみ=Attacks a single enemy with physical (Cut) damage and decreases HIT (S). ※Effect lasts 2 turns only
-玄天斬=Xuánwǔ Slice
+玄天斬=Xuánwǔ Slash
 オクトテイン=Octo Tine
 
 //Axe Skill Names
 フランキスカ=Francisca
 両断=Bisection
 フルスウィング=Full Swing
-ギロチン斬り=Guillotine Slash
-下段斬=Lower Slice
+ギロチン斬り=Guillotine Slice
+下段斬=Lower Slash
 大旋風斧=Great Whirlwind Axe
 アイスカット=Ice Cut
 スプラッシュアックス=Splash Axe
@@ -419,7 +419,7 @@ Vクラッシュ=V-Crush
 ベイルサップ=Veil SUP
 ブラッディフラン=Bloody Fran
 ネグロアックス=Negro Axe
-熊手斬り=Rake Slash
+熊手斬り=Rake Slice
 敵単体に物理（刃）で攻撃し、自身に対する敵視を上昇（中）させる。※効果は2ターンのみ=Attacks a single enemy with physical (Cut) damage and increases self hostility (M). ※Effect lasts 2 turns only
 ガイアアックス=Gaia Axe
 イフリートベイル=Ifrit Veil
@@ -433,7 +433,7 @@ Vクラッシュ=V-Crush
 
 //Artifact Skill Names
 パラスラッシュ=Para Slash
-裂傷斬=Laceration Slice
+裂傷斬=Laceration Slash
 水陣の術式=Mizujin no Jutsushiki
 一太刀=Hitotachi
 刃の牢獄=Prison of Blades
@@ -456,7 +456,7 @@ Vクラッシュ=V-Crush
 無言の封=Silent Seal
 薙ぎ払う剣撃=Sweeping Hack
 風陣の術式=Fuujin no Jutsushiki
-真空烈斬=Vacuum Slice
+真空烈斬=Vacuum Slash
 光陣の術式=Koujin no Jutsushiki
 式神連斬=Shikigami Renzan
 ランダムな対象に魔法（刃）で2回攻撃する。【合計威力：S】=Attacks randomly with magical (Cut) damage 2 times. [Total Power Rating: S]
@@ -469,7 +469,7 @@ Vクラッシュ=V-Crush
 禍=Ka
 敵単体に魔法（刃）か魔法（闇）で攻撃し、相手の速さを減少（小）させる。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) or magical (Dark) damage and decreases SPD (S). ※Effect lasts 2 turns only
 方円のツルギ=Houen no Tsurugi
-全回転斬り=Full Rotation Slash
+全回転斬り=Full Rotation Slice
 天衣無縫=Ten'i Muhou
 天衣一閃=Ten'i Issen
 閃のツルギ=Sen no Tsurugi
@@ -497,7 +497,7 @@ Vクラッシュ=V-Crush
 ランダムな対象に魔法（刃）と補助魔法（火）で3回攻撃する。【合計威力：SS】=Attack randomly with magical (Cut) and magical (Fire) damage 3 times. [Total Power Rating: SS]
 ヘクセシール=Hexe Seal
 敵単体に魔法（刃）で攻撃し、相手の魔法攻撃力を減少（中）させる。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) damage and decreases MATK (M). ※Effect lasts 2 turn only
-風輝斬=Chinook Slice
+風輝斬=Chinook Slash
 風符=Wind Sign
 チャームシール=Charm Seal
 虚力薙ぎ=Hollow Sweep
@@ -507,7 +507,7 @@ Vクラッシュ=V-Crush
 カラベラ=Calavera
 敵単体に魔法（刃）か魔法（闇）で攻撃し、自身の速さを上昇（小）させる。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) or magical (Dark) damage and increases SPD (S). ※Effect lasts 2 turn only
 垂氷乱=Icicle Clutter
-陰影斬=Shadow Slice
+陰影斬=Shadow Slash
 聖なる牢獄=Sacred Prison
 怨呪=Onju
 

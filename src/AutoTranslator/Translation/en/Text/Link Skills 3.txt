@@ -421,6 +421,14 @@
 リンクスキル発動条件を満たしたレイヤーが選択したスキルを『葬華呪』に置き換え発動させる。※効果は発動ターンのみ=Linked Layers replace their selected skill with Soukaju and activate. ※Effect lasts this turn only
 死鬼転呪殺=Shikiten Jusatsu
 敵単体に魔法（刃）で攻撃し、稀に4ターンの間「暗闇」の状態異常（中）を付与する。CP4以上の場合、3ターンの間、相手の物理攻撃力と魔法攻撃力を減少（中）させる。=<size\=13>Attacks a single enemy with magical (Cut) damage and rarely inflicts Blindness (M) for 4 turns. If CP is 4+, decreases ATK and MATK (M) for 3 turns.</size>
+ばくそう！=Mad Dash!
+「ばくそう！」を選択した同じターンに、風属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Mad Dash! is selected, select other Wind Element or magical attack all-target skills total 2+ excluding self on the same turn.
+自身がエレメントバーストで与えるダメージを10%上昇させ、更にエレメントバースト時の魔法攻撃力を10%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases Element Burst damage dealt by 10% and increases MATK during Element Burst by 10%. ※Each effect is permanent for the rest of the battle
+呪風滅光=Jufuu Mekkou
+「呪風滅光」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Jufuu Mekkou is selected, select other skills from Artifact weapon Layers total 2+ excluding self on the same turn.
+リンクスキル発動条件を満たしたレイヤーが選択したスキルを『呪風滅光』に置き換え発動させる。※効果は発動ターンのみ=Linked Layers replace their selected skill with Jufuu Mekkou and activate. ※Effect lasts this turn only
+ちこく、ちこく～！=I'm Late, I'm Latee～!
+敵全体に魔法（刃）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks all enemies with magical (Cut) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.
 
 //Shiranui Mizuki
 水遁の術・雫=Water Art Shizuku
@@ -745,9 +753,9 @@
 「散花の太刀」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Scattered Flowers Blade is selected, select other Dark Element or magical attack single-target skills total 2+ excluding self on the same turn.
 敵単体に魔法（刃）か魔法（闇）で攻撃し、相手の速さを減少（大）させる。※効果は3ターンのみ=Attacks a single enemy with magical (Cut) or magical (Dark) damage and decreases SPD (L). ※Effect lasts 3 turns only
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の魔法攻撃力を30%上昇させ、行動後に自身のSPを3回復する。※SP回復は発動ターンのみ。魔法攻撃力上昇はバトル中、waveの移動やターン経過では解除されない=Increases all allies MATK by 30% if this skill is linked for the first time in this battle and after taking action, recovers 3 SP. ※SP recovery lasts this turn only. MATK buff is permanent for the rest of the battle
-幽冥斬=Spectral Slice
+幽冥斬=Spectral Slash
 敵全体に魔法（刃）か魔法（闇）で攻撃し、相手の魔法防御力を減少（特大）させる。※効果は発動ターンのみ=Attacks all enemies with magical (Cut) or magical (Dark) damage and decreases MDEF (VL). ※Effect lasts this turn only.
-「幽冥斬」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Spectral Slice is selected, select other Dark Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「幽冥斬」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Spectral Slash is selected, select other Dark Element or magical attack all-target skills total 2+ excluding self on the same turn.
 月下のサブマリン=Submarine Under the Moon
 2ターンの間、味方全体の、魔法攻撃力と魔法防御力を上昇（大）させる。CP4以上の場合、2ターンの間、味方全体のエレメントバースト時の魔法攻撃力を上昇（特大）させる。=Increases all allies' MATK and MDEF (L) for 2 turns. If CP is 4+, increases all allies' MATK during Element Burst (VL) for 2 turns.
 
