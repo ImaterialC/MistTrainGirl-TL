@@ -44,7 +44,7 @@ sr:"^(?:(パーティ全員)|(ポジション)([0-9・０-９]{1,7}))の(.{2,5})
 r:"^ポジション(\d+)の魔法攻撃力を(\d+)上昇させる。$"=Increases Position $1's MATK by $2.
 
 ##風の一撃【Ⅱ】
-sr:"^(貫|衝|刃|闇|光|風|水|火)の一撃【(.+)】$"$1 Strike [$2]
+sr:"^(貫|衝|刃|闇|光|風|水|火)の一撃【(.+)】$"=$1 Strike [$2]
 
 パーティ全員の命中を300上昇させ、更にポジション1・2の命中を20%上昇させる。=Increases all party members' HIT by 300 and increases Position 1 and 2's Hit by 20%.
 
