@@ -45,7 +45,7 @@ r:"^ファランクス：Lv([0-9]+)$"=Phalanx: Lv.$1
 物理攻撃力が50％上昇する。\r\n自身への敵視が上昇（中）する。=Increases ATK by 50%.\r\nIncreases self hostility (M).
 物理攻撃力が25％上昇する。\r\n自身への敵視が上昇（小）する。=Increases ATK by 25%.\r\nIncreases self hostility (S).
 自身への敵視が減少（小）する。=Decreases self hostility (S).
-r:^"スペシャルスキル発動後に味方全体の物理攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' ATK by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の物理攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' ATK by $1%.\n※Effect lasts this turn only
 
 マジカルキャノン=Magical Cannon
 マジカルキャノン…=Magical Cannon
@@ -55,13 +55,13 @@ r:"^マジカルキャノン：Lv([0-9]+)$"=Magical Cannon: Lv.$1
 自身への敵視が上昇（小）する。=Increases self hostility (S).
 魔法攻撃力が25%上昇する。\r\n自身への敵視が減少（小）する。=Increases MATK by 25%.\r\nDecreases self hostility (S).
 魔法攻撃力が50%上昇する。\r\n自身への敵視が減少（中）する。=Increases MATK by 50%.\r\nDecreases self hostility (M).
-r:^"スペシャルスキル発動後に味方全体の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' MATK by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' MATK by $1%.\n※Effect lasts this turn only
 
 ファストブリッツ=Fast Blitz
 r:"^ファストブリッツ：Lv([0-9]+)$"=Fast Blitz: Lv.$1
 全体の速さを大きく上昇させる事で、先制と回避性能に特化させた隊列。=<size\=13>A formation that specializes in preemptive and evasive performance by greatly increasing everyone's speed.</size>
 速さが50%上昇する。=Increases SPD by 50%.
-r:^"スペシャルスキル発動後に味方全体の速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' SPD by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' SPD by $1%.\n※Effect lasts this turn only
 
 ロイヤルガード=Royal Guard
 r:"^ロイヤルガード：Lv([0-9]+)$"=Royal Guard: Lv.$1
@@ -69,14 +69,14 @@ r:"^ロイヤルガード：Lv([0-9]+)$"=Royal Guard: Lv.$1
 物理防御力が50%上昇する。\r\n自身への敵視が上昇（大）する。=Increases DEF by 50%.\r\nIncreases self hostility (L).
 物理防御力が25%上昇する。=Increases DEF by 25%.
 物理防御力が25%上昇する。\r\n自身への敵視が減少（中）する。=Increases DEF by 25%.\r\nDecreases self hostility (M).
-r:^"スペシャルスキル発動後に味方全体の物理防御力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' DEF by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の物理防御力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' DEF by $1%.\n※Effect lasts this turn only
 
 マナフィールド=Mana Field
 r:"^マナフィールド：Lv([0-9]+)$"=Mana Field: Lv.$1
 中心に立つ者を支柱に、全体の魔法防御力を上昇させる隊列。=<size\=12>A formation that increases everyone's magical defense, with the person standing in the center as the pillar.</size>
 魔法防御力が25%上昇する。=Increases MDEF by 25%.
 魔法防御力が50%上昇する。\r\n自身への敵視が上昇（大）する。=Increases MDEF by 50%.\r\nIncreases self hostility (L).
-r:^"スペシャルスキル発動後に味方全体の魔法防御力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' MDEF by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の魔法防御力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' MDEF by $1%.\n※Effect lasts this turn only
 
 インターセプト=Intercept
 r:"^インターセプト：Lv([0-9]+)$"=Intercept: Lv.$1
@@ -84,14 +84,14 @@ r:"^インターセプト：Lv([0-9]+)$"=Intercept: Lv.$1
 幸運が15%上昇する。\r\n命中が15%上昇する。=Increases LUCK and HIT by 15%.
 幸運が20%上昇する。\r\n命中が20%上昇する。=Increases LUCK and HIT by 20%.
 幸運が25%上昇する。\r\n命中が25%上昇する。=Increases LUCK and HIT by 25%.
-r:^"スペシャルスキル発動後に味方全体の幸運と命中を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' LUCK and HIT by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体の幸運と命中を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' LUCK and HIT by $1%.\n※Effect lasts this turn only
 
 サンクチュアリ=Sanctuary
 r:"^サンクチュアリ：Lv([0-9]+)$"=Sanctuary: Lv.$1
 全体の回復力と防御性能を高めた、持久戦に適した隊列。=<size\=12>A formation that enhances everyone's recovery and defensive capabilities, making it suitable for protracted battles.</size>
 回復力が25%上昇する。\r\n物理防御力と魔法防御力が10%上昇する。=Increases RCV by 25%.\r\nIncreases DEF and MDEF by 10%.
 回復力が50%上昇する。\r\n物理防御力と魔法防御力が25%上昇する。=Increases RCV by 50%.\r\nIncreases DEF and MDEF by 25%.
-r:^"スペシャルスキル発動後に味方全体のプロテクトを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' Protect by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体のプロテクトを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' Protect by $1%.\n※Effect lasts this turn only
 
 ジェネラルオーダー=General Order
 ジェネラルオーダ…=General Or...
@@ -102,7 +102,7 @@ r:"^ジェネラルオーダー：Lv([0-9]+)$"=General Order: Lv.$1
 魔法攻撃力が25%上昇する。=Increases MATK by 25%.
 幸運が10%上昇する。速さが30%上昇する。\r\n命中が10%上昇する。=Increases LUCK and HIT by 10%.\r\nIncreases SPD by 30%.
 魔法攻撃力が25%上昇する。回復力が25%上昇する。\r\n自身への敵視が減少（中）する。　=Increases MATK and RCV by 25%.\r\nDecreases self hostility (M).
-r:^"スペシャルスキル発動後に味方全体のコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' Condition by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に味方全体のコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases all allies' Condition by $1%.\n※Effect lasts this turn only
 
 フロントウォール=Front Wall
 r:"^フロントウォール：Lv([0-9]+)$"=Front Wall: Lv.$1
@@ -111,7 +111,7 @@ r:"^フロントウォール：Lv([0-9]+)$"=Front Wall: Lv.$1
 自身への敵視が減少（中）する。=Decreases self hostility (M).
 自身への敵視が上昇（中）する。=Increases self hostility (M).
 自身への敵視が上昇（大）する。=Increases self hostility (L).
-r:^"ポジション4・5のレイヤーが、スペシャルスキルを発動した対象に([0-9]+)%の確率で「麻痺」を付与する。※効果は3ターンのみ$"=When Position 4 or 5 Layer's Special Skill is activated, $1% chance to inflict Paralysis.\n※Effect lasts 3 turns only
+r:"^ポジション4・5のレイヤーが、スペシャルスキルを発動した対象に([0-9]+)%の確率で「麻痺」を付与する。※効果は3ターンのみ$"=When Position 4 or 5 Layer's Special Skill is activated, $1% chance to inflict Paralysis.\n※Effect lasts 3 turns only
 
 アサルトアドヴァンス=Assault Advance
 アサルトアドヴァ…=Assault Adv...
@@ -120,7 +120,7 @@ r:"^アサルトアドヴァンス：Lv([0-9]+)$"=Assault Advance: Lv.$1
 物理攻撃力が25％上昇する。\r\n速さが50%上昇する。=Increases ATK by 25%.\r\nIncreases SPD by 50%.
 速さが50%減少する。=Decreases SPD by 50%.
 物理攻撃力が25％上昇する。\r\n速さが25%上昇する。=Increases ATK by 25%.\nIncreases SPD by 25%.
-r:^"ポジション1・2・3のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 1, 2 and 3 Layers' Special Skill damage by $1%.
+r:"^ポジション1・2・3のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 1, 2 and 3 Layers' Special Skill damage by $1%.
 
 デュアルリアガード=Dual Rearguard
 デュアルリアガー…=Dual Reargu...
@@ -128,7 +128,7 @@ r:"^デュアルリアガード：Lv([0-9]+)$"=Dual Rearguard: Lv.$1
 後衛2名の物理攻撃力と魔法攻撃力を上昇させる、特定スキルのダメージを伸ばすことに長けた隊列=<size\=11>A formation that excels at increasing the physical and magical attack of 2 rearguards and increasing the damage of certain skills.</size>
 魔法防御力と速さが25%上昇する。\r\n自身への敵視が上昇（小）する。=Increases MDEF and SPD by 25%.\r\nIncreases self hostility (S).
 物理攻撃力と魔法攻撃力が25%上昇する。\r\n速さが25%減少する。=Increases ATK and MATK by 25%.\r\nDecreases SPD by 25%.
-r:^"スペシャルスキル発動後にポジション1・2・3のレイヤーのプロテクトを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 1, 2 and 3 Layers' Protect by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後にポジション1・2・3のレイヤーのプロテクトを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 1, 2 and 3 Layers' Protect by $1%.\n※Effect lasts this turn only
 
 リーディングトリオ=Leading Trio
 リーディングトリ…=Leading Trio
@@ -139,7 +139,7 @@ r:"^リーディングトリオ：Lv([0-9]+)$"=Leading Trio: Lv.$1
 物理攻撃力が25%上昇する。\r\n剣・斧・魔具の速さが25%上昇する。=Increases ATK by 25%.\nIncreases Sword/Axe/Artifact SPD by 25%.
 速さが15%減少する。=Decreases SPD by 15%.
 ボスラッシュの交換所から取得=Acquired from the Boss Rush Exchange Market.
-r:^"武器種が「剣」「斧」「魔具」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Sword/Axe/Artifact weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
+r:"^武器種が「剣」「斧」「魔具」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Sword/Axe/Artifact weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
 
 スネークミラージュ=Snake Mirage
 スネークミラージ…=Snake Mirage
@@ -149,7 +149,7 @@ r:"^スネークミラージュ：Lv([0-9]+)$"=Snake Mirage: Lv.$1
 自身の敵視が上昇（小）する。\r\n物理防御力が25%上昇する。=Increases self hostility (S).\r\nIncreases DEF by 25%.
 回復力が25%上昇する。速さが25%減少する。=Increases RCV by 25%.\r\nDecreases SPD by 25%.
 自身の敵視が減少（中）する。\r\n拳・鞭・杖の物理攻撃力が25%上昇する。=Decreases hostility (M).\r\nIncreases Gauntlet/Whip/Staff ATK by 25%.
-r:^"武器種が「拳」「鞭」「杖」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Gauntlet/Whip/Staff weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
+r:"^武器種が「拳」「鞭」「杖」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Gauntlet/Whip/Staff weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
 
 トールハンマー=Thor Hammer
 r:"^トールハンマー：Lv([0-9]+)$"=Thor Hammer: Lv.$1
@@ -157,7 +157,7 @@ r:"^トールハンマー：Lv([0-9]+)$"=Thor Hammer: Lv.$1
 物理防御力が25%上昇する。物理攻撃力が50%上昇する。\r\n槍・弓・銃の敵視が上昇（大）する。=Increases DEF by 25%.\r\nIncreases ATK by 50%.\r\nIncreases Spear/Bow/Gun self hostility (L).
 自身の敵視が減少（中）する。速さが50%上昇する。\r\n槍・弓・銃の物理攻撃力が25%上昇する。=Increases self hostility (M). Increases SPD by 50%.\r\nIncreases Spear/Bow/Gun ATK by 25%.
 速さが15%上昇する。\r\n物理防御力と魔法防御力が25%減少する=Increases SPD by 15%.\r\nDecreases DEF and MDEF by 25%.
-r:^"武器種が「槍」「弓」「銃」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Spear/Bow/Gun weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
+r:"^武器種が「槍」「弓」「銃」のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=Increases Spear/Bow/Gun weapon Layers' Special Skill damage dealt by $1%.\n※Effect lasts this turn only
 
 ディアゴナルマギ=Diagonal Magi
 r:"^ディアゴナルマギ：Lv([0-9]+)$"=Diagonal Magi: Lv.$1
@@ -165,7 +165,7 @@ r:"^ディアゴナルマギ：Lv([0-9]+)$"=Diagonal Magi: Lv.$1
 杖の魔法攻撃力が15%上昇する。\r\n杖の回復力が25%上昇する。=Increases Staff MATK by 15%.\r\nIncreases Staff RCV by 25%.
 速さが25%上昇する。\r\n杖の魔法攻撃力が25%上昇する。杖の魔法防御力が25%減少する。=Increases SPD by 25%.\r\nIncreases Staff MATK by 25%.\nDecreases Staff MDEF by 25%.
 速さが50%上昇する。\r\n杖の幸運が25%上昇する。杖の魔法防御力が50%減少する=Increases SPD by 50%.\nnIncreases Staff LUCK by 25%.\nDecreases Staff MDEF by 50%.
-r:^"ポジション2・3・5のレイヤーが、スペシャルスキル発動後に敵全体の魔法攻撃力を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 2, 3 or 5 Layer's Special Skill is activated, decreases all enemies' MATK by $1%.\n※Effect lasts this turn only
+r:"^ポジション2・3・5のレイヤーが、スペシャルスキル発動後に敵全体の魔法攻撃力を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 2, 3 or 5 Layer's Special Skill is activated, decreases all enemies' MATK by $1%.\n※Effect lasts this turn only
 
 スイッチフィールド=Switch Field
 スイッチフィール…=Switch Field
@@ -173,7 +173,7 @@ r:"^スイッチフィールド：Lv([0-9]+)$"=Switch Field: Lv.$1
 前衛2名の魔法攻撃力を上昇させ、後衛1名の物理攻撃力を上昇させる隊列。=<size\=14>A formation that increases the magical attack of 2 vanguards and the physical attack of 1 rearguard.</size>
 魔法攻撃力が25%上昇する。速さが15%上昇する。\r\n自身への敵視が上昇（大）する。=Increases MATK by 25%.\r\nIncreases SPD by 15%.\r\nIncreases self hostility (L).
 物理攻撃力が50%上昇する。速さが50%上昇する。\r\n物理防御力が25%減少する。=Increases MATK by 50%. Increases SPD by 50%.\nDecreases DEF by 25%.
-r:^"ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の速さを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' SPD by $1%.\n※Effect lasts this turn only
+r:"^ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の速さを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' SPD by $1%.\n※Effect lasts this turn only
 
 キャッスルガード=Castle Guard
 r:"^キャッスルガード：Lv([0-9]+)$"=Castle Guard: Lv.$1
@@ -187,7 +187,7 @@ r:"^リアブースター：Lv([0-9]+)$"=Rear Booster: Lv.$1
 自身への敵視が上昇（中）する。\r\n速さが25%減少する=Increases self hostility (M).\r\nD​ecreases SPD by 25%.
 物理攻撃力が25%上昇する。魔法攻撃力が25%上昇する。\r\n速さが25%上昇する。=Increases ATK, MATK and SPD by 25%.
 魔法攻撃力が50%上昇する。速さが50%上昇する。\r\n物理攻撃力が50%減少する。=Increases MATK and SPD by 50%.\r\nDecreases ATK by 50%.
-r:^"ポジション3・4・5のレイヤーが、スペシャルスキル発動後に自身の速さを([0-9]+)%、コンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After Position 3, 4 or 5 Layer's Special Skill is activated, increases SPD by $1% and Condition by $2%.\n※Effect lasts this turn only
+r:"^ポジション3・4・5のレイヤーが、スペシャルスキル発動後に自身の速さを([0-9]+)%、コンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After Position 3, 4 or 5 Layer's Special Skill is activated, increases SPD by $1% and Condition by $2%.\n※Effect lasts this turn only
 
 紅の騎士隊=Crimson Knights
 r:"^紅の騎士隊：Lv([0-9]+)$"=Crimson Knights: Lv.$1
@@ -205,7 +205,7 @@ r:"^ディスタブストライク：Lv([0-9]+)$"=Disturb Strike: Lv.$1
 前衛2名の幸運を上げつつ、後衛3名の魔法攻撃力を上昇させる。先行して状態異常付与を狙う隊列。=<size\=10>A formation that aims to inflict abnormalities ahead of the others, increases the luck of the 2 vanguards while increasing the magical attack of the 3 rearguards.</size>
 幸運が25%上昇する。\r\n速さが25%上昇する。=Increases LUK and SPD by 25%.
 魔法攻撃力が25%上昇する。\r\n速さが50%減少する。=Increases MATK by 25%.\r\nDecreases SPD by 50%.
-r:^"スペシャルスキル発動後に敵全体のコンディションを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After a Special Skill is activated, decreases all enemies' Condition by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後に敵全体のコンディションを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After a Special Skill is activated, decreases all enemies' Condition by $1%.\n※Effect lasts this turn only
 
 チャージクラフト=Charge Craft
 r:"^チャージクラフト：Lv([0-9]+)$"=Charge Craft: Lv.$1
@@ -213,7 +213,7 @@ r:"^チャージクラフト：Lv([0-9]+)$"=Charge Craft: Lv.$1
 物理攻撃力が75%上昇する。物理防御力が50%上昇する。\r\n自身への敵視が上昇（大）する。=Increases ATK by 75%.\r\nIncreases DEF by 50%.\r\nIncreases self hostility (L).
 幸運が25%上昇する。\r\n物理防御力が25%減少する。=Increases LUCK by 25%.\r\nDecreases DEF by 25%.
 回復力が25%上昇する。物理防御力が25%減少する。\r\n魔法防御力が25%減少する。=Increases RCV by 25%.\r\nDecreases DEF and MDEF by 25%.
-r:^"ポジション2・3・4のレイヤーが、スペシャルスキルを発動した対象に([0-9]+)%の確率で「気絶」を付与する。※効果は発動ターンのみ$"=When Position 2, 3 or 4 Layer's Special Skill is activated, $1% chance to inflict Stun.\n※Effect lasts this turn only
+r:"^ポジション2・3・4のレイヤーが、スペシャルスキルを発動した対象に([0-9]+)%の確率で「気絶」を付与する。※効果は発動ターンのみ$"=When Position 2, 3 or 4 Layer's Special Skill is activated, $1% chance to inflict Stun.\n※Effect lasts this turn only
 
 ジールファランジ=Zeal Phalange
 r:"^ジールファランジ：Lv([0-9]+)$"=Zeal Phalange: Lv.$1
@@ -221,7 +221,7 @@ r:"^ジールファランジ：Lv([0-9]+)$"=Zeal Phalange: Lv.$1
 メインクエストの実績から取得=Acquired from Main Quest achievements.
 物理攻撃力が50%上昇する。命中が25%上昇する。\r\n速さが25%減少する。=Increases ATK by 50%.\r\nIncreases HIT by 25%.\r\nDecreases SPD by 25%.
 命中が25%減少する。=Decreases HIT by 25%.
-r:^"ポジション4・5のレイヤーが、スペシャルスキル発動後に敵全体の速さを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 4 or 5 Layer's Special Skill is activated, decreases all enemies' SPD by $1%.\n※Effect lasts this turn only
+r:"^ポジション4・5のレイヤーが、スペシャルスキル発動後に敵全体の速さを([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 4 or 5 Layer's Special Skill is activated, decreases all enemies' SPD by $1%.\n※Effect lasts this turn only
 
 ミッドアサルト=Mid Assault
 r:"^ミッドアサルト：Lv([0-9]+)$"=Mid Assault: Lv.$1
@@ -230,7 +230,7 @@ r:"^ミッドアサルト：Lv([0-9]+)$"=Mid Assault: Lv.$1
 物理攻撃力が50%上昇する。物理防御力が25%減少する。\r\n魔法防御力が25%減少する。=Increases ATK by 50%.\r\nDecreases DEF and MDEF by 25%.
 物理攻撃力が25%上昇する。速さが25%上昇する。=Increases ATK and SPD by 25%.
 魔法攻撃力が25%減少する。速さが25%減少する。=Decreases MATK and SPD by 25%.
-r:^"ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の物理防御力を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' DEF by $1%.\n※Effect lasts this turn only
+r:"^ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の物理防御力を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' DEF by $1%.\n※Effect lasts this turn only
 
 バタリオンタクト=Battalion Tact
 r:"^バタリオンタクト：Lv([0-9]+)$"=Battalion Tact: Lv.$1
@@ -240,7 +240,7 @@ r:"^バタリオンタクト：Lv([0-9]+)$"=Battalion Tact: Lv.$1
 物理攻撃力が50%上昇する。速さが15%上昇する。\r\n物理防御力が30%減少する。=Increases ATK by 50%.\r\nIncreases SPD by 15%.\r\nDecreases DEF by 30%.
 物理防御力が30%減少する。魔法防御力が30%減少する。\r\n速さが15%減少する。=Decreases DEF and MDEF by 30%.\r\nDecreases SPD by 15%.
 物理防御力が30%減少する。魔法防御力が30%減少する。\r\n速さが30%減少する。=Decreases DEF and MDEF by 30%.\r\nDecreases SPD by 30%.
-r:^"スペシャルスキル発動後にポジション2のレイヤーのコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 2 Layer's Condition by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後にポジション2のレイヤーのコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 2 Layer's Condition by $1%.\n※Effect lasts this turn only
 
 ヘクセレイスクワッド=Hexe Ray Squad
 ヘクセレイスクワ…=Hexe Ray Sq...
@@ -250,7 +250,7 @@ r:"^ヘクセレイスクワッド：Lv([0-9]+)$"=Hexe Ray Squad: Lv.$1
 魔法攻撃力が50%上昇する。速さが15%上昇する。\r\n魔法防御力が50%減少する。=Increases MATK by 50%.\r\nIncreases SPD by 15%.\r\nDecreases MDEF by 50%.
 魔法攻撃力が50%上昇する。速さが30%上昇する。\r\n魔法防御力が50%減少する。=Increases MATK by 50%.\r\nIncreases SPD by 30%.\r\nDecreases MDEF by 50%.
 魔法攻撃力が15%上昇する。速さが50%上昇する。\r\n魔法防御力が25%減少する。=Increases MATK by 15%.\r\nIncreases SPD by 50%.\r\nDecreases MDEF by 25%.
-r:^"スペシャルスキル発動後にポジション4のレイヤーのコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 Layer's Condition by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後にポジション4のレイヤーのコンディションを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 Layer's Condition by $1%.\n※Effect lasts this turn only
 
 ミラージュディセント=Mirage Descent
 ミラージュディセ…=Mirage Desc...
@@ -258,7 +258,7 @@ r:"^ミラージュディセント：Lv([0-9]+)$"=Mirage Descent: Lv.$1
 前衛１名と後衛２名の物理攻撃力を上昇させる、攻撃順番とヘイト調整に優れた隊列。=<size\=11>A formation that increases the physical attack of 1 vanguard and 2 rearguards, and is excellent for attack order and hostility adjustment.</size>
 物理防御力が25%上昇する。速さが25%減少する。\r\n自身の敵視が上昇（小）する。=Increases DEF by 25%.\r\nDecreases SPD by 25%.\r\nIncreases self hostility (S).
 物理攻撃力が25%上昇する。速さが50%上昇する。\r\n敵視が上昇（大）する。=Increases DEF by 25%.\r\nDecreases SPD by 50%.\r\nIncreases self hostility (L).
-r:^"スペシャルスキル発動後にポジション4・5のレイヤーの物理攻撃力と速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 and 5 Layer's ATK and SPD by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後にポジション4・5のレイヤーの物理攻撃力と速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 and 5 Layer's ATK and SPD by $1%.\n※Effect lasts this turn only
 
 アルチザンフロント=Artisan Front
 アルチザンフロン…=Artisan Front
@@ -268,7 +268,7 @@ r:"^アルチザンフロント：Lv([0-9]+)$"=Artisan Front: Lv.$1
 物理攻撃力が50%上昇する。命中が25%上昇する。=Increases ATK by 50%.\r\nIncreases HIT by 25%.
 物理攻撃力が25%上昇する。命中が30%上昇する。=Increases ATK by 25%.\r\nIncreases HIT by 30%.
 速さが25%減少する。幸運が25%減少する。=The speed decreases by 25%.\nGood luck is reduced by 25%.
-r:^"スペシャルスキル発動後にポジション1・2・3のレイヤーの速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 and 5 Layer's ATK and SPD by $1%.\n※Effect lasts this turn only
+r:"^スペシャルスキル発動後にポジション1・2・3のレイヤーの速さを([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 and 5 Layer's ATK and SPD by $1%.\n※Effect lasts this turn only
 
 ファンシュソサエティ=Fansch Society
 ファンシュソサエ…=Fansch Socie...
@@ -276,14 +276,14 @@ r:"^ファンシュソサエティ：Lv([0-9]+)$"=Fansch Society: Lv.$1
 後衛3名の魔法攻撃力と幸運を上昇させ、攻撃と状態異常付与を狙う隊列。=<size\=11>A formation that increases the magic attack and luck of the 3 rearguards, aiming for attack and inflicting status ailments.</size>
 魔法攻撃力が50%上昇する。幸運が25%上昇する。=Increases MATK by 50%.\r\nIncreases LUCK by 25%.
 魔法攻撃力が25%上昇する。幸運が25%上昇する。=Increases MATK by 25%.\r\nIncreases LUCK by 25%.
-r:^"ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の幸運を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' LUCK by $1%.\n※Effect lasts this turn only
+r:"^ポジション1・2・5のレイヤーが、スペシャルスキル発動後に敵全体の幸運を([0-9]+)%減少させる。※効果は発動ターンのみ$"=After Position 1, 2 or 5 Layer's Special Skill is activated, decreases all enemies' LUCK by $1%.\n※Effect lasts this turn only
 
 マナメディック=Mana Medic
 r:"^マナメディック：Lv([0-9]+)$"=Mana Medic: Lv.$1
 前衛3名で攻撃を引き受けつつ、後衛2名で攻撃と支援を行う隊列。=<size\=13>A formation of 3 vanguards taking on attacks while 2 rearguards provide attack and support.</size>
 魔法防御力が50%上昇する。速さが25%減少する。\r\n自身の敵視が上昇（中）する。=Increases MDEF by 50%.\r\nDecreases SPD by 25%.\r\nIncreases self hostility (M).
 魔法防御力が25%上昇する。幸運が25%減少する。\r\n自身の敵視が上昇（小）する。=Increases MDEF by 25%.\r\nDecreases LUCK by 25%.\r\nIncreases self hostility (S).
-r:^"ポジション4・5のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 4 and 5 Layer's Special Skill damage dealt by $1%.
+r:"^ポジション4・5のレイヤーが、スペシャルスキルで与えるダメージを([0-9]+)%上昇させる。$"=Increases Position 4 and 5 Layer's Special Skill damage dealt by $1%.
 
 アサシンフェイク=Assassin Fake
 r:"^アサシンフェイク：Lv([0-9]+)$"=Assassin Fake: Lv.$1
