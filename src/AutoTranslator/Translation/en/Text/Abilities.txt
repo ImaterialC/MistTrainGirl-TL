@@ -1457,8 +1457,10 @@ HPが20%以下の時、敵に与えるダメージが上昇（特大）する。
 HPが50%以下の時、敵に与えるダメージとエレメントバーストで与えるダメージを30%上昇させる。=When HP is 50% or less, increases damage dealt and Element Burst damage dealt to enemies by 30%.
 リスキーコンディション攻改　【特大】=Risky Condition Offense Kai [VL]
 HPが50%以下の時、敵に与えるダメージが上昇（特大）する。=When HP is 50% or less, increases damage dealt to enemies (VL).
+りそなスペシャル改=Risona Special
+wave開始時、ポジション1のレイヤーのリンクスキル発動条件を無視して効果を発動させる。※効果は発動ターンのみ=At the start of a wave, Position 1 ignores Link Skill requirements and trigger linked effects as stated. ※Effect lasts this turn only
 りそなスペシャル改=Risona Special Kai
-wave開始時、ポジション1のリンクスキル発動条件を無視して効果を発動させる。更に物理攻撃力を、敵が1体の時に50%、2体の時に25%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, Position 1 ignore Link Skill requirements and trigger linked effects as stated; increases ATK by 50% if there is 1 enemy or 25% if there are 2 enemies. ※Each effect lasts this turn only
+wave開始時、ポジション1のリンクスキル発動条件を無視して効果を発動させる。更に物理攻撃力を、敵が1体の時に50%、2体の時に25%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, Position 1 ignores Link Skill requirements and trigger linked effects as stated; increases ATK by 50% if there is 1 enemy or 25% if there are 2 enemies. ※Each effect lasts this turn only
 ロッドマスター【小】=Rod Master [S]
 杖の与えるダメージを上昇（小）させる。=Increases Staff damage dealt (S).
 ロッドマスター【中】=Rod Master [M]

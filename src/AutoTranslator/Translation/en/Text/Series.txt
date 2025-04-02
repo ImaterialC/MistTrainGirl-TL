@@ -291,8 +291,12 @@ wave開始時、自身の命中が15%上昇する。※効果は2ターンのみ
 wave開始時、味方全体のエレメントバーストで与えるダメージを8%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases all allies' Element Burst damage dealt by 8%. ※Effect lasts this turn only
 
 ハーフアニバーサリー’25=Half Anniversary '25
-武器種が「剣」のレイヤーに装備した場合、エレメントバースト時の物理攻撃力を10%上昇させる。=When equipped with a weapon type on a "Sword" layer, the physical attack power when element bursts increases by 10%.
+武器種が「剣」のレイヤーに装備した場合、エレメントバースト時の物理攻撃力を10%上昇させる。=When equipped by a Sword layer, increases ATK during Element Burst by 10%.
 wave開始時、自身がエレメントバーストで与えるダメージを15%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases Element Burst damage dealt by 15%. ※Effect lasts this turn only
+
+ハーフアニバーサリーⅡ’25=Half Anniversary II '25
+攻撃時、一定確率で相手の幸運を5%減少させる。※効果は2ターンのみ=When attacking, chance to decrease LUCK by 5%. ※Effect lasts 2 turns only
+wave開始時、敵全体のエレメントバースト時の魔法防御力を5%減少させる。※効果は発動ターンのみ=At the start of a wave, decreases all enemies' MDEF during Element Burst by 5%. ※Effect lasts this turn only
 
 //Paid
 百鬼夜怨=Hyakki Yaon

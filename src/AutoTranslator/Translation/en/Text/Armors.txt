@@ -523,8 +523,16 @@ POPラインジャ…=POP Line Ja...
 死者を尊ぶ思いのこもった霊装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオアハカに装備することでバトル中の見た目が変わる。=A spiritual attire that expresses respect for the dead.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Oaxaca will change her appearance during battle.
 
 無明戦鎧=Mumyou War Armor
+いつかの名工が作った鎧。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSクインズウェイに装備することでバトル中の見た目が変わる。=An armor made by a master craftsman from long ago.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Queensway will change her appearance during battle.
+
+ラブリーワンピース=Lovely One-Piece
+ラブリーワンピー…=Lovely One-Pi...
+パステルカラーでかわいいパーカー。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSランカスターに装備することでバトル中の見た目が変わる。=A cute pastel-colored hoodie.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Lancaster will change her appearance during battle.
 
 //Event SS
+強者の煌めく黒衣=Shining Black Strongman Robe
+全てを守るエプロ…=Full Protecti...
+全てを守るエプロン=Full Protection Apron
 大蛇の縁起着物=Orochi no Engi Kimono
 潮風漂う白輝着物=Shiokaze Tadayou Hakki Kimono
 信じる者のタキシード=Believer Tuxedo
@@ -599,6 +607,8 @@ POPラインジャ…=POP Line Ja...
 紅の着物=Red Kimono
 
 //Event S
+過保護エプロン=Overprotective Apron
+戦士の装束=Warrior Outfit
 大蛇の着物=Orochi no Kimono
 白輝着物=Hakki Kimono
 砂塵の砂鎧=Sand Dust Armor

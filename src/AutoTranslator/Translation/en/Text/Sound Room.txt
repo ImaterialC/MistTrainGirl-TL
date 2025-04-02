@@ -7,7 +7,10 @@ BGM登録=Set BGM
 選択した楽曲を自動周回にBGM登録しました=Selected song has been set as Auto-Lap BGM.
 選択した楽曲をマイページにBGM登録しました=Selected song has been set as My Page BGM.
 選択した楽曲をお気に入りしました=Favorited the selected song.
+楽曲交換アイテム=Song Exchange Item
 
+不穏の渦 / 空守たちの聖域=Vortex of Unrest / Sky Guardians' Sanctuary
+空守の咆哮 / 空守たちの聖域=Sky Guardian's Roar / Sky Guardians' Sanctuary
 お祭りは終わらない / 特鉄隊の学園祭=The Festival Isn't Over Yet / Special Steel Squad Academy Festival
 All aboard？ / 特鉄隊の学園祭=All Aboard? / Special Steel Squad Academy Festival
 激闘！浴神ユカたん / 花ざかりのユカタヒメ=Intense Battle! Bath Goddess Yuka-tan / Yukatahime in Full Bloom

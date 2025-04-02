@@ -1,5 +1,5 @@
 //Anzio's Climatic Runway
-前の難易度クリアで解放=Released by clearing the previous difficulty
+前の難易度クリアで解放=Clear Stage to Unlock
 スコア=Score
 ハイスコア=High Sc.
 スモック=Smock
@@ -13,3 +13,31 @@
 アピールポイントを1.5倍=1.5x Appeal Points
 ハイスコア更新!=New High Score!
 再挑戦=Retry
+
+//Mist Train Home Run Derby
+再開=Continue
+一時停止中=Paused
+サウンドに関する設定ができます=Set the sound settings
+次のステージへ=Next Stage
+鬼の金棒=Oni's Bat
+黄金バット=Golden Bat
+ラケット=Racket
+木の棒=Stick
+木製バット=Wooden Bat
+sr:"([\S\s]+)を購入しました$"=$1 Purchased
+全力でいっくよ～！=I'll go all oout～!
+右投げ 得意:ストレート=Right: Straight
+あたくしの全力、捕えられるかしら？=Can you grasp my full power?
+右投げ 得意:カーブ=Right: Curve
+ジエランの本気、見せてやるのだ～！=Jeran will show you true streength～!
+左投げ 得意:あばれ球=Left: Wild
+ぱきゅるぴきゅぷら。打てますか、スペースブラザー=Pakewrupykew. Can you hit it, Space Brother?
+右投げ 得意:消える魔球=Right: Disappear
+投げるよ～、そーれっ！=I'll throw iit～, soーre!
+右投げ 得意:変則球=Right: Irregular
+左投げ 得意:???=Left: ???
+ふふっ、おしおきですよっ、めっ！=Fufuh, punishment time, metsu!
+左利き 得意:消える魔球=Left: Disappear
+右投げ 得意:スライダー=Right: Slider
+きひひ、本気で打ちに来るんだよ！=Kehehe, come and hit it with all you have!
+投手の何でもない情報、最近ハマってる食べ物とか=Random info about the pitcher, the foods she's into lately, etc.

@@ -515,7 +515,7 @@ HPプラス【大】=HP Plus [L]
 滝園学園に通っていた時の眼鏡。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS周防天音に装備することでバトル中の見た目が変わる。=A pair of glasses worn when attending Takizono Academy.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Amane Suou will change her appearance during battle.
 
 バトルメイジのエナン=Battle Mage Hennin
-バトルメイジのエ…=Battle Mage H...
+バトルメイジのエ…=Battle Mage...
 宝石を愛する魔法使いのエナン。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSビストに装備することでバトル中の見た目が変わる。=A hennin of a mage that loves jewels.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Byst will change her appearance during battle.
 
 レースクイーンブーツ=Race Queen Boots
@@ -526,11 +526,22 @@ HPプラス【大】=HP Plus [L]
 いちごが耳のようになっているカチューシャ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSプウネネに装備することでバトル中の見た目が変わる。=A headband with strawberries shaped like ears.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Pu'unene will change her appearance during battle.
 
 もふねこカチューシャ=Fluffy Cat Katyusha
+もふねこカチュー…=Fluffy Cat Ka...
 もふもふなねこ耳が付いたカチューシャ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSオアハカに装備することでバトル中の見た目が変わる。=A headband with fluffy cat ears.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Oaxaca will change her appearance during battle.
 
 無明簪=Mumyou Hairpin 
+いつかの名工が作った簪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSクインズウェイに装備することでバトル中の見た目が変わる。=A hairpin made by a master craftsman from long ago.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Queensway will change her appearance during battle.
+
+ラブリーシューズ=Lovely Shoes
+パステルカラーでかわいいシューズ。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSランカスターに装備することでバトル中の見た目が変わる。=A pair of cute pastel-colored shoes.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Lancaster will change her appearance during battle.
 
 //SS Event
+深紅のローズピアス=Crimson Rose Piercings
+深紅のローズピア…=Crimson Ros...
+透色揚巻の髪飾=Transparent Hair Ornament
+魔法の金縁めがね=Magical Gold Glasses
+希望に導く暗黒リング=Dark Ring Leading to Hope
+希望に導く暗黒リ…=Dark Ring Le...
 オオエノ玉盃=Ooeno Gyokuhai
 神酒が注がれた立派な盃。オオエ山の守り神の強大な力を授かることができる。=A magnificent cup filled with sacred sake. It bestows the mighty power of the guardian deity of Mt. Ooe.
 ぴきゅるぴいやりんぐ=Pikewrupi Earrings
@@ -552,7 +563,6 @@ HPプラス【大】=HP Plus [L]
 斧で与えるダメージが25%上昇する。=Increases Axe damage dealt by 25%.
 根性と気合のたす…=Konjou and K...
 パープルジュエル…=Purple Jewel...
-
 ブルーアンバーピアス=Blue Amber Piercings
 ブルーアンバーピ…=Blue Amber...
 高貴なブラックローズ=Noble Black Rose
@@ -626,6 +636,10 @@ HPプラス【大】=HP Plus [L]
 超グルメピアス=Super Gourmet Piercings
 
 //S Event
+オーロイヤリング=Aurora Earrings
+十字の首飾り=Cross Necklace
+希望の銀光リング=Silver Ring of Hope
+普通の赤縁めがね=Regular Red Glasses
 リボンチョーカー=Ribbon Choker
 風雅の腕輪=Elegant Bracelet
 フランクバングル=Frank Bangle

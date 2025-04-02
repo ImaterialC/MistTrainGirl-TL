@@ -431,10 +431,10 @@ r:"^成長度([0-9]+)～([0-9]+)の報酬を受け取りました$"=Rewards rece
 強化合宿=Training Camp
 
 //Vote
-あなたの合計投票数=Your Total Vote Count
+あなたの合計投票数=Your Total Votes
 総得票数=Total Votes
 sr:"^([\S\s]+)に投票しますか？$"=Would you like to vote for $1?
-投票数=Vote Count
+投票数=Votes
 
 
 //Sky Guardian Sanctuary
@@ -495,3 +495,5 @@ sr:"^([\S\s]+)さんが([\S\s]+)に絶大なダメージを与えました！$"=
 無限モード=Endless Mode
 全てのボスが無限に復活するようになりました=All bosses now revive indefinitely.
 竜封じの石版=Dragon Sealing Plate
+ＧＴＳ武器交換券=GTS Weapon Exchange Ticket
+r:"^対象クエスト終了まで　([0-9]+):([0-9]+)$"=Quest ends $1:$2

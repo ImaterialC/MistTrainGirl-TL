@@ -78,7 +78,7 @@ request)
 貫=Pierce
 水=Water
 風=Wind
-光Light
+光=Light
 闇=Dark
 火=Fire
 無償=Freemium

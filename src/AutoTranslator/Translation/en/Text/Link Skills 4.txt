@@ -5,7 +5,7 @@
 グレイシャインパクト=Glacier Impact
 敵単体に物理（衝）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Water) damage and recovers 3 SP.
 「グレイシャインパクト」を選択した同じターンに、初期SPが13以上の双属性スキルを、自身を除く2体以上が選択する。=When Glacier Impact is selected, select other 13+ original SP cost double-Element skills total 2+ excluding self on the same turn.
-【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet or Whip Layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
+【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet/Whip Layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
 アグレスフロスウィップ=Aggress Fluss Whip
 
 //Basel

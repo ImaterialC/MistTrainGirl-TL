@@ -1,90 +1,45 @@
 濃霧決戦=Deep Fog Decisive Battle
 濃霧発生=Deep Fog Outbreak
-特鉄隊に緊急連絡が入り、現在その現場に向かっている途中である。\r\nパディントン、改めて状況の報告を頼む。=An emergency call was received from the Special Railways squad and is currently on the way to the scene.\nPaddington asks for another report on the situation.
-「はい、車掌どの！\r\n　現在、セントイリス郊外の森林にて非常に濃い霧を観測いたしました！」="Yes, conductor! We have now observed a very thick fog in the forest outside St. Iris!"
-「特鉄隊の任務は、発生した濃い霧――濃霧を晴らすことと、\r\n　ミストモンスターの殲滅となります」="The mission of the Special Railway Corps is to clear the thick fog that has been generated - and to annihilate the mist monsters."
-今までも濃い霧が発生することはあったが、\r\n問題視するようになったのはここ最近の話である。=Thick fog has been occurring before, but it has only recently become a problem.
-「まさか野良のミストモンスターに襲撃されたうえ、\r\n　殲滅にあんなに時間がかかっちゃうとはねぇ」="I never thought I'd have been attacked by a stray mist monster, and it would take so long to annihilate them."
-「濃霧の発生が突然だったことや、\r\n　ミストモンスターの戦闘力が高かったことから、\r\n　特鉄隊だけじゃなく各国の軍も警戒していたようですね」="The sudden occurrence of dense fog and the high combat power of the Mist Monsters seems to have not only been wary of the Special Railways squad, but also the military of various countries."
-実際、今回もセントイリス軍からの応援要請があって出動していた。\r\n下手に戦闘体制をとって壊滅するよりは、\r\n先に応援を呼んでから対処する方が適切だろう。=In fact, this time they were dispatched again after receiving a request for support from the St. Iris army.\nRather than insufficiently establishing a combat system and destroying it, it would be more appropriate to inquire support first before dealing with it.
-「いずれにせよ、普段の雑魚モンスターの討伐とは違った戦闘になるはず。\r\n　パディントンも車掌くんも、気を引き締めていこう」="In any case, it's going to be a different battle than usual defeating a weak monster. Both Paddington and the conductor should be careful."
-Islingtonの言葉に、身体が引き締まるのを感じる。\r\n我々を待ち受ける『濃霧』は、一体どのような脅威を秘めているのだろうか。\r\n警戒態勢を緩ませず、順調に現場へ向かっていった。=I felt my body tighten at Islington's words.\nWhat kind of threat does the "dense fog" await us?\nThe alert status was not relaxed and he proceeded smoothly to the scene.
-イズリントンの言葉に、身体が引き締まるのを感じる。\r\n我々を待ち受ける『濃霧』は、一体どのような脅威を秘めているのだろうか。\r\n警戒態勢を緩ませず、順調に現場へ向かっていった。=I felt my body tighten at Islington's words.\nWhat kind of threat does the "dense fog" await us?\nThe alert status was not relaxed and he proceeded smoothly to the scene.
-現場に到着した我々は、改めてその異常さを目の当たりにする。=Once we arrive at the scene, we once again witness the abnormality.
-発生場所である森林は、その一帯が濃霧に覆われていたのだ。\r\n普段であれば日当たりも良く散歩にもうってつけな道だが、\r\n今は、足元すら霧によって視線が定まらない、\r\n非常に危険な場所となってしまった。=The forest, where it originated, was covered in dense fog.\nNormally, the road is sunny and perfect for a walk, but now it has become a very dangerous place, with even fog at your feet not being able to keep your eyes open.
-「はわわ、霧が濃すぎて前が見えません！\r\n　車掌どの、足元お気を付けくださ……はわっ！」="Wow, the fog is so thick that I can't see in front of you! Please take care of where you are, at your feet... Haa!"
-「パディントン、大丈夫！？」="Paddington, okay?!"
-「うぅ、木の根っこに躓いちゃいました……」="Uhh, I stumbled over the roots of the tree..."
-Paddingtonの方を見ると、どうやら盛大に転んでしまったようだ。\r\nミストモンスターとの対峙の前にけがをするのは避けたい。\r\nこれまで以上に警戒して進もう。=Looking at Paddington, it appears that he has fallen massively.\nYou want to avoid getting injured before facing the mist monster.\nLet's move on more vigilant than ever before.
-パディントンの方を見ると、どうやら盛大に転んでしまったようだ。\r\nミストモンスターとの対峙の前にけがをするのは避けたい。\r\nこれまで以上に警戒して進もう。=Looking towards Paddington, it appears that he has fallen massively.\nYou want to avoid getting injured before facing the mist monster.\nLet's move on more vigilant than ever before.
-濃霧の森林を進んでいくと、イズリントンがふと足を止める。=As I proceeded through the thick fog forest, Islington suddenly stopped.
-「お姉ちゃん？　どうかしました？」="Onie-sister? What's up?"
-「あそこ。\r\n　ちょっと遠いけど、たぶんミストモンスターじゃないかな……」="There. It's a little far away, but I think it's probably a mist monster..."
-「やっぱりそうだ。うわぁ、同じ形のやつがうじゃうじゃいる。\r\n　こりゃ大漁だね。あれぜんぶミストモンスターだよ」="That's right. Wow, there are a bunch of people of the same shape. This is a huge catch. They're all mist monsters."
-Islingtonの視線の先、森林の奥深くには、\r\nミストモンスターらしき影が蠢いていた。=Behind Islington's gaze, deep into the forest, a shadow that looked like a mist monster cried out.
-イズリントンの視線の先、森林の奥深くには、\r\nミストモンスターらしき影が蠢いていた。=Behind Islington's gaze, deep into the forest, a shadow that looked like a mist monster cried out.
-いずれも同じ種のミストモンスターということから、\r\n群れか何かだろうか。=Since they are all mist monsters of the same species, they may be a group or something.
-「車掌くん、普段の雑魚モンスターの討伐とはちょっと状況が違う。\r\n　これは、少し策を練ってからの方がいいかもしれないね」="Conductor-kun, the situation is a little different from the usual defeating weak monsters. I think it might be better to come up with some strategies before you start planning."
-それはそうだ。\r\nいくら戦闘経験豊富なトレインナイトたちといっても、\r\nむやみやたらに戦わせるわけにはいかない。=That's right.\nNo matter how much they say train knights are experienced in combat, they can't just make them fight too hard.
-とはいえ、このまま無の状態から策を練るのも難しいところである。\r\nある程度相手の素性や攻撃の特性を見ておきたいところだな……。=However, it is also difficult to come up with a plan from nothing.\nYou'd like to see the opponent's identity and attack characteristics to a certain extent...
-Paddingtonの力を借りたい。\r\nできるか？=I want to get the help of Paddington.\nCan it be done?
-パディントンの力を借りたい。\r\nできるか？=I want to get Paddington's help.\nCan it be done?
-「もちろんです！　すべて私におまかせください！\r\n　頭のてっぺんから足の先まで、全身全霊を使って記憶します！」="Of course! Leave everything to me! I'll use my whole heart and soul to remember from the top of my head to the toes!"
-できれば脳だけを使ってくれると大変ありがたいが……。\r\nそれだけやる気があるということだろう、自信に満ちた目をしていた。=I would be very grateful if they could just use their brains...\nHe had a confident eye, perhaps, that was what motivated.
-「何か名案でも思いついた感じかな、車掌くん？」="I guess you could have come up with some great idea, conductor?"
-名案というほどではないが、相手のことを知るには十分だと思っている。=It's not a great idea, but I think it's enough to get to know the other person.
-濃霧最大の特徴は、ミストモンスター一体一体が強力であることだ。\r\nとにかく敵に攻撃を当てているだけでは埒が明かないだろう。=The biggest feature of the dense fog is that each mist monster is powerful.\nIt's not going to be a good idea just to attack the enemy.
-「戦闘力や行動パターンも個体ごとで結構な差がありますし、\r\n　極力戦闘数は押さえたいところですね」="There are quite a few differences in combat abilities and behavior patterns depending on the individual, so I'd like to keep the number of battles as much as possible."
-そこで、ダメージのデータをパディントンに取ってもらって、\r\nより効果的に、かつ戦略的に濃霧を晴らしていこうと思う。=So I'd like to have Paddington take the damage data and clear the thick fog more effectively and strategically.
-「任せてください！\r\n　わたしだって出来るんだってところを車掌どのに見せてあげます！」="Leave it to me! I'll show you who conductor says I can do it too!"
-「なるほど、先に弱点とかを知っておいた方が\r\n　今後の効率は上がるかもしれない……。\r\n　うん、やってみる価値はある」="I see. I see. It might be better to know your weaknesses first to improve your efficiency in the future... Yes, it's worth trying."
-二人とも威勢があって、こちらも俄然やる気が出て来た。\r\nみんなのやる気に押されないよう、こちらも頑張って指揮をとろう。=Both were brave and we suddenly felt motivated.\nLet's do our best to take command so that everyone doesn't get motivated.
-「なーに、我らが車掌くんが判断を誤るわけがないって。\r\n　どんな敵でもきっと蹴散らしてくれる、そう信じてるよ」="What, we have no way that our conductor will make a mistake in making judgments. I believe that he will surely kick any enemy."
-「わ、わたしも信じてますよ！\r\n　車掌どの、頑張ってこの濃霧を晴らしましょう！」="I believe it too! Let's do our best to clear this thick fog!"
-買いかぶりすぎて逆に不安になってくるのだが……。\r\n期待されてる以上、応えないわけにはいかない。=I'm buying too much and finding myself feeling anxious...\nAs long as we have high expectations, we cannot afford to not live up to it.
-ミストモンスターを殲滅し、濃霧を晴らすため、\r\n我々は臨戦態勢をとるのだった。=We took the battle to annihilate the mist monsters and clear the thick fog.
-
-The Special Forces received an emergency call and are currently on their way to the scene. Paddington, please report the situation again.
-"Yes, Conductor! We have observed a very thick fog in the forest on the outskirts of England!"
-"The Special Forces' mission is to clear the thick fog that has appeared and to eliminate the mist monsters."
-Thick fog has occurred before, but it has only become a problem recently.
-"I never thought we would be attacked by a stray mist monster and it would take so long to eliminate them."
-"The sudden appearance of the thick fog and the high combat power of the mist monsters have put not only the Special Forces but also the military forces of other countries on alert."
-In fact, this time, the British military had requested reinforcement and they were dispatched. It would be better to call for reinforcements first and then deal with the situation, rather than getting into a battle formation and being annihilated.
-"In any case, this battle will be different from the usual battles with small monsters. Paddington and Conductor, please be on your guard."
-I felt my body tense up at Islington's words. What kind of threat does the "thick fog" that awaits us hold? Without letting our guard down, we headed smoothly to the scene.
-When we arrived at the scene, we were once again struck by how abnormal it was.
-The forest where the incident occurred was covered in a thick fog. Normally, it was a sunny path that was perfect for a walk, but now, the fog made it difficult to see even the ground below, making it a very dangerous place. "Oh no, the fog is so thick that I can't see in front of me! Conductor, please watch your step... oh no!"
-"Paddington, are you okay?"
-"Ugh, I tripped over a tree root..."
-I looked over at Paddington, and it seemed he had fallen over dramatically. I didn't want to get hurt before facing the mist monster. Let's proceed with more caution than ever.
-As we proceed through the foggy forest, Islington suddenly stops.
-"Sis? Is something wrong?"
-"Over there. It's a bit far, but I think it's probably a mist monster..."
-"I thought so. Wow, there are loads of them with the same shape. That's quite a catch. They're all mist monsters."
-Before Islington's eyes, deep in the forest, shadows that looked like mist monsters were wriggling.
-They were all the same type of mist monster, so they must be a group or something.
-"Conductor, this situation is a bit different from the usual defeat of small monsters. It might be better to come up with a strategy for this."
-That's true. No matter how experienced the train knights are in battle, we can't just let them fight randomly.
-However, it's difficult to come up with a strategy from scratch. I'd like to see the enemy's background and attack characteristics to some extent... I'd like to ask for Paddington's help. Can you do it?
-
-"Of course! Leave it all to me! I'll use my whole body and soul to remember everything from the top of my head to the soles of my toes!"
-
-I'd be very grateful if he'd only use his brain if possible... His eyes were full of confidence, which shows how motivated he is.
-
-"Do you think you've come up with a brilliant idea, Conductor?"
-
-It's not exactly a brilliant idea, but I think it's enough to get to know the enemy.
-
-The biggest feature of the fog is that each mist monster is powerful. In any case, it won't be much use if you just attack the enemy.
-
-"There are considerable differences in combat power and behavior patterns between individuals, so I want to limit the number of battles as much as possible."
-
-So I'm going to have Paddington collect damage data so I can clear the fog more effectively and strategically.
-"Leave it to me! I'll show Conductor that I can do it too!"
-"I see, if I find out his weaknesses first, it might improve efficiency in the future... Yes, it's worth a try."
-They were both so confident that I suddenly became motivated. I'll try my best to take command, so as not to be overwhelmed by everyone's enthusiasm.
-"What? There's no way our Conductor will make a mistake in his judgment. I believe he can defeat any enemy."
-"I-I believe in him too! Conductor, let's do our best and clear this thick fog!"
-I'm overestimating him, so I'm starting to feel uneasy... Since he has high expectations of me, I have no choice but to live up to his expectations.
-We prepared for battle to annihilate the Mist Monsters and clear the thick fog.
+特鉄隊に緊急連絡が入り、現在その現場に向かっている途中である。\r\nパディントン、改めて状況の報告を頼む。=The SSS received an emergency call and are currently on their way to \r\nthe scene. Paddington, please give us another report on the situation.
+「はい、車掌どの！\r\n　現在、セントイリス郊外の森林にて非常に濃い霧を観測いたしました！」="Yes, Sir Conductor! We've observed\r\n a very thick Mist in the forest on the outskirts of St. Iris!"
+「特鉄隊の任務は、発生した濃い霧――濃霧を晴らすことと、\r\n　ミストモンスターの殲滅となります」="The SSS's objectives ―― clear the Deep Fog,\r\n eliminate the mist monsters."
+今までも濃い霧が発生することはあったが、\r\n問題視するようになったのはここ最近の話である。=Thick Mist has occurred before, \r\nbut it's only recently that it's become a problem.
+「まさか野良のミストモンスターに襲撃されたうえ、\r\n　殲滅にあんなに時間がかかっちゃうとはねぇ」="Never thought we'd be attacked by stray mist monsters,\r\n and it took ages to eliminate them too."
+「濃霧の発生が突然だったことや、\r\n　ミストモンスターの戦闘力が高かったことから、\r\n　特鉄隊だけじゃなく各国の軍も警戒していたようですね」="Because of the sudden Deep Fog outbreak and the mist monsters'\r\n strong battle power, it seems that the military forces of\r\n other countries were on guard as well aside from the SSS."
+実際、今回もセントイリス軍からの応援要請があって出動していた。\r\n下手に戦闘体制をとって壊滅するよりは、\r\n先に応援を呼んでから対処する方が適切だろう。=In fact, the St. Irish Army this time had requested reinforcements and \r\nwe were deployed. Rather than getting into a bad battle formation and \r\nbeing annihilated, it would be more appropriate to call for \r\nreinforcements first and then deal with the situation.
+「いずれにせよ、普段の雑魚モンスターの討伐とは違った戦闘になるはず。\r\n　パディントンも車掌くんも、気を引き締めていこう」="In any case, this battle should be different from dealing with the usual\r\n minnows. Paddington and Mr. Conductor, you two should be on your\r\n guard."
+Islingtonの言葉に、身体が引き締まるのを感じる。\r\n我々を待ち受ける『濃霧』は、一体どのような脅威を秘めているのだろうか。\r\n警戒態勢を緩ませず、順調に現場へ向かっていった。=I felt my body tense up at Islington's words. \r\nWhat kind of threat does the Deep Fog that awaits us hold? \r\nWithout letting our guard down, we headed to the scene smoothly.
+イズリントンの言葉に、身体が引き締まるのを感じる。\r\n我々を待ち受ける『濃霧』は、一体どのような脅威を秘めているのだろうか。\r\n警戒態勢を緩ませず、順調に現場へ向かっていった。=I felt my body tense up at Islington's words. \r\nWhat kind of threat does the Deep Fog that awaits us hold? \r\nWithout letting our guard down, we headed to the scene smoothly.
+現場に到着した我々は、改めてその異常さを目の当たりにする。=We were once again struck by how abnormal it was when we arrived \r\nthere.
+発生場所である森林は、その一帯が濃霧に覆われていたのだ。\r\n普段であれば日当たりも良く散歩にもうってつけな道だが、\r\n今は、足元すら霧によって視線が定まらない、\r\n非常に危険な場所となってしまった。=The forest where the outbreak occurred was shrouded in Deep Fog.\r\nNormally, it was a sunny path that was perfect for a walk,\r\nbut now, the Mist made it difficult to see even the ground below, \r\nmaking it a very dangerous place.
+「はわわ、霧が濃すぎて前が見えません！\r\n　車掌どの、足元お気を付けくださ……はわっ！」="Hawawa, the Mist is so thick that I can't see what's in front of me!\r\n Sir Conductor, watch your step please... HAWAH!"
+「パディントン、大丈夫！？」="Paddington, you okay!?"
+「うぅ、木の根っこに躓いちゃいました……」="Ugh, I tripped myself over a tree root..."
+Paddingtonの方を見ると、どうやら盛大に転んでしまったようだ。\r\nミストモンスターとの対峙の前にけがをするのは避けたい。\r\nこれまで以上に警戒して進もう。=Looking at you Paddington, it appears you have had a big fall. \r\nI don't want you to get hurt before we face the mist monster. \r\nDo proceed with more caution than ever.
+パディントンの方を見ると、どうやら盛大に転んでしまったようだ。\r\nミストモンスターとの対峙の前にけがをするのは避けたい。\r\nこれまで以上に警戒して進もう。=Looking at you Paddington, it appears you have had a big fall. \r\nI don't want you to get hurt before we face the mist monster. \r\nDo proceed with more caution than ever.
+濃霧の森林を進んでいくと、イズリントンがふと足を止める。=As I walked through the foggy forest, Islington suddenly paused.
+「お姉ちゃん？　どうかしました？」="Sis? What's wrong?"
+「あそこ。\r\n　ちょっと遠いけど、たぶんミストモンスターじゃないかな……」="Over there.\r\n It's a bit far, but I reckon it's probably a mist monster..."
+「やっぱりそうだ。うわぁ、同じ形のやつがうじゃうじゃいる。\r\n　こりゃ大漁だね。あれぜんぶミストモンスターだよ」="Thought so. Blegh, there are a bunch of them with the same shape.\r\n Quite the big catch. They're all mist monsters."
+Islingtonの視線の先、森林の奥深くには、\r\nミストモンスターらしき影が蠢いていた。=Deep in the forest where Islington was looking, \r\nshadows of what looked like crawling mist monsters appeared.
+イズリントンの視線の先、森林の奥深くには、\r\nミストモンスターらしき影が蠢いていた。=Deep in the forest where Islington was looking, \r\nshadows of what looked like crawling mist monsters appeared.
+いずれも同じ種のミストモンスターということから、\r\n群れか何かだろうか。=Since they were all the same type of mist monster, \r\nthey must be a flock or something.
+「車掌くん、普段の雑魚モンスターの討伐とはちょっと状況が違う。\r\n　これは、少し策を練ってからの方がいいかもしれないね」="Mr. Conductor, this situation is kinda different from wiping typical\r\n minnows. It might be better to come up with a strategy for this."
+それはそうだ。\r\nいくら戦闘経験豊富なトレインナイトたちといっても、\r\nむやみやたらに戦わせるわけにはいかない。=That's fair. \r\nRegardless of how experienced the train knights are, \r\nwe can't let them fight haphazardly.
+とはいえ、このまま無の状態から策を練るのも難しいところである。\r\nある程度相手の素性や攻撃の特性を見ておきたいところだな……。=However, it's difficult to come up with a strategy from scratch like this.\r\nI'd like to observe the enemy's background and attack characteristics to some extent...
+Paddingtonの力を借りたい。\r\nできるか？=I'd like to ask for your help, Paddington. \r\nCan you do it?
+パディントンの力を借りたい。\r\nできるか？=I'd like to ask for your help, Paddington. \r\nCan you do it?
+「もちろんです！　すべて私におまかせください！\r\n　頭のてっぺんから足の先まで、全身全霊を使って記憶します！」="Of course! Leave it all to me!\r\n I'll memorize everything from my head to toe, my heart and soul!"
+できれば脳だけを使ってくれると大変ありがたいが……。\r\nそれだけやる気があるということだろう、自信に満ちた目をしていた。=I'd be very grateful if she could just only use her brain if possible... \r\nBut she was so motivated, her eyes were full of confidence.
+「何か名案でも思いついた感じかな、車掌くん？」="Did you happen to come up with a brilliant idea, Mr. Conductor?"
+名案というほどではないが、相手のことを知るには十分だと思っている。=It's not exactly a brilliant idea, but I think it's enough to get to know the enemy.
+濃霧最大の特徴は、ミストモンスター一体一体が強力であることだ。\r\nとにかく敵に攻撃を当てているだけでは埒が明かないだろう。=The biggest feature of the Deep Fog is that each and every mist \r\nmonster is powerful. In any case, we won't be able to get anywhere by \r\nsimply attacking the enemy.
+「戦闘力や行動パターンも個体ごとで結構な差がありますし、\r\n　極力戦闘数は押さえたいところですね」="There are quite a few differences in combat power and behaviour\r\n patterns between individuals, so we want to keep the number of\r\n battles to a minimum."
+そこで、ダメージのデータをパディントンに取ってもらって、\r\nより効果的に、かつ戦略的に濃霧を晴らしていこうと思う。=So, I'll have Paddington collect damage data so that we can \r\nclear the Deep Fog more effectively and strategically.
+「任せてください！\r\n　わたしだって出来るんだってところを車掌どのに見せてあげます！」="Leave it to me!\r\n I'll show Sir Conductor that I can do it too!"
+「なるほど、先に弱点とかを知っておいた方が\r\n　今後の効率は上がるかもしれない……。\r\n　うん、やってみる価値はある」="I see, apparently it would be more efficient\r\n to know their weaknesses first...\r\n Yes, it's worth a try."
+二人とも威勢があって、こちらも俄然やる気が出て来た。\r\nみんなのやる気に押されないよう、こちらも頑張って指揮をとろう。=You two were both so spunky that I suddenly felt motivated. I'll try my \r\nbest to lead the group so that I don't get overwhelmed by everyone's \r\nenthusiasm.
+「なーに、我らが車掌くんが判断を誤るわけがないって。\r\n　どんな敵でもきっと蹴散らしてくれる、そう信じてるよ」="Come now, there's no way our Mr. Conductor will make a lapse in\r\n judgement. I believe you can defeat any enemy."
+「わ、わたしも信じてますよ！\r\n　車掌どの、頑張ってこの濃霧を晴らしましょう！」="I-I believe in you too!\r\n Sir Conductor, let's do our best to clear this Deep Fog!"
+買いかぶりすぎて逆に不安になってくるのだが……。\r\n期待されてる以上、応えないわけにはいかない。=I was overconfident, so I started to feel anxious... But since they \r\nhad high expectations of me, I had no choice but to live up to them.
+ミストモンスターを殲滅し、濃霧を晴らすため、\r\n我々は臨戦態勢をとるのだった。=We prepared for battle to annihilate \r\nthe mist monsters and clear the Deep Fog.
