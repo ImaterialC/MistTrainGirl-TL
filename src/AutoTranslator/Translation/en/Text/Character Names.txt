@@ -1,5 +1,6 @@
 //Name
 キャラクター名簿=Character List
+sr:"^(A|S|SS)([^\[\n\r]+?)$=$1 $2
 
 アルビダ=Awilda
 Aアルビダ[熱血水泳部部長]=A Awilda [Passionate Swimming Club Captain]

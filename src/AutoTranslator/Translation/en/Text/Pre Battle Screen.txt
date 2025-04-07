@@ -35,7 +35,7 @@ PTスキル強化=PT Skill Enhance
 r:"^メインクエスト ([0-9\-A-Z\(\)]+)$"=Main Quest $1
 
 
-r:"^STAGE([0-9]+)クリア！$"=Stage $1 Cleared!
+r:"^STAGE(\d+)クリア！$"=Stage $1 Cleared!
 
 //Stamina
 極石魔装を獲得=Acquired the polar stone magic
@@ -47,21 +47,21 @@ r:"^STAGE([0-9]+)クリア！$"=Stage $1 Cleared!
 スタミナ不足=Insufficient Stamina
 スタミナは999まで所持できますが、ランクアップなどで999を超えた場合は消失します。=Stamina can be up to 999, but any stamina exceeding 999 due to ranking up or other reasons will be lost.
 スタミナ回復に使用するアイテムを選択してください=Select the item to use to recover stamina.
-r:"^([0-9]+)個でスタミナを([0-9]+)回復$"=Spend $1 to recover $2 stamina
+r:"^(\d+)個でスタミナを(\d+)回復$"=Spend $1 to recover $2 stamina
 スタミナ回復確認=Confirm Stamina Recovery
 ミストジュエルは無償分から消費されます。=Mist Jewels will be consumed from the free portion.
 使用数=Uses
 スタミナ上限: 999=Stamina Cap: 999
 無償 0=Free 0
 有償 1000/=Paid 1000/
-sr:"^([\S\s]+)ポーションでスタミナを回復しますか$"=Do you want to recover stamina with $1?
-sr:"^([\S\s]+)でスタミナを回復しますか$"=Do you want to recover stamina with $1?
-sr:"^([\S\s]+)ポーションを([0-9]+)個使用して\r\nスタミナを([0-9]+)回復しました$"=$3 stamina recovered using $2 $1 Potions
+sr:"^(.+?)ポーションでスタミナを回復しますか$"=Do you want to recover stamina with $1?
+sr:"^(.+?)でスタミナを回復しますか$"=Do you want to recover stamina with $1?
+sr:"^(.+?)ポーションを(\d+)個使用して\r\nスタミナを(\d+)回復しました$"=$3 stamina recovered using $2 $1 Potions
 スタミナを回復しました=Stamina Recovered
 ミニ=Mini
 
 回数限定=Max Tries
-r:"^残り([0-9]+)/([0-9]+)$"=$1/$2 Left
+r:"^残り(\d+)/(\d+)$"=$1/$2 Left
 リセット=Reset
 所持\n=Possession\n
 フレンド一覧=Friend List
@@ -83,7 +83,7 @@ r:"^残り([0-9]+)/([0-9]+)$"=$1/$2 Left
 自動周回=Auto Lap
 初回報酬=First Clear
 スコア基準値=Score Standard Value
-r:"^他能力値:([0-9]+)$"=Other Stats: $1
+r:"^他能力値:(\d+)$"=Other Stats: $1
 最大値=Max
 ドロップアイテム=Drops
 ドロップ詳細=Drop Details
@@ -91,12 +91,12 @@ r:"^他能力値:([0-9]+)$"=Other Stats: $1
 出現エネミー=Enemies
 一括=Bulk
 自動売却=Auto-Sell
-r:"^([0-9]+)/([0-9]+)/([0-9]+) ([0-9]+):([0-9]+)まで$"=Ends in $1/$2/$3 $4:$5
+r:"^(\d+)/(\d+)/(\d+) (\d+):(\d+)まで$"=Ends in $1/$2/$3 $4:$5
 全力AUTO=Full Power Auto
 制限AUTO=Restricted Auto
 通常AUTO=Normal Auto
 AUTO戦闘方式を設定してください=Please set the Auto battle system
-r:"^キャンペーン終了まで ([0-9]+):([0-9]+)$"=Campaign ends $1:$2
+r:"^キャンペーン終了まで (\d+):(\d+)$"=Campaign ends $1:$2
 自動周回の設定をしてください=Please set the auto-lap
 レンタル詳細=Rental Details
 自動進行終了=End Auto Battle
@@ -125,17 +125,17 @@ EX能力値=EX Stats
 圏外=Outside the area
 降魔の祭壇=Altar of Judgment
 フィールド効果=Field Effect
-sr:"^([\s\S]+)が現在装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=Currently equipped by $1.\r\nPress the Confirm button or change slot to confirm the change.
-sr:"^([\s\S]+)が極石魔装を装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=$1 is equipped with an Extreme Magical Arm.\r\nPress the Confirm button or change slot to confirm the changes.
+sr:"^(.+?)が現在装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=Currently equipped by $1.\r\nPress the Confirm button or change slot to confirm the change.
+sr:"^(.+?)が極石魔装を装備しています\r\n決定ボタンかスロット変更を行うと変更内容を確定します $"=$1 is equipped with an Extreme Magical Arm.\r\nPress the Confirm button or change slot to confirm the changes.
 
 キャラクターを選択してポジションを入れ替えることができます=You can select a character and swap positions.
 他のパーティが副官周回しているため出撃できません=Cannot sortie as another party is in Adjutant Lapping.
-r:"^1個でスタミナを([0-9]+)回復$"=Each item recovers $1 stamina
+r:"^1個でスタミナを(\d+)回復$"=Each item recovers $1 stamina
 ■使用するポーションを選択してください=■ Choose the potion you want to use
 副官周回中のパーティのため別のパーティを選択してください=Please select a different party as the party is currently under Adjutant Lapping.
 副官周回しているパーティがいずれかを出撃・使用しているため出撃できません\n・レイヤー　・装備　・PTスキル=The party cannot depart as one of the following is already used in adjutant lapping: Layer, Equipment, Party Skill
-r:"^周回回数が([0-9]+)回のため、副官周回詳細ページに戻ります$"=Rounds completed in total is $1, returning to the Adjutant Lap details page.
-r:"^キャンペーン終了まで　([0-9]+):([0-9]+)$"=Campaign ends $1:$2
+r:"^周回回数が(\d+)回のため、副官周回詳細ページに戻ります$"=Rounds completed in total is $1, returning to the Adjutant Lap details page.
+r:"^キャンペーン終了まで　(\d+):(\d+)$"=Campaign ends $1:$2
 
 //Sell
 宝珠スロット=Orb Slot
@@ -183,7 +183,7 @@ r:"^キャンペーン終了まで　([0-9]+):([0-9]+)$"=Campaign ends $1:$2
 開催期間：2022/12/31 23:59まで=Duration: 2022/12/31 until 23:59
 開催期間：2024/10/31 13:59まで=Period: Ends 2024/10/31 13:59
 到達WAVE=Achieved Wave
-sr:"^属性試練【([\S\s]+)・([\S\s]+)】$"=Element Trials [$1/$2]
+sr:"^属性試練【(.+?)・(.+?)】$"=Element Trials [$1/$2]
 
 //Battle Festival
 報酬確認=Confirm Rewards
@@ -202,16 +202,16 @@ sr:"^属性試練【([\S\s]+)・([\S\s]+)】$"=Element Trials [$1/$2]
 50階までの自動クリア報酬=Auto clear rewards up to floor 50
 自動推奨戦力クエスト=Automatic Recommended Power Quest
 画面タップで閉じる=Tap the screen to close.
-r:"^バトル中に、発動したエレメントバーストの回数([0-9]+)回以内$"=Activate $1 or less Element Bursts in a battle.
+r:"^バトル中に、発動したエレメントバーストの回数(\d+)回以内$"=Activate $1 or less Element Bursts in a battle.
 バトル終了までに誰も戦闘不能になっていない=No one is KO'ed by the end of the battle.
 バトル終了までに戦闘不能になったレイヤーが2体以下=2 or less Layers are KO'ed by the end of the battle.
-r:"^クエストクリアターン([0-9]+)ターン以内$"=Clear quest within $1 turns.
+r:"^クエストクリアターン(\d+)ターン以内$"=Clear quest within $1 turns.
 剣・斧のレイヤーのみを編成=Clear with only Sword and/or Axe Layers.
 魔具・杖・銃のレイヤーのみを編成=Clear with only Artifact, Staff and/or Gun Layers.
 拳・鞭・杖のレイヤーのみを編成=Clear with only Gauntlet, Whip and/or Staff Layers.
 槍・弓・銃のレイヤーのみを編成=Clear with only Spear, Bow and/or Gun Layers.
 スペシャルスキルを使用せずにクエストクリア=Clear quest without using Special Skills.
-r:"^リンクスキルを([0-9]+)回以上発動する$"=Link skills $1 or more times.
+r:"^リンクスキルを(\d+)回以上発動する$"=Link skills $1 or more times.
 
 //Iwato
 属性選択=Select Element
@@ -235,8 +235,8 @@ r:"^リンクスキルを([0-9]+)回以上発動する$"=Link skills $1 or more 
 HP+1500 他+150=HP+1500 Others+150
 EX能力最大値=EX Stat Max Value
 修練場=Training Grounds
-r:"^母の試練 試練([0-9]+)クリアで解放$"=Unlocked by clearing mother's trial $1
-sr:"^【([\S\s]+)】修練場([0-9]+)$"=<size\=20>[$1] Training Ground $2</size>
+r:"^母の試練 試練(\d+)クリアで解放$"=Unlocked by clearing mother's trial $1
+sr:"^【(.+?)】修練場(\d+)$"=<size\=20>[$1] Training Ground $2</size>
 HP+3000 他+300=HP+3000 Others+300
 HP+2500 他+250=HP+2500 Others+250
 HP+2000 他+200=HP+2000 Others+200
@@ -259,11 +259,11 @@ HP+500 他+50=HP+500 Others+50
 <color\=#A73C46FF>STAGE1</color>の難易度【<color\=#A73C46FF>HARD</color>】が解放されました\r\n【<color\=#A73C46FF>レイド</color>】が解放されました=[<color\=#A73C46FF>Hard</color>] difficulty has been unlocked for <color\=#A73C46FF>STAGE 1</color>.\r\n[<color\=#A73C46FF>Raid</color>] has been unlocked<size\=24><color\=#773038>襲</color></size><size\=17><color\=#48351A>撃サンタ</color></size>=<size\=24><color\=#773038>Attack</color></size><size\=17><color\=#48351A>Santa</color></size>
 レイド討伐ポイント=Raid Defeat Points
 褒章確認=Confirm Medals
-r:"^銅褒章([0-9]+)個以上で獲得$"=$1 or more Bronze Medals
-r:"^銀褒章([0-9]+)個以上で獲得$"=$1 or more Silver Medals
-r:"^金褒章([0-9]+)個以上で獲得$"=$1 or more Gold Medals
+r:"^銅褒章(\d+)個以上で獲得$"=$1 or more Bronze Medals
+r:"^銀褒章(\d+)個以上で獲得$"=$1 or more Silver Medals
+r:"^金褒章(\d+)個以上で獲得$"=$1 or more Gold Medals
 アクマ印の紙幣=Akuma Seal Bill
-sr:"^「([\s\S]+)」\r\nをクリアすることで獲得できる、\r\nレイドボスに挑戦するためのアイテム。$"=An item for challenging raid bosses that can be obtained by clearing $1.
+sr:"^「(.+?)」\r\nをクリアすることで獲得できる、\r\nレイドボスに挑戦するためのアイテム。$"=An item for challenging raid bosses that can be obtained by clearing $1.
 アイテム不足のため出撃していません=Not deployed due to lack of items.
 ラインナップ詳細=Lineup Details
 
@@ -280,7 +280,7 @@ sr:"^「([\s\S]+)」\r\nをクリアすることで獲得できる、\r\nレイ�
 最大文字入力数は12文字までです=Up to 12 maximum letters allowed
 新しい編成名を入力してください=Enter new party name
 編成名をつけて管理することができます=Parties can be managed by naming parties
-sr:"^([\S\s]+)の新しいグループ名を入力してください$"=Enter the new group name for $1
+sr:"^(.+?)の新しいグループ名を入力してください$"=Enter the new group name for $1
 グループ名をつけて管理することができます=Groups can be managed by naming groups
 グループ名編集=Edit Group Name
 

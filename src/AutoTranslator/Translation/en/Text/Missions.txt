@@ -1,13 +1,12 @@
 //Maps
-r:"^メインクエスト ([\s\S]+)(HARD)$"=Main Quest $1 (Hard)
-r:"^メインクエスト ([\s\S]+)(VERYHARD)$"=Main Quest $1 (Very Hard)
+r:"^メインクエスト (.+?)\((.+)\)$"=Main Quest $1 ($2)
 
 //Events
-sr:"^([\s\S]+)を連れていずれかのクエストを(\d+)回クリアする。$"=Clear any quests $2 times with $1.
-sr:"^([\s\S]+)を連れてエネミーを(\d+)体討伐する。$"=Defeat $2 Enemies with $1.
-sr:"^A([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have A $1 [$2] join your ranks.
-sr:"^S([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have S $1 [$2] join your ranks.
-sr:"^SS([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have SS $1 [$2] join your ranks.
+sr:"^(.+?)を連れていずれかのクエストを(\d+)回クリアする。$"=Clear any quests $2 times with $1.
+sr:"^(.+?)を連れてエネミーを(\d+)体討伐する。$"=Defeat $2 Enemies with $1.
+sr:"^A(.+?)\[(.+?)\]を仲間にする。$"=Have A $1 [$2] join your ranks.
+sr:"^S(.+?)\[(.+?)\]を仲間にする。$"=Have S $1 [$2] join your ranks.
+sr:"^SS(.+?)\[(.+?)\]を仲間にする。$"=Have SS $1 [$2] join your ranks.
 お化け屋敷=Haunted House
 風紀委員=Disciplinary Committee Member
 演劇=Theater
@@ -16,47 +15,47 @@ sr:"^SS([\s\S]+)\[([\s\S]+)\]を仲間にする。$"=Have SS $1 [$2] join your r
 
 鉄路の先のランコントル=Rencontre Beyond the Railroad
 サメさんポーチ=Sharky Pouch
-sr:"^『([\S\s]+)』のNORMALクエスト（前半）を制覇する。$"=Clear all Normal Quests (First Half) in $1.
-sr:"^([\S\s]+)を連れていずれかのクエストでエネミーを(\d+)体討伐する。$"=Defeat $2 Enemies in quests with $1.
-sr:"^『([\S\s]+)』で([\S\s]+)を(\d+)個ドロップさせる。$"=Obtain $3 $2 drops in $1.
-sr:"^『([\S\s]+)』のドロップボーナスクエストを(\d+)回クリアする。$"=Clear $1 quests with drop bonuses $2 times.
-sr:"^『([\S\s]+)』のクエストで敵を100体撃破する。$"=Defeat 100 enemies in $1 quests.
-sr:"^【([\S\s]+)】メインクエストを800回クリアする。$"=[$1] Clear Main Quests 800 times.
-sr:"^【([\S\s]+)】トレジャークエストを500回クリアする。$"=[$1] Clear Treasure Quests 500 times.
+sr:"^『(.+?)』のNORMALクエスト（前半）を制覇する。$"=Clear all Normal Quests (First Half) in $1.
+sr:"^(.+?)を連れていずれかのクエストでエネミーを(\d+)体討伐する。$"=Defeat $2 Enemies in quests with $1.
+sr:"^『(.+?)』で(.+?)を(\d+)個ドロップさせる。$"=Obtain $3 $2 drops in $1.
+sr:"^『(.+?)』のドロップボーナスクエストを(\d+)回クリアする。$"=Clear $1 quests with drop bonuses $2 times.
+sr:"^『(.+?)』のクエストで敵を100体撃破する。$"=Defeat 100 enemies in $1 quests.
+sr:"^【(.+?)】メインクエストを800回クリアする。$"=[$1] Clear Main Quests 800 times.
+sr:"^【(.+?)】トレジャークエストを500回クリアする。$"=[$1] Clear Treasure Quests 500 times.
 【グリザイアコラボ記念M】トレジャークエストのステージ1-5 (VHARD)をクリアする。=[Grisaia Collab Memorial M] Clear Treasure Quest 1-5 (VHard).
 【グリザイアコラボ記念M】トレジャークエストのステージ2-5 (VHARD)をクリアする。=[Grisaia Collab Memorial M] Clear Treasure Quest 2-5 (VHard).
-sr:"^【([\S\s]+)】トレジャークエストのステージ1-5 (VHARD)をクリアする。$"=[$1] Clear Treasure Quest 1-5 (VHard).
+sr:"^【(.+?)】トレジャークエストのステージ1-5 (VHARD)をクリアする。$"=[$1] Clear Treasure Quest 1-5 (VHard).
 グリザイアコラボ記念M=Grisaia Collab Memorial M
 現在挑戦できるスペシャルミッションはありません\nショップのミッションパック購入で挑戦可能となります=There is no special mission that you can currently challenge. You can challenge by purchasing a shop mission pack
 『鉄路の先のランコントル』のクエストで敵=enemies in Rencontre Beyond the Railroad quests
 『いかがわロリコンスイミング』のクエストで敵=enemies in Ica River Lolitacon Swimming quests
 
-sr:"^『([\S\s]+)』のNORMALクエスト（前半）を制覇する。$"=Conquer $1 Normal Quests (First half).
-sr:"^『([\S\s]+)』のNORMALクエスト（後半）を制覇する。$"=Conquer $1 Normal Quests (Second half).
-sr:"^『([\S\s]+)』のHARDクエスト（前半）を制覇する。$"=Conquer $1 Hard Quests (First half).
-sr:"^『([\S\s]+)』のHARDクエスト（後半）を制覇する。$"=Conquer $1 Hard Quests (Second half).
-sr:"^『([\S\s]+)』のVHARDクエスト（前半）を制覇する。$"=Conquer $1 V. Hard Quests (First half).
-sr:"^『([\S\s]+)』のVHARDクエスト（後半）を制覇する。$"=Conquer $1 V. Hard Quests (Second half).
+sr:"^『(.+?)』のNORMALクエスト（前半）を制覇する。$"=Conquer $1 Normal Quests (First half).
+sr:"^『(.+?)』のNORMALクエスト（後半）を制覇する。$"=Conquer $1 Normal Quests (Second half).
+sr:"^『(.+?)』のHARDクエスト（前半）を制覇する。$"=Conquer $1 Hard Quests (First half).
+sr:"^『(.+?)』のHARDクエスト（後半）を制覇する。$"=Conquer $1 Hard Quests (Second half).
+sr:"^『(.+?)』のVHARDクエスト（前半）を制覇する。$"=Conquer $1 V. Hard Quests (First half).
+sr:"^『(.+?)』のVHARDクエスト（後半）を制覇する。$"=Conquer $1 V. Hard Quests (Second half).
 
 マグロマン=Tunafish Man
 ミッションポイント=Mission Point
 
 //Altar of Judgement
-sr:"^【([\S\s]+)】降魔の祭壇を(\d+)階クリアする。$"=[$1] Clear Altar of Judgement $2th floor.
+sr:"^【(.+?)】降魔の祭壇を(\d+)階クリアする。$"=[$1] Clear Altar of Judgement $2th floor.
 
-sr:"^「([\s\S]+)」のNORMALクエストをクリアする。$"=Clear $1 Quest, Normal Difficulty.
-sr:"^「([\s\S]+)」のHARDクエストをクリアする。$"=Clear $1 Quest, Hard Difficulty.
-sr:"^「([\s\S]+)」のVHARDクエストをクリアする。$"=Clear $1 Quest, Very Hard Difficulty.
-sr:"^イベント『([\s\S]+)』に参加する。$"=Participate in the $1 event.
-sr:"^「([\s\S]+)」で累計スコア(\d+)を獲得する。$"=Get a total "$1" score of $2.
+sr:"^「(.+?)」のNORMALクエストをクリアする。$"=Clear $1 Quest, Normal Difficulty.
+sr:"^「(.+?)」のHARDクエストをクリアする。$"=Clear $1 Quest, Hard Difficulty.
+sr:"^「(.+?)」のVHARDクエストをクリアする。$"=Clear $1 Quest, Very Hard Difficulty.
+sr:"^イベント『(.+?)』に参加する。$"=Participate in the $1 event.
+sr:"^「(.+?)」で累計スコア(\d+)を獲得する。$"=Get a total "$1" score of $2.
 
 //Character Missions
-sr:"^([\s\S]+)のギアレベルを20にする。$"=Have $1 reach Gear Level 20.
-sr:"^([\s\S]+)のレイヤーレベルを50にする。$"=Have $1 reach Layer Level 50.
-sr:"^([\s\S]+)を仲間にする。$"=Recruit $1.
+sr:"^(.+?)のギアレベルを20にする。$"=Have $1 reach Gear Level 20.
+sr:"^(.+?)のレイヤーレベルを50にする。$"=Have $1 reach Layer Level 50.
+sr:"^(.+?)を仲間にする。$"=Recruit $1.
 
 //Special
-sr:"^【([\s\S]+)】ログイン日数が(\d+)日に到達する。$"=[$1] Reach a total of $2 log in days.
+sr:"^【(.+?)】ログイン日数が(\d+)日に到達する。$"=[$1] Reach a total of $2 log in days.
 おかわりM=Refill M
 ドーヴァー召喚M=Dover Summon M
 セントーサ召喚M=Sentosa Summon M
@@ -96,16 +95,16 @@ r:"^ポーション×(\d+)$"=Potion x $1
 【金恋コラボ直前M】メインクエスト第4部第12章、ステージ108-5 (NORMAL)をクリアする。=[Kinkoi Pre-Collab M] Clear Main Quest Part 4, Episode 12, Stage 108-5 (Normal).
 
 //Raid
-sr:"^【([\S\s]+)】いずれかのクエストを(\d+)回クリアする。$"=[$1] Clear any quests $2 times.
-sr:"^【([\S\s]+)】いずれかの敵を(\d+)体討伐する。$"=[$1] Defeat $2 enemies.
+sr:"^【(.+?)】いずれかのクエストを(\d+)回クリアする。$"=[$1] Clear any quests $2 times.
+sr:"^【(.+?)】いずれかの敵を(\d+)体討伐する。$"=[$1] Defeat $2 enemies.
 1日目 ハロウィンM=Day 1 Halloween M
 2日目 ハロウィンM=Day 2 Halloween M
-sr:"^『([\S\s]+)』のVHARDクエストの2-5をクリアする。$"=Complete $1 VHARD Quest 2-5 .
-sr:"^『([\S\s]+)』のNORMALクエストの(\d+)-(\d+)をクリアする。$"=Clear $1 Normal Quest $2-$3.
+sr:"^『(.+?)』のVHARDクエストの2-5をクリアする。$"=Complete $1 VHARD Quest 2-5 .
+sr:"^『(.+?)』のNORMALクエストの(\d+)-(\d+)をクリアする。$"=Clear $1 Normal Quest $2-$3.
 
 //Training Camp
 r:"^トレーニングキャンプのクエストを(\d+)回クリアする。$"=Clear Training Camp quests $1 times.
-sr:"^イベント『入隊訓練：([\s\S]+)』に参加する。$"=Participate in the event: Training Camp - $1.
+sr:"^イベント『入隊訓練：(.+?)』に参加する。$"=Participate in the event: Training Camp - $1.
 
 //Achievements
 r:"^剣のウェポンマスターレベルが(\d+)に到達する。$"=Reach Sword Weapon Mastery Level $1.
@@ -121,10 +120,10 @@ r:"^ゲームを開始してから(\d+)日経過する。$"=Pass $1 days since s
 r:"^装備進化素材クエストの(\d+)階層目をクリアする。$"=Clear Equipment Evolution Quest Level $1.
 
 
-r:"(\d+)/(\d+)に行ったメンテナンス延長に伴うお詫びです$"=Apologies for the extended\r\nmaintenance on $1/$2.
-r:"(\d+)/(\d+)のメンテナンスご協力のお礼です。$"=Thank you for your cooperation\r\nwith the maintenance on $1/$2.
+r:"^(\d+)/(\d+)に行ったメンテナンス延長に伴うお詫びです$"=Apologies for the extended\r\nmaintenance on $1/$2.
+r:"^(\d+)/(\d+)のメンテナンスご協力のお礼です。$"=Thank you for your cooperation\r\nwith the maintenance on $1/$2.
 
-sr:"^([\s\S]+)×(\d+)$"=$1 x $2
+sr:"^(.+?)×(\d+)$"=$1 x $2
 
 //Rewards
 FanzaGames人気ランキング1位記念のプレゼントです。=This is a gift to celebrate 1st place in the Fanza Games popularity ranking.
@@ -197,7 +196,7 @@ r:"^サイドストーリー (\d+)-1(VERYHARD)$"=Side Story $1-1 (Very Hard)
 【新春記念M】BOSS RUSHクエスト3 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 3 (Normal).
 【新春記念M】BOSS RUSHクエスト4 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 4 (Normal).
 【新春記念M】BOSS RUSHクエスト5 (NORMAL)をクリアする。=[Year End Celebration M] Clear Boss Rush Quest 5 (Normal).
-sr:"^【([\s\S]+)】トレジャークエストを(\d+)回クリアする。$"=[$1] Clear the Treasure Quest $2 times.
+sr:"^【(.+?)】トレジャークエストを(\d+)回クリアする。$"=[$1] Clear the Treasure Quest $2 times.
 年末記念M=Year End Celebration M
 【年末記念M】SSランカスター[可憐な振袖少女]を連れてエネミーを300体討伐する。※過去にスキルを取得している場合、報酬は付与されません=[Year End Celebration M] Have SS Lancaster [Dainty Furisode Girl] defeat 300 enemies. ※If you have already acquired the skill, you will not be rewarded.
 【年末記念M】SSイズモノハクト[縁結びの先へ]を連れてエネミーを300体討伐する。※過去にスキルを取得している場合、報酬は付与されません=[Year End Celebration M] Have SS Izumo no Hakuto [Beyond the Matchmaking] defeat 300 enemies. ※If you have already acquired the skill, you will not be rewarded.
@@ -231,12 +230,12 @@ r:"^巡回任務で(\d+)時間分上昇効果を獲得する。（帰還要請�
 【メイン・サイド攻略M】メインクエスト第4部第12章、ステージ108-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 4 Chapter 12, Stage 108-5 (NORMAL).
 【メイン・サイド攻略M】メインクエスト第5部第6章、ステージ120-5 (NORMAL)をクリアする。=[Main Side Strategy M] Complete Main Quest Part 5 Chapter 6, Stage 120-5 (NORMAL).
 決戦エリアでボスに1回挑戦する。=Challenge any boss once in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に1回挑戦する。$"=Challenge the $1 once in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に3回挑戦する。$"=Challenge the $1 3 times in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に5回挑戦する。$"=Challenge the $1 5 times in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に累計10,000ダメージを与える。$"=Deal a total of 10,000 damage to $1 in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に累計100,000,000ダメージを与える。$"=Deal a total of 100,000,000 damage to $1 in the Decisive Battle Area.
-sr:"^決戦エリアで([\S\s]+)に累計500,000,000ダメージを与える。$"=Deal a total of 500,000,000 damage to $1 in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に1回挑戦する。$"=Challenge the $1 once in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に3回挑戦する。$"=Challenge the $1 3 times in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に5回挑戦する。$"=Challenge the $1 5 times in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に累計10,000ダメージを与える。$"=Deal a total of 10,000 damage to $1 in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に累計100,000,000ダメージを与える。$"=Deal a total of 100,000,000 damage to $1 in the Decisive Battle Area.
+sr:"^決戦エリアで(.+?)に累計500,000,000ダメージを与える。$"=Deal a total of 500,000,000 damage to $1 in the Decisive Battle Area.
 
 『空守たちの聖域』のソロモードをクリアする。=Complete the solo mode of The Sky Guardians' Sanctuary.
 

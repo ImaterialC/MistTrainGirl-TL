@@ -3,8 +3,8 @@
 毎週月曜日更新=Resets on Monday
 アイテムパック=Item Pack
 トレーニング=Training
-r:"^購入回数 ([0-9]+)/([0-9]+)$"=Buy $1/$2
-r:"^+おまけ無償分([0-9]+)個$"=+$1 Freemium Jewels
+r:"^購入回数 (\d+)/(\d+)$"=Buy $1/$2
+r:"^+おまけ無償分(\d+)個$"=+$1 Freemium Jewels
 +おまけ無償分 3600個=+3600 Freemium Jewels
 +おまけ無償分 1800個=+1800 Freemium Jewels
 +おまけ無償分 1200個=+1200 Freemium Jewels
@@ -27,28 +27,28 @@ r:"^+おまけ無償分([0-9]+)個$"=+$1 Freemium Jewels
 
 ゴールドミッションパス：トレジャー=Gold Mission Pass: Treasure
 ゴールドミッションパス：レイド=Gold Mission Pass: Raid
-r:"^有償ミストジュエル([0-9]+)個と、\r\r\n特別なミッション報酬を受け取れるゴールドミッションパス（おまけ）が付いたパックです。$"=This pack includes $1 paid Mist Jewels and a Gold Mission Pass (bonus) that allows you to receive special mission rewards.
+r:"^有償ミストジュエル(\d+)個と、\r\r\n特別なミッション報酬を受け取れるゴールドミッションパス（おまけ）が付いたパックです。$"=This pack includes $1 paid Mist Jewels and a Gold Mission Pass (bonus) that allows you to receive special mission rewards.
 シルバーミッションパス：トレジャー=Silver Mission Pass: Treasure
 シルバーミッションパス：レイド=Silver Mission Pass: Raid
-r:"^有償ミストジュエル([0-9]+)個と、\r\r\n特別なミッション報酬を受け取れるシルバーミッションパス（おまけ）が付いたパックです。$"=This pack includes $1 paid Mist Jewels and a Silver Mission Pass (bonus) that allows you to receive special mission rewards.
+r:"^有償ミストジュエル(\d+)個と、\r\r\n特別なミッション報酬を受け取れるシルバーミッションパス（おまけ）が付いたパックです。$"=This pack includes $1 paid Mist Jewels and a Silver Mission Pass (bonus) that allows you to receive special mission rewards.
 
-sr:"^有償ミストジュエル3000個と以下おまけのパックです。\r\r\n無償([\S\s]+)（おまけ）2400個\r\r\nSS([\S\s]+)1個\r\r\nSS([\S\s]+)1個\r\r\nSS([\S\s]+)1個\r\r\n([\S\s]+)1枚\r\r\n([\S\s]+)500000個\r\r\n([\S\s]+)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 3,000 paid Mist Jewels and the following bonus items:\r\r\n$1s (Extra) x2400\r\r\nSS $2 x1\r\r\nSS $3 x1\r\r\nSS $4 x1\r\r\n$5 x1\r\r\n$6 x500000\r\r\n$7 x10\r\r\n※Gacha Ticket expires at 5:00am, 180 days after the date of purchase.
+sr:"^有償ミストジュエル3000個と以下おまけのパックです。\r\r\n無償(.+?)（おまけ）2400個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\n(.+?)1枚\r\r\n(.+?)500000個\r\r\n(.+?)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 3,000 paid Mist Jewels and the following bonus items:\r\r\n$1s (Extra) x2400\r\r\nSS $2 x1\r\r\nSS $3 x1\r\r\nSS $4 x1\r\r\n$5 x1\r\r\n$6 x500000\r\r\n$7 x10\r\r\n※Gacha Ticket expires at 5:00am, 180 days after the date of purchase.
 百鬼夜怨の重装1個\r\r\nSS百鬼夜怨の軽装1個\r\r\nSS百鬼夜怨の法衣=Hyakki Yaon Heavy Armor x1\r\r\nSS Hyakki Yaon Light Armor x1\r\r\nSS Hyakki Yaon Robe
 百鬼夜怨の指輪1個\r\r\nSS百鬼夜怨の腕輪1個\r\r\nSS百鬼夜怨の首輪=Hyakki Yaon Ring x1\r\r\nSS Hyakki Yaon Bracelet x1\r\r\nSS Hyakki Yaon Necklace
-sr:"^復刻【刃】([\S\s]+)武器パック$"=Reprint [Cut] $1 Weapon Pack
-sr:"^復刻【衝】([\S\s]+)武器パック$"=Reprint [Blow] $1 Weapon Pack
-sr:"^復刻【貫】([\S\s]+)武器パック$"=Reprint [Pierce] $1 Weapon Pack
-sr:"^復刻([\S\s]+)防具パック$"=Reprint $1 Armor Pack
-sr:"^復刻([\S\s]+)装飾品パック$"=Reprint $1 Accessory Pack
-sr:"^スキル覚醒支援パック【([\S\s]+)】$"=Skill Awakening Support Pack [$1]
+sr:"^復刻【刃】(.+?)武器パック$"=Reprint [Cut] $1 Weapon Pack
+sr:"^復刻【衝】(.+?)武器パック$"=Reprint [Blow] $1 Weapon Pack
+sr:"^復刻【貫】(.+?)武器パック$"=Reprint [Pierce] $1 Weapon Pack
+sr:"^復刻(.+?)防具パック$"=Reprint $1 Armor Pack
+sr:"^復刻(.+?)装飾品パック$"=Reprint $1 Accessory Pack
+sr:"^スキル覚醒支援パック【(.+?)】$"=Skill Awakening Support Pack [$1]
 黄金の重装1個\r\r\nSS黄金の軽装1個\r\r\nSS黄金の法衣=Golden Heavy Armor x1\r\r\nSS Golden Light Armor x1\r\r\nSS Golden Robe
 黄金の指輪1個\r\r\nSS黄金の腕輪1個\r\r\nSS黄金の首輪=Golden Ring x1\r\r\nSS Golden Bracelet x1\r\r\nSS Golden Scarf
 
 グリザイアコラボお得パック=Grisaia Collaboration Value Pack
-sr:"^有償ミストジュエル([0-9]+)個に以下のおまけが付いたパックです。\r\r\n無償ミストジュエル([0-9]+)個\r\r\nSS([\S\s]+)1個\r\r\nSS([\S\s]+)1個\r\r\nSS([\S\s]+)1個\r\r\n([\S\s]+)のドレス1個\r\r\n([\S\s]+)10個$"=This pack contains $1 Paid Mist Jewels and the following bonuses:\r\n$2 Free Mist Jewels.\r\r\nSS $3 x1\r\r\nSS $4 x1\r\r\nSS $5 x1\r\r\n$6 Costume x1\r\r\n$7 x10
+sr:"^有償ミストジュエル(\d+)個に以下のおまけが付いたパックです。\r\r\n無償ミストジュエル(\d+)個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\n(.+?)のドレス1個\r\r\n(.+?)10個$"=This pack contains $1 Paid Mist Jewels and the following bonuses:\r\n$2 Free Mist Jewels.\r\r\nSS $3 x1\r\r\nSS $4 x1\r\r\nSS $5 x1\r\r\n$6 Costume x1\r\r\n$7 x10
 
-sr:"^([\S\s]+)召喚パック$"=$1 Summon Pack
-sr:"^有償ミストジュエル5000個と以下のおまけのパックです。\r\r\n([\S\s]+)召喚切符1枚\r\r\nさらに購入後、([\S\s]+)のギア500個などが獲得できるミッションが付与されます。$"=This pack contains 5,000 paid mist jewels and the following bonuses:\r\r\n1 $1 Summoning Ticket \r\r\nAfter purchasing, you will also be given a mission that rewards 500 pieces of $2 gear.
+sr:"^(.+?)召喚パック$"=$1 Summon Pack
+sr:"^有償ミストジュエル5000個と以下のおまけのパックです。\r\r\n(.+?)召喚切符1枚\r\r\nさらに購入後、(.+?)のギア500個などが獲得できるミッションが付与されます。$"=This pack contains 5,000 paid mist jewels and the following bonuses:\r\r\n1 $1 Summoning Ticket \r\r\nAfter purchasing, you will also be given a mission that rewards 500 pieces of $2 gear.
 日下部麻子召喚M=Asako Kusakabe Summon M
 ミッション達成時獲得アイテム=Mission complete rewards
 
@@ -58,36 +58,36 @@ sr:"^有償ミストジュエル5000個と以下のおまけのパックです�
 購入回数  1/4=No. of purchases 1/4
 
 //Party Skill
-sr:"^有償ミストジュエル4800個と以下のおまけのパックです。\r\r\n『([\S\s]+)』限定PTスキル1個\r\r\n([\S\s]+)2枚\r\r\n([\S\s]+)500000個\r\r\n([\S\s]+)10個\r\r\n([\S\s]+)10個\r\r\n([\S\s]+)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 4800 paid Mist Jewels and the following bonuses.\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x2\r\r\n$3 x500000\r\r\n$4 x10\r\r\n$5 x10\r\r\n$6 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
+sr:"^有償ミストジュエル4800個と以下のおまけのパックです。\r\r\n『(.+?)』限定PTスキル1個\r\r\n(.+?)2枚\r\r\n(.+?)500000個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 4800 paid Mist Jewels and the following bonuses.\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x2\r\r\n$3 x500000\r\r\n$4 x10\r\r\n$5 x10\r\r\n$6 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
 『聖夜に贈るクリスマスケーキ』パック=Christmas Cake on a Holy Night Pack
-sr:"^『([\s\S]+)』パックを購入しました$"=[$1] Pack purchased.
+sr:"^『(.+?)』パックを購入しました$"=[$1] Pack purchased.
 
-sr:"^有償ミストジュエル4800個と以下のおまけのパックです。\r\r\n『([\s\S]+)』限定PTスキル1個\r\r\n([\s\S]+)2枚\r\r\n([\s\S]+)500000個\r\r\n([\s\S]+)10個\r\r\n([\s\S]+)10個\r\r\n([\s\S]+)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます※本商品の販売期間は([0-9]+)年([0-9]+)月([0-9]+)日までとなります$"=This pack contains 4800 paid Mist Jewels and the following bonuses:\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x2\r\r\n$3 x500000\r\r\n$4 x10\r\r\n$5 x10\r\r\n$6 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date. ※The sale period for this product will be until $8-$9-$7.
+sr:"^有償ミストジュエル4800個と以下のおまけのパックです。\r\r\n『(.+?)』限定PTスキル1個\r\r\n(.+?)2枚\r\r\n(.+?)500000個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます※本商品の販売期間は(\d+)年(\d+)月(\d+)日までとなります$"=This pack contains 4800 paid Mist Jewels and the following bonuses:\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x2\r\r\n$3 x500000\r\r\n$4 x10\r\r\n$5 x10\r\r\n$6 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date. ※The sale period for this product will be until $8-$9-$7.
 
 //Costume
 販売中のパックがありません=There are no packs on sale.
 有償ミストジュエルで対象のアイテムパックを購入しますか？=Would you like to purchase this with paid Mist Jewels?
-sr:"^スキンパック【([\S\s]+)】$"=Skin Pack [$1]
-sr:"^([\S\s]+)コラボ記念スキンパック【([\S\s]+)】$"=$1 Collab Skin Pack [$2]
+sr:"^スキンパック【(.+?)】$"=Skin Pack [$1]
+sr:"^(.+?)コラボ記念スキンパック【(.+?)】$"=$1 Collab Skin Pack [$2]
 グリザイア=Grisaia
-sr:"^([\S\s]+)コラボ記念スキンパック【([\S\s]+)】を購入しました$"=$1 Collab Skin Pack [$2] Purchased
+sr:"^(.+?)コラボ記念スキンパック【(.+?)】を購入しました$"=$1 Collab Skin Pack [$2] Purchased
 ミストジュエルで対象のアイテムパックを購入しますか？=Would you like to use Mist Jewels to purchase the applicable item pack?
-r:"^有償 ([\s\S]+)/無償 ([\s\S]+)$"=Paid $1/Free $2
-sr:"^スキンパック【([\s\S]+)】を購入しました$"=Skin Pack [$1] purchased.
+r:"^有償 (.+?)/無償 (.+?)$"=Paid $1/Free $2
+sr:"^スキンパック【(.+?)】を購入しました$"=Skin Pack [$1] purchased.
 金恋コラボお得パック=Kinkoi Collab Great Pack
 
-sr:"^有償ミストジュエル1500個に以下のおまけが付いたパックです。\r\r\n無償ミストジュエル1200個\r\r\nSS([\s\S]+)1個\r\r\nSS([\s\S]+)1個\r\r\nSS([\s\S]+)1個\r\r\n([\s\S]+)のドレス1個\r\r\n([\s\S]+)10個※本商品の販売期間は([0-9]+)年([0-9]+)月([0-9]+)日までとなります$"=This pack contains 1500 paid Mist Jewels and the following bonuses:\r\r\n1200 Freemium Mist Jewels\r\r\nSS $1 x1\r\r\nSS $2 x1\r\r\nSS $3 x1\r\r\n$4 Costume x1\r\r\n$5s x10 ※The sale period for this product will be until $7-$8-$6.
+sr:"^有償ミストジュエル1500個に以下のおまけが付いたパックです。\r\r\n無償ミストジュエル1200個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\nSS(.+?)1個\r\r\n(.+?)のドレス1個\r\r\n(.+?)10個※本商品の販売期間は(\d+)年(\d+)月(\d+)日までとなります$"=This pack contains 1500 paid Mist Jewels and the following bonuses:\r\r\n1200 Freemium Mist Jewels\r\r\nSS $1 x1\r\r\nSS $2 x1\r\r\nSS $3 x1\r\r\n$4 Costume x1\r\r\n$5s x10 ※The sale period for this product will be until $7-$8-$6.
 
-r:"^有償ミストジュエル3000個と、\r\r\n特別なミッション報酬を受け取れるゴールドミッションパス（おまけ）が付いたパックです。※本商品の販売期間は([0-9]+)年([0-9]+)月([0-9]+)日までとなります$"=This pack includes 3000 paid Mist Jewels and a Gold Mission Pass (bonus) that allows you to receive special mission rewards. ※The sale period for this product will be until $2-$3-$1.
+r:"^有償ミストジュエル3000個と、\r\r\n特別なミッション報酬を受け取れるゴールドミッションパス（おまけ）が付いたパックです。※本商品の販売期間は(\d+)年(\d+)月(\d+)日までとなります$"=This pack includes 3000 paid Mist Jewels and a Gold Mission Pass (bonus) that allows you to receive special mission rewards. ※The sale period for this product will be until $2-$3-$1.
 ゴールドミッションパス：トレジャーを購入しました=Gold Mission Pass: Treasure purchased.
-r:"^有償ミストジュエル500個と、\r\r\n特別なミッション報酬を受け取れるシルバーミッションパス（おまけ）が付いたパックです。※本商品の販売期間は([0-9]+)年([0-9]+)月([0-9]+)日までとなります$"=This pack includes 500 paid Mist Jewels and a Silver Mission Pass (bonus) that allows you to receive special mission rewards. ※The sale period for this product will be until $2-$3-$1.
+r:"^有償ミストジュエル500個と、\r\r\n特別なミッション報酬を受け取れるシルバーミッションパス（おまけ）が付いたパックです。※本商品の販売期間は(\d+)年(\d+)月(\d+)日までとなります$"=This pack includes 500 paid Mist Jewels and a Silver Mission Pass (bonus) that allows you to receive special mission rewards. ※The sale period for this product will be until $2-$3-$1.
 シルバーミッションパス：トレジャーを購入しました=Silver Mission Pass: Treasure purchased.
 
 金恋解放石M=Kinkoi Unlock Stone M
 金恋コラボ記念解放石パック=Kinkoi Collab Unlock Stone Pack
-r:"^有償ミストジュエル3000個と以下のおまけのパックです。\r\r\n([\s\S]+)2個\r\r\n([\s\S]+)1枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）9000個が獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 3000 paid Mist Jewels and the following bonuses:\r\r\n$1 x2\r\r\n$2 x1\r\r\nAdditionally, after purchasing, you will be given a mission to earn 9000 freemium Mist Jewels (bonus) by logging in for three days.\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
+r:"^有償ミストジュエル3000個と以下のおまけのパックです。\r\r\n(.+?)2個\r\r\n(.+?)1枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）9000個が獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 3000 paid Mist Jewels and the following bonuses:\r\r\n$1 x2\r\r\n$2 x1\r\r\nAdditionally, after purchasing, you will be given a mission to earn 9000 freemium Mist Jewels (bonus) by logging in for three days.\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
 
-sr:"^([\S\s]+)の以下ドレスが付いたパックです。\r\r\n([\S\s]+)のイラスト1個\r\r\n([\S\s]+)のミニキャラ1個$"=This pack includes the following dresses for $1:\r\r\n$2 Illustration x1\r\r\n$3 SD Sprite x1
+sr:"^(.+?)の以下ドレスが付いたパックです。\r\r\n(.+?)のイラスト1個\r\r\n(.+?)のミニキャラ1個$"=This pack includes the following dresses for $1:\r\r\n$2 Illustration x1\r\r\n$3 SD Sprite x1
 金恋=Kinkoi
 ミナ\r\nガチャメダル=Mina\r\nGacha Medal
 僧間理亜\r\nガチャメダル=Ria Souma\r\nGacha Medal
@@ -102,7 +102,7 @@ sr:"^([\S\s]+)の以下ドレスが付いたパックです。\r\r\n([\S\s]+)の
 ミストジュエル内訳=Mist Jewel Breakdown
 内訳=Breakdown
 利用期限=Deadline
-r:"^([0-9]+)個$"=$1 pcs
+r:"^(\d+)個$"=$1 pcs
 \n・有償ミストジュエルの利用期限はゲーム内日付にて購入した日から180\n日後の日付更新までとなります。尚、ゲーム内日付の更新は5:00です。\n\n・有償ミストジュエル、無償ミストジュエルの両方を所持していた場合、\n「無償ミストジュエル」から優先的に消費されます。\n\n・有償ミストジュエルは購入日の古いものから先に消費されます。\n\n・有償ミストジュエルの払い戻しはできません。\n=\n・The expiration date for paid Mist Jewels is 180 days after the in-game date from the date of purchase. The in-game date is updated at 05:00.\n\n・If you have both paid and free Mist Jewels, the free Mist Jewels will be consumed first.\n\n・Paid Mist Jewels will be consumed in order of the oldest purchase date.\n\n・Paid Mist Jewels cannot be refunded. \n
 
 
@@ -113,11 +113,11 @@ r:"^([0-9]+)個$"=$1 pcs
 10DAYSログインミッション×4セットを購入しました=Purchased 10 days Login Mission x4 set
 有効期限：2025/01/12 04:59=Expires: 2025/01/12 04:59
 
-sr:"^有償ミストジュエル9800個と以下のおまけのパックです。\r\r\n『([\S\s]+)』限定PTスキル1個\r\r\n([\S\s]+) 1枚\r\r\n([\S\s]+)2枚\r\r\n([\S\s]+)500000個\r\r\n([\S\s]+)10個\r\r\n([\S\s]+)10個\r\r\n([\S\s]+)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 9800 paid Mist Jewels and the following bonuses:\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x1\r\r\n$3 x2\r\r\n$4 x500000\r\r\n$5 x10\r\r\n$6 x10\r\r\n$7 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
+sr:"^有償ミストジュエル9800個と以下のおまけのパックです。\r\r\n『(.+?)』限定PTスキル1個\r\r\n(.+?) 1枚\r\r\n(.+?)2枚\r\r\n(.+?)500000個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n(.+?)10個\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 9800 paid Mist Jewels and the following bonuses:\r\r\n[$1] Limited PT Skill x1\r\r\n$2 x1\r\r\n$3 x2\r\r\n$4 x500000\r\r\n$5 x10\r\r\n$6 x10\r\r\n$7 x10\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
 
-sr:"^有償ミストジュエル5000個に以下のおまけが付いたパックです。\r\r\n([\S\s]+)3枚\r\r\n([\S\s]+)2枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）15000個が獲得できるミッションが付与されます。$"=This pack contains 5000 paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\n$2 x2\r\r\nAnd after purchase, 15000 free Mist Jewels can be obtained in missions over 3 days.
+sr:"^有償ミストジュエル5000個に以下のおまけが付いたパックです。\r\r\n(.+?)3枚\r\r\n(.+?)2枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）15000個が獲得できるミッションが付与されます。$"=This pack contains 5000 paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\n$2 x2\r\r\nAnd after purchase, 15000 free Mist Jewels can be obtained in missions over 3 days.
 
-sr:"^有償ミストジュエル10000個と以下のおまけのパックです。\r\r\n([\S\s]+)3枚\r\r\nさらに購入後、無償ミストジュエル（おまけ）10000個などが獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 10000 paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\nAnd after purchase, 10000 freemium Mist Jewels can be obtained in a mission.\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
+sr:"^有償ミストジュエル10000個と以下のおまけのパックです。\r\r\n(.+?)3枚\r\r\nさらに購入後、無償ミストジュエル（おまけ）10000個などが獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack contains 10000 paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\nAnd after purchase, 10000 freemium Mist Jewels can be obtained in a mission.\r\r\n※Gacha tickets will be deleted at 05:00, 180 days after the purchase date.
 
 くまさん祭り開催記念！SPパック=Kumasan Festival Commemoration! SP Pack
 
@@ -149,11 +149,11 @@ sr:"^有償ミストジュエル1500個と以下のおまけのパックです�
 巡回任務で240時間分上昇効果を獲得する。（帰還要請書使用を含む）=Earn 240 hours of gain in patrol missions.\n(Includes use of a return request)
 
 くまさん祭りガチャメダルⅡ=Kumasan Festival Gacha Medal II
-sr:"^有償ミストジュエル5000個に以下のおまけが付いたパックです。\r\r\n([\S\s]+) 3枚\r\r\n([\S\s]+)2枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）15000個が獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack includes 5000 Paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\n$2 x2\r\rAfter purchasing, you will furthermore be given a mission where you can earn 15000 free Mist Jewels (bonus) by logging in for 3 days.\r\r\n※Gacha tickets will be deleted at 5:00, 180 days after the purchase date.
+sr:"^有償ミストジュエル5000個に以下のおまけが付いたパックです。\r\r\n(.+?) 3枚\r\r\n(.+?)2枚\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）15000個が獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます$"=This pack includes 5000 Paid Mist Jewels and the following bonuses:\r\r\n$1 x3\r\r\n$2 x2\r\rAfter purchasing, you will furthermore be given a mission where you can earn 15000 free Mist Jewels (bonus) by logging in for 3 days.\r\r\n※Gacha tickets will be deleted at 5:00, 180 days after the purchase date.
 
 バレンタイン記念合宿チケット=Valentine's Memorial Camp Ticket
 くまさん祭り専用スペシャル合宿チケット=Kumasan Festival Special Training Camp Ticket
-sr:"^有償ミストジュエル([\S\s]+)個\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）([\S\s]+)個が獲得できるミッションが付与されます。$"=$1 Paid Mist Jewels.\r\r\nAfter purchasing, you will furthermore be given a mission to earn $2 free Mist Jewels (bonus) by logging in for 3 days.
+sr:"^有償ミストジュエル(.+?)個\r\r\nさらに購入後、3日間ログインで無償ミストジュエル（おまけ）(.+?)個が獲得できるミッションが付与されます。$"=$1 Paid Mist Jewels.\r\r\nAfter purchasing, you will furthermore be given a mission to earn $2 free Mist Jewels (bonus) by logging in for 3 days.
 くまさん祭りコラボジュエルミッション=Kumasan Festival Collab Jewel Jewel Mission
 くまさん祭りコラボジュエルパック 松=Kumasan Festival Collab Jewel Pack Matsu
 くまさん祭り松M=Kumasan Festival Matsu M

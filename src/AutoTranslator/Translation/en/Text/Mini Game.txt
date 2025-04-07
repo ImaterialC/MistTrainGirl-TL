@@ -24,7 +24,7 @@
 ラケット=Racket
 木の棒=Stick
 木製バット=Wooden Bat
-sr:"([\S\s]+)を購入しました$"=$1 Purchased
+sr:"^(.+?)を購入しました$"=$1 Purchased
 全力でいっくよ～！=I'll go all oout～!
 右投げ 得意:ストレート=Right: Straight
 あたくしの全力、捕えられるかしら？=Can you grasp my full power?

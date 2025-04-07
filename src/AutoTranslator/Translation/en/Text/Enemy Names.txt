@@ -90,8 +90,8 @@
 危険な=Dangerous
 手=手
 暴走した=Relentless
-sr:"^危険な([\S\s]+)$"=Dangerous $1
-sr:"^暴走した([\S\s]+)$"=Relentless $1
+sr:"^危険な(.+?)$"=Dangerous $1
+sr:"^暴走した(.+?)$"=Relentless $1
 
 //Shield
 シールド=Shield

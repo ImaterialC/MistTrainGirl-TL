@@ -16,8 +16,13 @@ r:"^(\d+)時間以内$"=$1 hours ago
 総経過時間=Total Time
 経過ターン数=Turn Count
 ■バトル情報=■ Battle Info
-r:"^(\d+)分(\d+)秒$"=$1m $2s
+
+r:"^(\d+)時間(\d+)分(\d+)秒$"=$1h$2m$3s
+r:"^(\d+)時間(\d+)秒$"=$1h$2s
+r:"^(\d+)分(\d+)秒$"=$1m$2s
 r:"^(\d+)秒$"=$1s
+r:"^(\d+)分$"=$1m
+r:"^(\d+)時間$"=$1h
 バトル詳細=Battle Details
 r:"^アビリティ(\d+)$"=Ability $1
 ※ポーションは所持スタミナが不足した場合使用します　※また、ポーションを複数選択した場合、上から順に使用されます =※Potions are used if remaining stamina is insufficient. ※If multiple potions are selected, they are used in order from top to bottom. 
@@ -89,5 +94,5 @@ r:"^戦力(\d+)$"=Power $1
 登録数=Reg. No.
 編集切替=Edit Switch
 
-r:"^経験値クエスト ([0-99]+)階層$"=Exp. Quest Level $1
-r:"^ゴールドクエスト ([0-99]+)階層$"=Gold Quest Level $1
+r:"^経験値クエスト (\d+)階層$"=Exp. Quest Level $1
+r:"^ゴールドクエスト (\d+)階層$"=Gold Quest Level $1

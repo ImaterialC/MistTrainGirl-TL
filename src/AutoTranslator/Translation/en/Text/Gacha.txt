@@ -22,6 +22,9 @@ SS確定10連ガチャ切符を消費して10連ガチャを引きます=Spend a
 決定後ピックアップレイヤーを変更することができません\n=Once selected, the pickup Layers cannot be changed.\n
 以下のレイヤーがピックアップレイヤー対象になります=The following layers are eligible as pick-up Layers.
 
+
+r:"^（有償ｘ(\d+)/無償ｘ(\d+)）$"=(Paid x$1/Free x$2)
+
 アイテム購入確認=Purchase Confirmation
 返品について=About Refunds
 商品提供時期=Avail. Period

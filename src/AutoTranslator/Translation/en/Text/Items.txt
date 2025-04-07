@@ -88,8 +88,8 @@
 【A】パープルドロップ=[A] Purple Drop
 【S】パープルドロップ=[S] Purple Drop
 【SS】パープルドロップ=[SS] Purple Drop
-r:"^スキル覚醒用素材。\r\nメインクエスト([0-9]+)-([0-9]+) HARD、\r\nイベントなどで獲得できる。$"=Skill awakening material.\r\nCan be obtained in Main Quest $1-$2 Hard, events, etc.
-スキル覚醒用素材。\r\nメインクエスト([0-9]+)-([0-9]+) VERY HARD、\r\nイベントなどで獲得できる。=Skill awakening material.\r\nCan be obtained in Main Quest $1-$2 Very Hard, events, etc.
+r:"^スキル覚醒用素材。\r\nメインクエスト(\d+)-(\d+) HARD、\r\nイベントなどで獲得できる。$"=Skill awakening material.\r\nCan be obtained in Main Quest $1-$2 Hard, events, etc.
+スキル覚醒用素材。\r\nメインクエスト(\d+)-(\d+) VERY HARD、\r\nイベントなどで獲得できる。=Skill awakening material.\r\nCan be obtained in Main Quest $1-$2 Very Hard, events, etc.
 スキル覚醒用素材。\r\nイベントなどで獲得できる。=Skill awakening material.\r\nCan be obtained through events, etc.
 レコード交換券=Record Exchange Ticket
 サウンドルームにて、楽曲と交換することができるアイテム。=An item that can be exchanged for songs in the Sound Room.
@@ -164,9 +164,9 @@ PTスキルを上限突破させるための素材。=Material used to limit bre
 拳・鞭・杖のレイヤーのギアレベル上昇に使用できるアイテム。=An item that can be used to increase the gear level of Gauntlet, Whip, and Staff Layers.
 貫属性ミストギア=Spear Element Mist Gear
 槍・弓・銃のレイヤーのギアレベル上昇に使用できるアイテム。=An item that can be used to increase the gear level of Spear, Bow, and Gun Layers.
-sr:"^([\s\S]+)のレイヤーギア$"=$1 Layer Gear
-sr:"^([\s\S]+)のギア$"=$1 Gear
-sr:"^([\s\S]+)の召喚と、ギアレベル上昇に使用できるアイテム。\r\nパーティの所持一覧でミストギアに変換することもできる。\r\nレイヤー召喚は商店の交換所から行える。$"=An item that can be used to summon $1 or increase her Gear Level.\r\nIt can also be converted into Mist Gear in the Party Inventory menu.\r\nLayer Summoning can be done from the Exchange Market's 'Layer Related' tab.
+sr:"^(.+?)のレイヤーギア$"=$1 Layer Gear
+sr:"^(.+?)のギア$"=$1 Gear
+sr:"^(.+?)の召喚と、ギアレベル上昇に使用できるアイテム。\r\nパーティの所持一覧でミストギアに変換することもできる。\r\nレイヤー召喚は商店の交換所から行える。$"=An item that can be used to summon $1 or increase her Gear Level.\r\nIt can also be converted into Mist Gear in the Party Inventory menu.\r\nLayer Summoning can be done from the Exchange Market's 'Layer Related' tab.
 
 徽章粉末で対象のアイテムと交換しますか？=Trade the following item with Emblem Powder?
 //Gacha
@@ -184,7 +184,7 @@ SS確定10連ガチャ切符=SS Confirmed 10-Draw Gacha Ticket
 ミニポーション=Mini Potion
 ポーション=Potion
 ハイポーション=High Potion
-r:"^スタミナを([0-9]+)回復させるアイテム。$"=An item that restores $1 stamina.
+r:"^スタミナを(\d+)回復させるアイテム。$"=An item that restores $1 stamina.
 マナドリンクミニ=Mana Drink Mini
 自主練時間のチャージ用アイテム。\r\n自主練時間を1時間チャージできる。=Item used to charge the Independent Training bar.\r\nCharges Independent Training time for 1 hour.
 マナドリンク=Mana Drink
@@ -200,12 +200,12 @@ r:"^スタミナを([0-9]+)回復させるアイテム。$"=An item that restore
 10DAYSログインMパス=10 Days Login M Pass
 10DAYSログ…=10 Days Log...
 10DAYSログインミッションに\r\n挑戦できるパス。\r\n現在進行中のミッションの完遂、\r\n期限切れで自動的に使用される。=A pass that allows you to challenge the 10 Days Login mission.\r\nIt will be automatically used when the currently ongoing mission is completed or expired.
-r:"^超集中トレーニングメニュー（([0-9]+)H）$"=Super Concentration Training Menu ($1H)
+r:"^超集中トレーニングメニュー（(\d+)H）$"=Super Concentration Training Menu ($1H)
 超集中トレーニン…=Super Conce...
-r:"^使用すると超集中トレーニングメニュー（([0-9]+)H）を実行できる。$"=If you use it, you can execute a Super Concentration Training Menu ($1H).
+r:"^使用すると超集中トレーニングメニュー（(\d+)H）を実行できる。$"=If you use it, you can execute a Super Concentration Training Menu ($1H).
 解放石=Unlock Stone
 トレインボードの解放に使用するアイテム。=An item used to unlock a Train Board.
-r:"^【期間限定】\r\nスタミナを([0-9]+)回復させるアイテム。$"=[Limited Edition]\r\nAn item that restores $1 stamina.
+r:"^【期間限定】\r\nスタミナを(\d+)回復させるアイテム。$"=[Limited Edition]\r\nAn item that restores $1 stamina.
 追憶の鍵=Remembrance Key
 閲覧していないイベントストーリーを解放することが出来るアイテム。=An item that allows you to unlock event stories that is not yet viewed.
 ドットポーション=Pixel Potion
@@ -226,13 +226,13 @@ r:"^【期間限定】\r\nスタミナを([0-9]+)回復させるアイテム。$
 DL版リリース記念合宿チケット=DL Ver. Release Comm. Training Ticket
 DL版リリース記…=DL Ver. Release Co...
 1枚消費することで\r\n「DL版リリース記念合宿クエスト」に1回挑戦することができるアイテム。\r\n・HP22510、各ステータス2300まで成長\r\n・レイヤー経験値が99999上昇\r\n・未修得スキルの修得\r\n・スキル熟練度が99まで上昇=Consume one to take part in the "Download Version Release Commemorative Training Camp Quest" once.\r\n・HP grows to 22510, and each stat grows to 2300\r\n・Layer EXP increases by 99999\r\n・Learn unlearned skills\r\n・Skill proficiency increases to 99
-sr:"^([\s\S]+)の徽章$"=$1 Emblem
-sr:"^([\s\S]+)のレイヤーレベル51以上の強化に使用できるアイテム。\r\nパーティの所持一覧で徽章粉末に変換することもできる。$"=An item that can be used to strengthen $1 to Layer Level 51 or higher.\r\nIt can also be converted into Emblem Powder in the Party Inventory.
+sr:"^(.+?)の徽章$"=$1 Emblem
+sr:"^(.+?)のレイヤーレベル51以上の強化に使用できるアイテム。\r\nパーティの所持一覧で徽章粉末に変換することもできる。$"=An item that can be used to strengthen $1 to Layer Level 51 or higher.\r\nIt can also be converted into Emblem Powder in the Party Inventory.
 
 
 //Paid Off
-sr:"^([\s\S]+)ガチャメダル×([0-9]+)$"=$1 Gacha Medal x $2
-sr:"^([\s\S]+)\r\nガチャメダル$"=$1\r\nGacha medal
+sr:"^(.+?)ガチャメダル×(\d+)$"=$1 Gacha Medal x $2
+sr:"^(.+?)\r\nガチャメダル$"=$1\r\nGacha medal
 
 //Trading
 プレミアムガチャメダル=Premium Gacha Medal
@@ -329,16 +329,16 @@ sr:"^([\s\S]+)\r\nガチャメダル$"=$1\r\nGacha medal
 極石魔装のアビリティ強化状況をリセットできるアイテム。\r\n極石魔装の「アビリティ強化」からリセットすることができる。=An item that can reset the abilities of an Extreme Magic Gear.\r\nReset can be done from the "Ability Enhancement" tab in Extreme Magic Arms.
 
 //Events
-sr:"^([\s\S]+)入隊記念ポ…$"=$1 Enlistment Po...
-sr:"^([\s\S]+)入隊記念ポーション$"=$1 Enlistment Potion
-sr:"^([\s\S]+)入…$"=$1 Enlist...
-sr:"^([\s\S]+)\r\n召喚切符$"=$1\r\nSummon Ticket
-sr:"^([\s\S]+)ポーション$"=$1 Potion
-sr:"^([\s\S]+)フラグメント$"=$1 Fragment
-sr:"「([\s\S]+)」専用の\r\nPTスキル強化用アイテム。\r\n使用することでPTスキルのLEVELを一定確率で上昇させる。$"=An item used exclusively to upgrade $1 event Party Skills. \r\nUsing it grants a chance to increase the level of Party Skills.
-sr:"「([\s\S]+)」を\r\nクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で限定レイヤーのギアなどと交換することが出来る。$"=An item that can be acquired by clearing $1 events.\r\nIt can be exchanged for limited Layer gear and other items at the [Event] section of the Exchange Market.
-sr:"「([\s\S]+)」\r\nのイベントクエストをクリアすることで獲得できるアイテム。\r\nボスマップのアビリティ強化で使用することができる。$"=An item that can be acquired by clearing $1 event quests. It can be used to strengthen abilities on boss maps.
-sr:"「([\s\S]+)」を\r\n特定のレイヤーを編成しクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で限定SS装備などと交換することが出来る。$"=An item that can be acquired by clearing $1 with specific Layers in a team.\r\nIt can be exchanged for limited SS equipment and other items at the [Event] section of the Exchange Market.
+sr:"^(.+?)入隊記念ポ…$"=$1 Enlistment Po...
+sr:"^(.+?)入隊記念ポーション$"=$1 Enlistment Potion
+sr:"^(.+?)入…$"=$1 Enlist...
+sr:"^(.+?)\r\n召喚切符$"=$1\r\nSummon Ticket
+sr:"^(.+?)ポーション$"=$1 Potion
+sr:"^(.+?)フラグメント$"=$1 Fragment
+sr:"^「(.+?)」専用の\r\nPTスキル強化用アイテム。\r\n使用することでPTスキルのLEVELを一定確率で上昇させる。$"=An item used exclusively to upgrade $1 event Party Skills. \r\nUsing it grants a chance to increase the level of Party Skills.
+sr:"^「(.+?)」を\r\nクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で限定レイヤーのギアなどと交換することが出来る。$"=An item that can be acquired by clearing $1 events.\r\nIt can be exchanged for limited Layer gear and other items at the [Event] section of the Exchange Market.
+sr:"^「(.+?)」\r\nのイベントクエストをクリアすることで獲得できるアイテム。\r\nボスマップのアビリティ強化で使用することができる。$"=An item that can be acquired by clearing $1 event quests. It can be used to strengthen abilities on boss maps.
+sr:"^「(.+?)」を\r\n特定のレイヤーを編成しクリアすることで獲得できるアイテム。\r\n交換所の「イベント」で限定SS装備などと交換することが出来る。$"=An item that can be acquired by clearing $1 with specific Layers in a team.\r\nIt can be exchanged for limited SS equipment and other items at the [Event] section of the Exchange Market.
 
 学園祭=Academy Festival
 屋台の金券=Food Stall Coupons
@@ -350,10 +350,10 @@ sr:"「([\s\S]+)」を\r\n特定のレイヤーを編成しクリアすること
 陽気なサンタ武器…=Jolly Santa Weapon...
 陽気なサンタ武器交換券=Jolly Santa Weapon Exchange Ticket
 古の鉱石=Ancient Ore
-sr:"「([\S\s]+)」にて、褒章を集めることで獲得できるアイテム。\r\n交換所の「イベント」で、レイドボスがドロップするSS武器と交換することができる。$"=An item that can be acquired by collecting rewards in [$1].\r\nIt can be exchanged for SS weapons dropped by raid bosses in the Event tab of the Exchange Market.
+sr:"「(.+?)」にて、褒章を集めることで獲得できるアイテム。\r\n交換所の「イベント」で、レイドボスがドロップするSS武器と交換することができる。$"=An item that can be acquired by collecting rewards in [$1].\r\nIt can be exchanged for SS weapons dropped by raid bosses in the Event tab of the Exchange Market.
 
 戦功=Military Merit
-sr:"「([\S\s]+)」のレイドボス\r\nを撃破することで獲得できるアイテム。\r\n50枚消費することで「戦功ガチャ」を\r\n1回引くことが出来る。$"=This item can be obtained by defeating the raid boss in [$1]. By spending 50 of these, you can draw the Battle Merit Gacha once.
+sr:"「(.+?)」のレイドボス\r\nを撃破することで獲得できるアイテム。\r\n50枚消費することで「戦功ガチャ」を\r\n1回引くことが出来る。$"=This item can be obtained by defeating the raid boss in [$1]. By spending 50 of these, you can draw the Battle Merit Gacha once.
 ウロボロス=Ouroboros
 
 S小嶺幸=S Sachi Komine
@@ -363,10 +363,10 @@ SSシーイェン=SS Shiyan
 Sウォーキング=S Woking
 Sウドンターニ=S Udon Thani
 
-r:"^選択された([0-9]+)個の武器を売却します$"=Sell $1 selected weapons
+r:"^選択された(\d+)個の武器を売却します$"=Sell $1 selected weapons
 売却完了=Sold
 所持上限を超えたゴールドと原料鉱石はプレゼントボックスに送られます=Gold and Raw Ores are sent to the present box if inventory is full.
-r:"^([0-9]+)個の武器を売却しました$"=Sell ​​$1 weapons
+r:"^(\d+)個の武器を売却しました$"=Sell ​​$1 weapons
 くまさん祭りチケット=Kumasan Festival Ticket
 武器強化素…=Weapon Enhancement
 召喚パック専用合…=Summon Pac...

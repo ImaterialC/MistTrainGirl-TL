@@ -68,7 +68,7 @@ Hands足を絡ませた状態で床に寝転んでいるプトラ。\r\nそれ�
 「右足の親指が左の脇に！？\r\n　　いったいどうやったのでしょうか……」="Your right toe getting stuck on your left armpit!?\r\n My goodness how did you do that...?"
 「そんなこと真面目に考えなくていい！\r\n　いつまでふざけているつもりだ！」="That is not something to ponder about seriously!\r\n How long are you all going to keep messing around!"
 「もっ、申し訳ありません！　フィンチリー教官！」="I-I am terribly sorry! Instructor Finchley!"
-sr:"^([\S\s]+)&([\S\s]+)$"=$1 & $2
+sr:"^(.+?)&(.+?)$"=$1 & $2
 「フィンチリー教官？」="Instructor Finchley?"
 そう、彼女の名前はフィンチリー。\r\nセントイリス騎士学校では『鬼教官』と呼ばれる有名な教官である。=Yes, her name is Miss Finchley.\r\nShe is the famous Demon Instructor of the St. Iris Knight Academy.
 「車掌、久しぶりだな。\r\n　記念式典に出席できなくて済まなかった。\r\n　ここしばらく現場での仕事も忙しくてな」="Hello Conductor, long time no see.\r\n I apologize that I couldn't attend the commemorative ceremony.\r\n I've been busy with work at the site for a while now."
