@@ -17,12 +17,13 @@ r:"^物防\+(\d+)$"=DEF +$1
 r:"^魔防\+(\d+)$"=MDEF +$1
 r:"^幸運\+(\d+)$"=LUK +$1
 r:"^速さ\+(\d+)$"=SPD ​​+$1
+r:"^回復\+(\d+)$"=RCV ​​+$1
 r:"^ウェポンマスター\+(\d+)$"=Weapon Master +$1
 r:"^ウェポンマスターLv\+(\d+)$"=Weapon Master Level +$1
 r:"^ウェポンマスターポイント\+(\d+)$"=Weapon Master Point +$1
 
 r:"^トランスゲージ\+(\d+)%$"=Trance Gauge +$1%
-r:"^ミストギア×(\d+)$"=Mist Gear × $1
+r:"^(.+)(×|x)(\d+)$"=Mist Gear × $1
 
 sr:"^(.+)を使用して強化します$"=Upgrade Using $1
 r:"^強化を(\d+)回実行しました$"=Upgraded $1 Times
@@ -32,6 +33,18 @@ sr:"^(.+)の熟練度(\d+)$"=$1 Lv. $2
 sr:"^(.+)を獲得しました$"=$1 Obtained
 sr:"^「(.+)」の熟練度(\d+)$"=[$1] $2 PROF
 r:"^ギアLv([0-9./ ]+)$"=Gear Lv.$1/20
+
+
+形態3=Form 3
+形態2=Form 2
+形態1=Form 1
+
+試練1=Trial 1
+試練2=Trial 2
+試練3=Trial 3
+試練4=Trial 4
+試練5=Trial 5
+試練6=Trial 6
 
 
 必要な素材が不足しています=Not enough materials.

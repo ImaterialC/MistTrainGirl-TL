@@ -13,8 +13,8 @@
 
 //Poker
 ポーカーテーブルへようこそ！\nゲームを始める？=Welcome to the poker tables!\nShall we start a game?
-r:"^◆最大獲得コイン：  <size\=20><color\=#F9D963>([0-9]+)</color></size>   以上で終了$"=◆Chip winnings cap at:  <size\=20><color\=#F9D963>$1</color></size> chips or more
-r:"^◆連続ダブルアップ回数： <size\=20><color\=#F9D963>([0-9]+)</color></size>  回$"=◆Consecutive Double-Ups: <size\=20><color\=#F9D963>$1</color></size> times
+r:"^◆最大獲得コイン：  <size\=20><color\=#F9D963>(\d+)</color></size>   以上で終了$"=◆Chip winnings cap at:  <size\=20><color\=#F9D963>$1</color></size> chips or more
+r:"^◆連続ダブルアップ回数： <size\=20><color\=#F9D963>(\d+)</color></size>  回$"=◆Consecutive Double-Ups: <size\=20><color\=#F9D963>$1</color></size> times
 掛け金を決めたら\nＯＫボタンでカードを配るよ。=Once you've decided on your bet,\npress the OK button to deal the cards.
 ホールドするカードを選択してね。=Select the card(s) you want to hold.
 獲得数=Obtained Amount
@@ -25,12 +25,12 @@ r:"^◆連続ダブルアップ回数： <size\=20><color\=#F9D963>([0-9]+)</col
 ※最終ゲームにて獲得した上限過分のコインは回収致しません\r\n※カジノコイン獲得上限のリセットは毎日AM5時に行われます=※Any chips earned that exceeds the limit of the day are void.\r\n※The casino chip limit is reset every day at 5AM.
 これ以上ゲームでカジノコインを獲得することはできません\r\n次の上限リセットまでの間はコイン獲得はできませんが、\r\n消費/獲得しない状態でゲームを遊ぶことができます=You will not be able to earn any more chips in casino games.\r\nYou will not be able to win any more chips until the next\r\nreset, but you can play the games without spending/earning any chips.
 本日のカジノコイン獲得が5000000枚を超えました=Today's winnings have exceeded 5000000 chips
-r:"^おめでとうー！\n([0-9]+)カジノコイン獲得だよ。$"=Congratulations!\nYou've won $1 chips.
-r:"^([0-9]+)カジノコイン獲得だよ。$"=You won $1 chips.
-r:"^ダブルアップに挑戦する？\n成功するとカジノコインが([0-9]+)枚になるよ！$"=Wanna try doubling up?\nIf you succeed, you'll get $1 chips!
-r:"^成功すると、([0-9]+)枚が([0-9]+)枚に！\r\n                  か                  を選んでね。$"=If you guessed right, your $1 chips will become $2!\n   or                      
-r:"^ダブルアップ成功だよ！\n([0-9]+)枚のカジノコインを獲得したよ。$"=You doubled up successfully!\nYou've won $1 chips.
-r:"^続けて([0-9]+)回目のダブルアップに挑戦する？\n成功するとカジノコインが([0-9]+)枚になるよ。$"=Would you like to try to double up $1 times?\nIf you succeed, you'll get $2 casino coins.
+r:"^おめでとうー！\n(\d+)カジノコイン獲得だよ。$"=Congratulations!\nYou've won $1 chips.
+r:"^(\d+)カジノコイン獲得だよ。$"=You won $1 chips.
+r:"^ダブルアップに挑戦する？\n成功するとカジノコインが(\d+)枚になるよ！$"=Wanna try doubling up?\nIf you succeed, you'll get $1 chips!
+r:"^成功すると、(\d+)枚が(\d+)枚に！\r\n                  か                  を選んでね。$"=If you guessed right, your $1 chips will become $2!\n   or                      
+r:"^ダブルアップ成功だよ！\n(\d+)枚のカジノコインを獲得したよ。$"=You doubled up successfully!\nYou've won $1 chips.
+r:"^続けて(\d+)回目のダブルアップに挑戦する？\n成功するとカジノコインが(\d+)枚になるよ。$"=Would you like to try to double up $1 times?\nIf you succeed, you'll get $2 casino coins.
 ごめんねー、獲得できるカジノコインの上限を超えちゃった。\nダブルアップへの挑戦を終了するね。=Sooorry, You've exceeded the chip cap you can earn.\nI'm going to end your double up attempt now.
 
 //Roulette
@@ -43,16 +43,15 @@ BETしたい箇所をタップしてください=Tap the area where you want to 
 もういっちょきたよ！\nこれは…いけるんじゃない！=Here comes one more!\nHold up... this looks good!
 コレ…いけるんじゃない？=This... will definitely land, right?
 ビンゴ！\n狙い通りだったね。=Bingo!\nThat was right on the money.
-r:"^おめでとうございます！\n([0-9]+)枚のコインが当たりました！$"=Congratulations!\nYou've won $1 chips!
+r:"^おめでとうございます！\n(\d+)枚のコインが当たりました！$"=Congratulations!\nYou've won $1 chips!
 一日で獲得できるカジノコインの上限を超えちゃったね！\nもう今日は稼げないけどまだ続ける？(演出の都合上コインの増減演出が発生します)=You've exceeded the limit of chips you can earn in a day! You can't earn any more today, but do you want to keep going?\n(Chips will appear to still increase or decrease for animations purposes)
 1回のゲームで獲得出来る上限は3000万COINです=The maximum amount you can win in one game is 30 million chips.
 
 //Mist Runner
-sr:"^([\S\s]+) レース開催予定表$"=$1 Race Schedule
+sr:"^(.+) レース開催予定表$"=$1 Race Schedule
 レース情報=Racing Information
 騎走券購入=Purchase Ticket
 前回のレースを観戦しますか？=Would you like to watch the last race?
-2024年9月11日20時=20:00 on September 11, 2024
 観戦しない=Don't watch
 観戦する=Watch
 オープン特別=Special Open
@@ -74,7 +73,6 @@ sr:"^([\S\s]+) レース開催予定表$"=$1 Race Schedule
 天候=Weather
 
 //Race
-sr:"【重賞レースのご案内】(\d.+) 23:00～ 第3レース ([\S\s]+)杯 が開催されるよ～。騎走券の買い忘れには注意してね！"=[Big Race Info] The third race, $2 Cup, will be held on $1, 23:00. Don't forget to buy your tickets!
 
 ※表示コイン額は清算済みとなります。=※Shown chip payouts are already paid.
 2024年9月10日 開催レース=Held on September 10, 2024
@@ -84,22 +82,17 @@ sr:"【重賞レースのご案内】(\d.+) 23:00～ 第3レース ([\S\s]+)杯 
 入力内容が破棄されますがよろしいですか？=Your input will be discarded. Are you sure?
 ざんね～ん。\n負けちゃいました。=Tooooo～ bad,\nyou lost.
 
-sr:"^([\S\s]+)([\S\s]+)杯（オープン）$"=$1 $2 Cup (Open)
-sr:"^([\S\s]+)([\S\s]+)杯（GIII）$"=$1 $2 Cup (GIII)
-sr:"^([\S\s]+)([\S\s]+)杯（GII）$"=$1 $2 Cup (GII)
-sr:"^([\S\s]+)([\S\s]+)杯（GI）$"=$1 $2 Cup (GI)
-
 //Track
-r:"^ダート ([0-9]+)m$"=Dirt $1m
-r:"^芝 ([0-9]+)m$"=Turf $1m
+r:"^ダート (\d+)m$"=Dirt $1m
+r:"^芝 (\d+)m$"=Turf $1m
 
 //Cups
-sr:"^([\S\s]+)杯$"=$1 Cup
-sr:"^第1レース ([\S\s]+)杯（オープン）$"=Race 1 $1 Cup (Open)
-sr:"^第2レース ([\S\s]+)杯（オープン）$"=Race 2 $1 Cup (Open)
-sr:"^第3レース ([\S\s]+)杯（GIII）$"=Race 3 $1 Cup (GIII)
-sr:"^第3レース ([\S\s]+)杯（GII）$"=Race 3 $1 Cup (GII)
-sr:"^第3レース ([\S\s]+)杯（GI）$"=Race 3 $1 Cup (GI)
+sr:"^(.+)杯$"=$1 Cup
+sr:"^第1レース (.+)杯（オープン）$"=Race 1 $1 Cup (Open)
+sr:"^第2レース (.+)杯（オープン）$"=Race 2 $1 Cup (Open)
+sr:"^第3レース (.+)杯（GIII）$"=Race 3 $1 Cup (GIII)
+sr:"^第3レース (.+)杯（GII）$"=Race 3 $1 Cup (GII)
+sr:"^第3レース (.+)杯（GI）$"=Race 3 $1 Cup (GI)
 ニシキ記念=Nishiki Memorial
 ヴェルフォレット記念=Verforet Memorial
 アクシデント=Accident
@@ -244,99 +237,99 @@ BETするコインの枚数を選択してください。=Select the number of c
 1000000コインを超える金額を\n1つのレースにBETすることはできません=You cannot bet more than 10000000 chips in a single race
 購入エラー=Purchase Error
 券を購入しました=Ticket Purchased
-r:"^カジノコインを([0-9]+)カジノコイン獲得したよ。$"=You won $1 chips.
+r:"^カジノコインを(\d+)カジノコイン獲得したよ。$"=You won $1 chips.
 
 //Vibes
 表情とは裏腹に状態は\nかなり悪そうですね…心配ですね…。=Contrary to her expression, her condition\nseems to be quite bad... That's worrisome...
 気合十分で凄い意気込みを感じます!\n素晴らしい活躍が期待できそうですね!=She seems full of energy and she has great enthusiasm!\nWe can expect great things from her!
 やる気を感じますね\n良い走りを見せてくれそうです!=I can feel her motivation.\nLooks like she'll show us a great run!
 少し元気がないですね…。\n結果にはあまり期待が\n持てなさそうです…。=She seems to be a bit down...\nI don't think we can have high hopes for the results...
-sr:"^([\S\s]+)選手の調子は\n良さそうですね!\nまずまずの順位は\n期待できそうです。$"=$1 seems to be in good shape!\nWe can expect a decent ranking.
-sr:"^([\S\s]+)選手は\nかなり調子が悪そうですね…。\nケガなどしないといいのですが…。$"=$1 seems to be in pretty bad shape...\nI hope she doesn't get injured...
-sr:"^([\S\s]+)選手は\n少し調子が悪そうです…。\n大丈夫でしょうか…。$"=$1 seems to be a little unwell...\nI wonder if she'll be okay...
-sr:"^([\S\s]+)選手は\n絶好調のようですね!\nこれはかなりの良い結果を\n残しそうです!$"=$1 seems to be in great form!\nLooks like she'll be giving us a very good result!
+sr:"^(.+)選手の調子は\n良さそうですね!\nまずまずの順位は\n期待できそうです。$"=$1 seems to be in good shape!\nWe can expect a decent ranking.
+sr:"^(.+)選手は\nかなり調子が悪そうですね…。\nケガなどしないといいのですが…。$"=$1 seems to be in pretty bad shape...\nI hope she doesn't get injured...
+sr:"^(.+)選手は\n少し調子が悪そうです…。\n大丈夫でしょうか…。$"=$1 seems to be a little unwell...\nI wonder if she'll be okay...
+sr:"^(.+)選手は\n絶好調のようですね!\nこれはかなりの良い結果を\n残しそうです!$"=$1 seems to be in great form!\nLooks like she'll be giving us a very good result!
 
 //History
-sr:"^第1レース([\S\s]+)杯（オープン）$"=Race 1 $1 (Open)
-sr:"^第2レース([\S\s]+)杯（オープン）$"=Race 2 $1 (Open)
-sr:"^第3レース([\S\s]+)杯（GIII）$"=Race 3 $1 (GIII)
-sr:"^第3レース([\S\s]+)杯（GII）$"=Race 3 $1 (GII)
-sr:"^第3レース([\S\s]+)杯（GI）$"=Race 3 $1 (GI)
+sr:"^第1レース(.+)杯（オープン）$"=Race 1 $1 (Open)
+sr:"^第2レース(.+)杯（オープン）$"=Race 2 $1 (Open)
+sr:"^第3レース(.+)杯（GIII）$"=Race 3 $1 (GIII)
+sr:"^第3レース(.+)杯（GII）$"=Race 3 $1 (GII)
+sr:"^第3レース(.+)杯（GI）$"=Race 3 $1 (GI)
 
 【重賞レースのご案内】11月27日(水) 23:00～ 第3レース スーパースピード杯 が開催されるよ～。騎走券の買い忘れには注意してね！=[Information on heavy prize races] Wednesday, November 27, 23: 00- The 3rd race Super Speed ​​Cup will be held ~.\nBe careful when you forget to buy a mixed ticket!
 
 //Narrator
-sr:"^第1レース ([\S\s]+)杯/([\S\s]+)/([\S\s]+)$"=1st Race $1 Cup/$2/$3
-sr:"^第2レース ([\S\s]+)杯/([\S\s]+)/([\S\s]+)$"=2nd Race $1 Cup/$2/$3
-sr:"^第3レース ([\S\s]+)杯/([\S\s]+)/([\S\s]+)$"=3rd Race $1 Cup/$2/$3
+sr:"^第1レース (.+)杯/(.+)/(.+)$"=1st Race $1 Cup/$2/$3
+sr:"^第2レース (.+)杯/(.+)/(.+)$"=2nd Race $1 Cup/$2/$3
+sr:"^第3レース (.+)杯/(.+)/(.+)$"=3rd Race $1 Cup/$2/$3
 第1レース開始まで=First Race will start in:
-sr:"^([\S\s]+) 第1レース$"=$1 Race 1
-sr:"^([\S\s]+) 第2レース$"=$1 Race 2
-sr:"^([\S\s]+) 第3レース$"=$1 Race 3
+sr:"^(.+) 第1レース$"=$1 Race 1
+sr:"^(.+) 第2レース$"=$1 Race 2
+sr:"^(.+) 第3レース$"=$1 Race 3
 第1レース開始まで=1st race starts in
 第2レース開始まで=2nd race starts in
 第3レース開始まで=3rd race starts in
 
 //Open
-sr:"^本日の([\S\s]+)杯は\nスタミナ勝負の長距離コース！\nさぁ、各選手がゲートイン！$"=Today's $1 Cup\nis a long-distance course\nthat tests stamina!\nNow, each runner shall enter their gates!
-sr:"^さあ第一コーナーに入った。\nここで先頭は([\S\s]+)選手！\nそれを追うカ([\S\s]+)選手！$"=Now we are entering the first corner.\n$1 is in the lead,\n$2 by Khajuraho!
-sr:"^さあ！もう最終直線だ！！\nやはり早い展開となりました！\n先頭はカ([\S\s]+)選手！\n追いかける([\S\s]+)選手！$"=Now! We're in the final straight!!\nThe race is expectedly quick!\n $1 is in the lead, followed by $2!
-sr:"^今([\S\s]+)選手が1着でゴール！！\n速い！速かった！\r\n2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手でした$"=$1 has just crossed the finish line in first place!She was fast! She's blazing fast!\r\nSecond place is $2!\nAnd third place is $3.
-sr:"^各選手がゲートインし、まもなく\n([\S\s]+)杯が\n開始されようとしています！$"=Each runner has entered the gate,\nand the $1 Cup will soon begin.
-sr:"^各騎一斉にスタート！！\nさぁ！鋭いスタートをかけたのは\n([\S\s]+)選手だ！$"=All the runners start at the same time!\nNow! It's $1\nwho\nmakes a sharp start!
-sr:"^まず飛び出したのは([\S\s]+)選手！\n([\S\s]+)選手がその後を\n追います！$"=$1 took off first!\n$2 followed closely behind!
-sr:"^そして第一コーナーに突入。\n先頭は([\S\s]+)選手！\n2番手は([\S\s]+)選手！$"=And then we're entering\nthe first corner.\n$1 is in the lead!\n$2 is in second place!
-sr:"^([\S\s]+)選手速い！速い！！\nトップで第二コーナーを終え\nさらに第二直線へ突入します！！$"=$1 is fast! Very fast!!\nShe finishes the second corner\nin the lead and enters\nthe second straight!!
+sr:"^本日の(.+)杯は\nスタミナ勝負の長距離コース！\nさぁ、各選手がゲートイン！$"=Today's $1 Cup\nis a long-distance course\nthat tests stamina!\nNow, each runner shall enter their gates!
+sr:"^さあ第一コーナーに入った。\nここで先頭は(.+)選手！\nそれを追うカ(.+)選手！$"=Now we are entering the first corner.\n$1 is in the lead,\n$2 by Khajuraho!
+sr:"^さあ！もう最終直線だ！！\nやはり早い展開となりました！\n先頭はカ(.+)選手！\n追いかける(.+)選手！$"=Now! We're in the final straight!!\nThe race is expectedly quick!\n $1 is in the lead, followed by $2!
+sr:"^今(.+)選手が1着でゴール！！\n速い！速かった！\r\n2着は(.+)選手！\r\n3着は(.+)選手でした$"=$1 has just crossed the finish line in first place!She was fast! She's blazing fast!\r\nSecond place is $2!\nAnd third place is $3.
+sr:"^各選手がゲートインし、まもなく\n(.+)杯が\n開始されようとしています！$"=Each runner has entered the gate,\nand the $1 Cup will soon begin.
+sr:"^各騎一斉にスタート！！\nさぁ！鋭いスタートをかけたのは\n(.+)選手だ！$"=All the runners start at the same time!\nNow! It's $1\nwho\nmakes a sharp start!
+sr:"^まず飛び出したのは(.+)選手！\n(.+)選手がその後を\n追います！$"=$1 took off first!\n$2 followed closely behind!
+sr:"^そして第一コーナーに突入。\n先頭は(.+)選手！\n2番手は(.+)選手！$"=And then we're entering\nthe first corner.\n$1 is in the lead!\n$2 is in second place!
+sr:"^(.+)選手速い！速い！！\nトップで第二コーナーを終え\nさらに第二直線へ突入します！！$"=$1 is fast! Very fast!!\nShe finishes the second corner\nin the lead and enters\nthe second straight!!
 さあ長い直線に差し掛かりました\n終盤戦にむけ、各選手の位置取りに\n変化が入り始めました！！=Now that we are approaching the long straight,\nthe positioning of each runner is starting to change as we approach the final stage of the race!!
 このままコーナーに入っていきます！\n最後のコーナー目前の駆け引き！\nここは目が離せませんよ！=We're heading into the corner!\nA battle of wits right before the final corner!\nDon't take your eyes off this,\nladies and gentlemen!
-sr:"^いよいよ最終コーナー突入！！\n現在先頭は([\S\s]+)選手！\n早目に勝負を仕掛けるつもりでしょうか！$"=We are finally entering the final corner!!\n$1 is currently in the lead!\nIs she planning to make an early move!?
-sr:"^さぁ！最後の直線にはいったぁあ！！\n各騎、ラストスパートだぁあああ\n先頭は([\S\s]+)選手！\n2番手([\S\s]+)選手！$"=Now! We're in the final straight!!\nIt's time for the final sprint, everybody!\nIn the lead is $1!\nIn second place it's $2!
-sr:"^ゴールまで後わずか！\n先頭は([\S\s]+)選手！\n先頭は([\S\s]+)選手！！\nこのまま逃げ切れるか！？$"=The finish line is just around the corner!\n$1 is in the lead!\n$2 is still in the lead!\nCan she keep going like this!?
-sr:"^([\S\s]+)選手が勝ったぁあ！！\n([\S\s]+)選手が1着でゴールイン！！\r\n2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手でした$"=$1 woooon!\n$2 crossed the finish line in 1st place!\n$2 came in 2nd!\n$3 came 3rd!
-sr:"^さて、いよいよ始まる\n([\S\s]+)杯！\nこの中から栄冠を手にするのは誰か！$"=Now, the $1 Cup is about to begin!\nWho will be crowned the winner!?
+sr:"^いよいよ最終コーナー突入！！\n現在先頭は(.+)選手！\n早目に勝負を仕掛けるつもりでしょうか！$"=We are finally entering the final corner!!\n$1 is currently in the lead!\nIs she planning to make an early move!?
+sr:"^さぁ！最後の直線にはいったぁあ！！\n各騎、ラストスパートだぁあああ\n先頭は(.+)選手！\n2番手(.+)選手！$"=Now! We're in the final straight!!\nIt's time for the final sprint, everybody!\nIn the lead is $1!\nIn second place it's $2!
+sr:"^ゴールまで後わずか！\n先頭は(.+)選手！\n先頭は(.+)選手！！\nこのまま逃げ切れるか！？$"=The finish line is just around the corner!\n$1 is in the lead!\n$2 is still in the lead!\nCan she keep going like this!?
+sr:"^(.+)選手が勝ったぁあ！！\n(.+)選手が1着でゴールイン！！\r\n2着は(.+)選手！\r\n3着は(.+)選手でした$"=$1 woooon!\n$2 crossed the finish line in 1st place!\n$2 came in 2nd!\n$3 came 3rd!
+sr:"^さて、いよいよ始まる\n(.+)杯！\nこの中から栄冠を手にするのは誰か！$"=Now, the $1 Cup is about to begin!\nWho will be crowned the winner!?
 さぁ！今ゲートが開かれました！！\nいっせいに飛び出した各選手たち\nそれぞれが得意とする\n位置取りを狙っていきます。=Now! The gates are open!!\nAll the runners rushed out at once,\neach aiming for their own position.
 ただ今スタンド前の第一直線を通過。\n序盤は順調なすべりだし。\n堅実な走りを見せています。=They've just passed the 1st straight\nin front of the stands.\nOff to a good start,\nthey're showing a solid run.
-sr:"^まずは最初のコーナーに差し掛かります。\nここでの先頭は([\S\s]+)選手！\nそれを追う([\S\s]+)選手！$"=For now we approach the 1st corner.\n$1 is in the lead,\nfollowed by $2!
-sr:"^そして続く第二のコーナーに突入！\n各選手、密集状態の中\n先頭は([\S\s]+)選手！$"=Then we enter the second corner!\nAmong the crowded field,\n$1 is in the lead!
-sr:"^コーナーを抜けた第二直線！\nここで先頭は([\S\s]+)選手！\nそして２番手は\n([\S\s]+)選手です！$"=After coming out of the corner,\nwe enter the second straight!\n$1 is in the lead!\nAnd in second place is $2!
+sr:"^まずは最初のコーナーに差し掛かります。\nここでの先頭は(.+)選手！\nそれを追う(.+)選手！$"=For now we approach the 1st corner.\n$1 is in the lead,\nfollowed by $2!
+sr:"^そして続く第二のコーナーに突入！\n各選手、密集状態の中\n先頭は(.+)選手！$"=Then we enter the second corner!\nAmong the crowded field,\n$1 is in the lead!
+sr:"^コーナーを抜けた第二直線！\nここで先頭は(.+)選手！\nそして２番手は\n(.+)選手です！$"=After coming out of the corner,\nwe enter the second straight!\n$1 is in the lead!\nAnd in second place is $2!
 直線を抜けての第三コーナー！\nこれからいよいよ終盤へと\nさしかかります！\n誰が最初に勝負を仕掛けるのか！=After the straight line,\nwe come to the third corner!\nWe are now approaching the final stage!\nWho will be the first to make a move?
-sr:"^さぁ！最終コーナーに入ったぁあ！\n先頭は([\S\s]+)選手！\nそれを追うのは\n([\S\s]+)選手だぁ！$"=Now! We're in the final corner!\n$1 is in the lead!\n$2 is right on her tail!
-sr:"^コーナーを抜けて\n最終直線に入ったぁあああ！\n先頭は([\S\s]+)選手！\n追いかける([\S\s]+)選手！$"=We've come out of the corner and\nare heading into the final straaaaight!\n$1 is in the lead!\n$2 is catching up to her!
-sr:"^先頭は([\S\s]+)選手！\n先頭は([\S\s]+)選手！！\nこのまま逃げ切れるか！？\n([\S\s]+)選手！！$"=$1 is in the lead!\n$2 is in the lead!!\nCan she keep going like this!?\n$3!!
-sr:"^([\S\s]+)選手が1着でゴール！！\r\n2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手でした$"=$1 came in 1st!\n$2 came 2nd!\n$3 came 3rd!
+sr:"^さぁ！最終コーナーに入ったぁあ！\n先頭は(.+)選手！\nそれを追うのは\n(.+)選手だぁ！$"=Now! We're in the final corner!\n$1 is in the lead!\n$2 is right on her tail!
+sr:"^コーナーを抜けて\n最終直線に入ったぁあああ！\n先頭は(.+)選手！\n追いかける(.+)選手！$"=We've come out of the corner and\nare heading into the final straaaaight!\n$1 is in the lead!\n$2 is catching up to her!
+sr:"^先頭は(.+)選手！\n先頭は(.+)選手！！\nこのまま逃げ切れるか！？\n(.+)選手！！$"=$1 is in the lead!\n$2 is in the lead!!\nCan she keep going like this!?\n$3!!
+sr:"^(.+)選手が1着でゴール！！\r\n2着は(.+)選手！\r\n3着は(.+)選手でした$"=$1 came in 1st!\n$2 came 2nd!\n$3 came 3rd!
 さあ、各選手ゲートイン！\n今か今かとスタートを待ちます。\n半周で決着がつくこのレースは\n少しも目が離せません。=Now, all runners are in position!\nThey are all waiting for the start.\nThis race will be decided in half a lap,\nso ladies and gentlemen, don't blink.
 今ゲートが開かれました！\nいっせいに飛び出した各選手たち\nそれぞれが得意とする\n位置取りを狙っていきます。=The gates have now opened!\nAll runners rushed out at once,\neach aiming for their own position.
-sr:"^そしてもう最終コーナーに突入！\n早いレース展開となります！\n先頭は([\S\s]+)選手！$"=And now we are\nentering the final corner!\nIt's a fast race!\n$1 is in the lead!
-sr:"^ゴールは目前だ！\n先頭は([\S\s]+)選手！\n先頭は([\S\s]+)選手！！\nこのまま逃げ切れるか！？$"=The finish line is just in front!\n$1 is in the lead!\n$2 is in the lead!!\nCan she keep going like this!?
-sr:"^ゴールイン！！\n1着は([\S\s]+)選手だぁ！\r\n2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手でした$"=Finish!!\n1st place goes to $1!\r\n2nd place goes to $2!\r\n3rd place goes to $3!
+sr:"^そしてもう最終コーナーに突入！\n早いレース展開となります！\n先頭は(.+)選手！$"=And now we are\nentering the final corner!\nIt's a fast race!\n$1 is in the lead!
+sr:"^ゴールは目前だ！\n先頭は(.+)選手！\n先頭は(.+)選手！！\nこのまま逃げ切れるか！？$"=The finish line is just in front!\n$1 is in the lead!\n$2 is in the lead!!\nCan she keep going like this!?
+sr:"^ゴールイン！！\n1着は(.+)選手だぁ！\r\n2着は(.+)選手！\r\n3着は(.+)選手でした$"=Finish!!\n1st place goes to $1!\r\n2nd place goes to $2!\r\n3rd place goes to $3!
 先頭:=Lead:
 さぁ、一週目のホームストレートを\n選手たちが続々と通過していきます！=Now, the runners are passing through\nthe home straight of the 1st section!
 各選手、コーナーに入ります！\nやはりスタミナのある選手が\nレースの中核となります！=The runners are entering the corner!\nOf course, the runners with the most\nstamina determines the core of the race!
 そして第四コーナーをまわり\n向こう正面に入ります！=Then we go around the fourth corner and enter straight ahead!
-sr:"^([\S\s]+)選手が抜かれたぁあ！！\nここで先頭は([\S\s]+)選手！！$"=$1 has been overtaken!\nNow $2 is in the lead!!
-sr:"^さあ！もう最終直線だ！！\nやはり早い展開となりました！\n先頭は([\S\s]+)選手！\n追いかける([\S\s]+)選手！$"=Now! We're in the final straight!!\nAs expected, the race is pacing quickly!\n$1 is in the lead,\nfollowed by $2!
-sr:"^先頭は([\S\s]+)選手！\n先頭は([\S\s]+)選手！！\n速いぞ！速い！速い！\n([\S\s]+)選手！！$"=$1 is in the lead! $1 is in the lead!!\nThat's fast! Very fast!\n $3!!
+sr:"^(.+)選手が抜かれたぁあ！！\nここで先頭は(.+)選手！！$"=$1 has been overtaken!\nNow $2 is in the lead!!
+sr:"^さあ！もう最終直線だ！！\nやはり早い展開となりました！\n先頭は(.+)選手！\n追いかける(.+)選手！$"=Now! We're in the final straight!!\nAs expected, the race is pacing quickly!\n$1 is in the lead,\nfollowed by $2!
+sr:"^先頭は(.+)選手！\n先頭は(.+)選手！！\n速いぞ！速い！速い！\n(.+)選手！！$"=$1 is in the lead! $1 is in the lead!!\nThat's fast! Very fast!\n $3!!
 
 //G1
-sr:"^本日のこの([\S\s]+)杯！\nスピード勝負の短距離コース！\nその熱気は実況席にまで伝わります！$"=Today's the $1 Cup! A short-distance course where speed is the deciding factor! The excitement is felt all the way to the commentary booth!
+sr:"^本日のこの(.+)杯！\nスピード勝負の短距離コース！\nその熱気は実況席にまで伝わります！$"=Today's the $1 Cup! A short-distance course where speed is the deciding factor! The excitement is felt all the way to the commentary booth!
 さぁ！各選手一斉にスタート！！\n逃げが得意な選手たちが\nさっそく先頭争いをはじめます！=Now, all the runners start at the same\ntime! Runners who are good\nat breaking away\nimmediately start fighting for the lead!
-sr:"^ここで先頭に躍り出たのは\n([\S\s]+)選手だ！\n短期決戦でいきなり勝負を仕掛けます！$"=Here, it is $1 who takes the lead!\nShe immediately launches her attack\nin this rapid showdown!
+sr:"^ここで先頭に躍り出たのは\n(.+)選手だ！\n短期決戦でいきなり勝負を仕掛けます！$"=Here, it is $1 who takes the lead!\nShe immediately launches her attack\nin this rapid showdown!
 続いて最終コーナー！\nスピード自慢の選手たちが\nさらにギアを上げてきました！=Then, in the final corner,\nthe speed-hungry riders shifts up a gear!
-sr:"^今([\S\s]+)選手が1着でゴール！！\n速い！速かった！\r\n2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手でした$"=$1 has just crossed the finish line in 1st place!\nShe was fast! She was so fast!\n2nd place went to $2!\nThird place went to $3!
+sr:"^今(.+)選手が1着でゴール！！\n速い！速かった！\r\n2着は(.+)選手！\r\n3着は(.+)選手でした$"=$1 has just crossed the finish line in 1st place!\nShe was fast! She was so fast!\n2nd place went to $2!\nThird place went to $3!
 勝利のファンファーレ鳴り響く中\n気合十分の各選手たちがゲートイン。\n勝つのは一体誰なのでしょうか！=As the victory fanfare rings,\nthe runners enter the\ngates full of energy.\nWho will be the winner?
 全選手プライドをかけて\n一斉にスタートしました！！\nこの長丁場を誰がペースを\n作っていくのか？=All the players started at the same time,\nputting their pride on the line! Who will set the pace for this long stretch?
-sr:"^まず先頭に躍り出たのは\n([\S\s]+)選手！\nレースを引っ張ります！$"=First up it's $1\nwho took the lead!\nWill she set the pace?
-sr:"^さあ第一コーナーに入った。\n先頭は([\S\s]+)選手！\nそれを追う([\S\s]+)選手！$"=So we are entering the 1st corner.\n$1 is in the lead!\nFollowing her right behind is $2!
-sr:"^ああっ！\n([\S\s]+)選手が抜かれたぁ\nここで先頭は([\S\s]+)選手！！$"=Ah! $1 has been overtaken and now $2 is in the lead!!
-sr:"^レースも折り返しを過ぎたところ\n先頭は([\S\s]+)選手！\n続いて([\S\s]+)選手が後を追います！$"=As the race has passed the halfway point,\n$1 is in the lead,\nfollowed closely by $2!
-sr:"^コーナーを抜けて\nラストの直線に入ったぁあああ！\n先頭は([\S\s]+)選手！\n2番手は([\S\s]+)選手！$"=We've come out of the corner and\nare heading into the final straight!\n$1 is in the lead!\nIn second place is $2!
-sr:"^来た！来た！！来たぁあ！！\n([\S\s]+)選手！\n([\S\s]+)選手！\n([\S\s]+)選手が来たぁあ！$"=Let's go! Let's go!! Let's goooo!!\n$1!\n$2!\n$3 is almost there!
-sr:"^([\S\s]+)選手が1着！！\n1着でゴールイン！！\r\nそして2着は([\S\s]+)選手！\r\n3着は([\S\s]+)選手！$"=$1 came in 1st!!\nShe crossed the line in 1st place!!\n$2 came in 2nd,\nand $3 came in 3rd!
+sr:"^まず先頭に躍り出たのは\n(.+)選手！\nレースを引っ張ります！$"=First up it's $1\nwho took the lead!\nWill she set the pace?
+sr:"^さあ第一コーナーに入った。\n先頭は(.+)選手！\nそれを追う(.+)選手！$"=So we are entering the 1st corner.\n$1 is in the lead!\nFollowing her right behind is $2!
+sr:"^ああっ！\n(.+)選手が抜かれたぁ\nここで先頭は(.+)選手！！$"=Ah! $1 has been overtaken and now $2 is in the lead!!
+sr:"^レースも折り返しを過ぎたところ\n先頭は(.+)選手！\n続いて(.+)選手が後を追います！$"=As the race has passed the halfway point,\n$1 is in the lead,\nfollowed closely by $2!
+sr:"^コーナーを抜けて\nラストの直線に入ったぁあああ！\n先頭は(.+)選手！\n2番手は(.+)選手！$"=We've come out of the corner and\nare heading into the final straight!\n$1 is in the lead!\nIn second place is $2!
+sr:"^来た！来た！！来たぁあ！！\n(.+)選手！\n(.+)選手！\n(.+)選手が来たぁあ！$"=Let's go! Let's go!! Let's goooo!!\n$1!\n$2!\n$3 is almost there!
+sr:"^(.+)選手が1着！！\n1着でゴールイン！！\r\nそして2着は(.+)選手！\r\n3着は(.+)選手！$"=$1 came in 1st!!\nShe crossed the line in 1st place!!\n$2 came in 2nd,\nand $3 came in 3rd!
 さぁ今ゲートが開かれました！\nいっせいに飛び出した各選手たち！=Now the gates are open!\nAll the runners have rushed out at once!
-sr:"^さあ、正面スタンド前。\n現在の先頭は([\S\s]+)選手！\nそして２番手は\n([\S\s]+)選手です！$"=Now, in front of the main stand.\n$1 is currently in the lead!\nAnd in second place is $2!
+sr:"^さあ、正面スタンド前。\n現在の先頭は(.+)選手！\nそして２番手は\n(.+)選手です！$"=Now, in front of the main stand.\n$1 is currently in the lead!\nAnd in second place is $2!
 レースはまだまだ序盤！\n攻める選手、体力を温存する選手と\n作戦は様々です！=The race is still in the early stages!\nThere are various strategies\nwith runners who go on the offense,\nor runners who preserve physical strength!
 各選手が続々とコーナーに\n入っていきます！=Each runner enters the\ncorner one after another!
-sr:"^さぁ、いよいよ終盤に突入！\n現在先頭は([\S\s]+)選手！\nそれを追うのは\n([\S\s]+)選手です！$"=We are finally entering the final stage!\n$1 is currently in the lead!\n$2 is chasing her!
+sr:"^さぁ、いよいよ終盤に突入！\n現在先頭は(.+)選手！\nそれを追うのは\n(.+)選手です！$"=We are finally entering the final stage!\n$1 is currently in the lead!\n$2 is chasing her!
 まもなく最後コーナー！\n各選手の駆け引き！\nここは目が離せませんよ！=We're nearing the final corner!\nEach runner has their own tactics!\nKeep your eyes glued to this!
-sr:"^いよいよ最終コーナー突入！！\n現在先頭は([\S\s]+)選手！\n2番手は([\S\s]+)選手！$"=We are in the final corner!\n$1 is currently in the lead!\n$2 is in second place!
-sr:"^ここで([\S\s]+)選手が\n([\S\s]+)選手を追い抜いて\n先頭に躍り出た！$"=$1 overtook $2\nand took the lead here!
+sr:"^いよいよ最終コーナー突入！！\n現在先頭は(.+)選手！\n2番手は(.+)選手！$"=We are in the final corner!\n$1 is currently in the lead!\n$2 is in second place!
+sr:"^ここで(.+)選手が\n(.+)選手を追い抜いて\n先頭に躍り出た！$"=$1 overtook $2\nand took the lead here!

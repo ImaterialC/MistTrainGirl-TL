@@ -79,32 +79,32 @@ only 2 turns
 エレメントガーディアン【Ⅱ】：『風』=Element Guardian [II]: "Wind"
 エレメントガーディアン【Ⅱ】：『光』=Element Guardian [II]: "Light"
 エレメントガーディアン【Ⅱ】：『闇』=Element Guardian [II]: "Dark"
-r:"^火属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Fire Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
-r:"^水属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Water Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
-r:"^風属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Wind Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
-r:"^光属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Light Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
-r:"^闇属性のエレメントが付与されている敵から受けるダメージを([0-9]+)％ダウンする。$"=Decreases damage taken from enemies with Dark Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^火属性のエレメントが付与されている敵から受けるダメージを(\d+)％ダウンする。$"=Decreases damage taken from enemies with Fire Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^水属性のエレメントが付与されている敵から受けるダメージを(\d+)％ダウンする。$"=Decreases damage taken from enemies with Water Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^風属性のエレメントが付与されている敵から受けるダメージを(\d+)％ダウンする。$"=Decreases damage taken from enemies with Wind Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^光属性のエレメントが付与されている敵から受けるダメージを(\d+)％ダウンする。$"=Decreases damage taken from enemies with Light Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^闇属性のエレメントが付与されている敵から受けるダメージを(\d+)％ダウンする。$"=Decreases damage taken from enemies with Dark Element stacks by $1%.\n　　　　　　　　　　　　　　　　　　　　
 
 刃属性耐性UP【Ⅲ】=Cut Element Resistance Up [III]
-r:"^刃属性の耐性が([0-9]+)%上昇する。$"=Increases Cut Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^刃属性の耐性が(\d+)%上昇する。$"=Increases Cut Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 衝属性耐性UP【Ⅲ】=Blow Element Resistance Up [III]
-r:"^衝属性の耐性が([0-9]+)%上昇する。$"=Increases Blow Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^衝属性の耐性が(\d+)%上昇する。$"=Increases Blow Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 貫属性耐性UP【Ⅲ】=Pierce Element Resistance Up [III]
-r:"^貫属性の耐性が([0-9]+)%上昇する。$"=Increases Pierce Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^貫属性の耐性が(\d+)%上昇する。$"=Increases Pierce Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 火属性耐性UP【Ⅲ】=Fire Element Resistance Up [III]
-r:"^火属性の耐性が([0-9]+)%上昇する。$"=Increases Fire Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^火属性の耐性が(\d+)%上昇する。$"=Increases Fire Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 水属性耐性UP【Ⅲ】=Water Element Resistance Up [III]
-r:"^水属性の耐性が([0-9]+)%上昇する。$"=Increases Water Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^水属性の耐性が(\d+)%上昇する。$"=Increases Water Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 風属性耐性UP【Ⅲ】=Wind Element Resistance Up [III]
-r:"^風属性の耐性が([0-9]+)%上昇する。$"=Increases Wind Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^風属性の耐性が(\d+)%上昇する。$"=Increases Wind Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 光属性耐性UP【Ⅲ】=Light Element Resistance Up [III]
-r:"^光属性の耐性が([0-9]+)%上昇する。$"=Increases Light Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+r:"^光属性の耐性が(\d+)%上昇する。$"=Increases Light Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
 闇属性耐性UP【Ⅲ】=Dark Element Resistance Up [III]
-r:"^闇属性の耐性が([0-9]+)%上昇する。$"=Increases Dark Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
-sr:"^ダメージ耐性：([\s\S]+)【小】$"=Damage Resist: $1 [S]
-sr:"^([\s\S]+)からのダメージ（小）を軽減する。$"=Decreases damage from $1s (S).
-sr:"^ダメージ耐性：([\s\S]+)【中】$"=Damage Resist: $1 [M]
-sr:"^([\s\S]+)からのダメージ（中）を軽減する。$"=Decreases damage from $1s (M).
+r:"^闇属性の耐性が(\d+)%上昇する。$"=Increases Dark Element Resistance by $1%.\n　　　　　　　　　　　　　　　　　　　　
+sr:"^ダメージ耐性：(.+?)【小】$"=Damage Resist: $1 [S]
+sr:"^(.+?)からのダメージ（小）を軽減する。$"=Decreases damage from $1s (S).
+sr:"^ダメージ耐性：(.+?)【中】$"=Damage Resist: $1 [M]
+sr:"^(.+?)からのダメージ（中）を軽減する。$"=Decreases damage from $1s (M).
 
 
 全身防具。全員が装備できる。=A full body armor. Can be equipped by anyone.
@@ -125,21 +125,21 @@ sr:"^([\s\S]+)からのダメージ（中）を軽減する。$"=Decreases damag
 
 //A Effects
 物攻UP【Ⅰ】=ATK Up [I]
-r:"^装備したレイヤーの物理攻撃力を([0-9]+)上昇させる。$"=Increases the equipped Layer's ATK by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの物理攻撃力を(\d+)上昇させる。$"=Increases the equipped Layer's ATK by $1.\n　　　　　　　　　　　　　　　　　　　　
 物防UP【Ⅰ】=DEF Up [I]
-r:"^装備したレイヤーの物理防御力を([0-9]+)上昇させる。$"=Increases the equipped Layer's DEF by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの物理防御力を(\d+)上昇させる。$"=Increases the equipped Layer's DEF by $1.\n　　　　　　　　　　　　　　　　　　　　
 魔攻UP【Ⅰ】=MATK Up [I]
-r:"^装備したレイヤーの魔法攻撃力を([0-9]+)上昇させる。$"=Increases the equipped Layer's MATK by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの魔法攻撃力を(\d+)上昇させる。$"=Increases the equipped Layer's MATK by $1.\n　　　　　　　　　　　　　　　　　　　　
 魔防UP【Ⅰ】=MDEF Up [I]
-r:"^装備したレイヤーの魔法防御力を([0-9]+)上昇させる。$"=Increases the equipped Layer's MDEF by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの魔法防御力を(\d+)上昇させる。$"=Increases the equipped Layer's MDEF by $1.\n　　　　　　　　　　　　　　　　　　　　
 命中UP【Ⅰ】=HIT Up [I]
-r:"^装備したレイヤーの命中を([0-9]+)上昇させる。$"=Increases the equipped Layer's HIT by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの命中を(\d+)上昇させる。$"=Increases the equipped Layer's HIT by $1.\n　　　　　　　　　　　　　　　　　　　　
 速さUP【Ⅰ】=SPD ​​Up [I]
-r:"^装備したレイヤーの速さを([0-9]+)上昇させる。$"=Increases the equipped Layer's SPD by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの速さを(\d+)上昇させる。$"=Increases the equipped Layer's SPD by $1.\n　　　　　　　　　　　　　　　　　　　　
 回復UP【Ⅰ】=RCV Up [I]
-r:"^装備したレイヤーの回復力を([0-9]+)上昇させる。$"=Increases the equipped Layer's RCV by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの回復力を(\d+)上昇させる。$"=Increases the equipped Layer's RCV by $1.\n　　　　　　　　　　　　　　　　　　　　
 運UP【Ⅰ】=LUCK Up [I]
-r:"^装備したレイヤーの幸運を([0-9]+)上昇させる。$"=Increases the equipped Layer's LUCK by $1.\n　　　　　　　　　　　　　　　　　　　　
+r:"^装備したレイヤーの幸運を(\d+)上昇させる。$"=Increases the equipped Layer's LUCK by $1.\n　　　　　　　　　　　　　　　　　　　　
 
 //S
 エクリプスプレート=Eclipse Plate

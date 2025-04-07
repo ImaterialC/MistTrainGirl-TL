@@ -1,5 +1,5 @@
-sr:"^装備中の「([\s\S]+)」の数によって、シリーズセット効果が発動する。\r\n1種効果： ([\s\S]+)\r\n2種効果： ([\s\S]+)\r\n3種効果： ([\s\S]+)$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.\r\n・1 Set: $2\r\n・2 Set: $3\r\n・3 Set: $4</size>
-sr:"^装備中の「([\s\S]+)」の数によって、シリーズセット効果が発動する。$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.</size>
+sr:"^装備中の「(.+)」の数によって、シリーズセット効果が発動する。\r\n1種効果： (.+)\r\n2種効果： (.+)\r\n3種効果： (.+)$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.\r\n・1 Set: $2\r\n・2 Set: $3\r\n・3 Set: $4</size>
+sr:"^装備中の「(.+)」の数によって、シリーズセット効果が発動する。$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.</size>
 
 シリーズアビリティ一覧=Series Ability List
 
