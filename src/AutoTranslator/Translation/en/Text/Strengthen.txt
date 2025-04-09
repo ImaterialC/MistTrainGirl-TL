@@ -23,7 +23,7 @@ r:"^ウェポンマスターLv\+(\d+)$"=Weapon Master Level +$1
 r:"^ウェポンマスターポイント\+(\d+)$"=Weapon Master Point +$1
 
 r:"^トランスゲージ\+(\d+)%$"=Trance Gauge +$1%
-r:"^(.+)(×|x)(\d+)$"=Mist Gear × $1
+sr:"^(.+)(×|x)(\d+)$"=$1 × $2
 
 sr:"^(.+)を使用して強化します$"=Upgrade Using $1
 r:"^強化を(\d+)回実行しました$"=Upgraded $1 Times
