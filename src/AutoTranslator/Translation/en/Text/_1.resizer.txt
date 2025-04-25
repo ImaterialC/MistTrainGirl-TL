@@ -1,2 +1,5 @@
 /Canvas/Root/MarketView(Clone)/Bottom/ResetTime/Label=ChangeFontSize(14)
 /Canvas/Root/MarketView(Clone)/Bottom/ResetTime/TimeLabel=ChangeFontSize(14)
+/ElementStatusManager/Canvas/Root/Parent/ElementStatusView(Clone)/ElementStatusDetail/MainTree/CategoryPanel/CategoryContents/AbilityLotteryContent/Popups/SeriesSetSkillPopup/Summary/Description=ChangeFontSize(11)
+/ElementStatusManager/Canvas/Root/Parent/ElementStatusView(Clone)/ElementStatusDetail/MainTree/CategoryPanel/CategoryContents/AbillityContent/Popups/SeriesSetSkillPopup/Summary/Description=ChangeFontSize(21)
+/ElementStatusManager/Canvas/Root/Parent/ElementStatusView(Clone)/ElementStatusDetail/MainTree/CategoryPanel/CategoryContents/AbilityLotteryContent/Popups/SeriesSetSkillPopup/Summary/NameLabel=ChangeFontSize(21)

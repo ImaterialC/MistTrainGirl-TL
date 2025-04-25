@@ -1,3 +1,4 @@
+Level: 0
 戦力=Power
 強化=Strengthen
 キャラ=Chara

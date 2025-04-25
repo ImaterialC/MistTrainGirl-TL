@@ -31,11 +31,21 @@ r:"^ダブルアップに挑戦する？\n成功するとカジノコインが(\
 r:"^成功すると、(\d+)枚が(\d+)枚に！\r\n                  か                  を選んでね。$"=If you guessed right, your $1 chips will become $2!\n   or                      
 r:"^ダブルアップ成功だよ！\n(\d+)枚のカジノコインを獲得したよ。$"=You doubled up successfully!\nYou've won $1 chips.
 r:"^続けて(\d+)回目のダブルアップに挑戦する？\n成功するとカジノコインが(\d+)枚になるよ。$"=Would you like to try to double up $1 times?\nIf you succeed, you'll get $2 casino coins.
+
+r:"^そのまま(\d+)回目のダブルアップに挑戦する？$"=Do you want to try a double-up ($1x)?
+
+
 ごめんねー、獲得できるカジノコインの上限を超えちゃった。\nダブルアップへの挑戦を終了するね。=Sooorry, You've exceeded the chip cap you can earn.\nI'm going to end your double up attempt now.
 
 //Roulette
 1箇所の上限金額=Maximum bet per type
 ルーレットテーブルへようこそ！\nゲームを始める？=Welcome to the Roulette Table!\nShall we start a game?
+ルーレットテーブルへようこそ！ ゲームを始める？=Welcome to the Roulette Table!\nShall we start a game?
+カジノメニューへ戻りますか？=Should we head back to the casino menu?
+もう一度ポーカーで遊ぶ？=Do you want to play poker again?
+引き分けだよ。=It's a draw.
+
+
 BETしたい場所にコインをドラッグしておいてね。\nSPINボタンを押すとスタート!!=Drag and drop chips to where you want to bet.\nPress the SPIN button to start!!
 BETしたい箇所をタップしてください=Tap the area where you want to bet
 ガーン！\n不幸だぁ!!=Oh no!\nHow unfortunate!!
