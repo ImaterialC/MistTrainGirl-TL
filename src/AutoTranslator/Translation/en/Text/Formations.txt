@@ -423,7 +423,8 @@ r:"^スペシャルスキル発動後にポジション5の魔法攻撃力を([0
 
 アーリートレイル=Early Trail
 r:"^アーリートレイル：Lv([0-9]+)$"=Early Trail: Lv.$1
-物理攻撃力が30%減少する。\r\n自身への敵視が上昇（小）する。=Decreases ATK by 30%.\r\nIncreases self hostility (S)
+後衛1名の魔法攻撃力を上昇させ、攻撃に特化した隊列=A formation that specializes in attacking by increasing the magic attack of 1 rearguard.
+物理攻撃力が30%減少する。\r\n自身への敵視が上昇（小）する。=Decreases ATK by 30%.\r\nIncreases self hostility (S).
 物理攻撃力を10%減少する。速さが25%減少する。=Decreases ATK by 10%.\r\nDecreases SPD by 25%.
 r:"^スペシャルスキル発動後にポジション4の魔法攻撃力を([0-9]+)%上昇させる。※効果は発動ターンのみ$"=After a Special Skill is activated, increases Position 4 Layers' MATK by $1%.\n※Each effect lasts this turn only
 

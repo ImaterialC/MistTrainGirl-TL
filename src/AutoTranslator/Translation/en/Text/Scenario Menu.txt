@@ -1,5 +1,3 @@
-第　 　部=Pa　rt
-第　 　章=<size\=13>Epis　ode</size>
 第1部へ=To Part 1
 第2部へ=To Part 2
 第3部へ=To Part 3
@@ -10,7 +8,6 @@
 第3部=Part 3
 第4部=Part 4
 第5部=Part 5
-ニシキの闇編=The Darkness of Nishiki
 ミュート解除=Unmute
 次のステージが解放されました=The next stage has been released
 STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
@@ -60,19 +57,57 @@ EXシナリオ=R-18 Scenario
 EXシナリオ確認=Confirm R-18 Scenario
 r:"^思い出ランク([0-9]+)で解放$"=Unlocked at Memory Rank $1
 
-巨大樹攻略編=Giant Tree Strategy Episode
-闇の天球編=Dark Celestial Sphere Episode
-鋼鉄樹の決戦編=Steel Tree Decisive Battle Episode Part 1
-フテラブリュケの巨大樹後編=Fterabrucke Giant Tree Episode Part 2
-ヴォルターヤ天球編=Voltarja Celestial Sphere
 
 MS横断レース=MS Transcontinental Race
 鋼鉄の双子星=Steel Twin Stars
-バーゼルの故郷編=Basel's Hometown Episode
 メイン第5部4章後のストーリー=Main Part 5-4 After
 
 STORY1\r\nセントイリスの鬼教官=SCENE 1\r\nSt. Iris' Demon Instructor
-『雲の渦』前線基地編=Cloud Vortex Frontline Base Episode
-聖域イミセリノス編=Sanctuary Imisélinos Episode
-聖域イミセリノス後編=Sanctuary Imisélinos Episode Part 2
-イミセリノスの大結界編=Imisélinos Great Barrier Episode
+
+セントイリス編=<size\=18>St. Iris Ep.</size>
+ニシキ編=<size\=18>Nishiki Ep.</size>
+アイゼングラート編=<size\=18>Eisengrad Ep.</size>
+ヴェルフォレット編=<size\=18>Verforet Ep.</size>
+フレイマリン編=<size\=18>Flamarine Ep.</size>
+暗黒学園編=<size\=18>Dark Academy Ep.</size>
+『霧の海』編=<size\=18>Sea of ​​Fog Ep.</size>
+超兵器『壺中天』編=<size\=18>Superweapon Huzhongtian Ep.</size>
+巨大樹攻略編=<size\=18>Giant Tree Strategy Ep.</size>
+
+巨大樹の鉄路編=<size\=18>Giant Tree Railway Ep.</size>
+
+イリスメトロ編=<size\=18>Iris Metro Ep.</size>
+メトロセントイリス編=<size\=18>Metro St. Iris Ep.</size>
+メトロニシキ編=<size\=18>Metro Nishiki Ep.</size>
+雛屋敷編=<size\=18>Hinayashiki Ep.</size>
+ＭＳ横断レース編=<size\=18>MS Cross-Country Race Ep.</size>
+犯罪都市『臥舞伎町』編=<size\=18>Crime City Gabukicho Ep.</size>
+ヴォルターヤの氷霧編=<size\=18>Voltarja Ice Mist Ep.</size>
+シモアマヅの岩戸編=<size\=18>Shimoamazu no Iwato Ep.</size>
+雷の遺跡編=<size\=18>Ruins of Thunder Ep.</size>
+メトロフレイマリン編=<size\=18>Metro Flamarine Ep.</size>
+闇の天球編=<size\=18>Dark Celestial Sphere Ep.</size>
+
+セントイリスの鋼鉄樹編=<size\=18>St. Irish Steel Tree Ep.</size>
+セントイリス北部編=<size\=18>Northern St. Iris Ep.</size>
+ヴァレンツ氷壁編=<size\=18>Valentz Ice Wall Ep.</size>
+メトロアイゼングラート編=<size\=18>Metro Eisengrad Ep.</size>
+海中都市編=<size\=18>Underwater City Ep.</size>
+古王国シティリア編=<size\=18>Old Kingdom Sicilia Ep.</size>
+ヴェルフォレット北部戦線編=<size\=18>Verforet Northern Front
+ニシキ大呪術式編=<size\=18>Nishiki Daijutsu Skill Ep.</size>
+呪殺の森編=<size\=18>The Forest of Cursed Slaughter Ep.</size>
+茨の鉄路編=<size\=18>Thorn Railway Ep.</size>
+
+鋼鉄樹の決戦編=<size\=18>Steel Tree Showdown Ep.</size>
+フテラブリュケの巨大樹後編=<size\=18>Fterabrucke Giant Tree Ep. 2</size>
+ヴォルターヤ天球編=<size\=18>Voltarja Celestial Sphere Ep.</size>
+スヴァーバル氷窟編=<size\=18>Svalbard Ice Caves Ep.</size>
+『雲の渦』前線基地編=<size\=18>Cloud Vortex Frontline Base Ep.</size>
+聖域イミセリノス編=<size\=18>Sanctuary Imisélinos Ep.</size>
+聖域イミセリノス後編=<size\=18>Sanctuary Imisélinos Ep. 2</size>
+イミセリノスの大結界編=<size\=18>Imisélinos Great Barrier Ep.</size>
+バーゼルの故郷編=<size\=18>Basel's Hometown Ep.</size>
+ニシキの闇編=<size\=18>The Darkness of Nishiki Ep.</size>
+幻術の孤島編=<size\=18>Illusion Island Ep.</size>
+彷徨う竜族編=<size\=18>Wandering Dragonkin Ep.</size>

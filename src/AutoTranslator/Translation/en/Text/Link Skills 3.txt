@@ -1,11 +1,11 @@
 //Akane Ryuuzouji
 暴風一刀=Boufuu Ittou
-「暴風一刀」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する=When Boufuu Ittou is selected, select other Cut Element or Wind Element skills total 2+ excluding self on the same turn.
+「暴風一刀」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する=When Boufuu Ittou is selected, select other Cut Element or Wind Element skills total 2 or more.
 疾風居合斬り=Shippu Iaigiri
-「疾風居合斬り」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Shippu Iaigiri is selected, select other physical attack single-target skills total 2+ excluding self on the same turn.
+「疾風居合斬り」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Shippu Iaigiri is selected, select other physical attack single-target skills total 2 or more.
 自身の物理攻撃力を100%上昇させる。リンクスキル発動時、本スキルを最後に発動する。※効果は発動ターンのみ。=Increases ATK by 100%. Acts Last when linked. ※Effect lasts this turn only
 切り裂き風=Kirisaki Kaze
-「切り裂き風」を選択した同じターンに、刃属性全体または風属性スキルを、自身を除く2体以上が選択する=When Kirisaki Kaze is selected, select other Cut Element all-target or Wind Element skills total 2+ excluding self on the same turn.
+「切り裂き風」を選択した同じターンに、刃属性全体または風属性スキルを、自身を除く2体以上が選択する=When Kirisaki Kaze is selected, select other Cut Element all-target or Wind Element skills total 2 or more.
 自身の「切り裂き風」発動時、【威力S】の全体攻撃として攻撃する。※効果は発動ターンのみ=When Kirisaki Kaze is activated, attack becomes S power. ※Effect lasts this turn only
 茜龍の一太刀=Akaneryuu no Hitotachi
 
@@ -22,163 +22,165 @@
 
 //Celia
 ノーブルチャージ=Noble Charge
-「ノーブルチャージ」を選択した同じターンに、貫属性物理攻撃または貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Noble Charge is selected, select other Pierce Element physical attack or Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「ノーブルチャージ」を選択した同じターンに、貫属性物理攻撃または貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Noble Charge is selected, select other Pierce Element physical attack or Pierce Element included double-element skills total 2 or more.
 自身の物理攻撃力を50%上昇させ、更に武器種が「槍」レイヤーの物理攻撃力を15%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK by 50% and increases Spear weapon Layers' ATK by 15%. ※Each effect lasts this turn only
 シャイニングスピアー=Shining Spear
-「シャイニングスピアー」を選択した同じターンに、貫属性全体スキルを、自身を除く2体以上が選択する=When Shining Spear is selected, select other Pierce Element all-target skills total 2+ excluding self on the same turn.
+「シャイニングスピアー」を選択した同じターンに、貫属性全体スキルを、自身を除く2体以上が選択する=When Shining Spear is selected, select other Pierce Element all-target skills total 2 or more.
 自身の「シャイニングスピアー」発動時、【威力SS】の全体攻撃として攻撃する。※効果は発動ターンのみ=When Shining Spear is activated, attack becomes SS power. ※Effect lasts this turn only
 ルクスパファー=Lux Puffer
-「ルクスパファー」を選択した同じターンに、貫属性単体スキルを、自身を除く2体以上が選択する=When Lux Puffer is selected, select other Pierce Element single-target skills total 2+ excluding self on the same turn.
+「ルクスパファー」を選択した同じターンに、貫属性単体スキルを、自身を除く2体以上が選択する=When Lux Puffer is selected, select other Pierce Element single-target skills total 2 or more.
 自身の物理攻撃力を40%上昇させ、本スキルの発動後に自身のSPを3回復させる。※効果はそれぞれ発動ターンのみ=Increases ATK by 40% and after taking action, recovers 3 SP. ※Each effect lasts this turn only
 クイーンズ・ストライド=Queen's Stride
 
 //Palermo
 サンダーフィスト=Thunder Fist
-「サンダーフィスト」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Thunder Fist is selected, select other Blow Element included double-element skills total 2+ excluding self on the same turn.
+「サンダーフィスト」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Thunder Fist is selected, select other Blow Element included double-element skills total 2 or more.
 自身と発動条件を満たしたレイヤーのコンディション【ダメージを上昇させる効果】を50%上昇させ、更にエレメントバーストで敵に与えるダメージを20%上昇させる。※それぞれ効果は発動ターンのみ=Increases self and linked Layers' Condition by 50% and Element Burst damage dealt to enemies by 20%. ※Each effect lasts this turn only
 宙落とし=Cosmic Drop
-「宙落とし」を選択した同じターンに、衝属性単体または衝属性全体スキルを、自身を除く2体以上が選択する。=When Cosmic Drop is selected, select other Blow Element single-target or Blow Element all-target skills total 2+ excluding self on the same turn.
+「宙落とし」を選択した同じターンに、衝属性単体または衝属性全体スキルを、自身を除く2体以上が選択する。=When Cosmic Drop is selected, select other Blow Element single-target or Blow Element all-target skills total 2 or more.
 【パーティ内で2番目に攻撃する時、1ターンの間、物理攻撃力を45%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※効果はバトル中、waveの移動やターン経過では解除されない=Self and linked Layers gain buff [When acting second in the party, increases ATK by 45% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+ブライトブロー=Bright Blow
+自身と発動条件を満たしたレイヤーのエレメントバースト時の物理攻撃力を25%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' ATK during Element Burst by 25%. ※Effect lasts this turn only
 ペルフェミア=Periferia
 ランポグラフィート=Grafite del Lampo
 ランポグラフィー…=Grafite del...
-「ランポグラフィート」を選択した同じターンに、風属性または刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Grafite del Lampo is selected, select other Wind Element or Cut Element magical single-target skills total 2+ excluding self on the same turn.
+「ランポグラフィート」を選択した同じターンに、風属性または刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Grafite del Lampo is selected, select other Wind Element or Cut Element magical single-target skills total 2 or more.
 自身の「ランポグラフィート」発動後、最もHPが低い敵単体に【威力SS】の魔法（刃）か魔法（風）で攻撃する。※効果は発動ターンのみ=After Grafite del Lampo is activated, attacks a single enemy with the lowest HP with SS Power magical (Cut) or magical (Wind) damage. ※Effect lasts this turn only
 トルエノアルケミア=Alchimia del Treno
 トルエノアルケミ…=Alchimia del...
-「トルエノアルケミア」を選択した同じターンに、風属性または刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Alchimia del Treno is selected, select other Wind Element or Cut Element magical single-target skills total 2+ excluding self on the same turn.
+「トルエノアルケミア」を選択した同じターンに、風属性または刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Alchimia del Treno is selected, select other Wind Element or Cut Element magical single-target skills total 2 or more.
 【パーティ内で最初に行動する時、1ターンの間、魔法攻撃力を60%上昇させる。更に2番目以降に行動する時、1ターンの間、魔法攻撃力を45%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When acting first in the party, increases MATK by 60% for 1 turn; when acting second or later in the party, increases MATK by 45% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 ショコラフォンテ=Fonte di Cioccolato
 敵全体に魔法（刃）で攻撃する。CP4以上の場合、２ターンの間、自身の魔法攻撃力を上昇（大）させる。=Attacks all enemies with magical (Cut) damage. If CP is 4+, increases MATK (L) for 2 turns.
 
 //Quedlinburg
 ティンテハンマー=Tintenhammer
-「ティンテハンマー」を選択した同じターンに、衝属性または闇属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Tintenhammer is selected, select other Blow Element or Dark Element included double-element skills total 2+ excluding self on the same turn.
+「ティンテハンマー」を選択した同じターンに、衝属性または闇属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Tintenhammer is selected, select other Blow Element or Dark Element included double-element skills total 2 or more.
 味方全体のコンディション【ダメージを上昇させる効果】を40%上昇させ、自身と発動条件を満たしたレイヤーの魔法攻撃力を15%上昇させる。※効果はそれぞれ発動ターンのみ=Increases all allies' Condition by 40% and increases self and linked layers' MATK by 15%. ※Each effect lasts this turn only
 ティンテスタンプ=Tintenstempel
-「ティンテスタンプ」を選択した同じターンに、初期SPが13以上の魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Tintenstempel is selected, select other 13+ original SP cost magical attack single-target skills total 2+ excluding self on the same turn.
+「ティンテスタンプ」を選択した同じターンに、初期SPが13以上の魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Tintenstempel is selected, select other 13+ original SP cost magical attack single-target skills total 2 or more.
 ティンテシュティーレ=Tintenstille
 ティンテシュティ…=Tintenstille
-「ティンテシュティーレ」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Tintenstille is selected, select other magical attack all-target skills total 2+ excluding self on the same turn.
+「ティンテシュティーレ」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Tintenstille is selected, select other magical attack all-target skills total 2 or more.
 ティンテシュトゥルム=Tintensturm
 ティンテシュトゥ…=Tintensturm
-「ティンテシュトゥルム」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Tintenstille is selected, select other magical attack all-target skills total 2+ excluding self on the same turn.
+「ティンテシュトゥルム」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Tintenstille is selected, select other magical attack all-target skills total 2 or more.
 
 //Risona Okura
 ノワールゲート=Noir Gate
-「ノワールゲート」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Noir Gate is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「ノワールゲート」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Noir Gate is selected, select other Pierce Element included double-element skills total 2 or more.
 ダークネーター=Dark Noether
-「ダークネーター」を選択した同じターンに、貫属性全体または闇属性全体スキルを、自身を除く2体以上が選択する=When Dark Noether is selected, select other Pierce Element all-target or Dark Element all-target skills total 2+ excluding self on the same turn.
+「ダークネーター」を選択した同じターンに、貫属性全体または闇属性全体スキルを、自身を除く2体以上が選択する=When Dark Noether is selected, select other Pierce Element all-target or Dark Element all-target skills total 2 or more.
 自身の攻撃時、敵の物理防御力を無視して攻撃する。更にバトル中の本リンクスキル発動回数が1回目の時に、自身のSPを7回復する※それぞれ効果は発動ターンのみ=When attacking, does not ignites enemy's DEF; recovers 7 SP if this skill is linked for the first time in this battle. ※Each effect lasts this turn only
 ネグロショット=Negro Shot
-「ネグロショット」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Negro Shot is selected, select other physical attack single-target skills total 2+ excluding self on the same turn.
+「ネグロショット」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Negro Shot is selected, select other physical attack single-target skills total 2 or more.
 自身の「ネグロショット」発動時、攻撃回数を1回から2回に増やす。※効果は発動ターンのみ=When Negro Shot is activated, increases the number of attacks from 1 to 2 times. ※Effect lasts this turn only
 麗弓・黒揚羽=Beautiful Bow Spangle
 
 //Minato Yanagase
 疾風迅雷=Gale Thunderclap
-「疾風迅雷」を選択した同じターンに、衝属性物理攻撃または風属性物理攻撃スキルを、自身を除く2体以上が選択する=When Gale Thunderclap is selected, select other Blow Element physical attack or Wind Element physical attack skills total 2+ excluding self on the same turn.
+「疾風迅雷」を選択した同じターンに、衝属性物理攻撃または風属性物理攻撃スキルを、自身を除く2体以上が選択する=When Gale Thunderclap is selected, select other Blow Element physical attack or Wind Element physical attack skills total 2 or more.
 発動条件を満たしたレイヤー1体につき、自身の物理攻撃力を20%上昇させる。※効果は発動ターンのみ=Increases ATK by 20% for each linked Layer. ※Effect lasts this turn only
 竜巻墜とし=Tornado Drop
 自身の物理攻撃力を上昇（中）させ、敵全体に物理（衝）か物理（風）で攻撃する。※効果は2ターンのみ=Increases ATK (M) and attacks all enemies with physical (Blow) or physical (Wind) damage. ※Effect lasts 2 turns only
 「竜巻墜とし」を選択した同じターンに、初期SPが13以上の衝属性全体攻撃スキルを、自身を除く1体以上が選択する=When Tornado Drop is selected, select other 13+ original SP cost Blow Element all-target attack skills total 1+ excluding self on the same turn.
 【行動後、SPを3回復する】効果を自身と発動条件を満たしたレイヤーに付与する。※効果は発動ターンのみ=Self and linked Layers gain effect [After taking action, recovers 3 SP]. ※Effect lasts this turn only
 疾風撃=Gale Attack
-「疾風撃」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Gale Attack is selected, select other physical attack single-target skills total 2+ excluding self on the same turn.
+「疾風撃」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Gale Attack is selected, select other physical attack single-target skills total 2 or more.
 発動条件を満たしたレイヤー1体につき、味方全体の物理攻撃力を10%上昇させる。※効果は発動ターンのみ=Increases all allies' ATK by 10% for each linked Layer. ※Effect lasts this turn only
 新米お嬢様の鉄拳=Novice Lady's Iron Fist
 
 //Luna Sakurakouji
 花蓮裂風=Lotus Squall
-「花蓮裂風」を選択した同じターンに、刃属性単体スキルを、自身を除く2体以上が選択する。=When Lotus Squall is selected, select other Cut Element single-target skills total 2+ excluding self on the same turn.
+「花蓮裂風」を選択した同じターンに、刃属性単体スキルを、自身を除く2体以上が選択する。=When Lotus Squall is selected, select other Cut Element single-target skills total 2 or more.
 自身か発動条件を満たしたレイヤーがポジション5にいる場合、そのレイヤーの魔法攻撃力を10%上昇させ、行動後にSPを3回復させる。※効果は発動ターンのみ=If self or a linked Layer is on Position 5, increases that Layer's MATK by 10% and recovers 3 SP after taking action. ※Effect lasts this turn only
 凄風散花=Gust of Petals
-「凄風散花」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する。=When Gust of Petals is selected, select other Cut Element or Wind Element skills total 2+ excluding self on the same turn.
+「凄風散花」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する。=When Gust of Petals is selected, select other Cut Element or Wind Element skills total 2 or more.
 行動後、自身のSPを3回復させる。更に【行動前、1ターンの間、魔法攻撃力を25％上昇させる】効果を味方全体に付与する。※SP回復は発動ターンのみ。付与効果はバトル中、waveの移動やターン経過では解除されない=After taking action, recovers 3 SP; all allies gain buff [Before taking action, increases MATK by 25% for 1 turn]. ※SP recovery lasts this turn only. Applied buff is permanent for the rest of the battle
 恵風花蓮=Zephyr Lotus
-「恵風花蓮」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Zephyr Lotus is selected, select other Cut Element all-target skills total 2+ excluding self on the same turn.
+「恵風花蓮」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Zephyr Lotus is selected, select other Cut Element all-target skills total 2 or more.
 ライジング・サン=Rising Sun
 
 //Oshiage
 炸裂槍=Sakuretsusou
-「炸裂槍」を選択した同じターンに、貫属性全体または光属性スキルを、自身を除く2体以上が選択する=When Sakuretsusou is selected, select other Pierce Element all-target or Light Element skills total 2+ excluding self on the same turn.
+「炸裂槍」を選択した同じターンに、貫属性全体または光属性スキルを、自身を除く2体以上が選択する=When Sakuretsusou is selected, select other Pierce Element all-target or Light Element skills total 2 or more.
 閃光華=Senkouka
-「閃光華」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Senkouka is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「閃光華」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する=When Senkouka is selected, select other Pierce Element included double-element skills total 2 or more.
 味方全体の物理攻撃力を30%上昇させる。更にバトル中の本リンクスキル発動回数が1回目の時に自身の物理攻撃力を100%上昇させる。※それぞれ効果は発動ターンのみ=Increases all allies' ATK by 30%; increases ATK by 100% if this skill is linked for the first time in this battle. ※Each effect lasts this turn only
 塔天閃=Toutensen
 
 //Pu'unene
 チョコレートクリーム=Chocolate Cream
 チョコレートクリ…=Chocolate Cream
-「チョコレートクリーム」を選択した同じターンに、刃属性または威力A以上のスキル（※合計威力を除く）を、自身を除く2体以上が選択する=When Chocolate Cream is selected, select other Cut Element or A+ Power skills (※Excludes total power) total 2+ excluding self on the same turn.
+「チョコレートクリーム」を選択した同じターンに、刃属性または威力A以上のスキル（※合計威力を除く）を、自身を除く2体以上が選択する=When Chocolate Cream is selected, select other Cut Element or A+ Power skills (※Excludes total power) total 2 or more.
 敵全体の魔法防御力と速さを30%減少させる。※効果は発動ターンのみ=Decreases all enemies' SPD and MDEF by 30%. ※Effect lasts this turn only
 スイーツホール=Sweet Hole
-「スイーツホール」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する=When Sweet Hole is selected, select other magical attack single-target skills total 2+ excluding self on the same turn.
+「スイーツホール」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する=When Sweet Hole is selected, select other magical attack single-target skills total 2 or more.
 【HPが100%未満の敵に対して与えるダメージを30%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [Increases damage dealt to enemies with less than 100% HP by 30%]. ※Applied buff is permanent for the rest of the battle
 カロリーボム=Calorie Bomb
 チルホアカ=Chill Hoaka
-「チルホアカ」を選択した同じターンに、刃または水属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Chill Hoaka is selected, select other Cut Element or Water Element included double-element skills total 2+ excluding self on the same turn.
+「チルホアカ」を選択した同じターンに、刃または水属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Chill Hoaka is selected, select other Cut Element or Water Element included double-element skills total 2 or more.
 水属性がWeakのエネミーに攻撃時、相手の命中と幸運を35%減少させる。※効果は発動ターンのみ=When attacking enemies weak to Water Element, decreases HIT and LUCK by 35%. ※Effect lasts this turn only
 ライスケーキホール=Rice Cake Hole
 ライスケーキホー…=Rice Cake Hole
-「ライスケーキホール」を選択した同じターンに、刃属性単体または水属性単体スキルを、自身を除く2体以上が選択する。=When Rice Cake Hole is selected, select other Cut Element single-target or Water Element single-target skills total 2+ excluding self on the same turn.
+「ライスケーキホール」を選択した同じターンに、刃属性単体または水属性単体スキルを、自身を除く2体以上が選択する。=When Rice Cake Hole is selected, select other Cut Element single-target or Water Element single-target skills total 2 or more.
 【水属性がWeakのエネミーに与えるダメージを50%上昇させる】効果を味方全体に付与する※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [Increases damage dealt to enemies weak to Water Element by 50%]. ※Applied buff is permanent for the rest of the battle
 ハウオリペッタン=Hau'oli Pettan
 
 //Maki
 玄旋斧=Gensenfu
-「玄旋斧」を選択した同じターンに、刃属性物理攻撃または闇属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Gensenfu is selected, select other Cut Element physical attack or Dark Element physical attack skills total 2+ excluding self on the same turn.
+「玄旋斧」を選択した同じターンに、刃属性物理攻撃または闇属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Gensenfu is selected, select other Cut Element physical attack or Dark Element physical attack skills total 2 or more.
 リンクスキル発動時、パーティ内で物理攻撃力が1番目に高いレイヤーの物理攻撃力と速さを25%上昇させ、2番目に高いレイヤーの物理攻撃力と速さを40%上昇させる。※それぞれ効果は発動ターンのみ=When this skill is linked, increases Layer with the highest ATK in the party's ATK and SPD by 25% and increases second highest Layer's ATK and SPD by 40%. ※Each effect lasts this turn only
 奈落の黒炎=Naraku no Kokuen
-「奈落の黒炎」を選択した同じターンに、威力B以上の物理攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Naraku no Kokuen is selected, select other B+ Power physical attack skills (※Excludes total power) total 2+ excluding self on the same turn.
+「奈落の黒炎」を選択した同じターンに、威力B以上の物理攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Naraku no Kokuen is selected, select other B+ Power physical attack skills (※Excludes total power) total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の物理攻撃力を30%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases all allies' ATK by 30% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 破岩葬=Hagansou
 落日斧=Ochinifu
 ランダムな対象に物理（刃）か物理（火）で2回攻撃を行う。【合計威力：C】=Attacks randomly with physical (Blow) or physical (Fire) 2 times. [Total power: C]
-「落日斧」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ochinifu is selected, select other Cut or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「落日斧」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ochinifu is selected, select other Cut or Fire Element included double-element skills total 2 or more.
 自身の攻撃がWeak攻撃の場合、敵の物理防御力の50%を無視して攻撃する。※効果は発動ターンのみ=When dealing weakness damage, ignores 50% of enemies' DEF. ※Effect lasts this turn only
 紅鏡鬼刃=Koukyou Kiba
-「紅鏡鬼刃」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Benikagami Kiba is selected, select other Cut or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「紅鏡鬼刃」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Benikagami Kiba is selected, select other Cut or Fire Element included double-element skills total 2 or more.
 【パーティ内でエレメントバーストが発動するたびに、1ターンの間、コンディションを20%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time Element Burst is ignited in the party, increases Condition by 20% for 1 turn]. ※Effect is permanent for the rest of the battle
 蒼炎風車=Souen Fuusha
 
 //Vincennes
 ノワレスナップ=Noiret Snap
-「ノワレスナップ」を選択した同じターンに、物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Noiret Snap is selected, select other physical attack all-target skills total 2+ excluding self on the same turn.
+「ノワレスナップ」を選択した同じターンに、物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Noiret Snap is selected, select other physical attack all-target skills total 2 or more.
 自身と発動条件を満たしているレイヤーの物理攻撃力を15%上昇させ、更にターン中に行動していないエネミーに与えるダメージを25%上昇させる。※それぞれ効果は発動ターンのみ=Increases self and linked Layers' ATK by 15% and increases damage dealt to enemies that has not yet acted by 25%. ※Each effect lasts this turn only
 ニュイテトワレ=Nuit Étoilée
-「ニュイテトワレ」を選択した同じターンに、衝属性または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Nuit Étoilée is selected, select other Blow Element or Dark Element included double-element skills total 2+ excluding self on the same turn.
+「ニュイテトワレ」を選択した同じターンに、衝属性または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Nuit Étoilée is selected, select other Blow Element or Dark Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、ポジション1のレイヤーの物理攻撃力と速さを30%上昇させ、ポジション2・3のレイヤーの物理攻撃力と速さを20%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases Position 1 Layer's ATK and SPD by 30% and increases Positions 2 and 3 Layers' ATK and SPD by 20% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 アニマルパニック=Animal Panic
 祝炎の舞=Celebratory Fire Dance
-「祝炎の舞」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Celebratory Fire Dance is selected, select other Blow or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「祝炎の舞」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Celebratory Fire Dance is selected, select other Blow or Fire Element included double-element skills total 2 or more.
 自身の「祝炎の舞」発動時、【属性火/光】の全体攻撃として攻撃する。更に自身の物理攻撃力を30%上昇させる。※それぞれ効果は発動ターンのみ=When Celebratory Fire Dance is activated, attacks all enemies with Fire or Light Element damage and increases ATK by 30%. ※Each effect lasts this turn only
 獅子乱撃=Lion Wild Attack
-「獅子乱撃」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Lion Wild Attack is selected, select other Blow or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「獅子乱撃」を選択した同じターンに、衝または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Lion Wild Attack is selected, select other Blow or Fire Element included double-element skills total 2 or more.
 【Weak攻撃時に与えるダメージを75%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases weakness damage dealt by 75%]. ※Applied buff is permanent for the rest of the battle
 アサルトパニック=Assault Panic
 敵全体に物理（衝）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（極大）させる。=Attacks all enemies with physical (Blow). If CP is 4+, increases ATK during Element Burst (XL) for 1 turn.
 
 //Vorkuta
 キルアックス=Kill Axe
-「キルアックス」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する=When Kill Axe is selected, select other Cut Element or Dark Element skills total 2+ excluding self on the same turn.
+「キルアックス」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する=When Kill Axe is selected, select other Cut Element or Dark Element skills total 2 or more.
 ヘルファング=Hell Fang
-「ヘルファング」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する=When Hell Fang is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ヘルファング」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する=When Hell Fang is selected, select other Cut Element included double-element skills total 2 or more.
 クラスィニー・グラザ=Krasnaya Groza
 
 //Karasuma
 黒羽=Kurobane
-「黒羽」を選択した同じターンに、魔法攻撃スキルを、自身を除く2体以上が選択する。=When Kurobane is selected, select other magical attack skills total 2+ excluding self on the same turn.
+「黒羽」を選択した同じターンに、魔法攻撃スキルを、自身を除く2体以上が選択する。=When Kurobane is selected, select other magical attack skills total 2 or more.
 自身と発動条件を満たしたレイヤーの魔法攻撃力と命中を20%上昇させる。※効果は発動ターンのみ=Increases self and linked Layers' MATK and HIT by 20%. ※Effect lasts this turn only
 羽搏き鴉=Habataki Karasu
-「羽搏き鴉」を選択した同じターンに、衝属性を含む双属性スキルまたは魔法攻撃スキルを、自身を除く2体以上が選択する。=When Habataki Karasu is selected, select other Blow Element included double-element skills or magical attack skills total 2+ excluding self on the same turn.
+「羽搏き鴉」を選択した同じターンに、衝属性を含む双属性スキルまたは魔法攻撃スキルを、自身を除く2体以上が選択する。=When Habataki Karasu is selected, select other Blow Element included double-element skills or magical attack skills total 2 or more.
 【敵を撃破時、自身のHPを回復させ、2ターンの間、味方全体の魔法攻撃力を15%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [When KO'ing an enemy, recovers HP and increases all allies MATK by 15% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 サークルクロウ=Circle Crow
 日月烏=Hachigetsu'u
-「日月烏」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Hachigetsu'u is selected, select other Fire Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「日月烏」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Hachigetsu'u is selected, select other Fire Element or magical attack single-target skills total 2 or more.
 自身のコンディションを30%上昇させ、行動後に自身のSPを3回復する。※効果はそれぞれ発動ターンのみ=Increases Condition by 30% and after taking action, recovers 3 SP. ※Effect lasts this turn only
 烏啼獄=Uteigoku
-「烏啼獄」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Uteigoku is selected, select other 13+ original SP cost magical attack skills total 2+ excluding self on the same turn.
+「烏啼獄」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Uteigoku is selected, select other 13+ original SP cost magical attack skills total 2 or more.
 敵単体に魔法（火）か魔法（闇）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with magical (Fire) or magical (Dark) damage and recovers 3 SP.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の「Over Limit」を2段階強化する。※効果はバトル中、waveの移動やターン経過では解除されない=Increases Over Limit by 2 stages if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 カリスマ的勝利！=Charismatic Victory!
@@ -186,26 +188,26 @@
 
 //Guernica
 ブラッドノヴァ=Blood Nova
-「ブラッドノヴァ」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する=When Blood Nova is selected, select other Cut Element or Dark Element skills total 2+ excluding self on the same turn.
+「ブラッドノヴァ」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する=When Blood Nova is selected, select other Cut Element or Dark Element skills total 2 or more.
 サクリファイスヴィジョン=Sacrifice Vision
 サクリファイスヴ…=Sacrifice Vis...
-「サクリファイスヴィジョン」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Sacrifice Vision is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「サクリファイスヴィジョン」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Sacrifice Vision is selected, select other Cut Element included double-element skills total 2 or more.
 マタル・シエラ=Sierra Matadora
 
 //Byst
 ディーグ・オニキス=Deeg Onyx
 ディーグ・オニキ…=Deeg Onyx
-「ディーグ・オニキス」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する	=When Deeg Onyx is selected, select other Cut Element or Dark Element skills total 2+ excluding self on the same turn.
+「ディーグ・オニキス」を選択した同じターンに、刃属性または闇属性スキルを、自身を除く2体以上が選択する	=When Deeg Onyx is selected, select other Cut Element or Dark Element skills total 2 or more.
 ブラックダイアモンド=Black Diamond
 ブラックダイアモ…=Black Diamond
-「ブラックダイアモンド」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Black Diamond is selected, select other physical attack single-target skills total 2+ excluding self on the same turn.
+「ブラックダイアモンド」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Black Diamond is selected, select other physical attack single-target skills total 2 or more.
 ジェムダイナマイト=Gem Dynamite
 フルゴル・ドゥルキス=Fulgor Dulcis
 フルゴル・ドゥル…=Fulgor Dulcis
-「フルゴル・ドゥルキス」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Fulgor Dulcis is selected, select other Cut Element or Fire Element skills total 2+ excluding self on the same turn.
+「フルゴル・ドゥルキス」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Fulgor Dulcis is selected, select other Cut Element or Fire Element skills total 2 or more.
 リンクスキル発動時に自身のHPが90%未満の場合、自身とポジション1の物理攻撃力を50%上昇させる。※効果は発動ターンのみ=If HP is less than 90% when this skill is linked, increases self and Position 1's ATK by 50%. ※Effect lasts this turn only
 ルベルイアスピス=Rubrum Jaspis
-「ルベルイアスピス」を選択した同じターンに、刃属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Rubrum Jaspis is selected, select other Cut Element physical attack skills total 2+ excluding self on the same turn.
+「ルベルイアスピス」を選択した同じターンに、刃属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Rubrum Jaspis is selected, select other Cut Element physical attack skills total 2 or more.
 敵全体に物理（刃）か物理（火）で攻撃し、自身の物理攻撃力を上昇（大）する。※効果は2ターンのみ=Attacks all enemies with physical (Cut) or physical (Fire) damage and increases ATK (L). ※Effect lasts 2 turns only
 リンクスキル発動時に自身のHPが90%未満の場合、自身が敵に与えるダメージを55%上昇させる。※効果は発動ターンのみ=If HP is less than 90% when this skill is linked, increases damage dealt to enemies by 55%. ※Effect lasts this turn only
 シャッツハッカー=Schatzhacker
@@ -214,9 +216,9 @@
 //Abbey Road
 ブリーズソング=Breeze Song
 敵全体に魔法（風）か魔法（衝）で攻撃し、相手の速さを減少（中）させる。※効果は2ターンのみ=Attacks all enemies with magical (Wind) or magical (Blow) damage and decreases SPD (S). ※Effect lasts 2 turns only
-「ブリーズソング」を選択した同じターンに、風属性または魔法攻撃スキルを、自身を除く2体以上が選択する。=When Breeze Song is selected, select other Wind Element or magical attack skills total 2+ excluding self on the same turn.
+「ブリーズソング」を選択した同じターンに、風属性または魔法攻撃スキルを、自身を除く2体以上が選択する。=When Breeze Song is selected, select other Wind Element or magical attack skills total 2 or more.
 テンペストティムバ=Tempest Tempo
-「テンペストティムバ」を選択した同じターンに、初期SPが13以上のスキルを、自身を除く2体以上が選択する。=When Tempest Tempo is selected, select other 13+ original SP cost skills total 2+ excluding self on the same turn.
+「テンペストティムバ」を選択した同じターンに、初期SPが13以上のスキルを、自身を除く2体以上が選択する。=When Tempest Tempo is selected, select other 13+ original SP cost skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に味方全体の、スペシャルスキルのチャージポイントを1回復させる。※効果は発動ターンのみ=Recovers all allies Special Skill CP by 1 if this skill is linked for this first time in this battle. ※Effect lasts this turn only
 グリッサンドクロス=Glissando Cross
 敵単体に魔法（衝）で攻撃する。CP4以上の場合、1ターンの間、味方全体のエレメントバースト時の魔法攻撃力を上昇（極大）させる。=Attacks a single enemy with magical (Blow) damage. If CP is 4+, increases all allies' MATK (XL) for 1 turn.
@@ -224,39 +226,39 @@
 //Whisper
 アエラスシェイヴ=Aerus Shave
 敵単体に物理（衝）か物理（風）で攻撃し、稀に「麻痺」の状態異常（小）を付与する。※効果は3ターンのみ=	Attacks a single enemy with physical (Blow) or physical (Wind) damage and rarely inflicts Paralysis (S). ※Effect lasts 3 turns only
-「アエラスシェイヴ」を選択した同じターンに、衝属性または風属性スキルを、自身を除く2体以上が選択する。=When Aerus Shave is selected, select other Blow Element or Wind Element skills total 2+ excluding self on the same turn.
+「アエラスシェイヴ」を選択した同じターンに、衝属性または風属性スキルを、自身を除く2体以上が選択する。=When Aerus Shave is selected, select other Blow Element or Wind Element skills total 2 or more.
 敵全体の物理攻撃力と速さを30%減少させる。※効果は発動ターンのみ=Decreases all enemies' ATK and SPD by 30%. ※Effect lasts this turn only
 ライアーゲイル=Lyre Gale
-「ライアーゲイル」を選択した同じターンに、衝または風属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Lyre Gale is selected, select other Blow or Wind Element included double-element skills total 2+ excluding self on the same turn.
+「ライアーゲイル」を選択した同じターンに、衝または風属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Lyre Gale is selected, select other Blow or Wind Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、【攻撃後、3ターンの間、稀に相手に麻痺の状態異常（中）を付与する】効果を現在の速さが最も高いレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない =Layer with the current highest SPD gains buff [After attacking, rarely inflicts Paralysis (M) for 3 turns] if this skill is linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
 ソーバーンウィップ=Thorburn Whip
 敵全体に物理（衝）で攻撃する。CP4以上の場合、2ターンの間、敵全体の幸運を減少（中）する。=Attacks all enemies with physical (Blow) damage. If CP is 4+, decreases all enemies' LUCK (M) for 2 turns.
 
 //Iraklion
 緑雷拳=Green Lightning Fist
-「緑雷拳」を選択した同じターンに、衝属性または風属性スキルを、自身を除く2体以上が選択する。=When Green Lightning Fist is selected, select other Blow Element or Wind Element skills total 2+ excluding self on the same turn.
+「緑雷拳」を選択した同じターンに、衝属性または風属性スキルを、自身を除く2体以上が選択する。=When Green Lightning Fist is selected, select other Blow Element or Wind Element skills total 2 or more.
 荷電粒子砲=Charged Particle Cannon
-「荷電粒子砲」を選択した同じターンに、衝または風属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Charged Particle Cannon is selected, select other Blow or Wind Element included double-element skills total 2+ excluding self on the same turn.
+「荷電粒子砲」を選択した同じターンに、衝または風属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Charged Particle Cannon is selected, select other Blow or Wind Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の物理防御力を30%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases DEF by 30% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 ブラキオンミサイル=Braklion Missile
 敵単体に物理（衝）で攻撃する。CP4以上の場合、2ターンの間、自身の貫属性耐性を上昇（特大）する。=Attacks a single enemy with physical (Blow) damage. If CP is 4+, increases Pierce Element Resistance (VL) for 2 turns.
 アーデルカノン=Adele Cannon
-「アーデルカノン」を選択した同じターンに、衝属性を含む双属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Adele Cannon is selected, select other Blow Element included double-element skills or physical single-target skills total 2+ excluding self on the same turn.
+「アーデルカノン」を選択した同じターンに、衝属性を含む双属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Adele Cannon is selected, select other Blow Element included double-element skills or physical single-target skills total 2 or more.
 リンクスキル発動時、行動順番を無視して1回だけ「アーデルカノン」で『追加行動』する。※効果は発動ターンのみ=When this skill is linked, Additional Action with Adele Cannon once, ignoring order of actions. ※Effect lasts this turn only
 ロードングローブ=Rhodon Glove
-「ロードングローブ」を選択した同じターンに、衝属性を含む双属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Rhodon Glove is selected, select other Blow Element included double-element skills or physical single-target skills total 2+ excluding self on the same turn.
+「ロードングローブ」を選択した同じターンに、衝属性を含む双属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Rhodon Glove is selected, select other Blow Element included double-element skills or physical single-target skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の物理攻撃力を30%上昇させ、更にコンディションを30%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases ATK by 30% and increases Condition by 30% if this skill is linked for the first time in this battle. ※Each effect is permanent for the rest of the battle
 ロードンアクセル=Rhodon Accel
 
 //Sumire
 拳激瀑布=Kengeki Bakufu
-「拳激瀑布」を選択した同じターンに、衝または水属性を含む双属性スキルを、自身を除く3体以上が選択する。=When Kengeki Bakufu is selected, select other Blow or Water Element included double-element skills total 3+ excluding self on the same turn.
+「拳激瀑布」を選択した同じターンに、衝または水属性を含む双属性スキルを、自身を除く3体以上が選択する。=When Kengeki Bakufu is selected, select other Blow or Water Element included double-element skills total 3 or more.
 自身の「拳激瀑布」発動時、【威力SSS】の単体攻撃として攻撃する。※効果は発動ターンのみ=When Kengeki Bakufu is activated, attack becomes single-target SSS Power. ※Effect lasts this turn only
 水遁・激流時雨=Suiton Gekiryuu Jiu
-「水遁・激流時雨」を選択した同じターンに、衝属性を含む双属性スキルを、自身を除く3体以上が選択する。=When Suiton Gekiryuu Jiu is selected, select other Blow Element included double-element skills total 3+ excluding self on the same turn.
+「水遁・激流時雨」を選択した同じターンに、衝属性を含む双属性スキルを、自身を除く3体以上が選択する。=When Suiton Gekiryuu Jiu is selected, select other Blow Element included double-element skills total 3 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の物理攻撃力を80%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases ATK by 80% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 水遁・波紋水拳=Suiton Hamon Suiken
-「水遁・波紋水拳」を選択した同じターンに、衝属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Suiton Hamon Suiken is selected, select other Blow Element included double-element skills total 2+ excluding self on the same turn.
+「水遁・波紋水拳」を選択した同じターンに、衝属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Suiton Hamon Suiken is selected, select other Blow Element included double-element skills total 2 or more.
 自身の「水遁・波紋水拳」発動時、攻撃回数を1回から2回に増やす。※効果は発動ターンのみ=When Suiton Hamon Suiken is activated, increases the number of attacks from 1 to 2 times. ※Effect lasts this turn only
 以水滅火=Isuimekka
 敵単体に物理（衝）で攻撃する。CP4以上の場合、発動後に1ターンの間、自身のコンディションを上昇（特大）する。=Attacks a single enemy with physical (Blow) damage. If CP is 4+, increases Condition (VL) for 1 turn.
@@ -264,12 +266,12 @@
 //Lovelia
 ミッドナイトフレア=Midnight Flare
 ミッドナイトフレ…=Midnight Flare
-「ミッドナイトフレア」を選択した同じターンに、貫属性または火属性スキルを、自身を除く2体以上が選択する。=When Midnight Flare is selected, select other Pierce Element or Fire Element skills total 2+ excluding self on the same turn.
+「ミッドナイトフレア」を選択した同じターンに、貫属性または火属性スキルを、自身を除く2体以上が選択する。=When Midnight Flare is selected, select other Pierce Element or Fire Element skills total 2 or more.
 フォースドレイン=Force Drain
 敵単体に物理（貫）か物理（火）で攻撃し、自身のHPを回復する。=Attacks a single enemy with physical (Pierce) or physical (Fire) damage and recovers HP.
-「フォースドレイン」を選択した同じターンに、貫または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Force Drain is selected, select other Pierce or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「フォースドレイン」を選択した同じターンに、貫または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Force Drain is selected, select other Pierce or Fire Element included double-element skills total 2 or more.
 ブレイズハート=Blaze Heart
-「ブレイズハート」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blaze Heart is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「ブレイズハート」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blaze Heart is selected, select other Pierce Element included double-element skills total 2 or more.
 自身の行動後に、行動順番を無視して1回だけ「ミッドナイトフレア 」で『追加行動』する。※効果は発動ターンのみ=After taking action, Additional Action with Midnight Flare once, ignoring order of actions. ※Effect lasts this turn only
 サキュバス・テンプテーション=Succubus Temptation
 敵単体に物理（貫）で攻撃し、稀に2ターンの間「魅了」の状態異常（大）を付与する。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, rarely inflicts Charm (L) for 2 turns.
@@ -277,119 +279,119 @@
 //Cattleya
 シャイニングセイバー=Shining Saber
 シャイニングセイ…=Shining Saber
-「シャイニングセイバー」を選択した同じターンに、刃属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Shining Saber is selected, select other Cut Element physical attack skills total 2+ excluding self on the same turn.
+「シャイニングセイバー」を選択した同じターンに、刃属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Shining Saber is selected, select other Cut Element physical attack skills total 2 or more.
 ホーリーホライゾン=Holy Horizon
 ホーリーホライゾ…=Holy Horizon
-「ホーリーホライゾン」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Holy Horizon is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ホーリーホライゾン」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Holy Horizon is selected, select other Cut Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の物理攻撃力を50%上昇させ、更にコンディションを30%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases ATK by 50% and increases Condition by 30% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 ダズリングカリバー=Dazzling Calibur
 ダズリングカリバ…=Dazzling Cal...
-「ダズリングカリバー」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Dazzling Calibur is selected, select other Cut Element all-target skills total 2+ excluding self on the same turn.
+「ダズリングカリバー」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Dazzling Calibur is selected, select other Cut Element all-target skills total 2 or more.
 ブリリアントザンバー=Brilliant Zamber
 敵単体に物理（刃）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（極大）させる。=Attacks a single enemy with physical (Cut) damage. If CP is 4+, increases ATK during Element Burst (XL) for 1 turn.
 
 //Bercy
 シャインストーリー=Shine Story
 シャインストーリ…=Shine Story
-「シャインストーリー」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Shine Story is selected, select other Cut Element magical attack skills total 2+ excluding self on the same turn.
+「シャインストーリー」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Shine Story is selected, select other Cut Element magical attack skills total 2 or more.
 発動条件を満たしたレイヤー1体につき、ポジション5のレイヤーの魔法攻撃力を20%上昇させる。※効果は発動ターンのみ=Increases Position 5 Layer's MATK by 20% for each linked Layer. ※Effect lasts this turn only
 フェアリーテイル=Fairy Tail
-「フェアリーテイル」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Fairy Tail is selected, select other skills from Artifact weapon Layers total 2+ excluding self on the same turn.
+「フェアリーテイル」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Fairy Tail is selected, select other skills from Artifact weapon Layers total 2 or more.
 【ポジション5にいる場合、自身のコンディションを100%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked layers gains buff [If on Position 5, increases Condition by 100%] if this skill is Linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
 リーブルソーサラー=Libre Sorcerer
 敵全体に魔法（刃）で攻撃する。CP4以上の場合、味方全体のHPを回復（小）する。=Attack all enemies with magical (Cut) damage. If CP is 4+, recovers all allies' HP (S).
 
 //Shuri
 風玉射=Kajigyokusha
-「風玉射」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Kajigyokusha is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「風玉射」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Kajigyokusha is selected, select other Pierce Element physical attack skills total 2 or more.
 【行動前、味方全体のHPを回復し、1ターンの間、物理攻撃力を15%上昇させる】効果を自身に付与する。※付与効果は2ターンのみ=Gain buff [Before taking action, recovers all allies' HP and increases ATK by 10% for 1 turn]. ※Applied buff lasts 2 turns only
 翡翠雨=Hisuiu
-「翡翠雨」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Hisuiu is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「翡翠雨」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Hisuiu is selected, select other Pierce Element included double-element skills total 2 or more.
 【HPが満タンの時、自身が敵に与えるダメージを50%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [When HP is full, increases damage dealt to enemies by 50%]. ※Applied buff is permanent for the rest of the battle
 獅子炎柱=Shishi Enbaaya
 敵単体に物理（貫）で攻撃する。CP4以上の場合、2ターンの間、味方全体の物理防御力を上昇（中）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases all allies' DEF (M) for 2 turns.
 
 //Nordhausen
 バーンショック=Burn Shock
-「バーンショック」を選択した同じターンに、火属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Burn Shock is selected, select other Fire Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「バーンショック」を選択した同じターンに、火属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Burn Shock is selected, select other Fire Element or magical attack single-target skills total 2 or more.
 ヴァルカンボム=Vulcan Bomb
 【スペシャルスキルのチャージを選択した時、行動後、自身のCPを1回復する】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [When charging the Special Skill, recovers 1 CP after taking action]. ※Applied buff is permanent for the rest of the battle
 クリザンテーメ・フランメ=Chrysantheme Flamme
 
 //Istanbul
 トリトンスピン=Triton Spin
-「トリトンスピン」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Triton Spin is selected, select other Pierce Element or Water Element skills total 2+ excluding self on the same turn.
+「トリトンスピン」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Triton Spin is selected, select other Pierce Element or Water Element skills total 2 or more.
 味方全体を対象とした【かばう】効果を自身に付与する。※効果は発動ターンのみ	=Gains Cover that shields all allies. ※Effect lasts this turn only
 グリゴロス・ヒュドール=Grígoros Húdōr
 グリゴロス・ヒュ…=Grígoros Hú...
 敵全体に物理（貫）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks all enemies with physical (Pierce) or physical (Water) damage and recovers 3 SP.
-「グリゴロス・ヒュドール」を選択した同じターンに、貫属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Grígoros Húdōr is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「グリゴロス・ヒュドール」を選択した同じターンに、貫属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Grígoros Húdōr is selected, select other Pierce Element included double-element skills total 2 or more.
 【自身が攻撃を受けた後、一定確率で2ターンの間、味方全体の物理攻撃力を10%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When attacked, chance to increase all allies' MATK by 10% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 聖祈の槍=Holy Prayer Spear
 敵全体に物理（貫）で攻撃する。CP4以上の場合、2ターンの間、自身の刃属性耐性を上昇（特大）する。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases Cut Element Resistance (L) for 2 turns.
 
 //Guatemala
 マシンガンアグワ=Machine Gun Agwa
-「マシンガンアグワ」を選択した同じターンに、貫属性魔法攻撃または水属性単体スキルを、自身を除く2体以上が選択する。=When Machine Gun Agwa is selected, select other Pierce Element magical attack or Water Element single-target skills total 2+ excluding self on the same turn.
+「マシンガンアグワ」を選択した同じターンに、貫属性魔法攻撃または水属性単体スキルを、自身を除く2体以上が選択する。=When Machine Gun Agwa is selected, select other Pierce Element magical attack or Water Element single-target skills total 2 or more.
 敵全体の命中と速さを30%減少させる。※効果は発動ターンのみ=Decreases all enemies' HIT and SPD by 30%. ※Effect lasts this turn only
 バイキングガイザー=Viking Geyser
 バイキングガイザ…=Viking Geyser
-「バイキングガイザー」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Viking Geyser is selected, select other Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「バイキングガイザー」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Viking Geyser is selected, select other Pierce Element magical attack skills total 2 or more.
 【敵が攻撃をMissした時、一定確率で2ターンの間、敵全体の魔法防御力を10%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When an enemy's attack misses, chance to decrease all enemies' MDEF by 10% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 クララランチャー=Clala Launcher
 敵単体に魔法（貫）で攻撃し、3ターンの間、自身に対する敵視を上昇（大）させる。=Attacks a single enemy with magical (Pierce) damage and increases self hostility (L) for 3 turns.
 ラスエルテショット=La Suerte Shot
 ラスエルテショッ…=La Suerte Shot
-「ラスエルテショット」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When La Suerte Shot is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「ラスエルテショット」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When La Suerte Shot is selected, select other Pierce Element included double-element skills total 2 or more.
 セレブラルシレーナ=Celebrar Sirena
 セレブラルシレー…=Celebrar Sire...
-「セレブラルシレーナ」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Celebrar Sirena is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「セレブラルシレーナ」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Celebrar Sirena is selected, select other Pierce Element included double-element skills total 2 or more.
 自身の魔法攻撃力を100%上昇させる。※効果は発動ターンのみ=Increases MATK by 100%. ※Effect lasts this turn only
 ペスエンエルマール=Paz en el Mar
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks all enemies with magical (Pierce) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.
 
 //Oxford
 ドリームライト=Dream Light
-「ドリームライト」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Dream Light is selected, select other Light Element magical attack skills total 2+ excluding self on the same turn.
+「ドリームライト」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Dream Light is selected, select other Light Element magical attack skills total 2 or more.
 味方全体の速さを30%上昇させる。更に自身と条件満たしたレイヤーの魔法攻撃力を20%上昇させる。※効果は発動ターンのみ=Increases all allies' SPD by 30% and increases MATK by 20%. ※Effect lasts this turn only
 ワンダートランプ=Wonder Trump
-「ワンダートランプ」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Wonder Trump is selected, select other skills from Artifact weapon layers total 2+ excluding self on the same turn.
+「ワンダートランプ」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Wonder Trump is selected, select other skills from Artifact weapon layers total 2 or more.
 【自身の速さ500につき、ダメージが5％(最大100%)上昇する】効果を自身と発動条件を満たしたレイヤーに付与する。※ 効果はバトル中、waveの移動やターン経過では解除されない=Self and linked Layers gain buff [Increases damage by 5% (Max 100%) for every 500 SPD]. ※Effect is permanent for the rest of the battle
 ファンシーリドル=Fancy Riddle
 敵全体に魔法（刃）で攻撃し、稀に2ターンの間「混乱」の状態異常（中）を付与する。=Attacks all enemies with magical (Cut) damage and rarely inflicts Confusion (M) for 2 turns.
 妖炎の手=Fairy Fire Hand
 敵全体に魔法（刃）か魔法（火）で攻撃し、自身の命中を上昇（中）させる。※効果はバトル中、waveの移動やターン経過では解除されない=<size\=13>Attacks all enemies with magical (Cut) or magical (Fire) damage and increases HIT (M). ※Effect is permanent for the rest of the battle</size>
-「妖炎の手」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Fairy Fire Hand is selected, select other Cut Element magical attack skills total 2+ excluding self on the same turn.
+「妖炎の手」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Fairy Fire Hand is selected, select other Cut Element magical attack skills total 2 or more.
 炎魔怪異=Balrog Mystery
 敵全体に魔法（刃）か魔法（火）で攻撃し、自身のSPを3回復する。=Attacks all enemies with magical (Cut) or magical (Fire) damage and recovers 3 SP.
-「炎魔怪異」を選択した同じターンに、刃属性魔法攻撃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Balrog Mystery is selected, select other Cut Element magical attack skills or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「炎魔怪異」を選択した同じターンに、刃属性魔法攻撃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Balrog Mystery is selected, select other Cut Element magical attack skills or Fire Element included double-element skills total 2 or more.
 【自身の命中500につき、ダメージが10％(最大200%)上昇する】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases damage by 10% (Max 200%) for every 500 HIT]. ※Applied buff is permanent for the rest of the battle
 ファンシーゴースト=Fancy Ghost
 敵単体に魔法（刃）で攻撃する。CP4以上の場合、2ターンの間、自身のコンディションを上昇（特大）する。=Attacks a single enemy with magical (Cut) damage. If CP is 4+, increases Condition (VL) for 2 turns.
 
 //Salekhard
 ネーヴェ・レプス=Neve Lepus
-「ネーヴェ・レプス」を選択した同じターンに、魔法攻撃単体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Neve Lepus is selected, select other magical attack single-target skills or Water Element included double-element skills total 2+ excluding self on the same turn.
+「ネーヴェ・レプス」を選択した同じターンに、魔法攻撃単体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Neve Lepus is selected, select other magical attack single-target skills or Water Element included double-element skills total 2 or more.
 サスーリカヘル=Sosul'ka Hell
-「サスーリカヘル」を選択した同じターンに、魔法攻撃単体または衝属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Sosul'ka Hell is selected, select other magical attack single-target skills or Blow Element included double-element skills total 2+ excluding self on the same turn.
+「サスーリカヘル」を選択した同じターンに、魔法攻撃単体または衝属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Sosul'ka Hell is selected, select other magical attack single-target skills or Blow Element included double-element skills total 2 or more.
 【衝属性スキルを使用する場合、1ターンの間、魔法攻撃力を60%上昇させる】効果を自身に付与する。※ 効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a Blow Element skill, increases MATK by 60% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 コキュートスブリザード=Cocytus Blizzard
 敵単体に魔法（水）で攻撃する。CP4以上の場合、2ターンの間、自身の命中を上昇（中）する。=Attacks a single enemy with magical (Water) damage. If CP is 4+, increases HIT (M) for 2 turns.
 セレブロリク=Serebryanik
-「セレブロリク」を選択した同じターンに、魔法攻撃全体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Serebryanik is selected, select other magical attack all-target or Water Element included double skills total 2+ excluding self on the same turn.
+「セレブロリク」を選択した同じターンに、魔法攻撃全体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Serebryanik is selected, select other magical attack all-target or Water Element included double skills total 2 or more.
 リオート・ヴォルク=Lod Volkhv
 リオート・ヴォル…=Lod Volkhv
-「リオート・ヴォルク」を選択した同じターンに、魔法攻撃全体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Lod Volkhv is selected, select other magical attack all-target or Water Element included double skills total 2+ excluding self on the same turn.
+「リオート・ヴォルク」を選択した同じターンに、魔法攻撃全体または水属性を含む双属性のスキルを、自身を除く2体以上が選択する。=When Lod Volkhv is selected, select other magical attack all-target or Water Element included double skills total 2 or more.
 【水属性がWeakのエネミーに与えるダメージを75%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases Water Element weakness damage dealt to enemies by 75%]. ※Applied buff is permanent for the rest of the battle
 フェーヤ・ヴァルナ=Feya Varuna
 敵全体に魔法（水）で攻撃する。CP4以上の場合、1ターンの間、自身の魔法攻撃力と命中を上昇（中）する。=Attacks all enemies with magical (Water) damage. If CP is 4+, increases MATK and HIT (M) for 1 turn.
 
 //Nazca
 レストストラップ=Restos Trap
-「レストストラップ」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Restos Trap is selected, select other Blow Element included double-element skills total 2+ excluding self on the same turn.
+「レストストラップ」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Restos Trap is selected, select other Blow Element included double-element skills total 2 or more.
 味方全体のエレメントバースト時の物理攻撃力を15%上昇させる。※それぞれ効果は発動ターンのみ=Increases all allies' ATK during Elemental Bursts by 15%. ※Effect lasts this turn only
 トレジャーハント=Treasure Hunt
-「トレジャーハント」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Treasure Hunt is selected, select other Blow Element included double-element skills total 2+ excluding self on the same turn.
+「トレジャーハント」を選択した同じターンに、衝属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Treasure Hunt is selected, select other Blow Element included double-element skills total 2 or more.
 【パーティ内でエレメントバーストが発動するたびに、一定確率で自身のコンディションが50%上昇する】効果を自身に付与する。※上昇効果と付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time Element Burst is ignited in the party, chance to increase Condition by 50%]. ※Effect and applied buff is permanent for the rest of the battle
 トロッコボンバー=Trochós Bomber
 
@@ -398,72 +400,74 @@
 【全属性のエレメント蓄積数の合計が「3」以上の敵から受けるダメージを25%軽減する】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果は発動ターンのみ=Self and linked Layers gain buff [Decreases damage taken from enemies with 3 or more total Element stacks by 25%]. ※Applied buff lasts this turn only
 グリッター・クラウン=Glitter Crown
 グリッター・クラ…=Glitter Crown
-「グリッター・クラウン」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く3体以上が選択する。=When Glitter Crown is selected, select other 13+ original SP cost skills total 3+ excluding self on the same turn.
+「グリッター・クラウン」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く3体以上が選択する。=When Glitter Crown is selected, select other 13+ original SP cost skills total 3 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、【敵に付与する各属性のエレメント数を2増加させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [Increases each Element stack applied to enemies by 2] if this skill is Linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
 雷霆万鈞の御業=Manifest Thunderous Wrath
 敵単体に魔法（光）で攻撃する。CP5の場合、２ターンの間、味方全体の全てのステータスを30％上昇させる。=Attacks a single enemy with magical (Light) damage. If CP is 5, increases all allies' All Stats by 30% for 2 turns.
 ブレスサイス=Bless Scythe
 敵単体に魔法（光）か魔法（闇）で攻撃し、自身のHPを最大HPの5%分減少させる。=Attacks a single enemy with magical (Light) or magical (Dark) damage and decreases 5% of self Max HP.
-「ブレスサイス」を選択した同じターンに、光または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Bless Scythe is selected, select other Light or Dark Element included double-element skills total 2+ excluding self on the same turn.
+「ブレスサイス」を選択した同じターンに、光または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Bless Scythe is selected, select other Light or Dark Element included double-element skills total 2 or more.
 自身の魔法攻撃力を30%上昇させる。更に自身の「ブレスサイス」発動時、【威力SSS】の単体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases MATK by 30%; When Bless Scythe is activated, attack becomes single-target SSS Power. ※Each effect lasts this turn only
 グロウリーパー=Glow Reaper
-「グロウリーパー」を選択した同じターンに、初期SPが13以上のスキルを、自身を除く2体以上が選択する。=When Glow Reaper is selected, select other 13+ original SP cost skills total 2+ excluding self on the same turn.
+「グロウリーパー」を選択した同じターンに、初期SPが13以上のスキルを、自身を除く2体以上が選択する。=When Glow Reaper is selected, select other 13+ original SP cost skills total 2 or more.
 【威力SSS以上のスキルを使用する場合、1ターンの間、魔法攻撃力を100%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a SSS+ Power skill, increases MATK by 100% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 黒鴉の祝福=Black Raven's Blessing
 敵全体に魔法（光）か魔法（闇）で攻撃し、2ターンの間、自身の魔法攻撃力を上昇（大）する。CP4の場合、自身のHPを回復する。=<size\=13>Attacks all enemies with magical (Light) or magical (Darkness) damage and increases MATK (L) for 2 turns. If CP is 4, recovers HP.</size>
 
 //Shimoamazu I
 禍呪=Kaju
-「禍呪」を選択した同じターンに、スキルまたは魔法通常攻撃を、自身を除く2体以上が選択する。=When Kaju is selected, select other skills or magical normal attacks total 2+ excluding self on the same turn.
+「禍呪」を選択した同じターンに、スキルまたは魔法通常攻撃を、自身を除く2体以上が選択する。=When Kaju is selected, select other skills or magical normal attacks total 2 or more.
 味方全体の魔法攻撃力を40％上昇させる。更に自身に「沈黙」の状態異常を付与する。※効果はそれぞれ発動ターンのみ=Increases all allies' MATK by 40%; inflicts self Silence. ※Each effect lasts this turn only
 葬華呪=Soukaju
-「葬華呪」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Soukaju is selected, select other skills from Artifact weapon Layers total 2+ excluding self on the same turn.
+「葬華呪」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Soukaju is selected, select other skills from Artifact weapon Layers total 2 or more.
 リンクスキル発動条件を満たしたレイヤーが選択したスキルを『葬華呪』に置き換え発動させる。※効果は発動ターンのみ=Linked Layers replace their selected skill with Soukaju and activate. ※Effect lasts this turn only
 死鬼転呪殺=Shikiten Jusatsu
 敵単体に魔法（刃）で攻撃し、稀に4ターンの間「暗闇」の状態異常（中）を付与する。CP4以上の場合、3ターンの間、相手の物理攻撃力と魔法攻撃力を減少（中）させる。=<size\=13>Attacks a single enemy with magical (Cut) damage and rarely inflicts Blindness (M) for 4 turns. If CP is 4+, decreases ATK and MATK (M) for 3 turns.</size>
 ばくそう！=Mad Dash!
-「ばくそう！」を選択した同じターンに、風属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Mad Dash! is selected, select other Wind Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「ばくそう！」を選択した同じターンに、風属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Mad Dash! is selected, select other Wind Element or magical attack all-target skills total 2 or more.
 自身がエレメントバーストで与えるダメージを10%上昇させ、更にエレメントバースト時の魔法攻撃力を10%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases Element Burst damage dealt by 10% and increases MATK during Element Burst by 10%. ※Each effect is permanent for the rest of the battle
 呪風滅光=Jufuu Mekkou
-「呪風滅光」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Jufuu Mekkou is selected, select other skills from Artifact weapon Layers total 2+ excluding self on the same turn.
+「呪風滅光」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Jufuu Mekkou is selected, select other skills from Artifact weapon Layers total 2 or more.
 リンクスキル発動条件を満たしたレイヤーが選択したスキルを『呪風滅光』に置き換え発動させる。※効果は発動ターンのみ=Linked Layers replace their selected skill with Jufuu Mekkou and activate. ※Effect lasts this turn only
 ちこく、ちこく～！=I'm Late, I'm Latee～!
 敵全体に魔法（刃）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks all enemies with magical (Cut) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.
 
 //Shiranui Mizuki
 水遁の術・雫=Water Art Shizuku
-「水遁の術・雫」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Water Art Shizuku is selected, select other Pierce Element or Water Element skills total 2+ excluding self on the same turn.
+「水遁の術・雫」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Water Art Shizuku is selected, select other Pierce Element or Water Element skills total 2 or more.
 自身の物理攻撃力を70%上昇させる。更に自身のバトル中の本リンクスキル発動回数が1回目の時に、行動後SPを3回復する。※それぞれ効果は発動ターンのみ=Increases ATK by 70%; after taking action, recovers 3 SP if this skill is Linked for the first time in this battle. ※Each effect lasts this turn only
 幻影陣・波紋=Illusion Circle Hamon
-「幻影陣・波紋」を選択した同じターンに、初期SPが13以上の貫属性物理攻撃または初期SPが13以上の水属性物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Illusion Circle Hamon is selected, select other Pierce Element or Water Element skills total 2+ excluding self on the same turn.
+「幻影陣・波紋」を選択した同じターンに、初期SPが13以上の貫属性物理攻撃または初期SPが13以上の水属性物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Illusion Circle Hamon is selected, select other 13+ original SP cost physical Pierce Element attack or 13+ original SP cost Water Element physical attack skills total 2 or more.
 槍術・水嵐=Spear Technique Mizuarashi
-「槍術・水嵐」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Spear Technique Mizuarashi is selected, select other Pierce Element or Water Element skills total 2+ excluding self on the same turn.
+「槍術・水嵐」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Spear Technique Mizuarashi is selected, select other Pierce Element or Water Element skills total 2 or more.
 自身の物理攻撃力を50%上昇させる。更に攻撃時に敵が1体の時、敵に与えるダメージを50%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK by 50%; if there is only 1 enemy when attacking, increases damage by 50%. ※Each effect lasts this turn only
 妖艶舞踏=Youen Butou
 敵単体に物理（貫）で攻撃し、稀に、4ターンの間「毒化」の状態異常（小）と3ターンの間「麻痺」の状態異常（小）を付与する。=Attacks a single enemy with physical damage (Pierce) and rarely inflicts Poison (S) for 4 turns and Paralysis (S) for 3 turns.
 
 //Nanjai
 蛇目の弾=Janome no Dan
+「蛇目の弾」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Janome no Dan is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 妖蛇絞殺=Youja Kousatsu
+「妖蛇絞殺」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Youja Kousatsu is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 【自身がエレメントバーストを発動させたとき、コンディションを50%上昇させる】効果を自身に付与する。※上昇効果と付与効果はバトル中、waveの移動やターン経過では解除されない        =Gain buff [When igniting an Element Burst, increases Condition by 50%]. ※Effect and applied buff is permanent for the rest of the battle
 蛇牙の誘闇=Jaki no Yuuyami
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（極大）させる。=Attacks all enemies with magical (Pierce) damage. If CP is 4+, increases MATK during Elemental Burst (XL) for 1 turn.
 
 //Arisaka
 魔弾駆玖式=Madan Kakyuushiki
-「魔弾駆玖式」を選択した同じターンに、魔法攻撃単体または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Madan Kakyuushiki is selected, select other magical attack single-target skills or Dark Element skills total 2+ excluding self on the same turn.
+「魔弾駆玖式」を選択した同じターンに、魔法攻撃単体または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Madan Kakyuushiki is selected, select other magical attack single-target skills or Dark Element skills total 2 or more.
 リンクスキル発動時、自身のHPが50％以上の場合、自身のコンディションを100%上昇させ、50％未満の場合、プロテクトを30％上昇させる。※効果は発動ターンのみ=When this skill is linked, if HP is 50% or more, increases Condition by 100%; if 50% or less, increases Protect by 30%. ※Effect lasts this turn only
 ハチイチホウ=Hachi-Ichi-Hou
-「ハチイチホウ」を選択した同じターンに、魔法攻撃単体または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Hachi-Ichi-Hou is selected, select other magical attack single-target skills or Dark Element skills total 2+ excluding self on the same turn.
+「ハチイチホウ」を選択した同じターンに、魔法攻撃単体または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Hachi-Ichi-Hou is selected, select other magical attack single-target skills or Dark Element skills total 2 or more.
 【ターン終了時、2ターンの間、自身の魔法攻撃力を30%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [At the end of the turn, increases MATK by 30% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 ガトリングジェム=Gatling Gem
 敵単体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の魔法攻撃力とエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks a single enemy with magical (Pierce) damage. If CP is 4+, increases MATK and MATK during Element Burst (L) for 1 turn.
 
 //Dalian
 昏逆鉾=Hūnnìmóu
-「昏逆鉾」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Hūnnìmóu is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「昏逆鉾」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Hūnnìmóu is selected, select other Pierce Element physical attack skills total 2 or more.
 黒火槍撃=Hēihuǒ Qiāngjī
-「黒火槍撃」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Hēihuǒ Qiāngjī is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「黒火槍撃」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Hēihuǒ Qiāngjī is selected, select other Pierce Element physical attack skills total 2 or more.
 【自身がエレメントバーストを発動させたとき、SPを3回復させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When igniting Element Burst, recovers 3 SP]. ※Applied buff is permanent for the rest of the battle
 熾烈黒道節閃=Chìliè Hēidào Jiéshǎn
 敵単体に物理（貫）で攻撃する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK (L) for 2 turns.
@@ -477,60 +481,60 @@
 敵単体に物理（貫）で攻撃する。CP4以上の場合、2ターンの間、味方全体の物理攻撃力を上昇（中）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases all allies' ATK (M) for 2 turns.
 風撃射=Fēngjīshè
 敵単体に物理（貫）か物理（風）で攻撃する。敵の種族が「無機」であった場合、ダメージ特大アップ。=Attacks a single enemy with physical (Pierce) or physical (Wind) damage. Damage is greatly increased if the enemy's species is Inorganic.
-「風撃射」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fēngjīshè is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「風撃射」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fēngjīshè is selected, select other Pierce Element included double-element skills total 2 or more.
 自身の物理攻撃力を20%上昇させ、更に自身がCritical攻撃で与えるダメージを80%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK by 20% and increases Critical attack damage dealt by 80%. ※Each effect lasts this turn only
 暴風射箭=Bàofēng Shèjiàn
-「暴風射箭」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く3体以上が選択する。=When Bàofēng Shèjiàn is selected, select other Pierce Element physical attack skills total 3+ excluding self on the same turn.
+「暴風射箭」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く3体以上が選択する。=When Bàofēng Shèjiàn is selected, select other Pierce Element physical attack skills total 3 or more.
 自身がCritical攻撃で与えるダメージを80%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases Critical attack damage dealt by 80%. ※Effect is permanent for the rest of the battle
 星夜に輝く閃光の矢=<size\=15>Xīngyèzhōng Shǎnyào de Jiàn</size>
 敵全体に物理（貫）で攻撃する。敵の種族が「無機」であった場合、ダメージ特大アップ。=Attacks all enemies with physical (Pierce) damage. Damage is greatly increased if the enemy's species is Inorganic.
 
 //Misaki Tobisawa
 エッジロール=Edge Roll
-「エッジロール」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Edge Roll is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「エッジロール」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Edge Roll is selected, select other Pierce Element physical attack skills total 2 or more.
 自身の「エッジロール」発動後、発動条件を満たしたレイヤー1体につき1回、敵単体に【威力A】の物理（貫）か物理（闇）で攻撃する。※効果は発動ターンのみ=After Edge Roll is activated, attacks a single enemy with A Power physical (Pierce) or physical (Dark) damage once for each linked Layer. ※Effect lasts this turn only
 コラールケージランス=Choral Cage Lance
 コラールケージラ…=Choral Cage...
-「コラールケージランス」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Choral Cage Lance is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「コラールケージランス」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Choral Cage Lance is selected, select other Pierce Element physical attack skills total 2 or more.
 サークルランス=Circle Lance
-「サークルランス」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Circle Lance is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「サークルランス」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Circle Lance is selected, select other Pierce Element physical attack skills total 2 or more.
 スモールパッケージホールド=Small Package Hold
 敵単体に物理（貫）で攻撃し、2ターンの間、相手の物理防御力を減少（特大）する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（中）させる。=<size\=13>Attacks a single enemy with physical damage (Pierce) and decreases DEF (VL) for 2 turns. If CP is 4+, increases ATK (M) for 2 turns.</size>
 
 //Mashiro Arisaka
 スプリットアロー=Split Arrow
-「スプリットアロー」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Split Arrow is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「スプリットアロー」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Split Arrow is selected, select other Pierce Element physical attack skills total 2 or more.
 バックダイブショット=Back Dive Shot
 バックダイブショ…=Back Dive S...
-「バックダイブショット」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Back-Dive Shot is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「バックダイブショット」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Back-Dive Shot is selected, select other Pierce Element physical attack skills total 2 or more.
 【パーティ内で最初に行動した時、1ターンの間、味方全体のコンディションを15%上昇させ、行動後に味方全体のHPを回復する】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When acting first in the party, increases all allies' Condition by 15% for 1 turn and after taking action, recovers all allies' HP]. ※Applied buff is permanent for the rest of the battle
 サークルシュート=Circle Shoot
-「サークルシュート」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Circle Shoot is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「サークルシュート」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Circle Shoot is selected, select other Pierce Element physical attack skills total 2 or more.
 邪神ちゃん進行ー！=Jashin-chan Advances On!
 敵全体に物理（貫）で攻撃する。CP4以上の場合、味方全体のHPを回復する。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, recovers all allies' HP.
 
 //Rika Ichinose
 シザーズロード=Scissors Road
 敵単体に物理（貫）か物理（水）で攻撃し、稀に「混乱」の状態異常（中）を付与する。※効果は2ターンのみ=Attacks a single enemy with physical (Pierce) or physical (Water) damage and rarely inflicts Confusion (M). ※Effect lasts 2 turns only
-「シザーズロード」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Scissors Road is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「シザーズロード」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Scissors Road is selected, select other Pierce Element physical attack skills total 2 or more.
 ムーンループスピア=Moon Loop Spear
 ムーンループスピ…=Moon Loop...
-「ムーンループスピア」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Moon Loop Spear is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「ムーンループスピア」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Moon Loop Spear is selected, select other Pierce Element physical attack skills total 2 or more.
 【水属性スキルを使用する場合、1ターンの間、物理攻撃力を60%上昇させる】効果を自身に付与する。※効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a Water Element skill, increase ATK by 60% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 ソニックスピン=Sonic Spin
-「ソニックスピン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Sonic Spin is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「ソニックスピン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Sonic Spin is selected, select other Pierce Element physical attack skills total 2 or more.
 おすそわけです=Sharing is Caring
 味方全体のHPを回復し、1ターンの間、自身の物理攻撃力を上昇（大）させる。CP4以上の場合、２ターンの間、味方全体の物理攻撃力を上昇（中）させる。=Recovers all allies' HP and increases ATK (L) for 2 turns. If CP is 4+, increases all allies' ATK (M) for 2 turns.
 
 //Asuka Kurashina
 ベイパーパンク=Vapor Puncture
-「ベイパーパンク」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Vapor Puncture is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「ベイパーパンク」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Vapor Puncture is selected, select other Pierce Element physical attack skills total 2 or more.
 発動条件を満たしたレイヤーの攻撃終了後、敵単体に対して、【威力A】の物理（貫）か物理（風）で『追撃』する。※効果は発動ターンのみ=Each time after a linked Layer attacks, Pursuit attacks a single enemy with A Power physical (Pierce) or physical (Wind) damage. ※Effect lasts this turn only
 フリップターンシュート=Flip Turn Shoot
 フリップターンシ…=Flip Turn Sh...
-「フリップターンシュート」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Flip Turn Shoot is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「フリップターンシュート」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Flip Turn Shoot is selected, select other Pierce Element physical attack skills total 2 or more.
 ヨーヨーレイン=Yo-Yo Rain
-「ヨーヨーレイン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Yo-Yo Rain is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「ヨーヨーレイン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Yo-Yo Rain is selected, select other Pierce Element physical attack skills total 2 or more.
 自身のコンディションを50%上昇させ、本スキルの発動後に自身のSPを3回復させる。※効果はそれぞれ発動ターンのみ=Increases Condition by 50% and after this skill activates, recoverss 3 SP. ※Each effect lasts this turn only
 バランサーカット！=Balancer Cut!
 敵全体に物理（貫）で攻撃する。CP2以下の場合、1ターンの間、自身の命中を減少（大）する。CP4以上の場合、2ターンの間、自身の物理攻撃力とコンディションを上昇（大）する。=<size\=12>Attacks all enemies with physical damage (Pierce). If CP is 2-, decreases self HIT (L) for 1 turn; if CP is 4+, increases ATK and Condition (L) for 2 turns.</size>
@@ -538,21 +542,21 @@
 //Ashikaga
 戦光閃=Senkousen
 敵単体に物理（貫）か物理（光）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Pierce) or physical (Light) damage. Acts Last when activated.
-「戦光閃」を選択した同じターンに、貫属性物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Senkousen is selected, select other Pierce Element physical attack single-target skills total 2+ excluding self on the same turn.
+「戦光閃」を選択した同じターンに、貫属性物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Senkousen is selected, select other Pierce Element physical attack single-target skills total 2 or more.
 発動条件を満たしたレイヤーを対象とした【かばう】効果を自身に付与する。※効果は発動ターンのみ=Give Cover that shields linked Layers. ※Effect lasts this turn only
 太平祈槍=Taihei Kisou
 敵単体に物理（貫）か物理（光）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Pierce) or physical (Light) damage and recovers 3 SP.
-「太平祈槍」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Taihei Kisou is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「太平祈槍」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Taihei Kisou is selected, select other Pierce Element physical attack skills total 2 or more.
 【自身が攻撃を受けた後、1ターンの間、物理攻撃力を20%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When attacked, increases ATK by 20% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 心魂之一槍=Shinkon no Issou
 敵単体に物理（貫）で攻撃し、3ターンの間、自身の物理防御力と魔法防御力を減少（大）する。CP5の場合、2ターンの間、自身に対する全ての攻撃で受けるダメージを無効化する。=<size\=12>Attacks a single enemy with physical (Pierce) damage and decreases self DEF and MDEF (L) for 3 turns. If CP is 5, nullifies all damage taken from attacks for 2 turns.</size>
 
 //Ariake
 臨弾・曙=Instant Round Akebono
-「臨弾・曙」を選択した同じターンに、光属性単体または貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Instant Round Akebono is selected, select other Light Element or Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「臨弾・曙」を選択した同じターンに、光属性単体または貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Instant Round Akebono is selected, select other Light Element or Pierce Element magical attack skills total 2 or more.
 自身のコンディションを70%上昇させる。※効果は発動ターンのみ=Increases Condition by 70%. ※Effect lasts this turn only
 明天砲=Meitenhou
-「明天砲」を選択した同じターンに、光属性単体または貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Meitenhou is selected, select other Light Element or Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「明天砲」を選択した同じターンに、光属性単体または貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Meitenhou is selected, select other Light Element or Pierce Element magical attack skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の魔法攻撃力を50%上昇させ、行動後に自身のSPを3回復する。※SP回復は発動ターンのみ。魔法攻撃力上昇はバトル中、waveの移動やターン経過では解除されない=Increases MATK by 50% and after taking action, recovers 3 SP if this skill is linked for the first time in this battle. ※SP recovery lasts this turn only. MATK buff is permanent for the rest of the battle
 大空を舞う=Ouzora wo Mau
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の魔法攻撃力を上昇（特大）させる。=Attacks all enemies with magical (Pierce) damage. If CP is 4+, increases MATK (VL) for 1 turn.
@@ -560,154 +564,154 @@
 //Oncidium
 ブラッディマスカレード=Bloody Masquerade
 ブラッディマスカ…=Bloody Mas...
-「ブラッディマスカレード」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Bloody Masquerade is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ブラッディマスカレード」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Bloody Masquerade is selected, select other Cut Element included double-element skills total 2 or more.
 【行動前、1ターンの間、物理攻撃力を30%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果は発動ターンのみ=Self and linked Layers gain buff [Before taking action, increases ATK by 30% for 1 turn]. ※Applied buff lasts this turn only
 シューティングスターレイ=Shooting Star Ray
-「シューティングスターレイ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Shooting Star Ray is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「シューティングスターレイ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Shooting Star Ray is selected, select other Cut Element included double-element skills total 2 or more.
 【自身の物理攻撃力500につき、ダメージが5％(最大100%)上昇する】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked Layers gain buff [Increases damage by 5% (Max 100%) for every 500 ATK]. ※Applied buff is permanent for the rest of the battle
 大車輪斬=Daisharinzan
-「大車輪斬」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Daisharinzan is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「大車輪斬」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Daisharinzan is selected, select other Cut Element included double-element skills total 2 or more.
 リンクスキル発動時、最も速さが高いレイヤーの物理攻撃力を80%上昇させる。※効果は発動ターンのみ=When this skill is linked, increases Layer with the highest SPD's ATK by 80%. ※Effect lasts this turn only
 「一緒に踊って」="Dance Together"
 敵全体に物理（刃）で攻撃する。CP4以上の場合、2ターンの間、味方全体のエレメントバースト時の物理攻撃力を上昇（中）する。=Attacks all enemies with physical (Cut) damage. If CP is 4+, increases all allies' ATK (M) for 2 turns.
 
 //Oenothera
 聖光サーキュラー=Seikou Circular
-「聖光サーキュラー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Seikou Circular is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「聖光サーキュラー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Seikou Circular is selected, select other Cut Element included double-element skills total 2 or more.
 アムールフォールイブ=Amour Fall Eve
 アムールフォール…=Amour Fall...
 自身の物理攻撃力を50%上昇させ、本スキルの発動後に自身のSPを3回復させる。※それぞれ効果は発動ターンのみ=Increases ATK by 50% and recovers 3 SP after this skill is activated. ※Each effect lasts this turn only.
-「アムールフォールイブ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Amour Fall Eve is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「アムールフォールイブ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Amour Fall Eve is selected, select other Cut Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の物理攻撃力とコンディションを30%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases ATK and Condition by 30% if this skill is linked for the first time in this battle. ※Each effect is permanent for the rest of the battle
 ブルーロザリオカット=Blue Rosary Cut
 ブルーロザリオカ…=Blue Rosary...
-「ブルーロザリオカット」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blue Rosary Cut is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ブルーロザリオカット」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blue Rosary Cut is selected, select other Cut Element included double-element skills total 2 or more.
 「自由な心」="Free Spirit"
 
 //Isogiku
 アックサーフロール=Ack Surf Roll
 アックサーフロー…=Ack Surf Roll
-「アックサーフロール」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ack Surf Roll is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「アックサーフロール」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ack Surf Roll is selected, select other Cut Element included double-element skills total 2 or more.
 スプラッシュハリケーン=Splash Hurricane
 スプラッシュハリ…=Splash Hurric...
-「スプラッシュハリケーン」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Splash Hurricane is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「スプラッシュハリケーン」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Splash Hurricane is selected, select other Cut Element included double-element skills total 2 or more.
 クエイクアックス=Quake Axe
-「クエイクアックス」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Quake Axe is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「クエイクアックス」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Quake Axe is selected, select other Cut Element included double-element skills total 2 or more.
 「静かな喜び」="Quiet Joy"
 敵単体に物理（刃）で攻撃する。CP4以上の場合、1ターンの間、味方全体を対象とした【かばう】効果を自身に付与する。=Attacks a single enemy with physical (Cut) damage. If CP is 4+, gains Cover that shields all allies for 1 turn.
 
 //Shirotaegiku
 古ノ光剣=Ko-no-Kouken
 敵単体に物理（刃）か物理（光）で3回攻撃を行う。【合計威力：A】=Attacks a single enemy with physical (Cut) or physical (Light) damage 3 times. [Total power: A]
-「古ノ光剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ko-no-Kouken is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「古ノ光剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Ko-no-Kouken is selected, select other Cut Element included double-element skills total 2 or more.
 【行動前、味方全体のHPを回復し、1ターンの間、物理攻撃力と命中を10%上昇させる】効果を自身に付与する。※付与効果は2ターンのみ=Gain buff [Before taking action, recovers all allies' HP and increases ATK and HIT by 10% for 1 turn]. ※Applied buff lasts 2 turns only
 聖光ノ剣=Seikou-no-Ken
-「聖光ノ剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Seikou-no-Ken is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「聖光ノ剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Seikou-no-Ken is selected, select other Cut Element included double-element skills total 2 or more.
 【刃属性がWeakのエネミーに与えるダメージを50%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked Layers gain buff [Increases Cut Element weakness damage dealt to enemies by 50%]. ※Applied buff is permanent for the rest of the battle
 輝星ノ光剣=Kisei-no-Kouken
-「輝星ノ光剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Kisei-no-Kouken is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「輝星ノ光剣」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Kisei-no-Kouken is selected, select other Cut Element included double-element skills total 2 or more.
 「あなたを支える」="Supports You"
 2ターンの間、味方全体の、物理攻撃力を上昇（特大）させる。CP4または5の場合、自身のRPを2回復する。=Increases all allies' ATK for 2 turns (VL). If CP is 4+, recovers 2 RP.
 
 //Suiren
 ギルティブレイド=Guilty Blade
-「ギルティブレイド」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Guilty Blade is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ギルティブレイド」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Guilty Blade is selected, select other Cut Element included double-element skills total 2 or more.
 ウォーターサイドメルティ=Waterside Melty
 ウォーターサイド…=Waterside M...
-「ウォーターサイドメルティ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Waterside Melty is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ウォーターサイドメルティ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Waterside Melty is selected, select other Cut Element included double-element skills total 2 or more.
 自身の物理攻撃力とエレメントバースト時の物理攻撃力を30%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK and ATK during Elemental Burst by 30%. ※Each effect lasts this turn only
 サウザンドギルティ=Thousand Guilty
 サウザンドギルテ…=Thousand Gu...
-「サウザンドギルティ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Thousand Guilty is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「サウザンドギルティ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Thousand Guilty is selected, select other Cut Element included double-element skills total 2 or more.
 「清純な心」="Pure Heart"
 
 //Nagi Minokasa
 ブライトインパクト=Bright Impact
 ブライトインパク…=Bright Impact
-「ブライトインパクト」を選択した同じターンに、威力A以上の魔法攻撃単体スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Bright Impact is selected, select other A+ Power magical attack single-target skills (※Excludes total power) total 2+ excluding self on the same turn.
+「ブライトインパクト」を選択した同じターンに、威力A以上の魔法攻撃単体スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Bright Impact is selected, select other A+ Power magical attack single-target skills (※Excludes total power) total 2 or more.
 自身と発動条件を満たしているレイヤーの攻撃後、敵の魔法防御力を10%減少させる。※効果は発動ターンのみ=After self or a linked Layer attacks, decreases enemies' MDEF by 10%. ※Effect lasts this turn only
 ソーレ・フォール=Faro del Sole
-「ソーレ・フォール」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Faro del Sole is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「ソーレ・フォール」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Faro del Sole is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 【攻撃後、1ターンの間、相手のエレメントバースト時の魔法防御力を10%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After attacking, decreases enemy's MDEF during Element Burst by 10% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 シャインパワー=Shine Power
-「シャインパワー」を選択した同じターンに、威力D以上の魔法攻撃全体スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Shine Power is selected, select other D+ Power all-target skills (※Excludes total power) total 2+ excluding self on the same turn.
+「シャインパワー」を選択した同じターンに、威力D以上の魔法攻撃全体スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Shine Power is selected, select other D+ Power all-target skills (※Excludes total power) total 2 or more.
 川下りスタートばい！=Let's Start River Rafting-bai!
 敵全体に魔法（衝）で攻撃し、2ターンの間、相手の魔法防御力を減少（大）させる。CP4以上の場合、2ターンの間、敵全体のエレメントバースト時の魔法防御力を減少（中）させる。=<size\=12>Attacks all enemies with magical (Blow) damage and decreases MDEF (L) for 2 turns. If CP is 4+, decreases all enemies' MDEF during Element Burst (M) for 2 turns.</size>
 
 //Kisaki Houshou
 クーゲルルージュ=Kugel Rouge
-「クーゲルルージュ」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Kugel Rouge is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「クーゲルルージュ」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Kugel Rouge is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 自身の攻撃がWeak攻撃の場合、敵の魔法防御力の50%を無視して攻撃する。更に自身のバトル中の本リンクスキル発動回数が1回目の時に、自身のエレメントバースト時の魔法攻撃力を50%上昇させる。※それぞれ効果は発動ターンのみ=When dealing weakness damage, ignores 50% of enemies' MDEF; increases MATK during Element Burst by 50% if this skill is linked for the first time in this battle. ※Each effect lasts this turn only
 シュタークバレット=Stark Bullet
 シュタークバレッ…=Stark Bullet
-「シュタークバレット」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Stark Bullet is selected, select other 13+ original SP cost magical attack skills total 2+ excluding self on the same turn.
+「シュタークバレット」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Stark Bullet is selected, select other 13+ original SP cost magical attack skills total 2 or more.
 ラーヴァエンド=Larva End
-「ラーヴァエンド」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Larva End is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「ラーヴァエンド」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Larva End is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 ボクの本気を見せよう！=<size\=12>Let Me Show You How Serious I Am!</size>
 敵単体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks a single enemy with magical (Pierce) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.
 
 //Hibiki Migita
 月光華=Gekkouka
-「月光華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Gekkouka is selected, select other Pierce Element magical attack or magical attack all-target skills total 2+ excluding self on the same turn.
+「月光華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Gekkouka is selected, select other Pierce Element magical attack or magical attack all-target skills total 2 or more.
 自身の魔法攻撃力を50%上昇させる。更にリンクスキル発動時、敵が2体以下なら自身のコンディションを50%上昇させる。※それぞれ効果は発動ターンのみ=Increases MATK by 50%; when this skill is linked, increases Condition by 50% if there are 2 or less enemies. ※Each effect lasts this turn only
 烈火赤砲=Rekka Sekihou
-「烈火赤砲」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Rekka Sekihou is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「烈火赤砲」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Rekka Sekihou is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 日光華=Nikkouka
 敵単体に魔法（貫）か魔法（火）で攻撃し、自身の魔法攻撃力を上昇（中）する。※効果は2ターンのみ=Attacks a single enemy with magical (Pierce) or magical (Light) damage and increases MATK (M). ※Effect lasts 2 turns only
-「日光華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Nikkouka is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「日光華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Nikkouka is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 筆に想いを乗せて=<size\=14>Putting Thoughts With the Pen</size>
 
 //Paulette Hinai
 ターンドルオー=Tour D'or
-「ターンドルオー」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Tour D'or is selected, select other magical attack single-target skills total 3+ excluding self on the same turn.
+「ターンドルオー」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Tour D'or is selected, select other magical attack single-target skills total 3 or more.
 【行動前、味方全体のHPを回復し、1ターンの間、魔法攻撃力を20%上昇させる】効果を自身に付与する。※付与効果は2ターンのみ=Gain buff [Before taking action, recovers all allies' HP and increases MATK by 20% for 1 turn]. ※Applied buff lasts 2 turns only
 ラブリエアヴェルス=L'abri de L'averse
 ラブリエアヴェル…=L'abri de L'a...
 敵単体に魔法（水）か魔法（光）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with magical (Water) or magical (Light) damage. Acts First when activated.
-「ラブリエアヴェルス」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く3体以上が選択する。=When L'abri de L'averse is selected, select other magical attack single-target skills total 3+ excluding self on the same turn.
+「ラブリエアヴェルス」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く3体以上が選択する。=When L'abri de L'averse is selected, select other magical attack single-target skills total 3 or more.
 自身のバトル中の本リンクスキル発動回数が1・2回目の時に、【「ラブリエアヴェルス」を使用して水と光属性エレメントを付与したとき、ターン中そのエレメントは償却されない】効果を自身に付与する。※付与効果は発動ターンのみ=Gain buff [When L'abri de L'averse applies Water and Light Element stacks to enemies, they are not spent when ignited for the turn] if this skill is linked for the first or second time in this battle. ※Applied buff lasts this turn only
 ロラージュオー=L'orage
 敵全体に魔法（水）か魔法（光）で攻撃し、自身のHPを回復させる。=Attacks all enemies with magical (Water) or magical (Light) damage and recovers HP.
-「ロラージュオー」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When L'orage is selected, select other magical attack all-target skills total 2+ excluding self on the same turn.
+「ロラージュオー」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When L'orage is selected, select other magical attack all-target skills total 2 or more.
 自身と発動条件を満たしたレイヤーの魔法攻撃力を35%上昇させ、更に自身のエレメントバースト時の魔法攻撃力を10%上昇させる。※それぞれ効果は発動ターンのみ=Increases self and linked Layers' MATK by 35% and increases self MATK during Element Burst by 10%. ※Each effect lasts this turn only
 出発進行です=Moving Out
 
 //Makura Migita
 水月華=Suigetsuka
-「水月華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Suigetsuka is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「水月華」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Suigetsuka is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 味方全体の魔法攻撃力と魔法防御力を20%上昇させる。※それぞれ効果は発動ターンのみ=Increases all allies' MATK and MDEF by 20%. ※Each effect lasts this turn only
 パファーショット=Puffer Shot
-「パファーショット」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Puffer Shot is selected, select other Pierce Element magical attack or magical attack all-target skills total 2+ excluding self on the same turn.
+「パファーショット」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Puffer Shot is selected, select other Pierce Element magical attack or magical attack all-target skills total 2 or more.
 自身か発動条件を満たしたレイヤーがポジション5にいる場合、そのレイヤーの魔法攻撃力を50%上昇させ,【最初に行動する】効果を付与する。※それぞれ効果は発動ターンのみ=If self or a linked Layer is on Position 5, increases that Layer's MATK by 50% and gain buff [Acts First]. ※Each effect lasts this turn only
 泡沫鉄砲=Houmatsu Deppou
-「泡沫鉄砲」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Houmatsu Deppou is selected, select other Pierce Element magical attack or magical attack single-target skills total 2+ excluding self on the same turn.
+「泡沫鉄砲」を選択した同じターンに、貫属性魔法攻撃または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Houmatsu Deppou is selected, select other Pierce Element magical attack or magical attack single-target skills total 2 or more.
 【水属性がWeakのエネミーに与えるダメージを50%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked Layers gain buff [Increases Water Element weakness damage dealt to enemies by 50%]. ※Applied buff is permanent for the rest of the battle
 心地よい夜空と大輪=<size\=13>Pleasant Night Sky and Fireworks</size>
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、味方全体の魔法攻撃力と魔法防御力を上昇（中）する。=Attacks all enemies with magical (Pierce) damage. If CP is 4+, increases all allies' MATK and MDEF (M) for 1 turn.
 
 //Fukami Hayase
 流水符=Ryuusuifu
-「流水符」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Ryuusuifu is selected, select other magical attack single-target skills total 2+ excluding self on the same turn.
+「流水符」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Ryuusuifu is selected, select other magical attack single-target skills total 2 or more.
 自身の魔法攻撃力を20%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases MATK by 20%. ※Effect is permanent for the rest of the battle.
 球水磨砕=Kusui Masai
-「球水磨砕」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Kusui Masai is selected, select other magical attack single-target skills total 2+ excluding self on the same turn.
+「球水磨砕」を選択した同じターンに、魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Kusui Masai is selected, select other magical attack single-target skills total 2 or more.
 【自身がエレメントバーストを発動させたとき、コンディションを40%上昇させる】効果を自身に付与する。※上昇効果と付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When igniting an Element Burst, increases Condition by 40%]. ※Effect and applied buff is permanent for the rest of the battle
 白雨乱=Haku'uran
-「白雨乱」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Haku'uran is selected, select other magical attack all-target skills total 2+ excluding self on the same turn.
+「白雨乱」を選択した同じターンに、魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Haku'uran is selected, select other magical attack all-target skills total 2 or more.
 ご安全に=Have a Safe Trip
 味方全体のHPを回復し、1ターンの間、自身の魔法攻撃力を上昇（大）させる。CP4以上の場合、２ターンの間、味方全体の魔法攻撃力を上昇（中）させる。=Recovers all allies' HP and increases MATK (L) for 2 turns. If CP is 4+, increases all allies' MATK (M) for 2 turns.
 
 //Luxor
 アザラムラーナ=Alsalam Ealayna
-「アザラムラーナ」を選択した同じターンに、自身を除く武器種が鞭のレイヤー2体以上がスキルを選択する。=When Alsalam Ealayna is selected, select other skills from Whip weapon Layers total 2+ excluding self on the same turn.
+「アザラムラーナ」を選択した同じターンに、自身を除く武器種が鞭のレイヤー2体以上がスキルを選択する。=When Alsalam Ealayna is selected, select other skills from Whip weapon Layers total 2 or more.
 自身の物理攻撃力とエレメントバーストで与えるダメージを30%上昇させ、自身以外のレイヤーの物理防御力を50%減少させる。※それぞれ効果は発動ターンのみ=Increases ATK and Element Burst damage dealt by 30% and decreases all Layers' DEF excluding self by 50%. ※Each effect lasts this turn only
 ダウラーナ=Dawrana
 敵全体に物理（衝）か物理（光）で攻撃する。発動時は最後に行動する。=Attacks all enemies with physical (Blow) or physical (Light) damage. Moves Last when activated.
-「ダウラーナ」を選択した同じターンに、衝属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Dawrana is selected, select other Blow Element physical attack all-target skills total 2+ excluding self on the same turn.
+「ダウラーナ」を選択した同じターンに、衝属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Dawrana is selected, select other Blow Element physical attack all-target skills total 2 or more.
 【パーティ内で5番目に行動する時、エレメントバーストで与えるダメージを40%上昇させる】効果を自身に付与する。※付与効果は発動ターンのみ=Gain buff [When acting fifth in the party, Increases Elemental Burst damage dealt by 40%]. ※Applied buff lasts this turn only
 天上天下唯我独尊=Tenjou Tenge Yuiga Dokuson
 敵全体に物理（光）か物理（闇）で攻撃する。=Attacks all enemies with physical (Light) or physical (Dark) damage.
-「天上天下唯我独尊」を選択した同じターンに、双属性スキルを、自身を除く武器種が鞭のレイヤー2体以上が選択する。=When Tenjou Tenge Yuiga Dokuson is selected, select other double-element attack skills from Whip weapon Layers total 2+ excluding self on the same turn.
+「天上天下唯我独尊」を選択した同じターンに、双属性スキルを、自身を除く武器種が鞭のレイヤー2体以上が選択する。=When Tenjou Tenge Yuiga Dokuson is selected, select other double-element attack skills from Whip weapon Layers total 2 or more.
 リンクスキル発動条件を満たしたレイヤーが選択したスキルを『天上天下唯我独尊』に置き換え発動させる。更に【最後に行動する】効果を自身に付与する。※それぞれ効果は発動ターンのみ=Linked Layers replace their selected skill with Tenjou Tenge Yuiga Dokuson and activate; gains buff [Moves Last].\r ※Each effect lasts this turn only
 マリクアジーム=Malik Eazim
 敵全体に物理（衝）で攻撃する。CP4以上の場合、1ターンの間、敵全体の闇属性耐性を減少（中）させる。=Attacks all enemies with physical (Blow) damage. If CP is 4+, decreases all enemies' Dark Element Resistance (M) for 1 turn.
@@ -715,9 +719,9 @@
 //Attyria
 炎天竜閃=Scorching Dragon Flash
 敵単体に物理（貫）か物理（火）で攻撃し、2ターンの間、自身の物理攻撃力と物理防御力を減少（中）する。=Attacks a single enemy with physical (Pierce) or physical (Fire) damage, and decreases self ATK and DEF (M) for 2 turns.
-「炎天竜閃」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Scorching Dragon Flash is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「炎天竜閃」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Scorching Dragon Flash is selected, select other Pierce Element physical attack skills total 2 or more.
 煉獄竜槍=Purgatory Dragon Spear
-「煉獄竜槍」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Purgatory Dragon Spear is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「煉獄竜槍」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Purgatory Dragon Spear is selected, select other Pierce Element physical attack skills total 2 or more.
 【火属性スキルを使用する場合、1ターンの間、物理攻撃力を30%上昇させる】効果を自身に付与する。※ 付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a Fire Element skill, increases ATK by 30%]. ※Applied buff is permanent for the rest of the battle
 エリュトアステール=Elefth Astír
 敵単体に物理（貫）で攻撃する。CP4以上の場合、2ターンの間、自身の物理攻撃力を上昇（特大）する。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK (VL) for 2 turns.
@@ -725,11 +729,11 @@
 //Invalides
 プロテージュランス=Protégée Lance
 プロテージュラン…=Protégée Lan...
-「プロテージュランス」を選択した同じターンに、貫属性または水属性スキルを自身を除く2体以上が選択する。=When Protégée Lance is selected, select other Pierce Element or Water Element skills total 2+ excluding self on the same turn.
+「プロテージュランス」を選択した同じターンに、貫属性または水属性スキルを自身を除く2体以上が選択する。=When Protégée Lance is selected, select other Pierce Element or Water Element skills total 2 or more.
 自身のエレメントバーストで与えるダメージを10%上昇させる。更にポジション1のレイヤーがエレメントバーストで与えるダメージを15%上昇させる。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 10%; increases Position 1 Layer's Element Burst damage dealt by 15%. ※Each effect lasts this turn only
 ノワエールランス=Ailes Noires Lance
 敵単体に物理（貫）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Pierce) or physical (Water) damage and recovers 3 SP.
-「ノワエールランス」を選択した同じターンに、貫属性物理攻撃単体スキルを自身を除く2体以上が選択する。=When Ailes Noires Lance is selected, select other Pierce Element or Water Element single-target skills total 2+ excluding self on the same turn.
+「ノワエールランス」を選択した同じターンに、貫属性物理攻撃単体スキルを自身を除く2体以上が選択する。=When Ailes Noires Lance is selected, select other Pierce Element or Water Element single-target skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の物理攻撃力を15%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases all allies' ATK by 15% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 シュヴァリエ・ラポール=Chevalier Rapport
 敵単体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、味方全体のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases all allies' ATK during Element Burst (L) for 1 turn.
@@ -739,7 +743,7 @@
 自身の「フレイムテミス」発動時、【威力S】の全体攻撃として攻撃する。※効果は発動ターンのみ=When Flame Themis is activated, attack becomes all-target S Power. ※Effect lasts this turn only
 グランドブレイズ=Grand Blaze
 敵全体に物理（刃）と、補助魔法（火）で攻撃する。=Attacks al enemies with physical (Cut) and magical (Fire) damage.
-「グランドブレイズ」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Grand Blaze is selected, select other Cut Element or Fire Element included double-element skills total 2+ excluding self on the same turn.
+「グランドブレイズ」を選択した同じターンに、刃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Grand Blaze is selected, select other Cut Element or Fire Element included double-element skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、敵に与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases damage dealt to enemies and damage dealt during Element Burst to enemies by 30% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 インフェルノキャリバー=Inferno Calibur
 敵全体に物理（刃）か物理（火）で攻撃する。CP4以上の場合、2ターンの間、自身のコンディションを上昇（特大）する。=Attacks all enemies with physical (Cut) damage. If CP is 4+, increases Condition (VL) for 2 turns.
@@ -747,28 +751,28 @@
 //Kazuki Kazami
 冥玉=Nether Orb
 敵単体に魔法（刃）か魔法（闇）で攻撃し、相手の命中を減少（中）させる。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) or magical (Dark) damage and decreases HIT (M). ※Effect lasts 2 turns only
-「冥玉」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。        =When Nether Orb is selected, select other Dark Element or magical attack single-target skills total 2+ excluding self on the same turn.      
+「冥玉」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。        =When Nether Orb is selected, select other Dark Element or magical attack single-target skills total 2 or more.      
 味方全体のコンディションを40%上昇させる。更に自身か発動条件を満たしたレイヤーがポジション4にいる場合、そのレイヤーの行動後にSPを3回復させる。※それぞれ効果は発動ターンのみ=Increases all allies' Condition by 40%; if self or a linked Layer is on Position 4, that Layer recovers 3 SP after taking action. ※Each effect lasts this turn only.
 散花の太刀=Scattered Flowers Blade
-「散花の太刀」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Scattered Flowers Blade is selected, select other Dark Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「散花の太刀」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Scattered Flowers Blade is selected, select other Dark Element or magical attack single-target skills total 2 or more.
 敵単体に魔法（刃）か魔法（闇）で攻撃し、相手の速さを減少（大）させる。※効果は3ターンのみ=Attacks a single enemy with magical (Cut) or magical (Dark) damage and decreases SPD (L). ※Effect lasts 3 turns only
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の魔法攻撃力を30%上昇させ、行動後に自身のSPを3回復する。※SP回復は発動ターンのみ。魔法攻撃力上昇はバトル中、waveの移動やターン経過では解除されない=Increases all allies MATK by 30% if this skill is linked for the first time in this battle and after taking action, recovers 3 SP. ※SP recovery lasts this turn only. MATK buff is permanent for the rest of the battle
 幽冥斬=Spectral Slash
 敵全体に魔法（刃）か魔法（闇）で攻撃し、相手の魔法防御力を減少（特大）させる。※効果は発動ターンのみ=Attacks all enemies with magical (Cut) or magical (Dark) damage and decreases MDEF (VL). ※Effect lasts this turn only.
-「幽冥斬」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Spectral Slash is selected, select other Dark Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「幽冥斬」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Spectral Slash is selected, select other Dark Element or magical attack all-target skills total 2 or more.
 月下のサブマリン=Submarine Under the Moon
 2ターンの間、味方全体の、魔法攻撃力と魔法防御力を上昇（大）させる。CP4以上の場合、2ターンの間、味方全体のエレメントバースト時の魔法攻撃力を上昇（特大）させる。=Increases all allies' MATK and MDEF (L) for 2 turns. If CP is 4+, increases all allies' MATK during Element Burst (VL) for 2 turns.
 
 //Amane Suou
 ファイアブロークン=Fire Broken
 ファイアブローク…=Fire Broken
-「ファイアブロークン」を選択した同じターンに、火属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Fire Broken is selected, select other Fire Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「ファイアブロークン」を選択した同じターンに、火属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Fire Broken is selected, select other Fire Element or magical attack all-target skills total 2 or more.
 自身と発動条件を満たしているレイヤーの魔法攻撃力を25%上昇させる。更にリンクスキル発動時とターン終了時のそれぞれで、パーティ内でHPの割合が低いレイヤー1体のHPを回復する。※それぞれ効果は発動ターンのみ=Increases self and linked Layers' MATK by 25%; after this skill is linked or at the end of a turn, recovers Layer with the lowest HP in the party's HP. ※Each effect lasts this turn only
 フレイムドライブ=Flame Drive
-「フレイムドライブ」を選択した同じターンに、火属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Flame Drive is selected, select other Fire Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「フレイムドライブ」を選択した同じターンに、火属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Flame Drive is selected, select other Fire Element or magical attack all-target skills total 2 or more.
 【敵に与えるダメージを30%上昇させ、更に火属性エレメントの付いている敵に対して与えるダメージを30%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [Increases damage dealt to enemies by 30% and increases damage dealt to enemies with Fire Element stacks by 30%]. ※Applied buff is permanent for the rest of the battle
 クロムグローブ=Chrome Glove
-「クロムグローブ」を選択した同じターンに、火属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Chrome Glove is selected, select other Fire Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「クロムグローブ」を選択した同じターンに、火属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Chrome Glove is selected, select other Fire Element or magical attack single-target skills total 2 or more.
 いっけー！ヨンバー=Go! Yambar
 敵単体に魔法（衝）で攻撃する。CP4以上の場合、2ターンの間、味方全体の魔法攻撃力と魔法防御力を上昇（中）する。=Attacks a single enemy with magical (Blow) damage. If CP is 4+, increases all allies' MATK and MDEF (M) for 2 turns.
 
@@ -776,10 +780,10 @@
 ライトプルヴォワール=Light Pourvoir
 ライトプルヴォワ…=Light Pourvoir
 敵全体に魔法（光）か魔法（衝）で攻撃し、稀に、1ターンの間「気絶」の状態異常（中）と2ターンの間「混乱」の状態異常（中）を付与する。=Attacks all enemies with magical (Light) or magical (Blow) damage and rarely inflicts Stun (M) for 1 turn and Confusion (M) for 2 turns.
-「ライトプルヴォワール」を選択した同じターンに、初期SPが8以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Light Pourvoir is selected, select other 8+ original SP cost magical attack skills total 2+ excluding self on the same turn.
+「ライトプルヴォワール」を選択した同じターンに、初期SPが8以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=When Light Pourvoir is selected, select other 8+ original SP cost magical attack skills total 2 or more.
 自身の「ライトプルヴォワール」発動時、攻撃回数を1回から2回に増やす。※効果は発動ターンのみ=When Light Pourvoir is activated, increases the number of attacks from 1 to 2 times. ※Effect lasts this turn only
 マジコルミエール=Magi Colmière
-「マジコルミエール」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く3体以上が選択する。=When Magi Colmière is selected, select other 13+ original SP cost magical attack skills total 3+ excluding self on the same turn.
+「マジコルミエール」を選択した同じターンに、初期SPが13以上の魔法攻撃スキルを、自身を除く3体以上が選択する。=When Magi Colmière is selected, select other 13+ original SP cost magical attack skills total 3 or more.
 【光属性スキルで攻撃した後、2ターンの間、相手の速さと幸運を10%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After attacking with Light Element skills, decreases SPD and LUCK by 10% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 ルミナスバースト=Luminous Burst
 「ルミナスバースト」を選択した同じターンに、初期SPが8以上の魔法攻撃スキルを、自身を除く2体以上が選択する。=On the same turn when you select "Luminous Burst", two or more enemies will select magic attack skills with an initial SP of 8 or higher.
@@ -789,63 +793,63 @@
 
 //Yumiko Sakaki
 ルプスバンド=Lupus Band
-「ルプスバンド」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Lupus Band is selected, select other Dark Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「ルプスバンド」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Lupus Band is selected, select other Dark Element or magical attack single-target skills total 2 or more.
 【行動前、1ターンの間、魔法攻撃力を40%上昇させる】効果を自身に付与する。※付与効果は発動ターンのみ=Gain buff [Before taking action, increases MATK by 40% for 1 turn]. ※Applied buff lasts this turn only
 ファントムガイザー=Phantom Geyser
 ファントムガイザ…=Phantom Ge...
-「ファントムガイザー」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Phantom Geyser is selected, select other Dark Element or magical attack single-target skills total 2+ excluding self on the same turn.
+「ファントムガイザー」を選択した同じターンに、闇属性または魔法攻撃単体スキルを、自身を除く2体以上が選択する。=When Phantom Geyser is selected, select other Dark Element or magical attack single-target skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の魔法攻撃力とコンディションを30%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases MATK and Condition by 30% if this skill is linked for the first time in this battle. ※Each effect is permanent for the rest of the battle
 クラックトリガー=Crack Trigger
-「クラックトリガー」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Crack Trigger is selected, select other Dark Element or magical attack all-target skills total 2+ excluding self on the same turn.
+「クラックトリガー」を選択した同じターンに、闇属性または魔法攻撃全体スキルを、自身を除く2体以上が選択する。=When Crack Trigger is selected, select other Dark Element or magical attack all-target skills total 2 or more.
 特技はオヤングの湯切り=<size\=11>My Talent is Draining Oeyoung Yakisoba</size>
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の魔法攻撃力を上昇（特大）する。=Attacks all enemies with magical (Pierce) damage. If CP is 4+, increases MATK (VL) for 2 turns.
 
 //Asako Kusakabe
 ラピッドショット=Rapid Shot
-「ラピッドショット」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Rapid Shot is selected, select other Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「ラピッドショット」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Rapid Shot is selected, select other Pierce Element magical attack skills total 2 or more.
 ファイアロール=Fire Roll
-「ファイアロール」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く3体以上が選択する。=When Fire Roll is selected, select other Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「ファイアロール」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く3体以上が選択する。=When Fire Roll is selected, select other Pierce Element magical attack skills total 2 or more.
 ブレイクシュート=Break Shoot
-「ブレイクシュート」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Break Shoot is selected, select other Pierce Element magical attack skills total 2+ excluding self on the same turn.
+「ブレイクシュート」を選択した同じターンに、貫属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Break Shoot is selected, select other Pierce Element magical attack skills total 2 or more.
 射界15cm=Field of Fire 15cm
 
 //Sylvie
 パルフェスラッシュ=Parfait Slash
 パルフェスラッシ…=Parfait Slash
-「パルフェスラッシュ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Parfait Slash is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「パルフェスラッシュ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Parfait Slash is selected, select other Cut Element included double-element skills total 2 or more.
 ポジション1のレイヤーが敵に与えるダメージを70%上昇させる。※効果は発動ターンのみ=Increases Position 1 Layer's damage dealt to enemies by 70%. ※Effect lasts this turn only
 アズールフルーレ=Feuille d'Azur
-「アズールフルーレ」を選択した同じターンに、刃属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Feuille d'Azur is selected, select other Cut Element or physical attack single-target skills total 2+ excluding self on the same turn.
+「アズールフルーレ」を選択した同じターンに、刃属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Feuille d'Azur is selected, select other Cut Element or physical attack single-target skills total 2 or more.
 【行動前、1ターンの間、物理攻撃力を40%上昇させる】効果をポジション1に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Position 1 gains buff [Before taking action, increases ATK by 40% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 ブレイドオール=Blade d'Or
-「ブレイドオール」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blade d'Or is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ブレイドオール」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blade d'Or is selected, select other Cut Element included double-element skills total 2 or more.
 味方全体の敵に与えるダメージを45%上昇させる。※効果は発動ターンのみ=Increases all allies' damage dealt to enemies by 45%. ※Effect lasts this turn only
 キュロちゃんのビーム=Kyuro-chan Beam
 
 //Reina Kisaki
 プリンセスサークル=Princess Circle
 プリンセスサーク…=Princess Cir...
-「プリンセスサークル」を選択した同じターンに、貫属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Princess Circle is selected, select other Pierce Element physical attack all-target skills total 2+ excluding self on the same turn.
+「プリンセスサークル」を選択した同じターンに、貫属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Princess Circle is selected, select other Pierce Element physical attack all-target skills total 2 or more.
 自身の物理攻撃力を30%上昇させる。更に自身の「プリンセスサークル」発動時、【威力S】の全体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases ATK by 30%; When Princess Circle is linked, attack becomes all-target S Power. ※Each effect lasts this turn only
 山吹雨矢=Yamabuki Ameya
-「山吹雨矢」を選択した同じターンに、貫または光属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Yamabuki Ameya is selected, select other Pierce or Light Element included double-element skills total 2+ excluding self on the same turn.
+「山吹雨矢」を選択した同じターンに、貫または光属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Yamabuki Ameya is selected, select other Pierce or Light Element included double-element skills total 2 or more.
 【威力S以上のスキルを使用する場合、1ターンの間、敵の物理防御力を無視して攻撃する】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using an S+ Power skill, attack ignores enemies' DEF for 1 turn]. ※Applied buff is permanent for the rest of the battle
 クレールアロー=Claire Arrow
 敵単体に物理（貫）か物理（光）で攻撃し、自身のHPを最大HPの15%分減少させる。=Attacks a single enemy with physical (Pierce) or physical (Light) damage and decreases self HP by 15%.
-「クレールアロー」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Claire Arrow is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「クレールアロー」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Claire Arrow is selected, select other Pierce Element included double-element skills total 2 or more.
 ソーイングアロー=Sewing Arrow
 
 //Ria Souma
 マリアブロー=Maria Blow
-「マリアブロー」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Maria Blow is selected, select other 8+ original SP cost physical attack skills total 2+ excluding self on the same turn.
+「マリアブロー」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Maria Blow is selected, select other 8+ original SP cost physical attack skills total 2 or more.
 自身の物理攻撃力を30%上昇させる。更に自身の「マリアブロー」発動時、【威力S】の全体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases ATK by 30%; When Maria Blow is linked, attack becomes all-target S Power. ※Each effect lasts this turn only
 マーシーゴルド=Mercy Gold
 敵全体に物理（衝）か物理（火）で攻撃し、自身の物理攻撃力を上昇（中）する。※効果はバトル中、waveの移動やターン経過では解除されない=<size\=13>Attacks all enemies with physical (Blow) or physical (Fire) damage and increases ATK (M). ※Effect is permanent for the rest of the battle</size>
-「マーシーゴルド」を選択した同じターンに、火属性または物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Mercy Gold is selected, select other Fire Element or physical attack all-target skills total 2+ excluding self on the same turn.
+「マーシーゴルド」を選択した同じターンに、火属性または物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Mercy Gold is selected, select other Fire Element or physical attack all-target skills total 2 or more.
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の「Over Limit」を4段階強化する。※効果はバトル中、waveの移動やターン経過では解除されない=Increases Over Limit by 4 stages if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 スカーレットビート=Scarlet Beat
 スカーレットビー…=Scarlet Beat
-「スカーレットビート」を選択した同じターンに、衝属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Scarlet Beat is selected, select other Blow Element or physical attack single-target skills total 2+ excluding self on the same turn.
+「スカーレットビート」を選択した同じターンに、衝属性または物理攻撃単体スキルを、自身を除く2体以上が選択する。=When Scarlet Beat is selected, select other Blow Element or physical attack single-target skills total 2 or more.
 自身がエレメントバーストで与えるダメージを80%上昇させる。※効果は発動ターンのみ=Increases Element Burst damage dealt by 80%. ※Effect lasts this turn only
 パンクラッシュ=Puncture Crush
 敵単体に物理（衝）で攻撃する。CP4以上の場合、2ターンの間、自身のコンディションを上昇（特大）する。=Attacks a single enemy with physical (Blow) damage. If CP is 4+, increases Condition (VL) for 2 turns.
@@ -853,30 +857,30 @@
 //Elle
 エペルージュ=Épée Rouge
 敵単体に物理（刃）か物理（火）で2回攻撃し、自身のプロテクトを5%減少させる。※効果は2ターンのみ【合計威力：SS】=Attacks a single enemy with physical (Cut) or physical (Fire) damage 2 times and decreases self Protect by 5%. ※Effect lasts 2 turns only [Total power: SS]
-「エペルージュ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Épée Rouge is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
-「エペルージュ」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Épée Rouge is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「エペルージュ」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Épée Rouge is selected, select other Cut Element included double-element skills total 2 or more.
+「エペルージュ」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Épée Rouge is selected, select other Cut Element included double-element skills total 2 or more.
 【自身の攻撃1回ごとに、1ターンの間、物理攻撃力を25%上昇させる】効果を自身に付与する。※ 付与効果は発動ターンのみ。『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Gain buff [Increase ATK by 25% per attack for 1 turn]. ※Applied buff lasts this turn only. Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1.
 ノブレシュヴァリエ=Noblesse Variée
 ノブレシュヴァリ…=Noblesse V...
-「ノブレシュヴァリエ」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Noblesse Variée is selected, select other Cut Element or Fire Element skills total 2+ excluding self on the same turn.
+「ノブレシュヴァリエ」を選択した同じターンに、刃属性または火属性スキルを、自身を除く2体以上が選択する。=When Noblesse Variée is selected, select other Cut Element or Fire Element skills total 2 or more.
 【自身の「エペルージュ」発動時、攻撃回数を2回から4回に増やす。更に行動前、1ターンの間、物理攻撃力を60%上昇させる。】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When Épée Rouge is activated, increases the number of attacks from 2 to 4 times]; Before taking action, increases ATK by 60% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 シュトルツセイバー=Stolz Saber
 シュトルツセイバ…=Stolz Saber
-「シュトルツセイバー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Stolz Saber is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「シュトルツセイバー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Stolz Saber is selected, select other Cut Element included double-element skills total 2 or more.
 自身の物理攻撃力を80%上昇させ、行動後に自身のSPを3回復させる。※それぞれ効果は発動ターンのみ=Increases ATK by 80% and recovers 3 SP after taking action. ※Each effect lasts this turn only.
 剣技・蒼閃撃=Sword Technique Sousengeki
 敵単体に物理（刃）で攻撃する。CP4以上の場合、2ターンの間、自身の物理攻撃力を上昇（特大）する。=Attacks a single enemy with physical (Cut) damage. If CP is 4+, increases ATK (VL) for 2 turns.
 
 //Mina
 グランスラスト=Grand Thrust
-「グランスラスト」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Grand Thrust is selected, select other 8+ original SP cost physical attack skills total 2+ excluding self on the same turn.
+「グランスラスト」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Grand Thrust is selected, select other 8+ original SP cost physical attack skills total 2 or more.
 ポジション1・2のレイヤーのエレメントバーストで与えるダメージを30%上昇させる。※効果は発動ターンのみ=Increases Position 1 and 2 Layer's Element Burst damage dealt by 30%.
 ローズランス=Rose Lance
-「ローズランス」を選択した同じターンに、初期SPが13以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Rose Lance is selected, select other 13+ original SP cost physical attack skills total 2+ excluding self on the same turn.
+「ローズランス」を選択した同じターンに、初期SPが13以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Rose Lance is selected, select other 13+ original SP cost physical attack skills total 2 or more.
 【命中500につきエレメントバーストで与えるダメージが5%（最大100%）上昇する】効果をポジション1・2のレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Position 1 and 2 Layers gain buff [Increases Element Burst damage dealt by 5% (Max 100%) for every 500 HIT]. ※Applied buff is permanent for the rest of the battle
 フラッシュアウルム=Flash Aurum
 フラッシュアウル…=Flash Aurum
-「フラッシュアウルム」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Flash Aurum is selected, select other 8+ original SP cost physical attack skills total 2+ excluding self on the same turn.
+「フラッシュアウルム」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Flash Aurum is selected, select other 8+ original SP cost physical attack skills total 2 or more.
 【水または光属性エレメントが付いている敵に対して与えるダメージを100%上昇させる】効果をポジション1・2のレイヤーに付与する。※付与効果は発動ターンのみ=Position 1 and 2 Layer gains buff [Increases damage dealt to enemies with Water or Light Element stacks by 100%]. ※Applied buff lasts this turn only
 お姉さまFCアタック=Onee-sama FC Attack
 
@@ -884,14 +888,14 @@
 ブリザード・リーヴァー=Blizzard Reaver
 ブリザード・リー…=Blizzard Rea...
 敵単体に物理（刃）か物理（水）で2回攻撃を行う。【合計威力：SS】=Attacks a single enemy with physical (Cut) or physical (Water) damage 2 times. [Total Power: SS]
-「ブリザード・リーヴァー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blizzard Reaver is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「ブリザード・リーヴァー」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Blizzard Reaver is selected, select other Cut Element included double-element skills total 2 or more.
 アイスフォール・ギルティン=Icefall Guillotine
 アイスフォール・…=Icefall Guill...
-「アイスフォール・ギルティン」を選択した同じターンに、刃属性または水属性スキルを、自身を除く2体以上が選択する。=When Icefall Guillotine is selected, select other Cut Element or Water Element skills total 2+ excluding self on the same turn.
+「アイスフォール・ギルティン」を選択した同じターンに、刃属性または水属性スキルを、自身を除く2体以上が選択する。=When Icefall Guillotine is selected, select other Cut Element or Water Element skills total 2 or more.
 自身のコンディションを30%上昇させる。更に【水属性スキルを使用する場合、1ターンの間、敵に与えるダメージを10%上昇させる】効果を味方全体に付与する。※上昇効果と付与効果はバトル中、waveの移動やターン経過では解除されない=Increases Condition by 30%; all allies gain buff [When using Water Element skills, increases damage dealt to enemies by 10%]. ※Applied buff is permanent for the rest of the battle
 シャドウストローク=Shadow Stroke
 シャドウストロー…=Shadow Stro...
-「シャドウストローク」を選択した同じターンに、水または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Shadow Stroke is selected, select other Water or Dark Element included double-element skills total 2+ excluding self on the same turn.
+「シャドウストローク」を選択した同じターンに、水または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Shadow Stroke is selected, select other Water or Dark Element included double-element skills total 2 or more.
 自身がエレメントバーストで与えるダメージを40%上昇させる。更に自身の「シャドウストローク」発動時、【属性水/闇】の単体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 40%; When Shadow Stroke is activated, attack becomes Water/Dark Element single-target. ※Each effect lasts this turn only
 グレイシャル・カタストロフィー=Glacial Catastrophe
 敵全体に物理（刃）で攻撃する。CP4以上の場合、2ターンの間、自身のコンディションを上昇（特大）する。=Attacks all enemies with physical (Cut) damage. If CP is 4+, increases Condition (VL) for 2 turns.
@@ -899,24 +903,24 @@
 //Kuromi
 サキュバスハート=Succubus Heart
 敵全体に魔法（刃）か魔法（闇）で攻撃する。敵の種族が「人間」であった場合、ダメージ特大アップ。=Attacks all enemies with magical (Cut) or magical (Dark) damage. Damage is greatly increased if the enemy's species is Human.
-「サキュバスハート」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Succubus Heart is selected, select other Cut Element included double-element skills total 2+ excluding self on the same turn.
+「サキュバスハート」を選択した同じターンに、刃属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Succubus Heart is selected, select other Cut Element included double-element skills total 2 or more.
 攻撃時、敵全体の魔法攻撃力を10%減少させる。※効果は発動ターンのみ=When attacking, decreases all enemies' MATK by 10%. ※Effect lasts this turn only
 リリステンプテーション=Lilith Temptation
 リリステンプテー…=Lilith Tempt...
-「リリステンプテーション」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Lilith Temptation is selected, select other Cut Element all-target skills total 2+ excluding self on the same turn.
+「リリステンプテーション」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Lilith Temptation is selected, select other Cut Element all-target skills total 2 or more.
 【ターン開始時、1ターンの間、敵全体の魔法攻撃力を10%減少させる。更に攻撃時、一定確率で自身を回復（小）する】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [At the start of a turn, decreases all enemies' MATK by 10% for 1 turn; When attacking, chance to recover self HP (S). ※Applied buff is permanent for the rest of the battle
 セクシービーム=Sexy Beam
 敵単体に魔法（刃）か魔法（闇）で攻撃する。敵の種族が「人間」であった場合、ダメージ特大アップ。=<size\=12>Attacks a single enemy with magical (Cut) or magical (Dark) damage. Damage is greatly increased if the enemy's species is Human.</size>
-「セクシービーム」を選択した同じターンに、刃または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Sexy Beam is selected, select other Cut or Dark Element included double-element skills total 2+ excluding self on the same turn.
+「セクシービーム」を選択した同じターンに、刃または闇属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Sexy Beam is selected, select other Cut or Dark Element included double-element skills total 2 or more.
 自身がCritical攻撃で与えるダメージを50%上昇させる。更に攻撃時、相手の魔法攻撃力を5%減少させる。※それぞれ効果は発動ターンのみ=Increases Critical attack damage dealt by 50%; When attacking, decreases MATK by 5%. ※Each effect lasts this turn only
 淫魔の悩殺=Succubus Bewitchment
 敵単体に魔法（刃）で攻撃する。CP4以上の場合、2ターンの間、「魅了」の状態異常（大）を付与する。=Attacks a single enemy with magical (Cut) damage. If CP is 4+, inflicts Charm (L) for 2 turns.
 
 //Zermatt
 フロストシュヴァルト=Frostschwarz
-「フロストシュヴァルト」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Frostschwarz is selected, select other 8+ original SP cost physical attack skills total 2+ excluding self on the same turn.
+「フロストシュヴァルト」を選択した同じターンに、初期SPが8以上の物理攻撃スキルを、自身を除く2体以上が選択する。=When Frostschwarz is selected, select other 8+ original SP cost physical attack skills total 2 or more.
 自身の物理攻撃力を30%上昇させる。更に自身の「フロストシュヴァルト」発動時、【威力SS】の単体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases ATK by 30%; when Frostschwarz is activated, attack becomes single-target SS Power. ※Each effect lasts this turn only
 ゼロ・デグリーズン=Zero deGreeson
-「ゼロ・デグリーズン」を選択した同じターンに、刃属性または水属性スキルを、自身を除く2体以上が選択する。=When Zero deGreeson is selected, select other Cut Element or Water Element skills total 2+ excluding self on the same turn.
+「ゼロ・デグリーズン」を選択した同じターンに、刃属性または水属性スキルを、自身を除く2体以上が選択する。=When Zero deGreeson is selected, select other Cut Element or Water Element skills total 2 or more.
 【威力SS以上のスキルを使用する場合、1ターンの間、物理攻撃力を70%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a SS+ power skill, increases ATK by 70% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 アイスエイジサーベル=Ice Age Saber

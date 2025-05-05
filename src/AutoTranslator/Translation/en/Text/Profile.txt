@@ -19,7 +19,7 @@
 アイゼングラート=Eisengrad
 フレイマリン=Flamarine
 フテラブリュケ=Fterabrucke
-ノールヴァイス=Nordweiß
+ノールヴァイス=Nordweiss
 
 星座=Constellation
 Aquarius

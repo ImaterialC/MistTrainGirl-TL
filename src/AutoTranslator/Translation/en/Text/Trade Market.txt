@@ -123,6 +123,15 @@ SSパッスィ=SS Passy
 Aサーシャ=A Sasha
 SSサーシャ=SS Sasha
 SSペイジン=SS Beijing
+A月角島ヴィカ=A Vika Tsukikakushima
+SS月角島ヴィカ=SS Vika Tsukikakushima
+A水名とりねこ=A Torineko Mizuna
+SS菊間塔子=SS Touko Kikuma
+SS星都チエミ=SS Chiemi Hoshito
+SS水名とりねこ=SS Torineko Mizuna
+月角島ヴィカ\r\nガチャメダル=Vika Tsukikadojima\r\nGacha Medal
+ちっちゃなガチャメダル=Little Gacha Mmedal
+水名とりねこ\r\nガチャメダル=Torineko Mizuna\r\nGacha Medal
 
 4.5周年ガチャメダルⅢ=4.5th Anniversary Gacha Medal III
 SSランカスター=SS Lancaster
@@ -130,4 +139,7 @@ SS初代シモアマヅ=SS Shimoamazu I
 4.5周年Ⅲ\r\nガチャメダル=4.5th Anniversary III\r\nGacha Medal
 4.5周年Ⅱ\r\nガチャメダル=4.5th Anniversary II\r\nGacha Medal
 4.5周年セレクト\r\nガチャメダル=4.5th Anniversary Select\r\nGacha Medal
+過去その他\r\n=Past Etc.\r\n
+過去レイド\r\n=Past Raids\r\n
+過去トレジャー\r\n=Past Treasures\r\n
 

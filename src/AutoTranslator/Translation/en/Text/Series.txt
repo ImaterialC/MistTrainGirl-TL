@@ -1,5 +1,5 @@
-sr:"^装備中の「(.+?)」の数によって、シリーズセット効果が発動する。\r\n1種効果： (.+?)\r\n2種効果： (.+?)\r\n3種効果： (.+?)$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.\r\n・1 Set: $2\r\n・2 Set: $3\r\n・3 Set: $4</size>
-sr:"^装備中の「(.+?)」の数によって、シリーズセット効果が発動する。$"=<size\=11>Series set effects are activated depending on the number of equipped $1 gear.</size>
+sr:"^装備中の「(.+?)」の数によって、シリーズセット効果が発動する。\r\n1種効果： (.+?)\r\n2種効果： (.+?)\r\n3種効果： (.+?)$"=Series set effects are activated depending on the number of equipped $1 gear.\r\n・1 Set: $2\r\n・2 Set: $3\r\n・3 Set: $4
+sr:"^装備中の「(.+?)」の数によって、シリーズセット効果が発動する。$"=Series set effects are activated depending on the number of equipped $1 gear.
 
 シリーズアビリティ一覧=Series Ability List
 
@@ -295,8 +295,13 @@ wave開始時、味方全体のエレメントバーストで与えるダメー�
 wave開始時、自身がエレメントバーストで与えるダメージを15%上昇させる。※効果は発動ターンのみ=At the start of a wave, increases Element Burst damage dealt by 15%. ※Effect lasts this turn only
 
 ハーフアニバーサリーⅡ’25=Half Anniversary II '25
+武器種が「杖」のレイヤーに装備した場合、幸運を10%上昇させる。=When equipped by a Staff layer, increases LUCK by 10%.
 攻撃時、一定確率で相手の幸運を5%減少させる。※効果は2ターンのみ=When attacking, chance to decrease LUCK by 5%. ※Effect lasts 2 turns only
 wave開始時、敵全体のエレメントバースト時の魔法防御力を5%減少させる。※効果は発動ターンのみ=At the start of a wave, decreases all enemies' MDEF during Element Burst by 5%. ※Effect lasts this turn only
+
+ふゆくるコラボ’25=FuyuKuru Collab '25
+wave開始時、自身が敵に与えるダメージを10%上昇させる。※効果は2ターンのみ=At the start of a wave, increases damage dealt to enemies by 10%. ※Effect lasts 2 turns only
+武器種が「銃」のレイヤーに装備した場合、魔法攻撃力を15%上昇させる。=When equipped by a Gun Layer, increases MATK by 15%.
 
 //Paid
 百鬼夜怨=Hyakki Yaon

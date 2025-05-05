@@ -874,7 +874,19 @@ Wave開始時、自身の魔法攻撃力を11%上昇させる。※効果はバ�
 マジカルキャンデ…=Magical Candy
 パステルカラーでかわいいキャンディー。\r\n武器種が杖のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSランカスターに装備することでバトル中の見た目が変わる。=A cute pastel-colored candy.\r\nCan be equipped by characters who use Staffs.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Lancaster will change her appearance during battle.
 
+スカイウォーターガン=Sky Water Gun
+スカイウォーター…=Sky Water...
+空をモチーフに作られた水鉄砲。\r\n武器種が銃のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS空丘夕陽に装備することでバトル中の見た目が変わる。=A water gun designed with the sky as its motif.\r\nCan be equipped by characters who use Guns.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuhi Soraoka will change her appearance during battle.
+
 //Event S
+甘え上手の紫銃=Pampering Purple Gun
+美少女探偵の金銃=Beautiful Detective Gold Gun
+スポーツ少女のグローブ=Sports Girl Gloves
+部長の漆黒スカーフ=Club Leader Jet Black Scarf
+部長の白スカーフ=Club Leader White Scarf
+ラッピングショコ…=Wrapping Shopping...
+甘え上手の銀銃=Pampering Silver Gun
+美少女探偵の銀銃=Beautiful Detective Silver Gun
 弁慶七道具の壱=Benkei First of Seven Tools
 松風=Matsukaze
 微塵丸=Mijinmaru
@@ -1115,6 +1127,11 @@ Wave開始時、自身の魔法攻撃力を11%上昇させる。※効果はバ�
 ノーブルリボルバ…=Noble Revol...
 
 //SS Event
+スター☆ノート=Star☆Note
+鬼の金棒=Oni's Club
+鬼が使っていた金棒。稀に鬼の如き力を発揮できる。武器種が剣のキャラクターが装備できる。=A metal club used by oni. On rare occasions, it can exert oni powers. Can be equipped by characters who uses Swords.
+優等生の秀才弓=Honours Student's Scholar Bow
+紫呪愛のわら人形=Purple Cursed Love Straw Doll
 スターデス☆ノート=Star Death☆Note
 スターデス☆ノー…=Star Death☆...
 無敵のオーラ=Invincible Aura

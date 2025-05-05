@@ -1,0 +1,1 @@
+sr:"^(SS|S|A)([^\[\n\r]+?)(\[.+\])の召喚と、ギアレベル上昇に使用できるアイテム。\r\nパーティの所持一覧でミストギアに変換することもできる。\r\nレイヤー召喚は商店の交換所から行える。$"=An item that can be used to summon $1 $2 $3 or increase her Gear Level.\r\nIt can also be converted into Mist Gear in the Party Inventory menu.\r\nLayer Summoning can be done from the Exchange Market's 'Layer Related' tab.

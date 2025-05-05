@@ -58,3 +58,9 @@
 [魅了しちゃいます♡]クロミ=[I'll Charm You♡] Kuromi
 クインズウェイ[ハーフアニバーサリー’25]=Queensway [Half Anniversary '25]
 [ハーフアニバーサリー’25]クインズウェイ=[Half Anniversary '25] Queensway
+クインズウェイ[ハーフアニバーサリー’25]=Lancaster [Half Anniversary '25]
+[ハーフアニバーサリー’25]クインズウェイ=[Half Anniversary '25] Lancaster
+[ふゆくるコラボ’25]空丘夕陽=[FuyuKuru Collab '25] Yuuhi Soraoka
+空丘夕陽[ふゆくるコラボ’25]=Yuuhi Soraoka [FuyuKuru Collab '25]
+[海辺の花]星都チエミ=[Seaside Flowers] Chiemi Hoshito
+星都チエミ[海辺の花]=Chiemi Hoshito [Seaside Flowers]

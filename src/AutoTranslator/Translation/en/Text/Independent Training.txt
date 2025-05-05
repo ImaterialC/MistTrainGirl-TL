@@ -24,7 +24,7 @@ r:"^([0-9]+)時間([0-9]+)分$"=$1h $2m
 時間　　　分　　　秒=hrs  　    m      　s
 自主練に参加するキャラを選択してください=<size\=13>Select characters for self-training</size>
 自主練キャラ設定=Self-Training Settings
-所持ギア数表示=<size\=13>Show Gear Amount</size>
+所持ギア数表示=<size\=13>Show Gears</size>
 設定中レイヤーを外します=Remove Set Layer
 設定中レイヤーの練習を終了します。\r\n報酬獲得までのカウントダウンがリセットされますが\r\nよろしいですか？=This will end the set Layer's training.\r\nThe countdown to obtained rewards will be reset.\r\nIs this OK?
 レイヤーの変更=Change Layer

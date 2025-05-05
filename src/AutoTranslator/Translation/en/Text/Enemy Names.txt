@@ -18,6 +18,7 @@
 刃/衝/水/闇=Cut/Blow/Water/Dark
 刃/衝/風/光=Cut/Blow/Wind/Light
 刃/衝/風/闇=<size\=15>Cut/Blow/Wind/Dark</size>
+刃/衝/光=Cut/Blow/Light
 刃/衝/光/闇=Cut/Blow/Light/Dark
 刃/衝/闇=Cut/Blow/Dark
 刃/貫/火/水/光=<size\=12>Cut/Pierce/Fire/Water/Light</size>
@@ -75,11 +76,13 @@
 貫/火/水=Pierce/Fire/Water
 貫/火/闇=<size\=20>Pierce/Fire/Dark</size>
 貫/水/風=<size\=17>Pierce/Water/Wind</size>
+貫/風/光=<size\=19>Pierce/Wind/Light</size>
 貫/水/風/光/闇=Pierce/Water/Wind/Light/Dark
 貫/水/風/闇=<size\=13>Pierce/Water/Wind/Dark</size>
 貫/水/光=<size\=17>Pierce/Water/Light</size>
 貫/水/闇=<size\=17>Pierce/Water/Dark</size>
 貫/風/光/闇=<size\=13>Pierce/Wind/Light/Dark</size>
+貫/風/光=<size\=18>Pierce/Wind/Light</size>
 貫/風/闇=<size\=19>Pierce/Wind/Dark</size>
 貫/光/闇=<size\=22>Pierce/Light/Dark</size>
 闇/光/風=Dark/Light/Wind
@@ -269,6 +272,7 @@ sr:"^暴走した(.+?)$"=Relentless $1
 小型クマロボ=Small Kuma Robo
 ロボアニメクマロボ=Anime Robot Kuma Robo
 司祭クマロボ=Priest Kuma Robo
+モヤカゲ=Moyakage
 
 //Altar Boss
 スクールメイジちゃん=School Mage Girl
@@ -1046,7 +1050,7 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 水、もしくは風属性攻撃6回=Use 6 Water or Wind Element attacks.
 
 //Special
-赤竜鳳姿=Red Dragon Phoenix
+赤竜鳳姿=Red Dragon Statue
 赤竜の咆哮=Red Dragon's Roar
 スキル【火炎放射】発動時、相手の幸運を25%減少させる。※効果は発動ターンのみ=When Flamethrower activates, decreases LUCK by 25%. ※Effect lasts this turn only
 底なしの竜力=Bottomless Dragon Power
@@ -1058,13 +1062,13 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 竜族鎮静=Dragon Calming
 敵がエレメントバーストを発動させたとき、自身のエレメントバースト時の物理防御力と魔法防御力を20%減少させる。※それぞれ効果は2ターンのみ=When an enemy ignites an Element Burst, decreases self DEF and MDEF during Element Burst by 20%. ※Each effect lasts 2 turns only
 衝、もしくは貫属性攻撃7回=Use Blow or Pierce Element attacks 7 times.
-黄竜鳳姿=Yellow Dragon Phoenix
+黄竜鳳姿=Yellow Dragon Statue
 黄竜の咆哮=Yellow Dragon's Roar
 スキル【光輝の聖域】発動時、自身のコンディションを15%上昇させる。※効果は2ターンのみ=When Radiance Sanctuary activates, increases Condition by 15%. ※Effect lasts 2 turns only
 自身のエレメントバースト時の物理防御力と魔法防御力を50%減少させる。=Decreases self DEF and MDEF during Element Burst by 50%.
 エンドコンディションⅢ=End Condition III
 ターン終了時、自身のコンディションを30%上昇させる。※効果は2ターンのみ=At the end of a turn, increases Condition by 30%. ※Effect lasts 2 turns only
-緑竜鳳姿=Green Dragon Phoenix
+緑竜鳳姿=Green Dragon Statue
 古の振風=Ancient Gale
 敵全体に魔法（風）で攻撃し、相手の物理攻撃力を減少（中）させる。※効果は2ターンのみ=Attacks all enemies with magical (Wind) and decreases ATK (M). ※Effect lasts 2 turns only
 鉄風=Iron Wind
@@ -1076,7 +1080,7 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 エンドマジックⅡ=End Magic II
 ターン終了時、自身の魔法攻撃力を20%上昇させる。※効果は2ターンのみ=At the end of a turn, increases MATK by 20%. ※Effect lasts 2 turns only
 火、もしくは水属性攻撃9回=Use 9 Fire or Water Element attacks.
-青竜鳳姿=Blue Dragon Phoenix
+青竜鳳姿=Blue Dragon Statue
 青竜の咆哮=The Blue Dragon's Roar
 スキル【繁吹き雨】発動時、相手のプロテクトを30%減少させる。※効果は発動ターンのみ=When Heavy Rain activates, decreases Protect by 30%. ※Effect lasts this turn only
 自身の速さを20%減少させる。=Decreases self SPD by 20%.
@@ -1098,4 +1102,23 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 ターン終了時、自身に沈黙の状態異常が付与されていた場合、自身のコンディションを20%減少させる。※効果は2ターンのみ=At the end of a turn, decreases self Condition by 20% if Silenced. ※Effect lasts 2 turns only
 自身の物理攻撃力を20%減少させる。=Decreases self ATK by 20%.
 オオカブトブシ=Big Armed Warrior
+ムシの矜持=Pride of the Insect
+ターン開始時、自身のエレメントバースト時の物理防御力と魔法防御力を20%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a turn, increases DEF and MDEF during Element Burst by 20%. ※Each effect lasts this turn only
+弱点特攻=Weak Point Attack
+全体攻撃を受けた際、自身のエレメントバースト時の物理防御力と魔法防御力を10%減少させる。※それぞれ効果は発動ターンのみ。スペシャルスキルは対象外=When receiving all-target attacks, decreases DEF and MDEF during Element Burst by 10%. ※Each effect lasts this turn only. Excludes Special Skills
+触手さばきの上達=Improved Tentacle Handling
+スキル【頂の絶技】発動時、相手の命中と幸運を20%減少させる。※それぞれ効果は2ターンのみ=When Ultimate Technique is activated, decreases HIT and LUCK by 20%. ※Each effect lasts this turn only
+蜜を背負ったカモ=Duck With Honey
+威力C以下の攻撃を受けた際、自身の物理攻撃力と速さを10%上昇させる。※効果は2ターンのみ。スペシャルスキルは対象外=When receiving C- Power attacks, increases ATK and SPD by 10%. ※Effect lasts 2 turns only. Excludes Special Skills
+オオカブトブシの「ムシの矜持」強化=Increases Big Armed Warrior's [Pride of the Insect] skill
+フェアリーのブレイク条件変化=Changes Fairy's Break conditions
+自身に【エレメントバースト時の魔法防御力の上昇を無効化する】効果を付与する。=Gain buff [Nullify all increases to DEF and MDEF during Element Burst].
+ドリームウィンド=Dream Wind
+やる気の鱗粉=Motivational Scales
+ターン中に自身に水または光属性エレメントが付与されたとき、敵全体のエレメントバーストで与えるダメージを10%上昇させる。※効果は2ターンのみ=When receiving Water or Light Element stacks, increases all enemies' Element Burst damage dealt by 10%. ※Effect lasts 2 turns only
+味方全体に【エレメントバースト時の物理防御力の上昇を無効化する】効果を付与する。=All allies gain buff [Nullify all increases to DEF during Element Burst].
+風、もしくは光属性攻撃5回=Use Wind or Light Element attacks 5 times.
+味方全体のコンディションを10%上昇させる。=Increases all allies' Condition by 10%.
 シモアマタイガー=Shimommatiger
+蛇樹ネペンテス=Snake Tree Nepenthes
+レーゲンホエール=Regenhauer Whale

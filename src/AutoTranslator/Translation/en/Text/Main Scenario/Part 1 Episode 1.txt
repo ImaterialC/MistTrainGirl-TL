@@ -1,22 +1,21 @@
-セントイリス編=St. Iris Episode
 
 セントイリスの鬼教官=St. Iris' Demon Instructor
 連合軍管轄の『特鉄隊』駐屯地。\r\n特鉄隊のトレインナイトはもちろん、\r\nトレインナイトを目指す候補生たちが生活を共にしている。=The Allied Forces' Special Steel Squad (SSS) garrison. \r\nAlongside existing SSS train knights,\r\ntrainees aiming to become train knights live here as well.
 実戦配備されたとはいえ、\r\nトレインナイトたちはまだまだ学ぶことが多くある。\r\nそのため、出動命令がないときは\r\nこうして校舎に集まって授業や講義を受けるのである。=Even though they have been deployed in actual combat, the train knights still have a lot to learn.\r\nTherefore, when they are not under orders to deploy, they gather in the academy building to attend classes and lectures.
-「車掌どの、おはようございます。\r\n　先日の戦いでは見事な活躍でしたね」="Good morning, Conductor.\r\n You performed admirably in that battle the other day."
+「車掌どの、おはようございます。\r\n　先日の戦いでは見事な活躍でしたね」="Good morning, Sir Conductor.\r\n You performed admirably in that battle the other day."
 あの時は本当に危なかった。\r\n自分も含めて、特鉄隊の総力を底上げしていく必要があると痛感した。=It was really dangerous time at that time.\r\nI realized that we needed to improve the overall strength of the SSS, including myself.
 Aの時は本当に危なかった。\r\n自分も含めて、特鉄隊の総力を底上げしていく必要があると痛感した。=It was really dangerous time at that time.\r\nI realized that we needed to improve the overall strength of the SSS, including myself.
 「戦闘技術だけでなく、幻霧についての知識も\r\n　しっかりとつけていかないといけませんね。\r\n　幻霧の中では、いつ如何なる敵と遭遇するかわかりませんから……。」="Not only do we need to develop our combat skills, but our knowledge of Phantom Mist too.\r\n In the Mist, we will never know when or what kind of enemies we might encounter..."
 「そのためにも、出動命令のない日は\r\n　学校でお勉強する必要があるというわけです！\r\n　学校生活も仕事のうちなのです！」="And that's why we need to study at the academy on days when we don't have deployment orders!\r\n Academy life is also part of work!"
 「仕事のうち、なのですが……」="Part of uhm, work I guess...?"
-「でさー、フレイマリンの学校で\r\n　絶対に滑らない一発ギャグっていうのがあってね。\r\n　『絡まったワカメの物まね』っていうんだけど」="So, there's this one one-liner at our school in Flamarine that never fails to get people laughing.\r\n It's called 'Impersonating the Tangled Seaweed'."
+「でさー、フレイマリンの学校で\r\n　絶対に滑らない一発ギャグっていうのがあってね。\r\n　『絡まったワカメの物まね』っていうんだけど」="So, there's this one quick trick at our school\r\n in Flamarine that never fails to get people laughing.\r\n It's called 'Impersonating the Tangled Seaweed'."
 「おおー、絡まったワカメ！\r\n　ぜひとも見てみたい！　やって！　ねえプトラそれやって！」="Ooohー, tangled wakame! Would love to see that!\r\n Do it! Hey, Putra, do it!"
 「仕方ないな～。\r\n　ヨシノのためにひと肌脱いであげるよ」="I guess I have no choice～.\r\n I'll give my all for Yoshino."
 「ヴィヴィアン、ちょっとあたしのお尻持ち上げて」="Vivian, lift my butt up a bit."
 「お、お尻を持ち上げる？\r\n　いったい何をしようとしているのか全く予想できないんだけど……」="L-Lift your butt?\r\n I have no idea what on earth are you trying to do..."
 「いいからいいから！\r\n　やってみればわかるよ！　さあ早く！」="OK-lah OK-lah!\r\nJust do it and you'll see what I mean!\r\nCome on, hurry up!"
 「ちょっと、なんて体勢してるの！\r\n　女の子なのにはしたないわよ！」="Hold it, what kinda pose is that!?\r\n That's indecent for a girl!"
-「おおー！　プトラ、せくしー！」="Ooohー! Putra, Sekushii!"
+「おおー！　プトラ、せくしー！」="Ooohー! Putra, sekushii!"
 「ええーっと……皆さん朝から元気がよろしいようで」="Well uhh... you all seem to be prim and proper this morning."
 「ちょっと皆さん！\r\n　もうすぐ授業が始まるんですからもうちょっとお静かに！」="Hey all of you!\r\n Class is about to start, so please be a little quieter!"
 「放っておきなさいよ。\r\n　朝から無駄な体力を使うことないわ」="Leave them alone.\r\n Don't waste all of your energy in one morning."
@@ -28,7 +27,7 @@ Aの時は本当に危なかった。\r\n自分も含めて、特鉄隊の総力
 「問題は科目ごとの担当教官ですよ。\r\n　噂によると、特鉄隊の戦闘訓練を担当するのは\r\n　セントイリス騎士学校の教官だとか……」="What matters is the instructor for each subject.\r\n Rumour has it that the instructor in charge of combat training for the SSS is an instructor from the St. Iris Knight Academy..."
 「それのどこが問題なのよ？\r\n　騎士学校の教官ならクインズウェイの顔見知りなんじゃない？」="So what's the problem with that?\r\n If its an instructor from that Academy, surely you know who, Queensway?"
 「私が知っている方だったら\r\n　今すぐ席に着いて授業の準備を始めたほうがいいと思います。\r\n　戦闘訓練の指導教官というと一人しか思い当たらなくて……」="If it's that person I suspect, I'd say we should take our seats and start getting ready for class soon enough.\r\n I can only think of a certain instructor that's in charge of combat training..."
-「騎士学校では『鬼教官』と呼ばれている厳しい方です。\r\n　彼女を恐れて逃げ出す生徒もいるぐらいなんですよ」="The Demon Instructor, an individual famous for her sterness at the knight academy.\r\n Some students are so terrified of her that they run away."
+「騎士学校では『鬼教官』と呼ばれている厳しい方です。\r\n　彼女を恐れて逃げ出す生徒もいるぐらいなんですよ」="The Demon Instructor, an individual famous for her sternness at the knight academy.\r\n Some students are so terrified of her that they run away."
 「鬼教官ねぇ……」="Demon Instructor eh...?"
 「全員その場から動くな！」="EVERYONE STAY PUT!"
 To 「っ？」="Eh?"
@@ -49,8 +48,8 @@ Hands足を絡ませた状態で床に寝転んでいるプトラ。\r\nそれ�
 「ですよね！」="Yes sir!?"
 「お前は、プトラだな。\r\n　なぜ妙な格好をしている？」="You are... Putra.\r\n Why are you in this ridiculous form?"
 「これは、その……」="That's, uhm..."
-「なっ、仲間に一発芸を見せるためです！」="I-I'm just trying to show my friends a one-liner!"
-「何の一発芸だ？\r\n　絡まった海藻の物まねでもしてるのか？」="What one-liner? Doing your best impression of tangled seaweed?"
+「なっ、仲間に一発芸を見せるためです！」="I-I'm just trying to show my friends a quick trick!"
+「何の一発芸だ？\r\n　絡まった海藻の物まねでもしてるのか？」="What quick trick? Doing your best impression of tangled seaweed?"
 「なんでわかるの！？」="How did you know!?"
 「なんとなくそんな形をしてたからだ」="Because you kind of looked like one."
 「くくっ……そんな形って……」="Pfft... looked like..."
@@ -68,7 +67,6 @@ Hands足を絡ませた状態で床に寝転んでいるプトラ。\r\nそれ�
 「右足の親指が左の脇に！？\r\n　　いったいどうやったのでしょうか……」="Your right toe getting stuck on your left armpit!?\r\n My goodness how did you do that...?"
 「そんなこと真面目に考えなくていい！\r\n　いつまでふざけているつもりだ！」="That is not something to ponder about seriously!\r\n How long are you all going to keep messing around!"
 「もっ、申し訳ありません！　フィンチリー教官！」="I-I am terribly sorry! Instructor Finchley!"
-sr:"^(.+?)&(.+?)$"=$1 & $2
 「フィンチリー教官？」="Instructor Finchley?"
 そう、彼女の名前はフィンチリー。\r\nセントイリス騎士学校では『鬼教官』と呼ばれる有名な教官である。=Yes, her name is Miss Finchley.\r\nShe is the famous Demon Instructor of the St. Iris Knight Academy.
 「車掌、久しぶりだな。\r\n　記念式典に出席できなくて済まなかった。\r\n　ここしばらく現場での仕事も忙しくてな」="Hello Conductor, long time no see.\r\n I apologize that I couldn't attend the commemorative ceremony.\r\n I've been busy with work at the site for a while now."

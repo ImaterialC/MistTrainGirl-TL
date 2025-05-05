@@ -114,6 +114,8 @@ Wave開始時、敵全体の衝属性耐性を減少（中）させる。※効�
 ポジション5が杖の場合、バトル開始時、そのレイヤーのSPを3回復する。=If position 5 is Staff, that Layer recovers 3 SP at the start of the battle.
 ブーストSP【Ⅲ】：剣・斧＆ポジション2=Boost SP [III]: Sword/Axe & Position 2
 ポジション2が「剣・斧」の場合、バトル開始時、そのレイヤーのSPを3回復する。=If Position 2 is Sword/Axe, that Layer recovers 3 SP at the start of the battle.
+ブーストSP【パレルモ】=Boost SP [Palermo]
+バトル開始時、SPを3回復する。更にポジション2が「拳・鞭」の場合、バトル開始時、そのレイヤーのSPを3回復する。=At the start of the battle, recovers 3 SP; if Position 2 is Fist/Whip, at the start of the battle, that layer recovers 3 SP.
 ボウマスター【小】=Bow Master [S]
 弓の与えるダメージを上昇（小）させる。=Increases Bow damage dealt (S).
 ボウマスター【中】=Bow Master [M]
@@ -354,8 +356,16 @@ Wave開始時、パーティ内で物理攻撃力が1番目に高いレイヤー
 味方全体の、貫属性攻撃のダメージを上昇（中）させる。更に自身がパーティ内で最初に行動した時、行動前に1ターンの間、味方全体の与えるダメージを上昇（大）させる。=Increases all allies' Pierce damage dealt (M); when acting first in the party before taking action, increases all allies damage dealt (L).
 ダメージアシスト【Miss】=Damage Assist [Miss]
 敵が攻撃をMissした時、一定確率で味方全体のコンディションを上昇（大）する。※効果は2ターンのみ        =When an enemy's attack misses, chance to increase all allies' Condition (L). ※Effect lasts 2 turns
+ダメージアシスト【霜雪しほん】=Damage Assist [Shihon Shimoyuki]
+wave開始時、ポジション5のレイヤーがWeak攻撃で与えるダメージを20%上昇させ、更に魔法攻撃力を15%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, increases position 5 layer's weakness damage dealt by 20% and increases MATK by 15%. ※Each effect lasts this turn only
+ダメージアシスト【霜雪しほん】改=Damage Assist [Shihon Shimoyuki] Kai
+wave開始時、ポジション5のレイヤーがWeak攻撃で与えるダメージを25%上昇させ、更に魔法攻撃力を20%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, increases position 5 layer's weakness damage dealt by 25% and increases MATK by 20%. ※Each effect lasts this turn only
 ダメージアシスト【シモアマヅ】=Damage Assist [Shimoamazu]
 常に味方全体のコンディションが10%上昇する。更に味方全体の、闇属性エレメントの蓄積数が「4」以上の敵に対してエレメントバーストで与えるダメージが15%上昇する。=Always increases all allies' Condition by 10%; increases all allies' Element Burst damage dealt to enemies with 4 or more Dark Element stacks by 15%.
+ダメージマスター【水名とりねこ】改=Damage Master [Torineko Mizuna] Kai
+【自身の攻撃1回ごとに、1ターンの間、与えるダメージを20%上昇させる】効果を自身に付与する。※『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Gain buff [Increases damage dealt by 20% per attack for 1 turn]. ※Applied buff lasts this turn only. Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1.
+ダメージアシスト【月角島ヴィカ】=Damage Assist [Vika Tsukikadojima]
+【自身の攻撃1回ごとに、1ターンの間、与えるダメージを20%上昇させる】効果をポジション1のレイヤーに付与する。※『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Position 1 layer gains buff [Increases damage dealt by 20% per attack for 1 turn]. ※Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1.
 ダメージアシスト【ユウゼン】=Damage Assist [Yuuzen]
 常に味方全体のコンディションが上昇（中）する。更に味方全体の、火属性エレメントの蓄積数が「4」以上の敵に対してエレメントバーストで与えるダメージが上昇（大）する。=Always increases all allies' Condition (M); increases all allies' Element Burst damage dealt to enemies with 4 or more Fire Element stacks (L).
 ダメージアシスト＆ブースト【ハチロク】=Damage Assist & Boost [Hachiroku]
@@ -418,6 +428,7 @@ wave開始時、自身が敵に与えるダメージとエレメントバース�
 常に敵に与えるダメージが15％上昇する。更に自身の攻撃1回ごとに、1ターンの間、与えるダメージを15%上昇させる。※『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=<size\=12>Always increases damage dealt to enemies by 15%; increases damage dealt by 15% on each attack for 1 turn. ※Applied buff lasts this turn only ※Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1</size>
 常に敵に与えるダメージが上昇（特大）する。更に「ブラッディヴィジョン」で与えるダメージを上昇（特大）させる。=Always increases damage dealt to enemies (VL); increases Bloody Vision damage dealt (VL).
 常に敵に与えるダメージが上昇（特大）する。更に自身が全体攻撃で敵に与えるダメージが上昇（大）する。=Always increases damage dealt to enemies (VL); increases all-target damage dealt to enemies (L).
+常に自身の物理攻撃力を30%上昇させる。更に暗闇が付与されている敵に攻撃する時、相手の物理防御力を無視して攻撃する。=Always increases damage dealt to enemies by 30%; when attacking Silenced enemies, attacks ignore their DEF.
 ダメージアップ【極小】=Damage Up [XS]
 常に敵に与えるダメージが上昇（極小）する。=Always increases damage dealt to enemies (XS).
 ダメージアップ【小】=Damage Up [S]
@@ -770,6 +781,8 @@ wave開始時、味方全体の命中が上昇（中）する。※効果は2タ
 ターン開始時、稀に敵全体の命中を減少（小）させる。※効果は2ターンのみ=At the start of a turn, rarely decreases all enemies' HIT (S).
 ヒットコンテイジョン【中】=Hit Contagion [M]
 ターン開始時、稀に敵全体の命中を減少（中）させる。※効果は2ターンのみ=At the start of a turn, rarely decreases all enemies' HIT (M).
+ヒットコンテイジョン【大】=Hit Contagion [L]
+ターン開始時、稀に敵全体の命中を減少（大）させる。※効果は2ターンのみ=At the start of a turn, rarely decreases all enemies' HIT (L).
 ヒットクラッシュ【小】=Hit Crush [S]
 撃破時、一定確率で命中が上昇（小）する。※効果は2ターンのみ=When KO'ing, chance to increase ATK (S). ※Effect lasts 2 turns only
 ヒットターン【極小】=Hit Turn [XS]
@@ -908,6 +921,8 @@ HPアップ【Ⅳ】=HP Up [IV]
 槍の与えるダメージを上昇（大）させる。=Increases Spear damage dealt (L).
 ランスマスター【特大】=Lance Master [VL]
 槍の与えるダメージを上昇（特大）させる。=Increases Spear damage dealt (VL).
+ランスマスター【極大】=Lance Master [XL]
+槍の与えるダメージを上昇（極大）させる。=Increases Spear damage dealt (XL).
 大型ハンターアシスト【パッスィ】=Large Hunter Assist [Passy]
 常にポジション1・2・3のレイヤーがターゲティングされているサイズが大型の敵にエレメントバーストで与えるダメージを40%上昇させる。=Always increases Position 1, 2 and 3's Element Burst damage dealt to their targeted Large enemies by 40%.
 ラストアクション：物攻=Last Action: ATK
@@ -942,6 +957,8 @@ Wave中の3ターン開始ごとに、【最後に攻撃する】効果を最も
 wave開始時、敵全体の光属性耐性を10%減少させる。※効果は3ターンのみ=At the start of a wave, decreases enemies' Light Element Resistance by 10%. ※Effect lasts 3 turns only
 光＆闇属性キラー【ルクソォル】=Light & Dark Element Killer [Luxor]
 光属性がWeakのエネミーに与えるダメージを30%上昇させる。更に闇属性がWeakのエネミーに与えるダメージを30%上昇させる。=Increases Light Element weakness damage dealt to enemies by 30%; increases Dark Element weakness damage dealt to enemies by 30%.
+ちいさなきゅうせいしゅ=Little Messiah
+自身の「ワンフォースセイバー」発動時、敵全体の物理防御力を5%減少させ、更に自身が敵に与えるダメージを40%上昇させる。※それぞれ効果は発動ターンのみ=When One Force Saber activates, decreases all enemies' DEF by 5% and increases damage dealt to enemies by 40%. ※Each effect lasts this turn only
 らぶりぃ・ごーとぅへる☆	=Lovely Go to Hell☆
 『ラブリーシャイン』発動後、SPを3回復する。更に自身の行動前に敵が2体以上の時、自身の行動後に行動順番を無視して「ラブリーシャイン」で『追加行動』する。※追加上限は1回=After Lovely Shine is activated, recovers 3 SP; if there are 2 or more enemies before taking action, Additional Action with Lovely Shine ignoring order of actions after taking action. ※Maximum 1 time
 ラック＆パラライヘイズ【中】=Luck & Paralyze Haze [M]
@@ -964,6 +981,8 @@ wave開始時、敵全体の光属性耐性を10%減少させる。※効果は3
 ターン開始時、一定確率で味方全体の幸運を上昇（極小）させる。※効果は2ターンのみ=At the start of a turn, chance to increase all allies' LUCK (XS). ※Effect lasts 2 turns only
 ラックコンテイジョン【中】=Luck Contagion [M]
 ターン開始時、稀に敵全体の幸運を減少（中）させる。※効果は2ターンのみ=At the start of a turn, rarely decreases all enemies' LUCK (M). ※Effect lasts 2 turns only
+ラックコンテイジョン【大】=Luck Contagion [L]
+ターン開始時、稀に敵全体の幸運を減少（大）させる。※効果は2ターンのみ=At the start of a turn, rarely decreases all enemies' LUCK (L). ※Effect lasts 2 turns only
 ラックディケイ【中】=Luck Decay [M]
 wave開始時、敵全体の幸運を減少（中）させる。※効果は2ターンのみ=At the start of a wave, decreases all enemies' LUCK (M). ※Effect lasts 2 turns only
 ラックセンス【大】=Luck Sense [L]
@@ -1010,6 +1029,8 @@ wave開始時、味方全体の魔法攻撃力とエレメントバースト時�
 wave開始時、味方全体の魔法攻撃力が上昇（小）する。※効果は2ターンのみ=At the start of a wave, increases all allies' MATK (S). ※Effect lasts 2 turns only
 マジックブースト【中】=Magic Boost [M]
 wave開始時、味方全体の魔法攻撃力が上昇（中）する。※効果は2ターンのみ=At the start of a wave, increases all allies' MATK (M). ※Effect lasts 2 turns only
+マジックブースト【特大】：5=Magic Boost [VL]: 5
+wave開始時、ポジション5のレイヤーの魔法攻撃力が上昇（特大）する。※効果は2ターンのみ=At the start of a wave, increases position 5 layer's MATK (VL). ※Effect lasts 2 turns only.
 マジックブレイク【小】=Magic Break [S]
 攻撃時、稀に魔法攻撃力を減少（小）させる。※効果は2ターンのみ=When attacking, rarely decreases MATK (S). ※Effect lasts 2 turns only
 マジックブレイク【中】=Magic Break [M]
@@ -1212,6 +1233,8 @@ wave開始時、敵全体の混乱耐性を減少（特大）させる。※効�
 敵が攻撃をMissした時、「紅蓮檻」で『追加行動』する。※追加上限は1回=Whenever an enemy's attack misses, Additional Action with Gurenkan. ※Maximum 1 time
 自身がエレメントバーストを発動させたとき、「覇玉拳」で『追加行動』する。※追加上限は1回=When activating an Element Burst, Additional Action with Hagyokuken. ※Maximum 1 time
 自身がエレメントバースト『水＋風』『風＋闇』を発動させたとき、「アエラスセイバー」で『追加行動』する。※追加上限は1回=When igniting a "Water + Wind" or "Wind + Dark" Element Burst, Additional Action with Aerus Saber. ※Maximum 1 time
+プラスアクション【メアリー】改=Plus Action [Mary] Kai
+自身がエレメントバーストを発動させたとき、「アエラスセイバー」で『追加行動』する。※追加上限は1回=When igniting an Element Burst, Additional Action with Aerus Saber. ※Maximum 1 time
 自身または味方がスペシャルスキルのチャージを選択した時、自身が「ヴァルカンボム」で『追加行動』する。※追加上限は1回=When self or allies select to Charge Special Skill, Additional Action with Vulcan Bomb. ※Maximum 1 time
 自身がリンクスキルを発動させたとき、「聖光サーキュラー」で『追加行動』する。※追加上限は1回=When own skill is linked, Additional Action with Seikou Circular. ※Maximum 1 time
 自身がリンクスキルを発動させたとき、「スクイードダンス」で『追加行動』する。※追加上限は1回  =When own skill is linked, Additional Action with Squid Dance. ※Maximum 1 time
@@ -1252,6 +1275,9 @@ wave開始時、敵全体の混乱耐性を減少（特大）させる。※効�
 ポジションパワー【大】：2=Position Power [L]: 2
 ターン開始時に、ポジション2のレイヤーの物理攻撃力を上昇（大)する。※効果は発動ターンのみ=At the start of a turn, increases Position 2 Layer's ATK (L). ※Effect lasts this turn only
 ポジションパワー【大】：3=Position Power [L]: 3
+ポジションパワー【極大】：1=Position Power [XL]: 1
+ターン開始時に、ポジション1のレイヤーの物理攻撃力を上昇（極大)する。※効果は発動ターンのみ=At the start of a turn, increases Position 1 Layer's ATK (XL). ※Effect lasts this turn only
+ポジションパワー【大】：2=Position Power [L]: 2
 ターン開始時、ポジション3のレイヤーの物理攻撃力を上昇（大)する。※効果は発動ターンのみ=At the start of a turn, increases Position 3 Layer's ATK (L). ※Effect lasts this turn only
 ポジションパワー【有坂真白】=Position Power [Mashiro Arisaka]
 ターン開始時、ポジション1のレイヤーの物理攻撃力を上昇（大)させ、更にポジション2と3のレイヤーの物理攻撃力を上昇（中)する。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 1 Layer's ATK (L) and increases Position 2 and 3 Layers' ATK (M). ※Each effect lasts this turn only
@@ -1608,6 +1634,8 @@ wave開始時、自身の幸運が上昇（大）する。※効果は2ターン
 wave開始時、自身の魔法攻撃力が上昇（中）する。※効果は2ターンのみ=At the start of a wave, increases MATK (M). ※Effect lasts 2 turns only
 スタートマジック【大】=Start Magic [L]
 wave開始時、自身の魔法攻撃力が上昇（大）する。※効果は2ターンのみ=At the start of a wave, increases MATK (L). ※Effect lasts 2 turns only
+スタートマジック【特大】=Start Magic [VL]
+wave開始時、自身の魔法攻撃力が上昇（特大）する。※効果は2ターンのみ=At the start of a wave, increases MATK (VL). ※Effect lasts 2 turns only.
 スタートマジック＆バーストマジック【特大】=Start Magic & Burst Magic [VL]
 wave開始時、自身の魔法攻撃力とエレメントバースト時の魔法攻撃力が上昇（特大）する。※効果は2ターンのみ=At the start of a wave, increases MATK and MATK during Element Burst (VL). ※Effect lasts 2 turns only
 スタートマジック＆バーストマジック【極大】=Start Magic & Burst Magic [XL]
@@ -1715,6 +1743,10 @@ wave開始時、自身に対する敵視が減少（大）し、自身の物理�
 『冥玉』か『幽冥斬』発動後、SPを3回復する。更にターン開始時、自身のCPが5の場合、1ターンの間、味方全体のコンディションを25%上昇させ、4以下の場合1ターンの間、味方全体のプロテクトを15%上昇させる。=After Nether Orb or Spectral Slash is activated, recovers 3 SP; if CP is 5 at the start of a turn, increases all allies' Condition by 25% for 1 turn or if CP is 4-, increases all allies' Protect by 15%.
 最高で最強のメイドさん=The Best and Strongest Maid
 ターン開始時に、稀に味方全体を回復（小）する。更にターン開始時、一定確率で2ターンの間、味方全体の魔法防御力と命中を上昇（中）させる。=At the start of a turn, rarely recovers all allies' HP (S); at the start of a turn, chance to increase all allies' MDEF and HIT (M) for 2 turns.
+モテモテな名探偵=The Popular Detective
+wave開始時、1ターンの間、自身がWeak攻撃で与えるダメージを25%上昇させる。更に自身がポジション5にいる場合、Weak攻撃で与えるダメージを20%上昇させる。=At the start of a wave, increases weakness damage dealt by 25% for 1 turn; if on position 5, increases weakness damage dealt by 20%.
+モテモテな名探偵改=The Popular Detective Kai
+wave開始時、1ターンの間、自身がWeak攻撃で与えるダメージを30%上昇させる。更に自身がポジション5にいる場合、Weak攻撃で与えるダメージを30%上昇させる。=At the start of a wave, increases weakness damage dealt by 30% for 1 turn; if on position 5, increases weakness damage dealt by 30%.
 最強の対魔忍=The Strongest Taimanin
 ポジション1かつパーティ内で自身の速さが1番目に高い時、自身のリンクスキル発動条件を無視して効果を発動させる。=When on Position 1 and SPD is highest in the party, ignore Link Skill requirements and trigger linked effects as stated.
 最強の対魔忍改=The Strongest Taimanin Kai

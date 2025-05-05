@@ -1,4 +1,3 @@
-彷徨う竜族編=Roaming the Dragon Tribe
 <size\=24><color\=#773038>彷</color></size><size\=17><color\=#48351A>徨う竜族</color></size>=<size\=24><color\=#773038>W</color></size><size\=17><color\=#48351A>andering Dragonkin</color></size>
 彷徨う竜族=Wandering Dragonkin
 <size\=24><color\=#773038>傍</color></size><size\=17><color\=#463E3C>観者の憂鬱</color></size>=<size\=24><color\=#773038>T</color></size><size\=17><color\=#463E3C>he Bystander's Melancholy</color></size>

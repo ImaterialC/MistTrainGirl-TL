@@ -188,3 +188,10 @@ sr:"^有償ミストジュエル(.+?)個\r\r\nさらに購入後、3日間ログ
 3000個に以下のおまけが付いたパックです。\r\r\n経験徽章25=This pack comes with 3,000 pieces and the following bonuses:\r\rExperience Emblem 25
 有償ミストジュエル5000個と以下のおまけのパックです。\r\r\n試練の塔未所持確定10連ガチャ切符Ⅱ1枚\r\r\nさらに購入後、2日間ログインで無償ミストジュエル（おまけ）10000個が獲得できるミッションが付与されます。\r\r\n※ガチャ切符は購入した日から180日後の5:00に削除されます=5,000 paid mist jewels and the following bonus packs.\r\r10-pull gacha ticket II that is guaranteed to be held without Tower of Trials\r\rFurthermore, after purchasing, you will be given a mission where you can earn 10,000 free mist jewels (bonus) by logging in for two days.\r\r*Gacha tickets will be deleted at 5:00 180 days after the purchase date.
 メアリーⅢ=Mary III
+ふゆくる解放石M=Fuyukuru Unlock Stone M
+ふゆくるコラボ記念解放石パック=FuyuKuru Collab Commemorative Unlock Stone Pack
+ふゆくるコラボお得パック=FuyuKuru Collab Bargain Pack
+復刻『ロリポップトレインしゅっぱーつ！』パック=Reprint [Lollipop Train Departs!] Pack
+復刻『わくわくドキドキ観光ツアー』パック=Reprint [Exciting and Thrilling Sightseeing Tour] Pack
+『みんなで仲良くお昼寝中』パック=[Everyone Taking a Nap Together] Pack
+ふゆくるコラボ記念スキンパック【星都チエミ】=Fuyukuru Collab Memorial Skin Pack [Chiemi Hoshito]

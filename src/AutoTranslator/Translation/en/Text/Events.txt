@@ -480,3 +480,13 @@ sr:"^(.+?)さんが(.+?)に絶大なダメージを与えました！$"=<size\=1
 竜封じの石版=Dragon Sealing Plate
 ＧＴＳ武器交換券=GTS Weapon Exchange Ticket
 r:"^対象クエスト終了まで　(\d+):(\d+)$"=Quest ends $1:$2
+
+ふゆくるコラボ記念M=Fuyukuru Collab Commemorative M
+【ふゆくるコラボ記念M】トレジャークエストのステージ2-5 (VHARD)をクリアする。=[FuyuKuru Collab M] Complete Treasure Quest Stage 2-5 (VHARD).
+【ふゆくるコラボ記念M】トレジャークエストのステージ1-5 (VHARD)をクリアする。=[FuyuKuru Collab M] Complete Treasure Quest Stage 1-5 (VHARD).
+素材クエスト、試練の塔、舞踏演武のいずれかのクエストを5回クリアする。=Complete any 5 quests in Material Quest, Mist Tower, or Battle Arena.
+霧からも、くるる=Kirikaramo, Kururu
+黒い針=Black Needle
+チェスの駒=Chess Piece
+『霧からも、くるる』のクエストで敵=Enemies in  "Kirikaramo, Kururu" quests
+レーゲンホエール襲来=Regenhauer Whale Attack

@@ -311,6 +311,17 @@ r:"^装備したレイヤーの幸運を(\d+)上昇させる。$"=Increases the 
 混沌の盾=Chaos Shield
 憎悪や憎しみが集まって作られた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made from all the enmity and hatred that has been gathered together.\r\nEquipping the entire series will give it even more powerful effects.
 
+氷塊の重装=Ice Block Heavy Armor
+深水を長年かけて凍らせて作られた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+氷塊の軽装=Ice Block Light Armor
+深水を長年かけて凍らせて作られた軽装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A light armor made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+氷塊の法衣=Ice Block Robe
+深水を長年かけて凍らせて作られた法衣。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A robe made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+氷塊の帽子=Ice Block Hat
+深水を長年かけて凍らせて作られた帽子。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A hat made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+氷塊の盾=Ice Block Shield
+深水を長年かけて凍らせて作られた盾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A shield made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+
 //Paid
 百鬼夜怨の重装=Hyakki Yaon Heavy Armor
 百鬼夜行を退けたが、魑魅魍魎の怨念を宿した重装。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A heavy armor that repelled the Hyakki Yagyou, but which also contained the grudges of evil spirits.\r\nEquipping the entire series will give it even more powerful effects.
@@ -529,6 +540,10 @@ POPラインジャ…=POP Line Ja...
 ラブリーワンピー…=Lovely One-Pi...
 パステルカラーでかわいいパーカー。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSランカスターに装備することでバトル中の見た目が変わる。=A cute pastel-colored hoodie.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Lancaster will change her appearance during battle.
 
+スカイブルービキニ=Sky Blue Bikini
+スカイブルービキ…=Sky Blue Biki...
+空をモチーフに作られた水着。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS空丘夕陽に装備することでバトル中の見た目が変わる。=A bikini designed with the sky as its motif.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuhi Soraoka will change her appearance during battle.
+
 //Event SS
 強者の煌めく黒衣=Shining Black Strongman Robe
 全てを守るエプロ…=Full Protecti...
@@ -565,6 +580,8 @@ POPラインジャ…=POP Line Ja...
 鬼獅子の琉装=Kijishi no Ryuusou
 淡獄の振袖=Tangoku no Furisode
 黒天狗の制服=Black Tengu Uniform
+氷竜の学園制服=Ice Dragon School Uniform
+氷竜のお洒落な制服=Ice Dragon Stylish Uniform
 流黒龍の旗袍=Liúhēilóng de Qipao
 青鷺火の着物=Aosagibi no Kimono
 魔法学校の上級学生服=Academy of Magic Senior Uniform

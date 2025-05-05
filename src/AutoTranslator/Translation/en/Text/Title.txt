@@ -25,3 +25,7 @@
 「空守たちの聖域」で前線基地の建物Lvが合計20に到達した称号です。=This title was awarded to those who reached a total of 20 building levels at the "Sky Guardians' Sanctuary Event".
 前線基地マスター=Front Line Base Master
 「空守たちの聖域」で前線基地の建物Lvが合計25に到達した称号です。=This title was awarded to those who reached a total of 25 building levels at the "Sky Guardians' Sanctuary Event".
+第7回濃霧決戦のハイスコアランキングでTOP500に入賞した称号です=This is the title for those who placed in the top 500 in the high score rankings of the 7th Deep Fog Showdown.
+第7回濃霧決戦TOP500称号=7th Deep Fog Showdown TOP 500 Title
+第7回濃霧決戦のハイスコアランキングでTOP100に入賞した称号です=This is the title for those who placed in the top 100 in the high score rankings of the 7th Deep Fog Showdown.
+第7回濃霧決戦TOP100称号=7th Deep Fog Showdown TOP 100 Title

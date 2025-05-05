@@ -4,7 +4,7 @@
 最初は鉄格子を壊せないか思案してみたり、\r\n壁に抜け穴がないか探してみたりしたのだが、\r\nそんな都合のいいこともなく、八方塞がりといった状況である。=At first, I thought about how to break the iron grates, \r\nso I looked for any holes in the wall, \r\nbut nothing worked, and I was in a dead end.
 もしかしてこのまま、\r\n死ぬまで投獄されるなんてことになったら……。=What if I end up \r\nbeing imprisoned like this until I died...?
 けっこうな絶望を感じていたその時だった。=That was when I felt quite hopeless.
-「いた！　車掌さん！」="Dere y'ar! Conductor!"
+「いた！　車掌さん！」="Dere y'ar! Sir Conductor!"
 聞き覚えのある元気娘の声に通路の奥を見ると、\r\nドーヴァーとペンシルベニアが\r\nこっそりと侵入してきてくれたところだった。=I heard a girl's familiar, energetic voice \r\nand I looked further down the aisle, \r\nwhere Dover and Pennsylvania had just sneaked in.
 「まさか本当に捕まっていたなんて……！」="I can't believe you've actually been caught...!"
 「今すぐに助けてあげるからね。\r\n　もう少しのがまんだよ！」="We'll help ye right away.\r\n Just 'ang on a lil' longer!"
@@ -34,8 +34,8 @@ Pennsylvaniaがこの町で買ったというチョコレートは\r\n包装も�
 ペンシルベニアがこの町で買ったというチョコレートは\r\n包装もチョコ自体も、すべてが非常にシンプルな作りの板チョコで、\r\n携帯するのにちょうどいい具合のものだった。=The chocolate that Pennsylvania bought in this town was \r\na very simple bar, both in packaging and the chocolate itself, \r\nand was just the right size to carry around.
 そのチョコをこちらも少し分けてもらう。\r\n確かに少し落ち着くことができた。=I was given some of the chocolate. \r\nIt certainly helped eased my mind a little.
 しかし二人がいつまでもここに滞在しているのもまずい。\r\n牢の扉を開ける手段がないのなら、一旦脱出した方がいいだろう。=But it would be bad if the two of you stayed here forever. If there is \r\nno way to open the cell door, it would be better to escape for now.
-「車掌さんのおっしゃる通りかもしれませんね。\r\n　一度退いて態勢を立て直した方がいいかもしれません」="Maybe what Conductor said is right.\r\n Perhaps we should just leave for now and regroup."
-「そんな、ここまで来て車掌さんを置いていけないよ」="No way, we can't just leave Conductor behind after comin' all dis way."
+「車掌さんのおっしゃる通りかもしれませんね。\r\n　一度退いて態勢を立て直した方がいいかもしれません」="Maybe what Sir Conductor said is right.\r\n Perhaps we should just leave for now and regroup."
+「そんな、ここまで来て車掌さんを置いていけないよ」="No way, we can't just leave Sir Conductor behind after comin' all dis way."
 「気持ちはわかりますけれど、\r\n　あたしたちまで捕まってしまうわけにはいきません」="I understand how you feel,\r\n but we can't let ourselves be captured too."
 「そうだけど……」="Dat's true, but..."
 「早くしないと誰かがここに来てしまうかもしれません。\r\n　そう、こうして話している間にも……」="Someone might be here if we don't hurry.\r\n Right, even while we're talking..."
@@ -53,13 +53,13 @@ Pennsylvaniaがこの町で買ったというチョコレートは\r\n包装も�
 「おわぁ！？」=WOAH!?"
 「あいたたた……」="Owowowow..."
 「もう、待ってって言いましたのに……」="Oof, I told you to wait..."
-「パンクラスさん！」="Pancras!"
+「パンクラスさん！」="Ms. Pancras!"
 「な、なんだぁパンクラスか。\r\n　見張りかと思ったよ……」="Wha, oh it's Pancras.\r\n I thought yer some lookout..."
 「うぅ、思いっきり鼻をぶつけましたわ」="Ugh, you smacked dab on my nose."
 「ドーヴァー、その勇敢さはご立派ですけど、\r\n　今度からはもう少し慎重に行動することをお勧めいたしますわ」="Dover, brave as you are, I certainly recommend\r\n you to be a tad more cautious moving forward."
 「えへへ……ごめん」="Ehehe... oopsies."
 「とにかく、早いところこんな場所からは出ますわよ」="Anyway, let's get out of here as soon as possible."
-「パンクラスさん、どうして鍵なんて持ってるんですか？」="Pancras, why do you have the key?"
+「パンクラスさん、どうして鍵なんて持ってるんですか？」="Ms. Pancras, why do you have the key?"
 「それはもちろん保釈金を払ったからですわ♪」="That's because I paid for the bail, of course♪"
 「お金払って下さったんですか！？」="You paid the money!?"
 「まあ厳密にはお金じゃないから安心していいですわ。\r\n　さあ車掌さま、もう釈放ですわよ」="Well, it wasn't strictly money, so not to worry.\r\n Now, Sir Conductor, you're released."
@@ -68,7 +68,7 @@ Pancrasが鍵を開けてくれて、\r\nようやく牢の外に出ることが
 何という解放感だろうか。\r\nこれがシャバの空気というものか……。=What a feeling of liberation. \r\nThis must be what they call freedom...
 「それで、車掌さまはどうしていきなり捕まったりしたんですの？」="So, Sir Conductor, why did you get arrested all of a sudden?"
 「それ私も気になってた！」="I was wonderin' 'bout dat too!"
-「車掌さんが悪いことするわけありません。\r\n　きっと何かの間違いなんですよね？」="Conductor, there's no way you'd do anything bad.\r\n There must have been some mistake, right?"
+「車掌さんが悪いことするわけありません。\r\n　きっと何かの間違いなんですよね？」="Sir Conductor, there's no way you'd do anything bad.\r\n There must have been some mistake, right?"
 もちろん罪を犯してなどいない。\r\n歩いていたら突然、捕まったのだ。\r\nこちらとしても何が何だか分からない状況なのだ。=Of course, I hadn't committed any crime. \r\nI was merely walking when I was suddenly arrested. \r\nIt was a situation where I didn't know what was going on either.
 「そんな横暴なことがまかり通ってるというんですの？\r\n　車掌さま、罪状はいったい何だったのでしょう」="Are you saying that such tyrannical behavior is allowed to take place?\r\n Sir Conductor, what exactly was the charge?"
 Pancrasの問いかけに対し、\r\n投獄時に言い渡された罪を素直に口にする。=In response to Pancras' question, I honestly told them the charges that were laid against me when I was imprisoned.
@@ -85,14 +85,14 @@ Pancrasの問いかけに対し、\r\n投獄時に言い渡された罪を素直
 そこで路地裏に踏み入ったら、突如として\r\n地図にも載っていない不思議な区画に出てしまったのだ。=When we stepped into a back alley, we suddenly found \r\nourselves in a mysterious area that wasn't even on the map.
 町の入り口に戻ろうとしても、戻れない。\r\nそこで手分けして探っていたところ、\r\n衛兵に捕まり投獄されてしまったというわけである。=We tried to go back to the town entrance, but we couldn't. \r\nSo we split up and started searching, \r\nbut I was caught by the guards and imprisoned.
 「わたくしも、セントイリスからチョコレートが\r\n　無くなった理由はこの町にある気がしますわ」="I too think that this town is the reason\r\n why chocolate disappeared from St. Iris."
-「チョコの材料が無くなった原因と、\r\n　車掌さんがチョコ１つで捕まった件は関係がある……」="De reason why chocolate ingredients disappeared,\r\n and why Conductor was arrested for only one chocolate are related..."
+「チョコの材料が無くなった原因と、\r\n　車掌さんがチョコ１つで捕まった件は関係がある……」="De reason why chocolate ingredients disappeared,\r\n and why Sir Conductor was arrested for only one chocolate are related..."
 「まあ確かにチョコ繋がりではあるけれど」="Well, it's certainly chocolate-related in any case."
-「そういえば車掌さん本命チョコをもらったって話だけど、誰から？」="Come to think o' it Conductor, didn't ye received chocolate from yer\r\n special someone? Who was it from?"
+「そういえば車掌さん本命チョコをもらったって話だけど、誰から？」="Come to think o' it Sir Conductor, didn't ye received chocolate from\r\n yer special someone? Who was it from?"
 Doverの質問に、\r\nペンシルベニアとパンクラスも興味津々な様子で\r\nこちらに詰め寄ってくる。=Upon Dover's question, \r\nit piqued Pennsylvania's and Pancras' \r\ncuriosity over to me.
 ドーヴァーの質問に、\r\nペンシルベニアとパンクラスも興味津々な様子で\r\nこちらに詰め寄ってくる。=Upon Dover's question, \r\nit piqued Pennsylvania's and Pancras' \r\ncuriosity over to me.
 だがこちらにも心当たりはない。\r\n捕まった時に持っていたのは、\r\n途中で購入してみんなで分け合ったチョコだけなのだ。=But I don't have any idea. \r\nAll I had when I was arrested was some chocolate \r\nI'd bought on the way and shared with everyone.
 「本命チョコでも何でもないじゃないですか」="It wasn't romantic chocolate or anything?"
-「確かに私たちが買って車掌さんに渡したけど、\r\n　別に本命チョコじゃないよね？」="Verily we did buy some and gave it to Conductor,\r\n but it wasn't romantic chocolate, was it?"
+「確かに私たちが買って車掌さんに渡したけど、\r\n　別に本命チョコじゃないよね？」="Verily we did buy some and gave it to Sir Conductor,\r\n but it wasn't romantic chocolate, was it?"
 「もちろんですわ。バレンタインなら、たとえ買うとしても\r\n　もっとしっかりしたチョコをお渡ししますもの」="Indubitably. If it was Valentine's Day, we would give him\r\n a more substantial chocolate, assuming if we did buy one."
 「じゃあどんなチョコだったらいいのかな？」="So what kinda chocolate should it be?"
 「みなさん、見てください」="Everybody, please take a look."
@@ -182,7 +182,7 @@ Aれは昇天というものだ。\r\n女子にチョコを貰えたことが嬉
 「あの時はちゃんとお話もできなかったからね。\r\n　私はドーヴァー。こっちがパンクラスとペンシルベニア」="We didn't even getta talk properly den.\r\n I'm Dover. This is Pancras and Pennsylvania."
 「そうか。よろしくな」="I see. Nice to meet you."
 「車掌さまの呼びかけで特鉄隊と行動を\r\n　共にしてくださっているとお聞きしていましたけれど、\r\n　まさかこんな所でお会いできるとは思いませんでしたわ」="I heard that you were working\r\n with the SSS at Sir Conductor's request,\r\n but I never thought I'd meet you here."
-「もしかしてバーゼルさんも\r\n　この町の調査にいらっしゃったんですか？」="Did Basel come to investigate this town too?"
+「もしかしてバーゼルさんも\r\n　この町の調査にいらっしゃったんですか？」="Did Ms. Basel come to investigate this town too?"
 「いや。セントイリスを見て回っていただけだ。\r\n　気付いたらこの異質な町に迷い込んでいた」="No. I was just looking around St. Iris.\r\n Before I knew it, I found myself lost in this strange town."
 「なんだ、バーゼルも迷子になったんだね」="Well now, so Basel's a lost little lass too."
 「その言葉は正しくないな。\r\n　私は遥か昔に成人を迎えている」="That's not a right thing to say.\r\n I came of age a long time ago."
@@ -192,7 +192,7 @@ Aれは昇天というものだ。\r\n女子にチョコを貰えたことが嬉
 「まあ、いいだろう。\r\n　私も急いでいる身ではないからな」="Well, that's fine.\r\n I'm not in a hurry either."
 「やったぁ！　ありがとうバーゼル♪」="Hurray! Thanks Basel♪"
 「強力な助っ人ですわね。\r\n　これで逃げ続けるだけじゃなく調査も進められるかもしれませんわ」="You're a valuable helping hand. With you around, we might be able\r\n to resume our investigation instead of just continuing to run away."
-「ところでバーゼルさん。念のため確認しますけれど、\r\n　外で買ったチョコレートを持っていたりしますか？」="By the way, Basel. Just to be sure,\r\n do you have any chocolate you bought outside?"
+「ところでバーゼルさん。念のため確認しますけれど、\r\n　外で買ったチョコレートを持っていたりしますか？」="By the way, Ms. Basel. Just to be sure,\r\n do you have any chocolate you bought outside?"
 「チョコレートか。持っているぞ」="Chocolate? Yes, I do."
 「セントイリスに腰を落ち着けてからというもの、\r\n　色々な食べ物に出会ってきた。\r\n　中でもこのチョコレートは私のお気に入りだ」="Ever since I settled in St. Iris,\r\n I've encountered a lot of different foods.\r\n Among them, this chocolate is my favorite."
 「口の中で簡単にとろけ、上品な甘さが広がる。\r\n　チョコレートの美味しさはとても衝撃的だった」="It melts easily in your mouth, and its refined sweetness spreads\r\n throughout. The deliciousness of chocolate was very shocking."
@@ -225,7 +225,7 @@ MAたも駆けつける衛兵たちを、\r\nバーゼルが水の魔法で吹�
 「私の懐に無理矢理に押し返すとは、\r\n　車掌もなかなかに強引だな」="You're pretty pushy, Conductor,\r\n trying to force it back into my pocket."
 「だが嫌いではない。\r\n　分かった、ここはお前に免じてチョコをしまうとしよう」="But I don't dislike you.\r\n I understand, I'll put the chocolate away for your sake."
 ようやくこちらの言うことを聞き、\r\nバーゼルがチョコを懐にしまってくれた。=At last, Basel listened to me \r\nand put the chocolate away in her pocket.
-誇り高く、強大な力を持つ竜族のバーゼルさんだが、\r\n意外と先が思いやられる気がしてきた……。=Basel is a proud and powerful dragonkin, \r\nbut I'm starting to feel a bit worried about what the future holds...
+誇り高く、強大な力を持つ竜族のバーゼルさんだが、\r\n意外と先が思いやられる気がしてきた……。=Ms. Basel is a proud and powerful dragonkin, \r\nbut I'm starting to feel a bit worried about what the future holds...
 
 義理と本命ってなぁに？=What is Pity and Romantic?
 セントイリスで人間の文化に触れていったバーゼルは\r\nチョコレートをたいそう気に入ったらしく、\r\n素晴らしい食料としてしっかり携行していた。=After she came into contact with human culture in St. Iris, \r\nBasel seemed to take a great liking to chocolate \r\nand always carried it with her as it was a wonderful food source.
@@ -247,21 +247,21 @@ Baselによって救われたのは確かだが、\r\nバーゼルによって�
 「えっとね、私たち人間には一年に一度、\r\n　女のひとから男のひとにチョコレートをプレゼントする\r\n　『バレンタイン』ってイベントがあるの」="Well um, we 'umans 'ave an annual event\r\n where women give chocolate to men as a present,\r\n it's called 'Valentines'."
 「それでね、好きなひとに贈るのが『本命チョコ』で、\r\n　そうじゃないけど渡さないのも申し訳ないなって\r\n　ひとに贈るのが『義理チョコ』っていうんだよ」="So, 'romantic chocolate' is given to someone ye fancy,\r\n and 'pity chocolate' is given to people ye don't\r\n but at the same time ye feel bad if they don't 'ave one."
 「ふむ。では私が車掌にチョコレートを贈るなら\r\n　『本命チョコ』ということになるのだな」="Hmm. So if I were to give chocolate to Conductor,\r\n I guess that would be 'romantic chocolate'."
-「バーゼルって車掌さんのことが好きだったの！？」="Blimey Basel ye liked Conductor!?"
+「バーゼルって車掌さんのことが好きだったの！？」="Blimey Basel ye liked Sir Conductor!?"
 「もちろんだ。こちらでの私の居場所を用意してくれて、\r\n　さらには私の手助けまでしてくれている。\r\n　感謝してもしきれないくらいだ」="Of course. He's prepared a place for me here,\r\n and he even helped me out.\r\n I can't thank him enough."
 「そうだな。いい機会だ、\r\n　車掌、私からの『本命チョコ』だ。\r\n　受け取ってくれ」="That's right. This is a good opportunity,\r\n Conductor, to give you some 'romantic chocolate' from me.\r\n Please do accept it."
 Baselが固めたばかりのチョコの矢をこちらに渡そうとしてきた。\r\n絶対にドーヴァーの説明を理解していない気がする……。=Basel tried to hand me a new, just solidified chocolate arrow. \r\nI have a feeling she definitely didn't understand Dover's explanation...
 バーゼルが固めたばかりのチョコの矢をこちらに渡そうとしてきた。\r\n絶対にドーヴァーの説明を理解していない気がする……。=Basel tried to hand me a new, just solidified chocolate arrow. \r\nI have a feeling she definitely didn't understand Dover's explanation...
-「違うってバーゼル。\r\n　このチョコの矢、車掌さんのために作ったわけじゃないでしょ。\r\n　そんなモノのついでみたいにプレゼントしちゃダメだよ」="Not it, Basel.\r\n We didn't make this chocolate arrow for Conductor.\r\n Ye shouldn't give it to 'im as if it were just a side gift."
+「違うってバーゼル。\r\n　このチョコの矢、車掌さんのために作ったわけじゃないでしょ。\r\n　そんなモノのついでみたいにプレゼントしちゃダメだよ」="Not it, Basel.\r\n We didn't make this chocolate arrow for Sir Conductor.\r\n Ye shouldn't give it to 'im as if it were just a side gift."
 「まあ気持ちがこもっているなら、\r\n　ダメってわけじゃないけど……」="I mean, if ye did put yer feelins' to it,\r\n I suppose it's fair enuff..."
 「確かに車掌のために作ったチョコではなかった。\r\n　ただチョコを贈ればいいというわけでもないのだな」="It's certainly wasn't chocolate made for Conductor.\r\n I guess just giving chocolate isn't enough."
 「ならば今から車掌のためにチョコを作るとしよう」="In that case, I'll make some chocolate for Conductor now."
 「えっ、いま作るの！？」="Eh, yer making it NOW!?"
 「ドーヴァーも『本命チョコ』を作るつもりだと言っていたではないか。\r\n　お前も車掌に贈るのだろう？　ならば一緒に作ろうではないか」="Dover you said you were planning to make romantic chocolate too.\r\n You're going to gift it to Conductor too, right? Then let's make some\r\n together."
-「わっ、わわ、私は『本命チョコ』を車掌さんに贈るとは一言も……」="I, I-I, I never said anythin' about giftin' any romantic chocolate to Conductor..."
+「わっ、わわ、私は『本命チョコ』を車掌さんに贈るとは一言も……」="I, I-I, I never said anythin' about giftin' any romantic chocolate to Sir Conductor..."
 「なんだ、違うのか」="What, you're not?"
 「違わない！」="I'M NOT!"
-「違わないけども、その、車掌さんの前で\r\n　そういう話は恥ずかしいっていうか……」="I'm not, but, ye know, it's um, embarrassin' to\r\n talk about dat in Conductor's face..."
+「違わないけども、その、車掌さんの前で\r\n　そういう話は恥ずかしいっていうか……」="I'm not, but, ye know, it's um, embarrassin' to\r\n talk about dat in Sir Conductor's face..."
 「別に恥ずかしがることはない。\r\n　ドーヴァーも車掌を慕っているのだろう？\r\n　日頃の感謝の気持ちを伝えるいい機会ではないか」="There's nothing to be embarrassed about, Dover.\r\n You like Conductor too, right?\r\n This is a good opportunity to express your gratitude."
 「あ、感謝の気持ちのことか……」="Ah, ye mean gratitude..."
 「どうした、ドーヴァー？」="What's the matter, Dover?"
@@ -274,7 +274,7 @@ Baselが固めたばかりのチョコの矢をこちらに渡そうとしてき
 不思議そうにドーヴァーの消えた方を見つめるバーゼル。\r\n彼女は竜族で人間社会に疎いから仕方ないが、\r\n『本命チョコ』の話題はいったん終わりにしようと固く誓ったのだった。=Basel stared curiously in the direction Dover has disappeared. \r\nIt can't be helped, she is a dragonkin who's a stranger to human society, \r\nbut I had to put my foot down and end the "romantic chocolate" topic for now.
 
 さすが水竜=The Water Dragon Indeed
-「ほんとにこんな場所にチョコ工場なんてあるの？\r\n　ここ、車掌さんが捕まってた牢屋だよね？」="Is dere really a chocolate factory in a place like dis?\r\n Isn't dis de prison where Conductor was 'eld?"
+「ほんとにこんな場所にチョコ工場なんてあるの？\r\n　ここ、車掌さんが捕まってた牢屋だよね？」="Is dere really a chocolate factory in a place like dis?\r\n Isn't dis de prison where Sir Conductor was 'eld?"
 「町の人たちが何人もここにチョコの材料が\r\n　運ばれていくのを見たとおっしゃっていました。\r\n　間違いないはずですわ」="Several of the townsfolk said they saw\r\n chocolate ingredients being transported here.\r\n I'm sure there's no doubt about it."
 「なんでもここは怖い獄長が仕切っていて、\r\n　ギリギリチョコ以外禁止っていう決まりもその人が作ったみたいですよ。\r\n　チョコの行方を知っているとみて間違いありません」="Apparently, this place is run by a scary warden\r\n who also made the rule that only edging chocolate is allowed.\r\n Clearly he should know where the chocolate is going."
 「じゃあその獄長を探さなきゃね。\r\n　このままじゃバレンタインができなくなっちゃう」="Then we needa find dat warden.\r\n We won't be able to 'ave Valentine's Day if dis keeps up."
@@ -323,7 +323,7 @@ Baselが固めたばかりのチョコの矢をこちらに渡そうとしてき
 ふっ。チョコレートに懸ける女性の想いを守りたい、それだけだ。\r\nもう一度言うが、『本命チョコ』は必ずこちらに渡すように。=Heh. I just want to protect the feelings of women who have chocolate. \r\nI'll say it again, make sure you give your romantic chocolate to me.
 き、聞いてくれみんな。\r\nここで奴を止めないとこの世からバレンタインがなくなってしまう。\r\nそんなこと、あっていいはずがない。=Li-listen up, everyone. \r\nIf we don't stop him now, Valentine's will disappear from this world.\r\n That can't be allowed to happen.
 だから全力で止めるぞ！=SO I'LL DO EVERYTHING IN MY POWER TO STOP HIM!
-「な、なんか今の車掌さんの号令には乗りたくないなぁ……」="I-I don't really wanna go along wit' Conductor's orders right now..."
+「な、なんか今の車掌さんの号令には乗りたくないなぁ……」="I-I don't really wanna go along wit' Sir Conductor's orders right now..."
 
 本命の味だぜ=It's the Taste of True Love
 「くらえチョコの矢！」="Take dis chocolate arrow!"
@@ -422,14 +422,14 @@ A、この人こちらが竜族以上にタフだって信じて疑ってない�
 いけ！　バーゼル！=Go! Basel!
 牢獄兼チョコ工場にて、見事に機械を止めたバーゼルだったが、\r\nドーヴァーたち３人は工場の外へと出荷されてしまっていた。\r\n急いでバーゼルと外に飛び出すと――=At the prison/chocolate factory, Basel successfully stopped the \r\nmachine, but Dover and the other two are shipped out of the factory. \r\nWhen Basel and I rushed outside――
 工場の脇でラッピングされたまま\r\n荷馬車に乗せられそうになっている３人を発見したのだった。=We find the three of them wrapped up and \r\nabout to be put into a cart next to the factory.
-「ありがとうバーゼル、車掌さん！」="Thank you Basel, Conductor!"
+「ありがとうバーゼル、車掌さん！」="Thank you Basel, Sir Conductor!"
 「危うくあたしたちまでチョコとして\r\n　お店に出荷されちゃうところでした……」="We were almost shipped out\r\n to the stores as chocolates too..."
 「間一髪というところだったが、\r\n　無事なようで何よりだ」="It was a close call,\r\n but I'm glad they're safe."
 「あの、助けて下さったのは嬉しいのですけど、\r\n　ラッピングの方も解いていただけません？」="Um, I appreciate your assistance and all,\r\n but could you please unwrap us?"
 「って車掌さま、わたくしたちの前にしゃがみ込んで\r\n　何をそんなじーっと見つめてらっしゃるんですの？」="But Sir Conductor, what are you staring at\r\n while crouching down in front of us?"
 いや、ラッピングされた美少女も悪くないと思ってな。\r\n家に持ち帰るのもアリかと。=No, I don't think a beautiful girl wrapped up is bad either. \r\nI might as well take you all back home like this.
 「ナシに決まってるじゃありませんの！\r\n　ふざけたこと言ってないで早くリボンを解いてくださいまし！」="Of course it's not going to happen!\r\n Stop pulling my leg and please untie the ribbon already!"
-「あたしも、さすがの車掌さんでも\r\n　ちょっと今のはいただけません」="Even I, Conductor, impressive as you are,\r\n find that unacceptable coming from you."
+「あたしも、さすがの車掌さんでも\r\n　ちょっと今のはいただけません」="Even I, Sir Conductor, impressive as you are,\r\n find that unacceptable coming from you."
 「うん。さっきのチョコ食べた獄長みたいな顔してたしね」="Yeah. Ye looked like dat warden who ate the chocolate earlier."
 All Threeから一斉に非難を浴びてしまった。\r\n純粋に褒めただけなのに……。=The three of them all criticized me at once. \r\nEven though I was just giving them a compliment...
 ３人から一斉に非難を浴びてしまった。\r\n純粋に褒めただけなのに……。=The three of them all criticized me at once. \r\nEven though I was just giving them a compliment...
@@ -505,7 +505,7 @@ All Threeから一斉に非難を浴びてしまった。\r\n純粋に褒めた�
 「……１つ聞きたいのだが、\r\n　これは『本命』と『義理』、どちらなのだ？」="...I have a question:\r\n Is this a 'romantic' or a 'pity' gift?"
 「どっちでもないよ」="Dat be neither."
 「そうなのか？　バレンタインには\r\n　『本命』と『義理』があると話していたではないか」="Is that so? You said that there are romantic and pity gifts on Valentine's."
-「あたしたちがバーゼルさんにプレゼントしたかった。\r\n　それだけのことですよ」="We wanted to give this to you, Basel.\r\n That's all."
+「あたしたちがバーゼルさんにプレゼントしたかった。\r\n　それだけのことですよ」="We wanted to give this to you, Ms. Basel.\r\n That's all."
 「強いて言うなら『友チョコ』というものですわね」="If I had to say it, I'd call it 'friend chocolate'."
 「そうそう！　バレンタインは\r\n　ともだちにプレゼントする時もあるんだよ」="Right! Sometimes people\r\n give chocolates to friends durin' Valentine's."
 「ともだち……」="Friends..."

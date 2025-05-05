@@ -1,10 +1,12 @@
 //Jungfrau
 フロストカメラート=Frost Kamerad
-「フロストカメラート」を選択した同じターンに、威力B以上の物理攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Frost Kamerad is selected, select other B+ Power physical attack skills (※Excludes total power) total 2+ excluding self on the same turn.
+フロストカメラー…=Frost Kamer...
+「フロストカメラート」を選択した同じターンに、威力B以上の物理攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Frost Kamerad is selected, select other B+ Power physical attack skills (※Excludes total power) total 2 or more.
 【全属性エレメントの蓄積数の合計が「2」以上の敵に対して、与えるダメージを60%上昇させる】効果を味方全体に付与する。※付与効果は発動ターンのみ=All allies gain buff [Increases damage dealt by 60% to enemies with 2 or more total Element Stacks]. ※Applied buff lasts this turn only
 グレイシャインパクト=Glacier Impact
+グレイシャインパ…=Glacier Impa...
 敵単体に物理（衝）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Water) damage and recovers 3 SP.
-「グレイシャインパクト」を選択した同じターンに、初期SPが13以上の双属性スキルを、自身を除く2体以上が選択する。=When Glacier Impact is selected, select other 13+ original SP cost double-Element skills total 2+ excluding self on the same turn.
+「グレイシャインパクト」を選択した同じターンに、初期SPが13以上の双属性スキルを、自身を除く2体以上が選択する。=When Glacier Impact is selected, select other 13+ original SP cost double-Element skills total 2 or more.
 【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet/Whip Layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
 アグレスフロスウィップ=Aggress Fluss Whip
 
@@ -12,11 +14,74 @@
 フルーフ・ヴァッサー=Fluch Wasser
 フルーフ・ヴァッ…=Fluch Wasser
 敵単体に物理（貫）か物理（水）で攻撃し、自身のHPを最大HPの5%分減少させる。=Attacks a single enemy with physical (Pierce) or physical (Water) damage and decreases 5% of self Max HP.
-「フルーフ・ヴァッサー」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fluch Wasser is selected, select other Pierce Element included double-element skills total 2+ excluding self on the same turn.
+「フルーフ・ヴァッサー」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Fluch Wasser is selected, select other Pierce Element included double-element skills total 2 or more.
 自身がエレメントバーストで与えるダメージを45%上昇させ、更にエレメントバースト時の物理攻撃力を20%上昇させる。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 45% and increases ATK during Element Burst by 20%. ※Each effect lasts this turn only
 カース・ジ・ヴァルン=Curse the Varun
 カース・ジ・ヴァ…=Curse the V...
-「カース・ジ・ヴァルン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Curse the Varun is selected, select other Pierce Element physical attack skills total 2+ excluding self on the same turn.
+「カース・ジ・ヴァルン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Curse the Varun is selected, select other Pierce Element physical attack skills total 2 or more.
 【エレメントバーストが発動するたびに、1ターンの間、自身がエレメントバーストで与えるダメージを15%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time an Element Burst is activated, increase Element Burst damage dealt by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 シュヴァルツレインドラフ=Schwarz Reindorf
 敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases ATK during Element Burst (L) for 1 turn.
+
+// Yuuhi Soraoka
+モテモテショット=Mote Mote Shot
+自身がWeak攻撃で与えるダメージを70%上昇させる。※効果は発動ターンのみ=Increases weakness damage dealt by 70%. ※Effect lasts this turn only
+ディテクティブシューター=Detective Shooter
+自身の魔法攻撃力を30%上昇させ、更に【wave開始時、1ターンの間、Weak攻撃で与えるダメージを30%上昇させる】効果を自身に付与する。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases MATK by 30% and gains buff [At the start of a turn, increases weakness damage dealt by 30% for 1 turn]. ※Effect is permanent for the rest of the battle
+アグレブレイク=Agre Break
+自身がポジション5にいる場合、自身の魔法攻撃力を50%上昇させ、更にWeak攻撃で与えるダメージを20%上昇させる。※それぞれ効果は発動ターンのみ=If on position 5, increases MATK by 50% and increases weakness damage dealt by 20%. ※Each effect lasts this turn only
+チェックメイト=Checkmate
+
+//Shihon Shimoyuki
+ラブラブショット=Love Love Shot
+自身か発動条件を満たしたレイヤーがポジション5にいる場合、そのレイヤーのWeak攻撃で与えるダメージを45%上昇させる。※効果は発動ターンのみ=If self or a linked layer is on position 5, increases that layer's weakness damage dealt by 45%. ※Effect lasts this turn only
+愛ある注射=Loving Injection
+【ポジション5にいる場合、自身がWeak攻撃で与えるダメージを70%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked layers gain buff [If on position 5, increases weakness damage dealt by 70%]. ※Effect is permanent for the rest of the battle
+愛ある甘え=Loving Affection
+自身か発動条件を満たしたレイヤーがポジション5にいる場合、そのレイヤーの魔法攻撃力を20%上昇させ、更にWeak攻撃で与えるダメージを25%上昇させる。※それぞれ効果は発動ターンのみ=If self or a linked layer is in position 5, increases that layer's MATK by 20% and increases weakness damage dealt 25%. ※Each effect lasts this turn only
+かわいい射撃乱打=Cute Shooting Spree
+敵単体に魔法（貫）で攻撃する。CP4以上の場合、2ターンの間、味方全体の魔法攻撃力を上昇（中）させる。=Attacks a single enemy with magical (Pierce) damage. If CP is 4+, increases all allies' MATK (M) for 2 turns.
+
+//Torineko Mizuna
+かわいい護身術=Cute Self-Defense
+敵単体に物理（衝）か物理（風）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Wind) damage and recovers 3 SP.
+「かわいい護身術」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。        =When Cute Self-Defense is selected, select other Blow Element physical attack skills total 2 or more.
+自身の「かわいい護身術」発動後、発動条件を満たしたレイヤー1体につき1回、敵単体に【威力A】の物理（衝）か物理（風）で攻撃する。※効果は発動ターンのみ        =After Cute Self-Defense is activated, attacks a single enemy with A Power physical (Pierce) or physical (Dark) damage once for each linked Layer. ※Effect lasts this turn only   
+回転投げ=Spin Throw
+「回転投げ」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。        =When Spin Throw is selected, select other Blow Element physical attack skills total 2 or more.
+天地投げ=Tenchi Nage
+「天地投げ」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。        =When Tenchi Nage is selected, select other Blow Element physical attack skills total 2 or more.
+きあいのいちげき=One-Hit Wonder
+敵単体に物理（衝）で攻撃し、2ターンの間、相手の物理防御力を減少（特大）する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（中）させる。=Attacks a single enemy with physical (Blow) damage and decreases DEF (VL) for 2 turns. If CP is 4+, increases ATK (M) for 2 turns.
+
+//Chiemi Hoshito
+レイジアーチ=Rage Arch
+敵単体に物理（貫）か物理（光）で攻撃し、稀に、4ターンの間「暗闇」の状態異常（中）と2ターンの間「沈黙」の状態異常（中）を付与する。=Attacks a single enemy with physical (Pierce) or physical (Light) damage and rarely inflicts Blind (M) for 4 turns and Silence (M) for 2 turns.
+自身の「レイジアーチ」発動時、攻撃回数を1回から2回に増やす。※効果は発動ターンのみ=When Rage Arch is activated, increases the number of attacks from 1 to 2 times. ※Effect lasts this turn only
+プレジデントアロー=President Arrow
+【光属性スキルで攻撃した後、2ターンの間、相手の命中と幸運を15%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After attacking with a Light Element skill, decreases HIT and LUCK by 15% for 2 turns]. ※Applied buff is permanent for the rest of the battle
+キューティ・シリアス=Cutie Serious
+敵全体の物理防御力と幸運を30%減少させる。※それぞれ効果は発動ターンのみ=Decreases all enemies' DEF and LUCK by 30%. ※Each effect lasts this turn only 
+怒りの光乱射=Angry Light Blind Fire
+敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、敵全体の物理防御力と幸運を減少（中）する。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, decreases all enemies' DEF and LUCK (M) for 1 turn.
+
+//Touko Kikuma
+コントロールスピア=Control Spear
+「コントロールスピア」を選択した同じターンに、貫属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Control Spear is selected, select other Pierce Element included double-element skills total 2 or more.
+ナレッジランス=Knowledge Lance
+「ナレッジランス」を選択した同じターンに、貫属性または闇属性スキルを、自身を除く2体以上が選択する。=When Knowledge Lance is selected, select other Pierce Element or Dark Element skills total 2 or more.
+【沈黙が付与されている敵に与えるダメージを80%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases damage dealt to Silenced enemies by 80%]. ※Applied buff is permanent for the rest of the battle
+バイチェアピラー=Bi-Chair Pillar
+自身の物理攻撃力を30%上昇させ、更に敵に与えるダメージを40%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK by 30% and increases damage dealt to enemies by 40%. ※Each effect lasts this turn only
+巧みな話術=Skilled Conversation Skills
+敵単体に物理（貫）で攻撃する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK (VL) for 2 turns.
+
+//Vika Tsukikadojima
+針通し術=Needle Threading
+【自身の攻撃1回ごとに、1ターンの間、物理攻撃力を15%上昇させる】効果をポジション1のレイヤーに付与する。※ 付与効果は発動ターンのみ。『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Position 1 layer gains buff [Increases damage dealt by 15% per attack for 1 turn]. ※Applied buff lasts this turn only. Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1.
+お姉様ソーイング=Big Sister Sewing
+自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の物理攻撃力を30%上昇させ、更に敵に与えるダメージを25%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases all allies' ATK by 30% and damage dealt to enemies by 25% if this skill is linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
+部長の乱打=Manager's Assault
+発動条件を満たしたレイヤーの物理攻撃力を30%上昇させ、更に敵に与えるダメージを30%上昇させる。※それぞれ効果は発動ターンのみ=Increases linked layers' ATK by 30% and increases damage dealt to enemies by 30%. ※Each effect lasts this turn only
+黒い手芸針=Black Craft Needles
+敵全体に物理（衝）で攻撃する。CP4以上の場合、2ターンの間、味方全体の物理攻撃力と物理防御力を上昇（中）する。=Attacks all enemies with physical (Blow) damage. If CP is 4+, increases all allies' ATK and DEF (M) for 2 turns.

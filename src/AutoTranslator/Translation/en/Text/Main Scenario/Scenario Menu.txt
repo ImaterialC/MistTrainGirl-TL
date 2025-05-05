@@ -13,7 +13,6 @@
 低=Low
 ウィンドウ透過度=Transparency
 r:"^第([0-9]+)部 第([0-9]+)章$"=Part $1 Episode $2
-第1部 第1章=Part 1 Episode 1
 
 次のステージが解放されました=The next stage has been unlocked
 STAGE〇〇の難易度【NORMAL】が解放されました=Stage 〇〇's difficulty [NORMAL] has been released
@@ -22,6 +21,3 @@ r:"^STORY1\r\n(.+)$"=SCENE 1\r\n$1
 ストーリーを再生します=Play the Story
 ストーリー再生=Story Playback
 追加ダウンロード確認=Confirm Additional Downloads
-
-
-幻術の孤島編=Illusion Island Episode

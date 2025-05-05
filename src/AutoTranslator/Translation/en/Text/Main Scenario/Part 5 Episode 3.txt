@@ -207,7 +207,7 @@ Abbey Roadは、剣を構えて防御の姿勢を\r\nとり続けるクインズ
 「たとえばの話。\r\n　お前１人で車掌とメテオラを敵から守らなければならないという\r\n　状況に陥ることだって有り得るわけだ」="For example, it is possible to fall into a situation where you have to protect the conductor and Meteora from the enemy alone."
 「そうなったらかなりヤバいね」="If that happens, it's pretty dangerous."
 「ヤバいじゃ済まないのよ。\r\n　あなた１人が命を落とすだけならまだマシ。\r\n　そんな場面に出くわす可能性だってあるんだからね」="I'm not going to be dangerous. It's still good if you just die. There is a possibility that you will come across such a scene."
-「はい！」="yes!"
+「はい！」="Yes!"
 「この予科生に戦場での考え方というものを叩き込んでおけ。\r\n　その子が『怖い』と思う、あらゆる状況を想定しろ。\r\n　自分のせいで誰かが死ぬ。そういう話もしておくように」="I want to hit this attorneist about the way of thinking on the battlefield. I think that child is" scary ", assuming all the situations. Someone dies because of myself. Let's talk about that."
 「存分にやるといい。\r\n　私とキングスクロスはここらで失礼する。\r\n　キングスクロス、私たちも向こうで訓練しよう」="I should do it as much as I can. I and Kingscross are rude here. Kingscross, let's train over there."
 「ええ、姉弟子だからって手加減はしないわよ」="Yes, I'm not going to do so because I'm a sister disciple."
