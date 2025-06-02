@@ -64,3 +64,9 @@
 空丘夕陽[ふゆくるコラボ’25]=Yuuhi Soraoka [FuyuKuru Collab '25]
 [海辺の花]星都チエミ=[Seaside Flowers] Chiemi Hoshito
 星都チエミ[海辺の花]=Chiemi Hoshito [Seaside Flowers]
+サラ・クリサリス[D.C.Ⅲコラボ’25]=Sara Chrysalis [D.C. III Collab '25]
+[D.C.Ⅲコラボ’25]サラ・クリサリス=[D.C. III Collab '25] Sara Chrysalis
+シャルル・マロース[ビーチサイド・ホワイト]=Charles Maroth [Beachside White]
+[ビーチサイド・ホワイト]シャルル・マロース=[Beachside White] Charles Maroth
+リッカ・グリーンウッド[シーサイド・ブルー]=Ricca Greenwood [Seaside Blue]
+[シーサイド・ブルー]リッカ・グリーンウッド=[Seaside Blue] Ricca Greenwood

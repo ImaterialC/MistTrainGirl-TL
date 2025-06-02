@@ -688,6 +688,9 @@ Wave開始時、稀にパーティ内の「マルギッテ・エーベルバッ�
 「スィーリア」「希咲美桜」「龍造寺茜」の与えるダメージ量を10％上昇させる。=Increases Celia's, Mio Kisaki's, and Akane Ryuuzouji's damage by 10%.
 「スィーリア」「希咲美桜」「龍造寺茜」のHPを1500上昇させる。=Increases Celia's, Mio Kisaki's, and Akane Ryuuzouji's HP by 1500.
 
+放課後の女子会♪=After-School Girls' Get-Together♪
+復刻『放課後の女子会♪』パック=Reprint "After-School Girls' Get-Together♪" Pack
+
 異世界のファッション調査=Otherworld's Fashion Research
 つり乙の一撃【Ⅱ】=Tsuri Otsu Strike [II]
 「大蔵りそな」「桜小路ルナ」「柳ヶ瀬湊」の与えるダメージ量を10％上昇させる。=Increases Risona Okura's, Luna Sakurakouji's and Minato Yanagase's damage by 10%.
@@ -1096,6 +1099,8 @@ No.1になる為に=To be No. 1
 
 みんなで仲良くお昼寝中=Everyone Taking a Nap Together
 ヒットプラス【Ⅴ】=Hit Plus [V]
+ヒットプラス【Ⅴ】&ヒッ…=Hit Plus [V] & Hit...
+ヒットプラス【Ⅴ】&ヒットプロダクト【…=Hit Plus [V] & Hit Product [...
 ヒッ…=Hit...
 命中の共鳴【Ⅴ】=HIT Resonance [V]
 かわいいねがお=Cute Sleeping Face
@@ -1106,6 +1111,9 @@ No.1になる為に=To be No. 1
 ロリポップトレインしゅっぱーつ！=Lollipop Train Departs!
 みんなで列車ごっこ=Let's Play Train Together
 ポジション4・5が、敵に与えるダメージを35%上昇させ、更に攻撃した時、稀に自身を回復（小）する。=Increases position 4 and 5's damage dealt to enemies by 35% and when attacking, rarely recovers HP (S).
+マジック&バーストマジックブースト【特…=Magic & Burst Magic Boost [VL...
+ラック&リカバリープロ…=Luck & Recovery Pro...
+マジックプラス【Ⅵ】&…=Magic Plus [VI] &...
 
 わくわくドキドキ観光ツアー=Exciting and Thrilling Sightseeing Tour
 観光列車の旅=Tourist Train Trip
@@ -1116,6 +1124,11 @@ No.1になる為に=To be No. 1
 放課後の一枚=An After School Selfie
 あま～い飲み物=Sweeet～ Beverages
 マジック&バーストマジックブースト【極大】：4=Magic & Burst Magic Boost [XL]: 4
+
+約束のあの場所で=At That Promised Place
+綺麗な桜景色=Beautiful Cherry Blossom View
+武器種が「魔具・杖」のレイヤーの魔法攻撃力とエレメントバースト時の魔法攻撃力を35%上昇させ、更に回復力を30%上昇させる。=Increases Artifact and Staff weapon layers' MATK and MATK during Element Burst by 35% and increases RCV by 30%.
+マジック&バーストマジックブースト【極…=Magic & Burst Magic Boost [XL...
 
 ウィークダメージアップ…=Weak Damage Up...
 ダメージアップ&バース…=Damage Up & Burst...
@@ -1161,9 +1174,7 @@ No.1になる為に=To be No. 1
 アタックプラス【Ⅲ】＆ア…=Attack Plus [III] & A...
 アタックプラス【Ⅲ】＆アタックプロダク…=Attack Plus [III] & Attack Product...
 マジックプラス【Ⅲ】＆マジックプロダク…=Magic Plus [III] & Magic Product...
-※集計=※Total
-ステージ1-3(NORMAL)\nクリアで開放=Clear Stage 1-3N to unlock
-前の難易度をクリアで解放=Clear previous difficulty to unlock
-STORY10 視聴後解放=STORY10 Unlock after viewing
-ユングフラウ入隊記念=Jungfrau's Enlistment Commemoration
-くるる=Kururu
+パラライブースト=Paralyze Boost
+ダメージ＆バーストダメ…=Damage & Burst Damage...
+
+出会いは明日も、くるる=Encounter Tomorrow, Kururu

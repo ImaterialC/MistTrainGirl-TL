@@ -303,6 +303,8 @@ wave開始時、敵全体のエレメントバースト時の魔法防御力を5
 wave開始時、自身が敵に与えるダメージを10%上昇させる。※効果は2ターンのみ=At the start of a wave, increases damage dealt to enemies by 10%. ※Effect lasts 2 turns only
 武器種が「銃」のレイヤーに装備した場合、魔法攻撃力を15%上昇させる。=When equipped by a Gun Layer, increases MATK by 15%.
 
+D.C.Ⅲコラボ’25=D.C. III Collab '25
+
 //Paid
 百鬼夜怨=Hyakki Yaon
 Weak攻撃のダメージを35%上昇させる。=Increases weakness damage dealt by 35%.

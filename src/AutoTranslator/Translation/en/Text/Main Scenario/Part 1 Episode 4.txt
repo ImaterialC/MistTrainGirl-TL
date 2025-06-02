@@ -816,7 +816,7 @@ Neneとナナ。『弓張月』の人形の話は、その場にいる誰もが�
 「どうしてさいしょに言ってくれなかったの？\r\n　ヨシノ、ぜんぜんへいきだよ？\r\n　ナナがお人形でも、おばけでも、お友だちになれたよ？」="Why didn't you tell earlier?\r\n Yoshino, will be totally fine, right?\r\n Even if Nana were a doll, or a ghost, we could still be friends, right?"
 「すべては、ネネとユウゼンを助けるためだったの。\r\n　あなたたちなら、きっと何とかしてくれると思った」="All of this, was to help Nene and Yuuzen.\r\n I thought you a;l would do something."
 「じゃあ、さいしょからぜんぶ知ってたの？\r\n　初めて会ったときから、ぜんぶ？」="So, you knew everything from the beginning?\r\n From the first time we met, everything?"
-「うん」="Un."
+「うん」="Mhm."
 「ユウゼンが言ってたこともほんとうなの？\r\n　ナナのからだは、もやされちゃったって」="Is what Yuuzen said true?\r\n That Nana's body, was burned?"
 「それもほんとう。\r\n　だから、わたしが戻る体はもうないの」="That's true too.\r\n That means, there's no body for me to return to."
 「でも、ネネといっしょになら、戻れる場所があるのよ。\r\n　わたし一人じゃダメだけど、\r\n　ネネがいてくれたらわたしたちはまた家族みんなで暮らせる。\r\n　お母さん……わたしとネネのご主人様のところに行けるの」="But if I'm with Nene, there's a place I can return to.\r\n I can't go alone,\r\n but with Nene there, we can all live as a family again.\r\n Okaa-san... Me and Nene can go to meet Goshujin-sama."

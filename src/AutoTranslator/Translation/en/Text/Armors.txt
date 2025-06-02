@@ -544,6 +544,9 @@ POPラインジャ…=POP Line Ja...
 スカイブルービキ…=Sky Blue Biki...
 空をモチーフに作られた水着。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS空丘夕陽に装備することでバトル中の見た目が変わる。=A bikini designed with the sky as its motif.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuhi Soraoka will change her appearance during battle.
 
+喫茶店の制服=Cafe Uniform
+喫茶店バイト用の制服。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSサラ・クリサリスに装備することでバトル中の見た目が変わる。=A uniform for a part-time worker at a coffee shop.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Sara Chrysalis will change her appearance during battle.
+
 //Event SS
 強者の煌めく黒衣=Shining Black Strongman Robe
 全てを守るエプロ…=Full Protecti...

@@ -12,6 +12,7 @@ sr:"^SS(.+?)\[(.+?)\]を仲間にする。$"=Have SS $1 [$2] join your ranks.
 演劇=Theater
 特鉄隊の学園祭=Special Steel Squad Academy Festival
 10DAYSログインM=10 Days Login M
+素材クエスト、試練の塔、舞踏演武のいずれかのクエストを25回クリアする。=Complete 25 Quests: Material Quests, Tower of Trials, or Battle Arena.
 
 鉄路の先のランコントル=Rencontre Beyond the Railroad
 サメさんポーチ=Sharky Pouch
@@ -257,3 +258,17 @@ FanzaGames人気ランキングSP 3位記念のプレゼントです。=This is 
 【GW記念M】BOSS RUSHクエスト2 (NORMAL)をクリアする。=[GW Commemorative M] Complete BOSS RUSH Quest 2 (NORMAL).
 【GW記念M】BOSS RUSHクエスト3 (NORMAL)をクリアする。=[GW Commemorative M] Complete BOSS RUSH Quest 3 (NORMAL).
 【GW記念M】BOSS RUSHクエスト4 (NORMAL)をクリアする。=[GW Commemorative M] Complete BOSS RUSH Quest 4 (NORMAL).
+
+『マスターアイドル☆どんぶら娘』のクエストで敵=Enemies in [Master Idol☆Donburamusume] quests
+いずれかのレイドイベントの戦功ガチャを10回引く。=Draw 10 battle gachas from any Raid Event.
+いずれかのレイドイベントのクエストを3回クリアする。=Complete any 3 Raid Event quests.
+いずれかのトレジャーイベントのクエストで敵=Enemies in any Treasure Event quests
+いずれかのトレジャーイベントのドロップボーナスクエストを5回クリアする。=Complete any Treasure Event drop bonus quests 5 times.
+いずれかのトレジャーイベントのクエストを3回クリアする。=Complete any treasure event quests 3 times.
+婚活！　男子禁制マリアージュ=Matchmaking! Men-Prohibited Marriage
+アイドルポーション=Idol Potion
+以下のアイテムを交換しました=The following items have been exchanged
+5/28実施の緊急メンテナンスにご協力いただいたお礼と、ご迷惑をお掛けしたお詫びです。=This is to thank you for your cooperation during the emergency maintenance carried out on May 28th, and to apologize for any inconvenience caused.
+レイヤー1,000体突破記念のプレゼントです。	=This is a gift to celebrate reaching 1000 Layers.
+修得したスキルはありません=There are no skills acquired
+【D.C.Ⅲコラボ記念M】トレジャークエストのステージ2-5 (VHARD)をクリアする。=[D.C. III Collab M] Complete Treasure Quest Stage 2-5 (VHARD).

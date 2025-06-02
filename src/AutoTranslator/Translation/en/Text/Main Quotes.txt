@@ -6,19 +6,12 @@
 
 //Queensway A
 剣の修行は欠かしません。\r\n幻霧の中では何が起こるかわからない……そのような状況に陥ったとき、日々の鍛錬がものを言います。\r\n体にしみついた動きは心の迷いを断ち切ることができる。そうローザから教わりました。=Sword training is essential. \r\nYou never know what's going to happen in the Phantom Mist... When you find yourself in such a situation, daily training pays off. \r\nMovements that are ingrained in your body can sever any hesitation in your mind. That's what Rosa taught me.
-
 おおっ、これはなかなか珍しい部品ですね！\r\nいったい何に使うものなんでしょうか？　かなり古いもののようですが……。\r\nはっ！　すみません！　私、子供のころから鉄道に関するものが大好きでして。\r\n侍女のローザが、よく色々と拾ってきてくれたんですよ。=Wow, this is quite a rare part! \r\nI wonder what it's used for? It appears to be quite old... \r\nAh! Apologies! I have loved anything related to trains since I was a child. \r\nMy maid Rosa often picked up all kinds of things for me.
-
 車掌さん、この部品はどのように付いているのでしょう？\r\nいざというときのために列車の構造についても学んでおきたいんです。\r\nもちろん、車掌さんの身は私が命に替えても守りますからご安心ください！=Conductor, how is this part attached? \r\nI want to learn about the structure of the train in case of an emergency.\r\nOf course, I will protect you even at the cost of my life, so please be rest assured!
-
 車掌さんと一緒にいると、不思議と負ける気がしません。\r\n車掌さんの隣に、ずっといられたらいいのに……。\r\nもし、車掌さんが許してくれるのなら、私は生涯この身を捧げます。=When I'm with you, Conductor, I don't feel like I'll lose. \r\nI wish I could stay by your side forever... \r\nIf you would allow me, I'd dedicate my life to you.
-
 私の家は代々騎士の家系ですが、私が本当にやりたいことは騎士では出来ないと思いました。\r\n神子を守り、国民を守るのも騎士として立派な仕事ですが、私はもっと外の世界を見たい。\r\n幻霧の謎を解明し、この世界を救う。それが私の夢です。=My house has been knights for generations, but I thought that what I really wanted to do couldn't be done by a knight. \r\nProtecting the divine child and the people is great and all for a knight, but I want to see more of the outside world. \r\nI want to solve the mystery of the Phantom Mist and save this world. That is my dream.
-
 車掌さん、お疲れ様です。\r\nお茶を淹れたので、少し休憩しませんか？\r\nこのスコーンは私が焼いたんですよ。ぜひ召し上がってください。=Thank you for your hard work, Conductor. \r\nI've made some tea, so would you like to take a break? \r\nI baked these scones for you. Please enjoy them.
-
 私は騎士学校に入ってすぐに『特鉄隊』の試験を受けたので、\r\n同期の子よりも取得単位が足りていないんです。でも、構いません。\r\n私の夢は、世界中を旅してこの忌まわしい霧を晴らすことですから。\r\nもちろん騎士学校もちゃんと卒業しますよ。それがお父さ……りょ、両親との約束ですから。=I took the exam for the SSS right after entering the knight academy, \r\nso I don't have as many credits as my classmates. But that's okay. \r\nMy dream is to travel the world and clear away this dreadful Mist. \r\nOf course, I'll graduate from the knight academy too. That's a promise I made to my fath... p-parents.
-
 この世界にはまだまだ多くの謎が隠されてそうですね。\r\n車掌さんと一緒にいると、毎日が驚きの連続です。\r\nえっ、楽しそうに見えますか？　それは……車掌さんと一緒だから、だと思います。=It seems like there are still many mysteries hidden in this world. \r\nWhen I'm with you, Conductor, every day is a series of surprises. \r\nOh, do I look like I'm having fun? I think that's because... Conductor, I'm together with you.
 
 //Queensway S
@@ -33,55 +26,39 @@
 
 //Queensway S2
 この服、ヨシノさんが作ってくれたんですよ。\r\n少しセントイリス隊服のデザインも加えてくれたみたいで、すごく素敵ですよね！\r\nただ……布面積が少なくて自分が着るには落ち着きません……。=This outfit was made by Yoshino. \r\nIt looks like she incorporated some of the designs from the St. Iris uniform, which is really nice! \r\nNevertheless... there isn't much fabric, so I don't feel comfortable wearing it myself...
-
 『外の部隊』やメアリーと共に戦場に立って思ったんです。彼らと肩を並べるには私の実力じゃまだまだ足りないんだって。\r\nまだ時間が掛かってしまうかもしれませんが、みなさんの……車掌さんの力になれるように頑張ります！\r\n私が強くなるまで、傍で見守っていてくれると嬉しいです。=While standing on the battlefield with the Out-Siders and Mary, I realized that my abilities are still not strong enough to stand shoulder to shoulder with them. \r\nIt may take some time, but I'll do my best to be of help to all of you... Conductor! I'd be happy if you would watch over me until I get stronger.
-
 街中で着てあるくには少し恥ずかしいですが、海辺にはよく似合う恰好ですよね。\r\nなんだか私も海に入りたくなってきました♪=I'd be a little embarrassed to wear this around town, but it would look great on the beach. \r\nI'm starting to feel like going in the ocean myself♪
-
 みなさんと制服交換をしてみたんです。\r\nいつもと違って見えてなんだか新鮮ですよね♪\r\nヨシノさんも作るのを楽しんでいたみたいで、どれも素晴らしい出来なんですよ！=We all tried swapping uniforms. \r\nIt looks different from usual and it feels fresh♪ \r\nYoshino seemed to enjoy making them, and they all turned out great!
-
 そういえば、この間イズリントン様がメアリーに隊服を支給していたのですが、全然着てくれないんですよ。\r\nいままでメアリーとお揃いの恰好をしたことがないので一度くらい制服を来てくれたらいいんですが。=Speaking of which, the other day, Lady Islington gave Mary a uniform, but she never wore it. \r\nWe've never worn matching outfits before, so it would be nice if she wore her uniform at least once.
-
 ノッティングヒルがこの恰好の私を見て、何を思ったのか水着姿で部屋に突入してきたんです。\r\n『露出度なら勝ったわよ！』と宣言されたのですが、一体なんの勝負だったんでしょうか……？=When Notting Hill saw me in this outfit, she came rushing into the room in her swimsuit for some reason. \r\nShe declared, "I won in terms of exposure!" But in the name of Iris was the contest about...?
-
 プトラさんがセントイリスの制服を着ているんですが、布面積が多くて変な感じがするって言ってたんです。\r\n普通だと思うんですが……フレイマリンだとやっぱりあの恰好で過ごすのは暑いんでしょうか？=Putra is wearing a St. Irish uniform, but she said it looks strange because there is so much fabric.\r\nI think it's normal though... is it really too hot to wear that kind of uniform in Flamarine?
-
 さっきヨシノさんが驚かせてきたんですが、背筋を伸ばしたほうがかっこいいって。\r\nどんな恰好でも私らしくした方がいいと言ってくれて……恥ずかしがって背筋を丸めてるのは恰好悪いですよね。\r\n折角ヨシノさんが用意してくれたんですし、ちゃんと背筋を伸ばしてみなさんと並ぼうと思います！=Earlier, Yoshino surprised me by saying that I look better if I stand up straight. \r\nShe said that no matter what I'm wearing, I should look like myself... \r\nIt's not cool to hunch my back out of embarrassment. Yoshino has kindly prepared this for me, so I'm going to stand up straight and line up with everyone!
 
 //Queensway S3
 車掌さん、一緒に羽根つきで遊びませんか？ どうやらニシキに昔からある遊びだそうですよ。\r\n町のこどもがやっているのを見て、瞬発力を鍛えられそうだなって思ったんです。\r\nそれに、運動で体を温めたいと思いまして。\r\nふふ、絶対に負けませんよ！=Conductor, interested in a game of hanetsuki with me? It seems to be an old game in Nishiki. \r\nI saw some kids in town playing it, and thought it would help me improve my explosive power. \r\nPlus, I wanted to warm up my body with some exercise. Heheh, I definitely won't lose!
-
 きっと今年も、様々な冒険が待ち受けていることでしょう。\r\nそれでも、私は世界の平和を願って戦い続けます。 そして、車掌さんを必ずや守り抜いて見せます。\r\nそのためにも、どうか今年もあなたのお傍につかせてください。\r\n世界のために、そしてあなたのために、今年も剣を振るわせてください！=I'm sure that this year will also bring many adventures. \r\nHowever, I will continue to fight for world peace. And I will definitely protect you, Conductor. \r\nTo that end, please let me be by your side again this year. \r\nFor the world, and for you, please let me wield my sword again this year!
-
 こんなに出店が並んでいると、なんだかお祭り気分になってしまいますね。\r\n……夏祭りと比べるとだいぶ気温は低いですが。\r\nおや、どうやら甘酒の配布があるみたいですよ。\r\n一緒に飲んで温まりましょうか。 さ、行きますよ！=With so many stalls lined up, it feels like a festival. \r\n...Albeit the temperature is much lower than at summer festivals. Oh my, it looks like they'll be handing out sweet sake. \r\nShall we fancy some and warm ourselves up? Well, let's go!
-
 この時期はだいぶ冷え込みますね……。\r\n任務でアイゼングラートみたいな極寒の地に行ったりもしますが、それでも寒さになれるのは遠そうです……。\r\nうぅ、手が冷えちゃいます……。 車掌さん、良かったら手をつなぎませんか？\r\nその、手、温めて欲しいなって思いまして……。\r\nふふ、車掌さんの手、温かいです♪=It's pretty cold this time of year... \r\nI go to frigid places like Eisengrad on missions, sure, but it seems like it'll be a while before I get used to the cold... \r\nUgh, my hands are getting cold... Conductor, would you like to hold my hand? \r\nI'd like, you hand, to warm me up... \r\nHeheh, Conductor's hands are warm♪
-
 車掌さん、任務お疲れ様です。\r\n外寒かったでしょう？ 炬燵が温まってますから入ってください。\r\nわわっ、どうしてわざわざ隣に座るんですか……！？\r\nえ、この方がくっつけてもっと温かい？ もう、調子いいんですから……。\r\nでもそうですね、とっても温かいです。=Conductor, thank you for your hard work. \r\nIt must have been cold outside, yes? The kotatsu is warm, so please sit in.\r\nWoah, why did you bother to sit right next to me...!? \r\nUh, it's warmer if you sit next to me? Gosh, I'm already feeling fine... \r\nBut yes, it is very warm.
-
 初詣でノッティングヒルに会うと、絶対に勝負を挑まれるんですよ。\r\n以前はどれだけ屋台のご飯を食べられるかとか、出店の射的で競い合ったり……。\r\nゆっくり参拝したり、出店を回れないんですよね。\r\nまぁ、ノッティングヒルと一緒にいるのも楽しくて好きですが。=Whenever I meet Notting Hill on my New Year hatsumode, she always challenges me to a contest. \r\nIn the past, we used to compete against each other to see how much food we could eat from the food stalls, or at the shooting gallery at the stalls... \r\nI can't take my time to visit the shrine or go around the stalls. Well, I too like being with Notting Hill.
-
 近くで任務があったとはいえ、まさかニシキの新年会に参加できるとは思いませんでした！\r\nこの時期にしか行われない特別なお祭り……どんな催しなのかとっても楽しみですね。\r\nもちろん車掌さんも行かれますよね？\r\nぜひ一緒に見てまわりましょう。 きっと楽しいですよ。=Despite having a mission nearby, I never thought I'd be able to participate in a Nishikese New Year's party!\r\n It's a special festival that only takes place at this time of year... so I'm really looking forward to seeing what kind of event it is.\r\n Of course, Conductor will be there too, right?\r\n Let's take a look around together. I'm sure it will be fun.
 
 //Queensway SS
 しかし、この列車の車両の重厚感といいますか……発車してすぐの、あのゆっくりとした動作の力強さときたら。見ているだけで身震いしてしまいそうです。\r\nという話をしても、誰も共感してくれないんですけどね。=Even so, the Train's weight and solidity... the force of its slow rumbling right after it departs. Just watching it makes me shiver. \r\nBut no one seems to sympathize with me when I tell them that.
-
 どうですか、この香り。コーヒーもいいですが、やはり私は紅茶が落ち着きますね。昔、うちにいた侍女のローザから教えてもらった茶葉なんです。=What are your thoughts about this aroma? Coffee is good too, but I find black tea to be the most soothing. It's a type of tea that I learned about from Rosa, a maid who used to live with us.
-
 セントイリス以外の国からも、こんなにトレインナイトが集まっている特鉄隊は、在籍しているだけでもとても刺激的です。せっかくの縁ですから、みんなの故郷にも行ってみたいものです。=The SSS has so many Train Knights from countries other than St. Iris, so just being a member of the group is very exciting. Since we have such a special connection, I would like to visit everyone's hometowns.
-
 これが線図というものですか。ああ、こんなところで分岐しているんですね。一体その先にはどんな風景が広がっているのか……ああ……。\r\nあっ、すみません！　つい浸ってしまいました。こういうものを見ると、ついつい想像を膨らませてしまうんです。=So this is what they call a diagrammatic drawing? Ah, so it branches out here. I wonder what kind of scenery unfolds beyond that... \r\nAh... My apologies! I got lost in it. When I see something like this, I can't help but let my imagination run wild.
-
 世界を旅するようになって、ローザが教えてくれたことがことごとく事実だったのだと痛感しています。でも、やはりこの目で見てこそ意味があるものですね。=Now that I've traveled the world, I realize that everything Rosa taught me was true. But it really only makes sense to see it with my own eyes.
-
 騎士学校では一応、それなりに評価いただいていたそうです。でも、こうして現場に配属されれば、学校での評価など関係ない……そう自分を戒めています。\r\n実戦での経験を積み、真に実力を伴ったトレインナイトになることが、私の今の課題なのです。=Apparently I was fairly well-received at the knight academy. But now that I'm deployed to the field, the evaluations I received at school don't matter... I've told myself. \r\nMy current goal is to gain experience in real combat and become a truly skilled Train Knight.
-
 騎士が古くからの伝統を守っていること自体は、否定するつもりはありません。ただ、私が騎士となる意味を、感じられなくなったのです。\r\n外の世界を知ってしまったからには、自分を抑えきれなくなってしまったんです。=I don't deny that knights are protecting ancient traditions. However, I no longer felt the meaning of becoming a knight. \r\nNow that I have experienced the outside world, I can no longer contain myself.
 
 Queensway CSS
 どうしてでしょう……！\r\nなぜだかわかりませんが、いまの私はいつもより早く走れる気がします！\r\n馬の血が騒ぐとでも言うのでしょうか……！？\r\n車掌さん！　私の襲歩、見ていただいてもよろしいでしょうか！？=What's going on...! \r\nI don't know why, but right now I feel like I can run faster than usual! \r\nMaybe my horse blood is boiling...!? Conductor! Would you mind watching me gallop!?
 獣神祭ということで、私もコスプレをしてみました。\r\nこだわりポイントはこの付け耳と尻尾ですかね。\r\nあえて髪の色と合わせてみたんですよ？\r\n……それでその、似合っていますか？=Since it's the Shishigami Festival, I tried cosplaying as well. \r\nI think the fake ears and tail are what highlights me. \r\nI deliberately tried matching them to my hair color, you know? \r\n...So, does it suit me?
 気のせいでしょうか……。\r\nいつもより車掌さんの視線を感じます。\r\nあんまりジロジロ見ていると、蹴っちゃいますよ……！？\r\nいまの私に蹴られたらすっごく痛いんですからね！=Am I imagining things...? \r\nSomehow I feel like Conductor's staring on me is more than usual. \r\nYou know that I'll kick you if you keep staring at me too much...!? \r\nIf you get kicked by me right now it will really hurt!
+
+//Lancaster
+とある木の下で告白すると、恋が成就するという噂があるみたいですね。\r\n別に興味があるわけじゃありませんよ？\r\nただ頭ごなしに非論理的だと否定するのではなく、検証する必要もあるとは思いませんか？=It seems there are rumors that if you confess your love under a certain tree, your love will be fulfilled.\nIt's not that you're interested, is it?\nDon't you think there's a need to verify it rather than just denying it as illogical?
 
 //Attyria
 特鉄隊にはわたくしやパディントンさん以外にも、たくさん食べる方がいらっしゃると聞きました。\r\nいつかはそんな方々を集めて、大食い選手権でも開催しませんか？\r\nきっとすごく盛り上がると思うんです。どうですかどうですか？　車掌さん♪=I heard that there are other people in the SSS besides me and Paddington who can eat a lot.\r\nWhy not we gather all of us together someday and hold an eating contest?\r\nI'm sure it would be a lot of fun. What do you think, Conductor?♪

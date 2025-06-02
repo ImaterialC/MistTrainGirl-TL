@@ -38,6 +38,7 @@ XX連目～YY連目：=XX Ren -YY Ren:
 
 sr:"^STORY(\d+)\r\n(.+?)$"=STORY$1\r\n$1
 
+
 //Time
 
 //Doki Doki Treasure Hunt
@@ -365,6 +366,7 @@ r:"^ハイスコア(\d+)または\n累計スコア(\d+)以上で獲得$"=Earned 
 成長度31～38の報酬を受け取りました=Rewards received for growth levels 31～38
 成長度39～40の報酬を受け取りました=Rewards received for growth levels 39～40
 r:"^成長度(\d+)～(\d+)の報酬を受け取りました$"=Rewards received for growth levels $1～$2
+sr:"^成長度(\d+)の報酬を受け取りました$"=Growth Level $1 Reward Obtained
 成長度=Growth
 成長度報酬=Growth Rewards
 ポイント獲得で解放=Earn points to unlock
@@ -490,3 +492,31 @@ r:"^対象クエスト終了まで　(\d+):(\d+)$"=Quest ends $1:$2
 チェスの駒=Chess Piece
 『霧からも、くるる』のクエストで敵=Enemies in  "Kirikaramo, Kururu" quests
 レーゲンホエール襲来=Regenhauer Whale Attack
+
+桜餅=Sakuramochi
+霧満つ世界に桜舞う=Cherry Blossoms Fluttering in the Misty World
+ちっちゃなあの日に戻れたら =If Only I Could Return to That Little Day
+風見鶏に来るまでの間にいろんな国を渡り歩いて、たくさんのことを経験してきたつもりだけど……。この世界にも不思議な国があって、驚くことばっかりね♪=I traveled and experienced many countries before coming to Weathervane... However there are also strange countries in this world, and I'm always surprised by them.
+私は、リッカ・グリーンウッド。世界でも５人しかいないカテゴリー５の魔法使いなの。=My name is Ricca Greenwood, and I'm a Category 5 wizard, of which there are only five in the world.
+【GW記念M】BOSS RUSHクエスト5 (NORMAL)をクリアする。=[Golden Week Commemorative M] Complete BOSS RUSH Quest 5 (NORMAL).
+素材クエスト、試練の塔、舞踏演武のいずれかのクエストを20回クリアする。=Complete 20 quests: Material Quest, Tower of Trials, or Dance Exercises.
+『霧満つ世界に桜舞う』のクエストで敵=Enemies in "Cherry Blossoms Fluttering in the Misty World" quests
+全てのクエストをクリアしました\r\n階層35以降のクエストは引き続き挑戦することが可能です=All quests have been cleared. You can continue to challenge quests from level 35 onwards.
+クエストクリア=Quest Complete
+※集計=※Total
+ステージ1-3(NORMAL)\nクリアで開放=Clear Stage 1-3N to unlock
+前の難易度をクリアで解放=Clear previous difficulty to unlock
+STORY10 視聴後解放=STORY 10 Unlocks after viewing
+ユングフラウ入隊記念=Jungfrau's Enlistment Commemoration
+くるる=Kururu
+桜の枝=Sakura Branch
+タナトス=Thanatos
+ボスラッシュ=Boss Rush
+GWコイン=Golden Week Coin
+D.C.ⅢコラボガチャメダルⅡ=D.C. III Collaboration Gacha Medal II
+ちっちゃな=Small
+筋肉破壊虫襲来=Muscle Crusher Insect Attack
+ちびっこあっくす=Little Girl
+アイドル指南書=Idol Guidebook
+桃色さいりうむ=Pink Light Stick
+マスターアイドル☆どんぶら娘=Master Idol☆Donburamusume

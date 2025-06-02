@@ -23,7 +23,7 @@ sr:"^([\S\s]+)ガチャメダルを消費してレイヤーを召喚します$"=
 付与したいアビリティを選択してください=Please select the ability you want to grant
 
 討伐任務=Ticket Quest
-ガチャ関連=Gacha Related
+ガチャ関連=Gacha Trade
 強化素材=Upgrade Material
 舞踏演武=Battle Festival
 特鉄券=Special Steel Ticket
@@ -81,6 +81,10 @@ NORMAL 2-5\nクリアで解放=Clear Normal 2-5\nto unlock
 
 r:"^([A-Z 0-9\-])\n?クリアで解放$"=Clear $1\nto unlock
 
+このアイテムは選択できません=This item cannot be selected
+選択されたアイテムを全て交換します=Exchange all selected items
+※ジュエルは無償分のものから先に消費されます=※Free jewels will be consumed first
+選択されたアイテムは全ての個数が購入されます=All quantities of the selected item will be purchased
 
 //Bargain
 掘り出し物=Bargain
@@ -142,4 +146,16 @@ SS初代シモアマヅ=SS Shimoamazu I
 過去その他\r\n=Past Etc.\r\n
 過去レイド\r\n=Past Raids\r\n
 過去トレジャー\r\n=Past Treasures\r\n
+D.C.ⅢコラボガチャメダルⅠ=D.C. III Collab Gacha Medal I
+陽ノ本葵\r\nガチャメダル=Aoi Hinomoto\r\nGacha Medal
+D.C.Ⅲコラボガチャメ…=D.C. III Collab...
+D.C.ⅢコラボⅠ\r\nガチャメダル=D.C. III Collab I\n\r\nGacha Medal
+D.C.Ⅲコラボ記念M=D.C. III Collab M
+D.C.ⅢコラボⅡ\r\nガチャメダル=D.C. III Collab II\r\nGacha Medal
+アイドルガチャメダル=Idol Gacha Medal
+婚活\r\n武器交換券=Matchmaking\r\nWeapon Exchange Ticket
+レイヤー1000体突破\r\nご指名SS切符=1000 Layers\r\nSelect SS Ticket
+レイヤー1000体突破Ⅱ\r\nご指名SS切符=1000 Layers II\r\nSelect SS Ticket
+レイヤー1000体突破Ⅲ\r\nご指名SS切符=1000 Layers III\r\nSelect SS ticket
+レイヤー1000体突破Ⅳ\r\nご指名SS切符=1000 Layers IV\r\nSelect SS Ticket
 

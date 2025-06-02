@@ -7,7 +7,7 @@
 グレイシャインパ…=Glacier Impa...
 敵単体に物理（衝）か物理（水）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Water) damage and recovers 3 SP.
 「グレイシャインパクト」を選択した同じターンに、初期SPが13以上の双属性スキルを、自身を除く2体以上が選択する。=When Glacier Impact is selected, select other 13+ original SP cost double-Element skills total 2 or more.
-【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet/Whip Layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
+【パーティ内で5番目に行動する時、SPを7回復する】効果を武器種が「拳・鞭」のレイヤーに付与する。※付与効果は発動ターンのみ=Gauntlet/Whip layers gain buff [When acting fifth in the party, recovers 7 SP]. ※Applied buff lasts this turn only
 アグレスフロスウィップ=Aggress Fluss Whip
 
 //Basel
@@ -46,7 +46,7 @@
 かわいい護身術=Cute Self-Defense
 敵単体に物理（衝）か物理（風）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with physical (Blow) or physical (Wind) damage and recovers 3 SP.
 「かわいい護身術」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。        =When Cute Self-Defense is selected, select other Blow Element physical attack skills total 2 or more.
-自身の「かわいい護身術」発動後、発動条件を満たしたレイヤー1体につき1回、敵単体に【威力A】の物理（衝）か物理（風）で攻撃する。※効果は発動ターンのみ        =After Cute Self-Defense is activated, attacks a single enemy with A Power physical (Pierce) or physical (Dark) damage once for each linked Layer. ※Effect lasts this turn only   
+自身の「かわいい護身術」発動後、発動条件を満たしたレイヤー1体につき1回、敵単体に【威力A】の物理（衝）か物理（風）で攻撃する。※効果は発動ターンのみ        =After Cute Self-Defense is activated, attacks a single enemy with A Power physical (Pierce) or physical (Dark) damage once for each linked layer. ※Effect lasts this turn only   
 回転投げ=Spin Throw
 「回転投げ」を選択した同じターンに、衝属性物理攻撃スキルを、自身を除く2体以上が選択する。        =When Spin Throw is selected, select other Blow Element physical attack skills total 2 or more.
 天地投げ=Tenchi Nage
@@ -62,7 +62,7 @@
 【光属性スキルで攻撃した後、2ターンの間、相手の命中と幸運を15%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After attacking with a Light Element skill, decreases HIT and LUCK by 15% for 2 turns]. ※Applied buff is permanent for the rest of the battle
 キューティ・シリアス=Cutie Serious
 敵全体の物理防御力と幸運を30%減少させる。※それぞれ効果は発動ターンのみ=Decreases all enemies' DEF and LUCK by 30%. ※Each effect lasts this turn only 
-怒りの光乱射=Angry Light Blind Fire
+怒りの光乱射=Angry Light Random Shooting
 敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、敵全体の物理防御力と幸運を減少（中）する。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, decreases all enemies' DEF and LUCK (M) for 1 turn.
 
 //Touko Kikuma
@@ -81,7 +81,62 @@
 【自身の攻撃1回ごとに、1ターンの間、物理攻撃力を15%上昇させる】効果をポジション1のレイヤーに付与する。※ 付与効果は発動ターンのみ。『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Position 1 layer gains buff [Increases damage dealt by 15% per attack for 1 turn]. ※Applied buff lasts this turn only. Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1.
 お姉様ソーイング=Big Sister Sewing
 自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の物理攻撃力を30%上昇させ、更に敵に与えるダメージを25%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases all allies' ATK by 30% and damage dealt to enemies by 25% if this skill is linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
-部長の乱打=Manager's Assault
+部長の乱打=Club Leader's Assault
 発動条件を満たしたレイヤーの物理攻撃力を30%上昇させ、更に敵に与えるダメージを30%上昇させる。※それぞれ効果は発動ターンのみ=Increases linked layers' ATK by 30% and increases damage dealt to enemies by 30%. ※Each effect lasts this turn only
 黒い手芸針=Black Craft Needles
 敵全体に物理（衝）で攻撃する。CP4以上の場合、2ターンの間、味方全体の物理攻撃力と物理防御力を上昇（中）する。=Attacks all enemies with physical (Blow) damage. If CP is 4+, increases all allies' ATK and DEF (M) for 2 turns.
+
+//Ricca Greenwood
+天才の魔法術=Genius' Magic Trick
+//Wind Pillar
+自身の魔法攻撃力を30%上昇させる。更に自身のバトル中の本リンクスキル発動回数が1回目の時に、味方全体の魔法攻撃力を20%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases MATK by 30%; increases all allies' MATK by 20% if this skill is linked for the first time in this battle. ※Each effect is permanent for the rest of the battle
+グロウレイス=Glow Wraith
+願い通じる桜吹雪=Cherry Storm of Wishes
+敵全体に魔法（衝）で攻撃する。CP4以上の場合、2ターンの間、自身の魔法攻撃力を上昇（特大）する。=Attacks all enemies with magical (Blow) damage. If CP is 4+, increases MATK (XL) for 2 turns.
+
+//Charles Maroth
+プレゼントフォーエバー=Present Forever
+プレゼントフォー…=Present Forever
+自身と発動条件を満たしたレイヤーの魔法攻撃力を25%上昇させ、更にHPを回復させる。※それぞれ効果は発動ターンのみ=Increases self and linked layers' MATK by 25% and recovers HP. ※Each effect lasts this turn only
+ギフトフォーマジック=Gift for Magic
+ギフトフォーマジ…=Gift for Magic
+【1ターンの間、味方全体の魔法攻撃力とエレメントバースト時の魔法攻撃力を15%上昇させる】『Over Heal（HP100%以上）』効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Over Heal (HP 100%+) - Increases all allies' MATK and MATK during Element Burst by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+カーリングフォース=Curling Force
+カーリングフォー…=Curling Force
+使い魔からの贈り物=Gift From a Familiar
+敵全体に魔法（刃）で攻撃する。CP4または5の場合、自身のRPを2回復する。=Attacks all enemies with magical (Cut) damage. If CP is 4 or 5, recovers 2 RP.
+
+//Aoi Hinomoto
+ブレイクワーク=Break Work
+「ブレイクワーク」を選択した同じターンに、自身を除く武器種が魔具のレイヤー2体以上がスキルを選択する。=When Break Work is selected, select other skills from Artifact weapon layers total 2 or more.
+自身と発動条件を満たしたレイヤーがエレメントバーストで与えるダメージを35%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' Element Burst damage dealt by 35%. ※Effect lasts this turn only
+スマイレイマジック=Smile Ray Magic
+スマイレイマジッ…=Smile Ray Magic
+【行動前、1ターンの間、魔法攻撃力とエレメントバースト時の魔法攻撃力を15%上昇させる】効果をポジション4のレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Position 4 layer gains buff [Before taking action, increases MATK and MATK during Element Burst by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+ファクトファイン=Fact Fine
+自身と発動条件を満たしたレイヤーがエレメントバーストで与えるダメージを25%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' Element Burst damage dealt by 25%. ※Effect lasts this turn only
+たくさんの美味しい食べ物=Lots of Delicious Food
+
+//Himeno Katsuragi
+ルミナスシャイン=Luminous Shine
+刃または風属性を含む双属性スキル=Cut or Wind Element included double-element skills
+敵単体に魔法（刃）か魔法（風）で攻撃し、稀に「睡眠」の状態異常（小）を付与する。※効果は3ターンのみ=Attacks a single enemy with magical (Cut) or magical (Wind) damage and rarely inflicts Sleep (S). ※Effect lasts 3 turns only
+自身の魔法攻撃力を40%上昇させ、更に幸運を30%上昇させる。※それぞれ効果は発動ターンのみ=Increases MATK by 40% and LUCK by 30%. ※Each effect lasts this turn only
+クック・ザ・ベスト=Cook the Best
+風属性を含む双属性スキル=Wind Element included double-element skills
+【睡眠が付与されている敵に与えるダメージを50%上昇させる。更に行動前、1ターンの間、敵全体の睡眠耐性を20%減少させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases damage dealt to Sleeping enemies by 50%; before taking action, decreases all enemies' Sleep Resistance by 20% for one turn]. ※Applied buff is permanent for the rest of the battle
+ルミエールレイ=Lumiere Ray
+敵全体に魔法（刃）か魔法（風）で攻撃し、稀に「睡眠」の状態異常（小）を付与する。※効果は3ターンのみ=<size\=12>Attacks all enemies with magical (Cut) or magical (Wind) damage and rarely inflicts Sleep (S). ※Effect lasts 3 turns only</size>
+桜斬撃=Sakura Zangeki
+敵全体に魔法（刃）で攻撃する。CP4以上の場合、2ターンの間、敵の睡眠耐性を減少（大）させる。=Attacks all enemies with magical (Cut) damage. If CP is 4+, decreases Sleep Resistance (L) for 2 turns.
+
+//Sara Chrysalis
+名門貴族の魔法術=Aristocrat's Magic Trick
+自身の魔法攻撃力を70%上昇させ、更にリンクスキル発動時、行動順番を無視して1回だけ「名門貴族の魔法術」で『追加行動』する。※それぞれ効果は発動ターンのみ=Increases MATK by 70% and when skill is linked, Additional Action with [Aristocrat's Magic Trick] once, ignoring order of actions. ※Each effect lasts this turn only
+スタッフトフォース=Staff Force
+威力SS以上の魔法攻撃スキル（※合計威力を除く）=SS+ Power magical attack skills (※Excludes total power)
+【自身が攻撃を受けた後、2ターンの間、魔法攻撃力とエレメントバースト時の魔法攻撃力を20%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [After being attacked, increase MATK and MATK during Element Burst by 20% for 2 turns]. ※Effect is permanent for the rest of the battle
+インボリュートティー=Involute Tee
+自身がエレメントバーストで与えるダメージを35%上昇させる。※効果は発動ターンのみ=Increases Element Burst damage dealt by 35%. ※Effect lasts this turn only
+バウンドホッケー=Bound Hockey
+敵単体に魔法（衝）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks a single enemy with magical (Blow) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.

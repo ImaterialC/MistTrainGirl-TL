@@ -878,6 +878,9 @@ Wave開始時、自身の魔法攻撃力を11%上昇させる。※効果はバ�
 スカイウォーター…=Sky Water...
 空をモチーフに作られた水鉄砲。\r\n武器種が銃のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS空丘夕陽に装備することでバトル中の見た目が変わる。=A water gun designed with the sky as its motif.\r\nCan be equipped by characters who use Guns.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuhi Soraoka will change her appearance during battle.
 
+天井用ほうき=Ceiling Broom
+天井を掃除するためのほうき。\r\n武器種が杖のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSサラ・クリサリスに装備することでバトル中の見た目が変わる。=A broom for cleaning the ceiling.\r\nCan be equipped by characters who use Staffs.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Sara Chrysalis will change her appearance during battle.
+
 //Event S
 甘え上手の紫銃=Pampering Purple Gun
 美少女探偵の金銃=Beautiful Detective Gold Gun
@@ -1535,3 +1538,33 @@ MT式-No.6…=MT Type - N...
 ワンラブリボンウ…=One Love Ri...
 ベ・エグランティーナ=Be Eglantina
 ベ・エグランティ…=Be Eglantina
+
+副会長の紫槍=Vice President's Purple Spear
+副会長の赤槍=Vice President's Red Spear
+笑顔で元気いっぱ…=Smile and Ene...
+笑顔で元気いっぱい御守=Smile and Energetic Amulet
+勤務少女の御守=Working Girl's Amulet
+生徒会長の『エト…=Student Coun...
+制服呪愛のわら人…=Seifuku Juai...
+制服呪愛のわら人形=Seifuku Juai no Wara Ningyou
+貴族少女の杖=Noble Girl's Wand
+生徒会長の『エト』=Student Council President's "Eto"
+美少女のワンド=Beautiful Girl's Wand
+優等生の杖=Honor Student's Staff
+かれいなちびっこ…=Cute Little...
+ちびっこじっけんぼう=Little Girl's Test Stick
+勤務少女の懐中時計=Working Girl's Pocket Watch
+知識豊富の力=Knowledgeable Power
+天才美少女の力=Genius Beautiful Girl Power
+世間知らずなペンダント=Naive Pendant
+大和撫子ペンダント=Yamato Nadeshiko Pendant
+ちびっこじっけん…=Little Girl's...
+じっけんぼう=Test Stick
+歌響くランス=Song Lance
+ラブリーランス=Lovely Lance
+想いと歌響くランス=Thoughts and Song Lance
+全力ラブリーランス=Full Power Lovely Lance
+シャルルの使い魔『エト』=Charles' Familiar "Eto"
+天才美少女のワンド=Genius Beautiful Girl's Wand
+アルバイトの力=Part-Time Power
+眠たい少女の白パジャマ=Sleepy Girl's White Pajamas

@@ -348,13 +348,13 @@ HPプラス【大】=HP Plus [L]
 氷塊の指輪=Ice Block Ring
 深水を長年かけて凍らせて作られた 指輪 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A ring made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
 氷塊の首輪=Ice Block Collar
-深水を長年かけて凍らせて作られた 首輪 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A collar made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+深水を長年かけて凍らせて作られた首輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A collar made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
 氷塊の耳飾=Ice Block Earrings
-深水を長年かけて凍らせて作られた 耳飾 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+深水を長年かけて凍らせて作られた耳飾。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A pair of earrings made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
 氷塊の腕輪=Ice Block Bangle
-深水を長年かけて凍らせて作られた 腕輪 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bangle made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+深水を長年かけて凍らせて作られた腕輪。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=A bangle made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
 氷塊の護符=Ice Block Amulet
-深水を長年かけて凍らせて作られた 護符 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
+深水を長年かけて凍らせて作られた護符 。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。=An amulet made by freezing deep water over many years.\r\nEquipping the entire series will give it even more powerful effects.
 
 //Paid
 復刻百鬼夜怨装飾品パック=Reprint Hyakki Night Grudge Decorative Pack
@@ -549,6 +549,9 @@ HPプラス【大】=HP Plus [L]
 スカイフラワーサンダル=Sky Flower Sandals
 スカイフラワーサ…=Sky Flower...
 空をモチーフに作られたサンダル。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSS空丘夕陽に装備することでバトル中の見た目が変わる。=A pair of sandals designed with the sky as its motif.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Yuuhi Soraoka will change her appearance during battle.
+
+喫茶店の靴=Cafe Shoes
+喫茶店バイト用の靴。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSサラ・クリサリスに装備することでバトル中の見た目が変わる。=Shoes for a part-time job at a coffee shop.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Sara Chrysalis will change her appearance in battle.
 
 //SS Event
 深紅のローズピアス=Crimson Rose Piercings

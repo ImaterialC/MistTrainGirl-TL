@@ -26,6 +26,9 @@ r:"^第([0-9]+)部へ$"=To Part $1
 追憶の鍵で解放=<size\=12>Use Remembrance Key</size>
 追憶の鍵でストーリーを選択箇所まで解放しますか？=<size\=16>Use Remembrance Keys to unlock stories up to a select point?</size>
 
+表示するEXシナリオがありません=There are no R18 scenarios to display
+五十音=50 Tonals
+プレイ=Play
 あ=A
 か=KA
 さ=SA
@@ -111,3 +114,4 @@ STORY1\r\nセントイリスの鬼教官=SCENE 1\r\nSt. Iris' Demon Instructor
 ニシキの闇編=<size\=18>The Darkness of Nishiki Ep.</size>
 幻術の孤島編=<size\=18>Illusion Island Ep.</size>
 彷徨う竜族編=<size\=18>Wandering Dragonkin Ep.</size>
+『魔族の力』編=<size\=18>"Demonic Power" Ep.</size>

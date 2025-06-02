@@ -508,7 +508,7 @@ Hands応えを感じたのか、\r\nクインズウェイとヤクーツクは�
 「治せるけど、時間がかかる」="Can heal, but it takes time."
 「時間なら私が稼ぎます！\r\n　だからフィンチリー教官のケガを……」="I'll buy you some time!\r\n So please fix Instructor Finchley's injury and..."
 ――クインズウェイ、少し落ち着け。=――Queensway, calm down a bit.
-「車掌さん……」="Conductor..."
+「車掌さん……」="Sir Conductor..."
 Finchleyの命に別状はない。\r\nすぐに治療する必要も、時間を稼ぐ必要もない。\r\nそれよりも今すべきことを考えろ。=Finchley's life is not in danger.\r\nThere's no need to treat her right away,\r\nand there's no need to buy time.\r\nThink about what you should do now.
 フィンチリーの命に別状はない。\r\nすぐに治療する必要も、時間を稼ぐ必要もない。\r\nそれよりも今すべきことを考えろ。=Finchley's life is not in danger.\r\nThere's no need to treat her right away,\r\nand there's no need to buy time.\r\nThink about what you should do now.
 「今すべきこと……」="What I need to do now is..."

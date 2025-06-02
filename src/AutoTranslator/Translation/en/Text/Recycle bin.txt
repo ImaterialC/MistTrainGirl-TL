@@ -29,3 +29,5 @@ n時間mm分=N hours mm
 お金ゴールド資金経済無限ああああああああああああああああああああああああああああああああああああああ=Money Gold Funds Economic Infinity ah ah ah ah ah ah ah ah ah ah ah ah
 第99レース=99th race
 ボス名あいうえおかきく15文字=Boss name 15 characters
+有償:00000000/=Paid: 0000000/
+無償:99999999=Free:99999999

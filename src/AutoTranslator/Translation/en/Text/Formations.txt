@@ -465,3 +465,6 @@ r:"^コズミックレイ【極】：Lv([0-9]+)$"=Cosmic Ray [EX]: Lv.$1
 魔法攻撃力が70%上昇する。命中を15%上昇する。速さが10%上昇する。=Increases MATK by 70%.\nIncreases HIT by 15%.\nIncreases SPD by 10%.
 魔法攻撃力が70%上昇する。命中を10%上昇する。速さが15%上昇する。=Increases MATK by 70%.\nIncreases HIT by 10%.\nIncreases SPD by 15%.
 r:"^バトル開始時、ポジション4・5のレイヤーのスペシャルスキルゲージを2回復させ、更にスペシャルスキルで与えるダメージを([0-9]+)%上昇させる。$"=At the start of the battle, recovers Position 4 and 5 Layers' Special Skill Gauge by 2 and increases Special Skill damage dealt by $1%.
+
+マジカルステップ=Magical Step
+パワーステップ=Power Step

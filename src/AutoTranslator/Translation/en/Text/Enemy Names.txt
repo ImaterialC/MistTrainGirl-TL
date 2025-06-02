@@ -2,6 +2,7 @@
 テーマ=Theme
 刃/衝=Cut/Blow
 刃/衝/貫/火/光=Cut/Blow/Pierce/Fire/Light
+刃/衝/貫/火/風=Cut/Blow/Pierce/Fire/Wind
 刃/衝/貫/火/闇=Cut/Blow/Pierce/Fire/Dark
 刃/衝/貫/水/風=<size\=12>Cut/Blow/Pierce/Water/Wind</size>
 刃/衝/貫/風=Cut/Blow/Pierce/Wind
@@ -71,6 +72,7 @@
 衝/水/風=<size\=18>Blow/Water/Wind</size>
 衝/水/光=<size\=19>Blow/Water/Light</size>
 衝/水/闇=Blow/Water/Dark
+衝/風/光=<size\=19>Blow/Wind/Light</size>
 衝/風/闇=<size\=20>Blow/Wind/Dark</size>
 衝/光/闇=Blow/Light/Dark
 貫/火/水=Pierce/Fire/Water
@@ -273,6 +275,7 @@ sr:"^暴走した(.+?)$"=Relentless $1
 ロボアニメクマロボ=Anime Robot Kuma Robo
 司祭クマロボ=Priest Kuma Robo
 モヤカゲ=Moyakage
+ピアバイト=Dogscomb 
 
 //Altar Boss
 スクールメイジちゃん=School Mage Girl
@@ -425,6 +428,7 @@ r:"^3ターン毎に、自身のHPが70%以上の時、コンディションを(
 重厚な太刀筋=Heavy Sword Stroke
 幻霧教だった者=Former Mistic
 ニシキの呪い=Nishiki's Curse
+魔物と化した幻霧教徒=Demonized Mistic
 
 //Side Story
 孤独の巨鳥=Lonely Giant Bird
@@ -1119,6 +1123,21 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 味方全体に【エレメントバースト時の物理防御力の上昇を無効化する】効果を付与する。=All allies gain buff [Nullify all increases to DEF during Element Burst].
 風、もしくは光属性攻撃5回=Use Wind or Light Element attacks 5 times.
 味方全体のコンディションを10%上昇させる。=Increases all allies' Condition by 10%.
-シモアマタイガー=Shimommatiger
+シモアマタイガー=Shimoama Tiger
 蛇樹ネペンテス=Snake Tree Nepenthes
 レーゲンホエール=Regenhauer Whale
+巨大なお化けうさぎ=Giant Ghost Rabbit
+筋肉破壊虫=Muscle Crusher Insect
+ブラックマーレ=Black Marley
+虫の冬眠時期=Insect's Hibernation
+ターン終了時、自身に「睡眠」が付与されている場合、自身の幸運を20%減少させる。※効果は2ターンのみ=At the end of a turn, if Asleep, decreases LUCK by 20%. ※Effect lasts 2 turns only
+朽ちていく筋肉=Decaying Muscles
+2ターン毎のターン開始時、自身のプロテクトを10%減少させる。※効果は永続で発動する=At the start of every 2 turns, decreases self Protect by 10%. ※Effect is permanent for the rest of the battle
+幸運な筋肉=Lucky Muscles
+スキル【ブラックマーレ】発動時、相手のプロテクトを20%減少させ、更に幸運を30%減少させる。※それぞれ効果は2ターンのみ=When [Black Marley] is activated, decreases Protect 20% and LUCK by 30%. ※Each effect lasts 2 turns only
+人形の思念=Doll's Thoughts
+見えざる黒手=Invisible Black Hand
+敵全体に魔法（闇）で攻撃し、「暗闇」の状態異常（中）を付与する。※効果は4ターンのみ=Attacks all enemies with magical (Dark) damage and inflicts Blindness (M). ※Effect lasts 4 turns only
+ジャンプキック=Jump Kick
+古代の機械部品=Ancient Machine Parts
+宴妖怪・シュチニ＝クリン=Banquet Youkai Šczyny-Klin
