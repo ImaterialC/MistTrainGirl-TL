@@ -305,6 +305,10 @@ wave開始時、自身が敵に与えるダメージを10%上昇させる。※�
 
 D.C.Ⅲコラボ’25=D.C. III Collab '25
 
+つり乙2コラボ’25=TsuriOtsu 2 Collaboration '25
+自身のエレメントバースト時の物理攻撃力を15%上昇させる。=Increases ATK during Element Burst by 15%.
+wave開始時、自身がエレメントバーストで与えるダメージを10%上昇させる。※効果は2ターンのみ=At the start of a wave, increases Element Burst damage dealt by 10%. ※Effect lasts 2 turns only
+
 //Paid
 百鬼夜怨=Hyakki Yaon
 Weak攻撃のダメージを35%上昇させる。=Increases weakness damage dealt by 35%.

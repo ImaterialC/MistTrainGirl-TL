@@ -8,6 +8,8 @@ sr:"^リピートプラス【(.+)】$"=Repeat Plus [$1]
 // Ctrl+F [//Alphabet] to quick search.
 
 //A
+華奢なお嬢様=A Delicate Young Lady
+パーティ内で最初に行動するレイヤーの行動前、そのレイヤーのコンディションを25%上昇させる。※効果は発動ターンのみ=Before layer that acts first in the party takes action, increases that layer's Condition by 25%. ※Effect lasts this turn only
 ユウイギナヒトトキ=A Meaningful Moment
 バトル中に撃破された敵が1体以下の場合、自身が敵に与えるダメージとエレメントバーストで与えるダメージを30%上昇させ、更に撃破された敵がいない場合、自身が敵に与えるダメージを55%上昇させる。=If there is 1 or less enemies KO'd during this battle, increases damage dealt and Element Burst damage dealt to enemies by 30%, and if there are no KO'd enemies, increases damage dealt to enemies by 55%.
 アクションカウントアップ：バーストパワー=Action Count Up: Burst Power
@@ -85,6 +87,10 @@ Wave開始時、敵全体の衝属性耐性を減少（中）させる。※効�
 斧の与えるダメージを上昇（大）させる。=Increases Axe damage dealt (L).
 
 //B
+貴族のお嬢様=Bhean Uasal
+常に自身のエレメントバースト時の物理攻撃力が15%上昇する。更にターン中に敵に光属性エレメントが付与されたとき、行動順番を無視して「美絶嬢斬」で『追加行動』しSPを6減少させる。※追加上限は1回=Always increases ATK during Element Burst by 15%; when an enemy is applied Light Element stacks during the turn, Additional Action with [Mize Chouzan] and decreases 6 SP, ignoring order of actions. ※Maximum 1 time
+大きなイースターエッグ=Big Easter Egg
+味方全体の、風属性エレメントが付いている敵に対してエレメントバーストで与えるダメージを35%上昇させ、更にエレメントが付いていない敵に対して与えるダメージを80%減少させる。=Increases all allies' Element Burst damage dealt to enemies with Wind Element stacks by 35% and decreases the damage dealt to enemies without Wind Element stacks by 80%.
 ブレイドアシスト【小】=Blade Assist [S]
 味方全体の、刃属性攻撃のダメージを上昇（小）させる。=Increase all allies Cut Element attack damage (S).
 ブレイドアシスト【中】=Blade Assist [M]
@@ -133,10 +139,12 @@ Wave開始時、敵全体の衝属性耐性を減少（中）させる。※効�
 弓の与えるダメージを上昇（大）させる。=Increases Bow damage dealt (L).
 バフ効果時間延長=Buff Time Extension
 自分以外にかけるステータスバフの効果ターンを1延長する。=Extend stat buffs excluding self for 1 extra turn.
+バーストアシスト【大蔵ルミネ】=Burst Assist [Lumine Ookura]
+味方全体のエレメントバースト時の物理攻撃力を10%上昇させ、更にエレメントバースト『水＋風』『水＋光』『風＋光』で与えるダメージを40%上昇させる。=Increases all allies' ATK during Element Burst by 10% and increases Element Burst damage dealt by 40%.
 バーストブレイク：マインド=Burst Break: Mind
 エレメントバーストが発動するたびに、敵全体の魔法防御力を減少（中）させる。※効果は発動ターンのみ=Each time Element Burst is ignited, decreases all enemies' MDEF (M). ※Effect lasts this turn only
 バーストカウントアップ：バーストパワー=Burst Count Up: Burst Power
-エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を10%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is activated, increases ATK during Element Burst by 10%. ※Effect lasts this turn only
+エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を10%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is ignited, increases ATK during Element Burst by 10%. ※Effect lasts this turn only
 バーストカウントアップ：マジック=Burst Count Up: Magic
 エレメントバーストが発動するたびに、自身の魔法攻撃力を10%上昇させる。※効果は発動ターンのみ=Each time Element Burst is ignited, increases MATK by 10%. ※Effect lasts this turn only
 バーストカウントアップ：マジック「闇＋火」=Burst Count Up: Magic "Dark + Fire"
@@ -199,6 +207,8 @@ Wave開始時、敵全体の衝属性耐性を減少（中）させる。※効�
 エレメントバースト『火＋水』『火＋光』で与えるダメージが10%上昇する。=Increases "Fire + Water" and "Fire + Light" Element Burst damage dealt by 10%.
 バーストダメージアップ：火＆闇エレメント=Burst Damage Up: Fire & Dark Element
 自身が火または闇属性エレメントの付いている敵に対して、エレメントバーストで与えるダメージを30%上昇する。=Increases Element Burst damage dealt to enemies with Fire or Dark Element stacks by 30%.
+バーストダメージアップ：風エレメント無し=Burst Damage Up: Wind Element Null
+自身が風属性エレメントの付いていない敵に対して、エレメントバーストで敵に与えるダメージを30%上昇する。=Increases Element Burst Damage dealt to enemies without Wind Element stacks by 30%.
 バーストガードディケイ【特大】	=Burst Guard Decay [VL]
 wave開始時、敵全体のエレメントバースト時の物理防御力を減少（特大）させる。※効果は2ターンのみ=At the start of a wave, decreases all enemies' DEF during Element Burst (VL). ※Effect lasts 2 turns only
 バーストマスター【光属性Weak】=Burst Master [Light Element Weak]
@@ -219,9 +229,9 @@ wave開始時、敵全体のエレメントバースト時の魔法防御力を�
 バーストサポート：敵2体以上=Burst Support: 2+ Enemies
 敵が2体以上の時、味方全体のエレメントバーストで与えるダメージを20%上昇させる。=When there are two or more enemies, increases all allies' Element Burst damage dealt by 20%.
 バーストワイドバーストダメージアシスト【大】=Burst Wide Burst Damage Assist [L]
-エレメントバーストが発動するたびに、味方全体のエレメントバーストで与えるダメージを10%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is activated, increases all allies' Element Burst damage dealt by 10%. ※Effect lasts this turn only
+エレメントバーストが発動するたびに、味方全体のエレメントバーストで与えるダメージを10%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is ignited, increases all allies' Element Burst damage dealt by 10%. ※Effect lasts this turn only
 バーストワイドパワー【大】=Burst Wide Power [L]
-エレメントバーストが発動するたびに、味方全体の物理攻撃力を上昇（中）させる。※効果は発動ターンのみ=Each time Element Burst is activated, increases all allies' ATK (M). ※Effect lasts this turn only
+エレメントバーストが発動するたびに、味方全体の物理攻撃力を上昇（中）させる。※効果は発動ターンのみ=Each time Element Burst is ignited, increases all allies' ATK (M). ※Effect lasts this turn only
 バーストワイドパワー【特大】：風=Burst Wide Power [VL]: Wind
 ターン中に初めて発動したエレメントバーストが「水＋風」か「風＋闇」の時、味方全体の物理攻撃力を上昇（特大）させる。※効果は発動ターンのみ=When the first ignited Element Burst in a turn is "Water + Wind" or "Wind + Dark", increase all allies' ATK (VL). ※Effect lasts this turn only.
 
@@ -229,7 +239,7 @@ wave開始時、敵全体のエレメントバースト時の魔法防御力を�
 キャッチ・アンド・パリィ=Catch and Parry
 HPが満タンの時、敵に与えるダメージと回避率が20%上昇する。=When HP is full, increases damage dealt to enemies and evasion chance by 20%.
 カリスマ的戦略 =Charismatic Strategy 
-自身の行動前に敵が1体の時、魔法防御力の50%を無視して攻撃し、敵が2体以上の時、自身の行動後に行動順番を無視して【威力B】の「ブラックショック」で『追加行動』する。※追加上限は1回=When there is one enemy, ignores 50% of its MDEF; if there are two or more enemies, Plus Action with B Power Black Shock ignoring the order of actions. ※Maximum 1 time.
+自身の行動前に敵が1体の時、魔法防御力の50%を無視して攻撃し、敵が2体以上の時、自身の行動後に行動順番を無視して【威力B】の「ブラックショック」で『追加行動』する。※追加上限は1回=When there is one enemy before taking action, ignores 50% of its MDEF; if there are two or more enemies, Plus Action with B Power Black Shock ignoring the order of actions. ※Maximum 1 time.
 チェインボム【コスタリカ】=Chain Bomb [Costa Rica]
 チェインボム【スイレン】=Chain Bomb [Suiren]
 自身が水属性攻撃スキルを使用して敵を撃破した時、余剰ダメージに応じたチェインボムを発生させる。=When an enemy is KO'd with a Water Element attack skill, excess damage is triggered as a Chain Bomb to damage other enemies.
@@ -270,7 +280,7 @@ HPが50%以上の時、自身に対する敵視が上昇（特大）する。※
 コンディションアップ：アクション【物攻】=Condition Up: Action [ATK]
 ターン開始時、【自身の攻撃1回ごとに、与えるダメージを15%上昇させる】効果を最も物理攻撃力が高いレイヤーに付与する。※付与効果は発動ターンのみ※『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする=At the start of a turn, layer with the highest ATK gains buff [Increases damage dealt by 15% on each attack]. ※Applied buff lasts this turn only ※Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1
 コンディションアップ：ファーストアクション=Condition Up: First Action
-【行動前、1ターンの間、コンディションを15%上昇させる】効果を、パーティ内で最初に行動したレイヤーに付与する。=layer that acts first in the party gain buff [Before taking action, increases Condition by 15%].
+【行動前、1ターンの間、コンディションを15%上昇させる】効果を、パーティ内で最初に行動したレイヤーに付与する。=Layer that acts first in the party gain buff [Before taking action, increases Condition by 15%].
 コンディションアップ：リンクスキル=Condition Up: Link Skill
 自身のリンクスキルが発動した時、自身のコンディション【ダメージを上昇させる効果】を50%上昇させる。※効果は発動ターンのみ=When own skill is linked, increases Condition by 50% ※Effect lasts this turn only
 コンディションアップ：リンクスキル【Ⅱ】=Condition Up: Link Skill [II]
@@ -286,9 +296,9 @@ HPが50%以上の時、自身に対する敵視が上昇（特大）する。※
 カウントダメージアップ：魔具=Count Damage Up: Artifact
 自身を除くパーティ内の武器種が魔具のレイヤー1体につき、自身の与えるダメージを10%上昇させる。=Increases damage dealt by 10% for each Artifact layer in the party excluding self.
 カウントアップバーストマジック=Count Up Burst Magic
-エレメントバーストが発動するたびに、自身のエレメントバースト時の魔法攻撃力を5%上昇させる。※効果は発動ターンのみ=Increases MATK during Element Bursts by 5% each time an Element Burst is activated. ※Effect lasts this turn only
+エレメントバーストが発動するたびに、自身のエレメントバースト時の魔法攻撃力を5%上昇させる。※効果は発動ターンのみ=Increases MATK during Element Bursts by 5% each time an Element Burst is ignited. ※Effect lasts this turn only
 カウントアップバーストパワー=Count Up Burst Power
-エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を5%上昇させる。※効果は発動ターンのみ=Increases ATK during Element Bursts by 5% each time an Element Burst is activated. ※Effect lasts this turn only
+エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を5%上昇させる。※効果は発動ターンのみ=Increases ATK during Element Bursts by 5% each time an Element Burst is ignited. ※Effect lasts this turn only
 カウンターダメージアップ【Ⅲ】=Counter Damage Up [III]
 自身が反撃時に与えるダメージを30%上昇させる。=Increase counter attack damage dealt by 30%.
 王者の風格=Court of the Pharaoh
@@ -327,15 +337,15 @@ CPリチャージ=CP Recharge
 ダメージ＆バーストダメージアップ【極大】=Damage & Burst Damage Up [XL]
 常に敵に与えるダメージが上昇（極大）する。更に自身がエレメントバーストで敵に与えるダメージが上昇（極大）する。=Always increases damage dealt to enemies (XL); increases Element Burst damage dealt to enemies (XL).
 ダメージ＆バーストダメージアップ：闇エレメント無し=Damage & Burst Damage Up: Dark Element Null
-自身が闇属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Burst Damage dealt to enemies without Dark Element stacks by 30%.
+自身が闇属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Element Burst damage dealt to enemies without Dark Element stacks by 30%.
 ダメージ＆バーストダメージアップ：火エレメント無し=Damage & Burst Damage Up: Fire Element Null
-自身が火属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Burst Damage dealt to enemies without Fire Element stacks by 30%.
+自身が火属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Element Burst damage dealt to enemies without Fire Element stacks by 30%.
 ダメージ＆バーストダメージアップ：水エレメント無し=Damage & Burst Damage Up: Water Element Null
-自身が水属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Burst Damage dealt to enemies without Water Element stacks by 30%.
+自身が水属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Element Burst damage dealt to enemies without Water Element stacks by 30%.
 ダメージ＆バーストダメージアップ：水＆光エレメント=Damage & Burst Damage Up: Water & Light Element
-自身が水または光属性エレメントの付いている敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Burst Damage dealt to enemies with Water or Light Element stacks by 30%.
+自身が水または光属性エレメントの付いている敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Element Burst damage to enemies with Water or Light Element stacks by 30%.
 ダメージ＆バーストダメージアップ：風エレメント無し=Damage & Burst Damage Up: Wind Element Null
-自身が風属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Burst Damage dealt to enemies without Wind Element stacks by 30%.
+自身が風属性エレメントの付いていない敵に対して、与えるダメージとエレメントバーストで敵に与えるダメージを30%上昇する。=Increases damage dealt and Element Burst damage dealt to enemies without Wind Element stacks by 30%.
 ダメージ＆ライトマスター【大】=Damage & Light Master [L]
 常に敵に与えるダメージが上昇（特大）する。更に光属性で与えるダメージを上昇（大）させる。=Always increases damage dealt to enemies (VL); increases Light Element damage dealt (L).
 ダメージ＆ウィンドマスター【大】=Damage & Wind Master [L]
@@ -492,6 +502,8 @@ wave開始時、自身が敵に与えるダメージとエレメントバース�
 ダメージアップ＆カット【ファイエット】=Damage Up & Cut [Fayette]
 ダメージアップ＆カット【メッシーナ】=Damage Up & Cut [Messina]
 ターン開始時、自身のCPが5の場合味方全体のコンディションを20%上昇させ、4以下の場合味方全体のプロテクトを15%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a turn, if CP is 5, increase all allies' Condition 20%; If CP is 4-, increases all allies' Protect by 15%. ※Each effect lasts this turn only
+ダメージアップ＆カット【カラマチ】=Damage Up & Cut [Karamachi]
+ターン開始時、自身のCPが5の場合、味方全体のコンディションを20%上昇させ、4以下の場合、味方全体のプロテクトを15%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a turn, if CP is 5, increases all allies' Condition by 20%, if CP is 4-, increases all allies' Protect by 15%. ※Each effect lasts this turn only
 ダメージアップ＆カット：HPスイッチ=Damage Up & Cut: HP Switch
 自身のHPが50％以上の場合、コンディションを30％上昇させ、自身のHPが50％未満の場合、プロテクトを20％上昇させる。=If HP is 50% or more, increases Condition by 30% and if HP is less than 50%, increases Protect by 20%.
 ダメージアップ&SPチャージ【アレクサンドラ】=Damage Up & SP Charge [Alexandra]
@@ -631,6 +643,8 @@ Wave中の3ターン開始ごとに、自身のエレメントバースト時の
 パーティ内で最初に行動する時、1ターンの間、敵全体の魔法防御力を減少（中）させ、行動後にHPが51%以上の敵を最大HPの5%分減少させる。※HP減少効果はレイドボスとターン制限のあるバトルは対象外=When acting first in the party, decreases all enemies' MDEF (M); after taking action, decreases enemies with 51% or more HP's HP by 5%. ※HP reduction effect is not eligible for Raid bosses and turn-limited battles
 ファーストエール【桜小路ルナ】=First Cheer [Luna Sakurakouji]
 パーティ内で最初に行動するレイヤーが刃属性魔法攻撃を行った場合、そのレイヤーのSPを3回復する。※効果は発動ターンのみ=If the layer acting first in the party uses a Cut Element magical attack, that layer recovers 3 SP. ※Effect lasts this turn only
+ファーストエール改【桜小路ルナ】=First Cheer Kai [Luna Sakurakouji]
+wave開始時、武器種が魔具のレイヤーの魔法攻撃力を15%上昇させる。更にパーティ内で最初に行動するレイヤーが刃属性魔法攻撃を行った場合、そのレイヤーのSPを3回復する。※それぞれ効果は発動ターンのみ=At the start of a wave, increases Artifact weapon layers' MATK by 15%; if the layer acting first in the party uses a Cut Element magical attack, that layer recovers 3 SP. ※Each effect lasts this turn only
 ファーストエール【ニッコウ】=First Cheer [Nikkou]
 パーティ内で最初に行動するレイヤーが衝属性全体攻撃を行った場合、そのレイヤーのSPを3回復する。※効果は発動ターンのみ=If the layer acting first in the party uses a Blow Element all-target attack, that layer recovers 3 SP. ※Effect lasts this turn only
 ファーストエール【トカチ】=First Cheer [Tokachi]
@@ -898,6 +912,8 @@ HPアップ【Ⅳ】=HP Up [IV]
 ターン中にポジション1のレイヤーが全体攻撃を使用したとき、行動順番を無視して「シャドーグローブ」で『追加行動』する。※追加上限は1回=Whenever Position 1 layer uses an all-target attack in a turn, Additional Action with Shadow Globe, ignoring order of actions. ※Maximum 1 time
 
 //K
+カラスマイル=Karasmile
+自身の行動前に敵が1体の時、魔法防御力の50%を無視して攻撃し、敵が2体以上の時、自身の行動後に行動順番を無視して【威力A】の「アイスシャワー」で『追加行動』する。※追加上限は1回=When there is one enemy before taking action, ignores 50% of its MDEF; if there are two or more enemies, Plus Action with A Power Ice Shower ignoring the order of actions. ※Maximum 1 time.
 カワイイアタシ=Kawaii Atashi
 自身の行動後、1ターンの間、味方全体の敵に与えるダメージを10%上昇させ、更にエレメントバーストで与えるダメージを15%上昇させる。=After taking action, increases all allies' damage dealt to enemies by 10% and increases damage dealt during Element Burst by 15% for 1 turn.
 キアイとダメージ【特大】=Kiai and Damage [VL]
@@ -1187,6 +1203,8 @@ wave開始時、味方全体の魔法攻撃力と命中を上昇（小）させ�
 自身のリンクスキルが発動した時、物理攻撃力が上昇（大）する。※効果はバトル中、waveの移動やターン経過では解除されない=When own skill is linked, increases ATK (L). ※Effect is permanent for the rest of the battle
 
 //N
+晴れ空の下の元気な笑顔=Narlag Khögjiltei Ineemseglel
+常に全体攻撃で与えるダメージを50%上昇させる。ターゲティングされているサイズが大型の敵に対して自身が「サニースラッシュ」で攻撃する時、1ターンの間、攻撃回数を1回から4回に増やす。=Always increase all-target attack damage dealt by 50%; when attacking Large enemies with Sunny Slash, increases the number of attacks from 1 to 4 times for 1 turn.
 シンネンノハツヒコウ=New Year's First Flight
 自身がリンクスキルを発動させたとき、【威力S】の「水刃斧」で『追加行動』する。本追加行動発動時、相手の物理防御力を無視して攻撃する。※追加上限は1回=When own skill is linked, Additional Action with Suihafu. When an Additional Action is activated, ignores enemies' DEF. ※Maximum 1 time
 ノーンキルエネミー：コンディション=None Killed Enemies: Condition
@@ -1195,6 +1213,8 @@ wave開始時、味方全体の魔法攻撃力と命中を上昇（小）させ�
 味方がスペシャルスキルのチャージを選択した時、自身のリンクスキル発動条件を無視して効果を発動させる。=When an ally selects to charge a Special Skill, ignore Link Skill requirements and trigger activated effects as stated.
 呪いの華=Noroi no Hana
 自身以外のレイヤーが『葬華呪』を発動後、自身のSPを1回復させる。=After a layer excluding self activates Soukaju, self recovers SP by 1.
+泡に包まれた花嫁=Novia en Burbujas
+wave開始時、敵が2体以上の場合、武器種が剣のレイヤーのエレメントバーストで与えるダメージを35%上昇させ、更にエレメントバースト時の物理攻撃力を15%上昇させる。※それぞれ効果は発動ターンのみ=At the start of a wave, increases Sword weapon layers' Element Burst damage dealt by by 35% and ATK during Element Burst by 15% if there are more than two enemies. ※Each effect lasts this turn only
 雑魚どもが！=Nutzloser Müll!
 wave開始時に、稀に自身を回復（中）する。攻撃した時、稀に自身を回復（中）する。=At the start of a wave, rarely recovers HP (M) and when attacking, rarely recovers HP (M).
 
@@ -1249,12 +1269,14 @@ wave開始時、敵全体の混乱耐性を減少（特大）させる。※効�
 ターン開始時、稀に物理攻撃力が上昇（大）する。更にターン開始時、稀に命中が上昇（大）する。※それぞれ効果は2ターンのみ=At the start of a turn, rarely increases ATK (L); at the start of a turn, rarely increases HIT (L). ※Each effect lasts 2 turns only
 プレイヤーEXプラス【中】=Player EX Plus [M]
 クエストで得られるプレイヤー経験値の量が上昇（中）する。=Increases player EXP gained (M) from quests.
+動物との戯れ=Kar Len Khab Saht
+wave開始時、敵が2体以上かつ自身のHPが満タンの場合、自身のリンクスキル発動条件を無視して効果を発動させる。※効果は発動ターンのみ=At the start of a wave, if there 2 or more enemies and self HP is full, ignore Link Skill requirements and trigger activated effects as stated. ※Effect lasts this turn only
 ぷっぷくぷ～=Pluppukuplup～
 常に敵に与えるダメージが上昇（中）する。常にWeak攻撃のダメージが上昇（大）する。=Always increases damage dealt to enemies (M). Always increases weakness damage (L).
 自身がリンクスキルを発動させたとき、「暴風一刀」で『追加行動』する。※追加上限は1回=When own skills are linked, Additional Action with Boufuu Ittou. ※Maximum 1 time
 自身がパーティ内で最初に行動した時、「ノーブルチャージ」で『追加行動』する。※追加上限は1回=When acting first in the party, Additional Action with Noble Charge. ※Maximum 1 time
 敵が攻撃をMissした時、「紅蓮檻」で『追加行動』する。※追加上限は1回=Whenever an enemy's attack misses, Additional Action with Gurenkan. ※Maximum 1 time
-自身がエレメントバーストを発動させたとき、「覇玉拳」で『追加行動』する。※追加上限は1回=When activating an Element Burst, Additional Action with Hagyokuken. ※Maximum 1 time
+自身がエレメントバーストを発動させたとき、「覇玉拳」で『追加行動』する。※追加上限は1回=When igniting an Element Burst, Additional Action with Hagyokuken. ※Maximum 1 time
 自身がエレメントバースト『水＋風』『風＋闇』を発動させたとき、「アエラスセイバー」で『追加行動』する。※追加上限は1回=When igniting a "Water + Wind" or "Wind + Dark" Element Burst, Additional Action with Aerus Saber. ※Maximum 1 time
 プラスアクション【メアリー】改=Plus Action [Mary] Kai
 自身がエレメントバーストを発動させたとき、「アエラスセイバー」で『追加行動』する。※追加上限は1回=When igniting an Element Burst, Additional Action with Aerus Saber. ※Maximum 1 time
@@ -1310,20 +1332,22 @@ wave開始時、敵全体の混乱耐性を減少（特大）させる。※効�
 ターン開始時、ポジション1のレイヤーの物理攻撃力を上昇（大)させ、更にポジション2と3のレイヤーの物理攻撃力を上昇（中)する。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 1 layer's ATK (L) and increases Position 2 and 3 layers' ATK (M). ※Each effect lasts this turn only
 ポジションパワー【オンシジューム】=Position Power [Oncidium]
 ターン開始時に、ポジション2のレイヤーの物理攻撃力を上昇（大)させ、更に味方全体の物理攻撃力を上昇（小）する。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 2's ATK (L) and increases all allies' ATK (S). ※Each effect lasts this turn only
+ポジションパワー＆バーストパワー【大】：1=Position Power & Burst Power [L]: 1
+ターン開始時、ポジション1のレイヤーの物理攻撃力とエレメントバースト時の物理攻撃力を上昇（大）させる。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 1 layer's ATK and ATK during Element Burst (L). ※Each effect lasts this turn only
 ポジションパワー＆スピード【レンヌ】=Position Power & Speed [Rennes]
 ターン開始時、ポジション1のレイヤーの物理攻撃力と速さを上昇（大)させ、更にポジション2のレイヤーの物理攻撃力と速さを上昇（中)する。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 1 layer's ATK and SPD (L) and increases Position 2 layer's ATK and SPD (M). ※Each effect lasts this turn only
 ポジションスピード【大】：1=Position Speed [L]: 1
 ターン開始時、ポジション1のレイヤーの速さを上昇（大)する。※効果は発動ターンのみ=At the start of a turn, increases Position 1 layer's SPD (L). ※Effect lasts this turn only
 ポジションスピード【大】：2=Position Speed [L]: 2
 ターン開始時、ポジション2のレイヤーの速さを上昇（大)する。※効果は発動ターンのみ=At the start of a turn, increases Position 2 layer's SPD (L). ※Effect lasts this turn only
-ポジションパワー＆バーストパワー【大】：1=Power & Burst Power [L]: 1
-ターン開始時、ポジション1のレイヤーの物理攻撃力とエレメントバースト時の物理攻撃力を上昇（大）させる。※それぞれ効果は発動ターンのみ=At the start of a turn, increases Position 1 layer's ATK and ATK during Element Burst (L). ※Each effect lasts this turn only
 パワー＆バーストパワーアクション：2番目以降=Power & Burst Power Action: 2nd Onwards
 自身がパーティ内で2番目以降に行動する時、行動前に物理攻撃力とエレメントバースト時の物理攻撃力を上昇（大）させる。※それぞれ効果は発動ターンのみ=From acting second in the party onwards, increases ATK and ATK during Element Burst (L) before taking action. ※Each effect lasts this turn only
 パワー＆バーストパワーブースト【大】=Power & Burst Power Boost [L]
 wave開始時、味方全体の物理攻撃力とエレメントバースト時の物理攻撃力が上昇（大）する。※効果は2ターンのみ=At the start of a wave, increases all allies' ATK and ATK during Element Burst (L). ※Effect lasts 2 turns only
 パワー＆バーストパワーブースト【特大】=Power & Burst Power Boost [VL]
 wave開始時、味方全体の物理攻撃力とエレメントバースト時の物理攻撃力が上昇（特大）する。※効果は2ターンのみ=At the start of a wave, increases all allies' ATK and ATK during Element Burst (VL). ※Effect lasts 2 turns only
+パワー＆バーストパワーブースト【極大】=Power & Burst Power Boost [XL]
+wave開始時、味方全体の物理攻撃力とエレメントバースト時の物理攻撃力が上昇（極大）する。※効果は2ターンのみ=At the start of a wave, increases all allies' ATK and ATK during Element Burst (XL). ※Effect lasts 2 turns only
 パワー＆バーストパワーレシーブ【アシカガ】=Power & Burst Power Receive [Ashikaga]
 攻撃を受けた後、一定確率で自身の物理攻撃力を10%上昇させ、更に攻撃を受けた後、一定確率で自身のエレメントバースト時の物理攻撃力を10%上昇させる。※それぞれ効果は2ターンのみ=When attacked, chance to increase ATK by 10% and when attacked, chance to increase ATK during Element Burst by 10%. ※Effect lasts 2 turns only
 パワー＆バーストパワーターン【大】=Power & Burst Power Turn [L]
@@ -1501,6 +1525,8 @@ wave開始時、3ターンの間、自身に【速さの減少を無効化する
 ターン開始時に自身の状態異常を解除する。=Dispels status ailments at the start of a turn.
 大切にする気持ち=Sentiment de Valeur
 パーティ内で1番目と2番目に行動するレイヤーのエレメントバーストで与えるダメージを10%上昇させる。更にパーティ内で3番目に行動するレイヤーの物理攻撃力を10%上昇させる。※それぞれ効果は発動ターンのみ=Increases layers acting first and second in the party's Element Burst damage dealt by 10%; increases layer acting third in the party's ATK by 10%.
+規則を重んじる真面目さ=Seriousness in Respecting Rules
+味方がエレメントバースト『水＋風』『水＋光』『風＋光』を発動させたとき、味方全体のSPを3回復させる。=Whenever an ally ignites a "Water + Wind", "Water + Light", or "Wind + Light", Element Burst, recover all allies' SP by 3.
 シンのキアイ=Shin no Kiai
 残りHP以上のダメージを受けても、1度だけHP100%にして踏ん張る。=Survive only once with 1 HP left and recovers HP to 100% when taking more damage than remaining HP.
 忍ビノ訓エ=Shinobi-no-Kunue
@@ -1697,6 +1723,8 @@ wave開始時、自身の速さが上昇（大）する。更に攻撃時、稀�
 wave開始時、味方全体のHPを回復（中）させる。=At the start of a wave, recovers all allies' HP (M).
 状態異常マスター=Status Ailment Master
 常に敵に与えるダメージが上昇（大）する。更に味方全体の、状態異常が付与されている敵に与えるダメージが50%上昇する。=Always increases damage dealt to enemies (L); all allies deal 50% increased damage to enemies affected by status ailment(s).
+状態異常マスター【ブラックフライア】=Status Ailment Master [Blackfriar]
+常に敵に与えるダメージが20%上昇する。更に味方全体の、状態異常が付与されている敵に与えるダメージが70%上昇する。=Always increases damage dealt to enemies by 20%; increases all allies' damage dealt to enemies with status ailments by 70%.
 状態異常マスター【キングスクロス】=Status Ailment Master [King's Cross]
 攻撃時、2ターンの間、自身の幸運を5%上昇させる。更に魅了が付与されている敵に攻撃する時、相手の魔法防御力の50%を無視して攻撃する。=When attacking, increases LUCK by 5% for 2 turns; when attacking Charmed enemies, ignores 50% of its MDEF.
 状態異常効果時間延長=Status Ailment Time Extension
@@ -1875,7 +1903,7 @@ Wave中の3ターン開始ごとに、味方全体の物理攻撃力を40%上昇
 
 //V
 呪われし竜族=Verfluchter Drachenwesen
-エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を15%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is activated, increases ATK during Element Burst by 15%. ※Effect lasts this turn only
+エレメントバーストが発動するたびに、自身のエレメントバースト時の物理攻撃力を15%上昇させる。※効果は発動ターンのみ=Each time an Element Burst is ignited, increases ATK during Element Burst by 15%. ※Effect lasts this turn only
 守る者の覇気=Verteidigergeist
 wave開始時、味方全体のエレメントバーストで与えるダメージを20%上昇させ、更に味方全体に【敵に付与する各属性のエレメント数を1増加させる】効果を付与する。※それぞれ効果は3ターンのみ=At the start of a wave, increases all allies' Element Burst damage dealt by 20% and all allies gain buff [Increases each Element stack applied to enemies by 1] ※Each effect lasts 3 turns only
 
@@ -1937,7 +1965,7 @@ Wave開始時、自身の幸運の減少を無効化する。※効果は5ター
 ワイドフルコンディション攻=Wide Condition Offense
 【HPが満タンの時、自身のコンディションを30%上昇させる】効果を味方全体に付与する。=All allies gain buff [When HP is full, increase Condition by 30%].
 ワイドコンディションアップ：バースト=Wide Condition Up: Burst
-パーティ内でエレメントバーストが発動するたびに、味方全体のコンディションを10%上昇させる。※効果は発動ターンのみ=When an Element Burst is activated in the party, increases all allies' Condition by 10%. ※Effect lasts this turn only
+パーティ内でエレメントバーストが発動するたびに、味方全体のコンディションを10%上昇させる。※効果は発動ターンのみ=When an Element Burst is ignited in the party, increases all allies' Condition by 10%. ※Effect lasts this turn only
 ワイドコンディションアップ：Over Heal=Wide Condition Up: Over Heal
 【2ターンの間、味方全体のコンディションを15%上昇させる】『『Over Heal（HP100%以上）』』効果を自身に付与する。=Gain buff [Over Heal (HP 100%+) - Increases all allies' Condition by 15% for 2 turns].
 ワイドCPチャージ【状態異常】=Wide CP Charge [Status Ailment]

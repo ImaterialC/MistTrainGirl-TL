@@ -87,8 +87,8 @@ request)
 
 //Physical Skill
 敵単体に物理（刃）で攻撃する。=Attacks a single enemy with physical (Cut) damage.
-敵単体に物理（刃）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with physical (Cut) damage.\nActs First when activated.
-敵単体に物理（刃）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Cut) damage.\nActs Last when activated.
+敵単体に物理（刃）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with physical (Cut) damage. Acts First when activated.
+敵単体に物理（刃）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Cut) damage. Acts Last when activated.
 敵単体に物理（刃）で攻撃し、稀に「魅了」の状態異常（中）を付与する。※効果は2ターンのみ=Attacks a single enemy with physical (Cut) damage and rarely inflicts Charm (M). ※Effect lasts 2 turns only
 敵単体に物理（刃）で攻撃し、稀に「気絶」の状態異常（中）を付与する。※効果は発動ターンのみ=Attacks a single enemy with physical (Cut) damage and rarely inflicts Stun (M). ※Effect lasts this turn only
 敵単体に物理（刃）で攻撃し、自身の物理攻撃力を上昇（小）させる。※効果は2ターンのみ=Attacks a single enemy with physical (Cut) damage and increases ATK (S). ※Effect lasts 2 turns only
@@ -158,7 +158,7 @@ request)
 ランダムな対象に物理（衝）か物理（水）で2回攻撃を行う。【合計威力：S】=Attacks randomly with physical (Blow) and physical (Water) damage 2 times. [Total Power Rating: S]
 敵単体に物理（貫）で攻撃する。=Attacks a single enemy with physical (Pierce) damage.
 敵単体に物理（貫）で攻撃し、自身のHPを回復させる。=Attacks a single enemy with physical (Pierce) damage and recovers HP.
-敵単体に物理（貫）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with physical (Pierce) damage.\nActs First when activated.
+敵単体に物理（貫）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with physical (Pierce) damage. Acts First when activated.
 敵単体に物理（貫）で攻撃し、稀に「魅了」の状態異常（中）を付与する。※効果は2ターンのみ=Attacks a single enemy with physical (Pierce) damage and rarely inflicts Charm (M). ※Effect lasts 2 turns only
 敵単体に物理（貫）で攻撃し、稀に「混乱」の状態異常（中）を付与する。※効果は2ターンのみ=Attacks a single enemy with physical (Pierce) damage and rarely inflicts Confusion (M). ※Effect lasts 2 turns only
 敵単体に物理（貫）で攻撃し、稀に「気絶」の状態異常（中）を付与する。※効果は発動ターンのみ=Attacks a single enemy with physical (Pierce) damage and rarely inflicts Stun (M). ※Effect lasts this turn only
@@ -243,7 +243,7 @@ request)
 敵全体に魔法（貫）か魔法（風）で攻撃する。=Attacks all enemies with magical (Pierce) or magical (Wind) damage.
 敵全体に魔法（貫）か魔法（光）で攻撃する。=Attacks all enemies with magical (Pierce) or magical (Light) damage.
 敵全体に魔法（貫）か魔法（闇）で攻撃する。=Attacks all enemies with magical (Pierce) or magical (Dark) damage.
-敵単体に魔法（刃）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with magical (Cut) damage.\nActs First when activated.
+敵単体に魔法（刃）で攻撃する。発動時は最初に行動する。=Attacks a single enemy with magical (Cut) damage. Acts First when activated.
 敵単体に魔法（刃）で攻撃し、稀に「麻痺」の状態異常（中）を付与する。※効果は3ターンのみ=Attacks a single enemy with magical (Cut) damage and rarely inflicts Paralysis (M). ※Effect lasts 3 turns only
 敵単体に魔法（刃）で攻撃し、稀に「沈黙」の状態異常（中）を付与する。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) damage and rarely inflicts Silence (M). ※Effect lasts 2 turns only
 敵単体に魔法（刃）で攻撃し、相手の物理攻撃力を減少（中）させる。※効果は2ターンのみ=Attacks a single enemy with magical (Cut) damage and decreases ATK (M). ※Effect lasts 2 turns only
@@ -330,7 +330,7 @@ request)
 怒涛全開斬り=Ferocious All-Out Slice
 2ターンの間、自身の物理攻撃力を上昇（大）させ、敵全体に物理（刃）で攻撃する。=Increases ATK (L) for 2 turns and attacks all enemies with physical (Cut) damage.
 火焔斬=Flame Slash
-敵単体に物理（刃）か物理（火）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Cut) or physical (Fire) damage.\nActs Last when activated.
+敵単体に物理（刃）か物理（火）で攻撃する。発動時は最後に行動する。=Attacks a single enemy with physical (Cut) or physical (Fire) damage. Acts Last when activated.
 円月双輪=Full Moon Double Circle
 縦一列に物理（刃）と補助魔法（光）で2回攻撃する。【合計威力：S】=Attacks vertically with physical (Cut) and magical (Light) damage 2 times. [Total Power Rating: S]
 セーフガード=Safeguard

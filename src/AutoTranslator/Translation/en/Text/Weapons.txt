@@ -881,7 +881,18 @@ Wave開始時、自身の魔法攻撃力を11%上昇させる。※効果はバ�
 天井用ほうき=Ceiling Broom
 天井を掃除するためのほうき。\r\n武器種が杖のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSサラ・クリサリスに装備することでバトル中の見た目が変わる。=A broom for cleaning the ceiling.\r\nCan be equipped by characters who use Staffs.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Sara Chrysalis will change her appearance during battle.
 
+誇り高き主人の剣=Proud Master's Sword
+従者を守る覚悟を示す剣。\r\n武器種が剣のキャラクターが装備できる。\r\nシリーズで揃えて装備することでさらなる強力な効果を発揮する。\r\nSSエストに装備することでバトル中の見た目が変わる。=A sword that shows the determination to protect one's followers.\r\nCan be equipped by characters who use Swords.\r\nEquipping the entire series will give it even more powerful effects.\r\nEquipping it to SS Est will change her appearance during battle.
+
 //Event S
+生徒会長の金弓=Council President Golden Bow
+生徒会長の銀弓=Council President Silver Bow
+熱血生徒の蒼穹=Passionate Student Blue Sky
+完璧なお嬢様の剣=Perfect Lady's Sword
+明るい楽好弓=Bright and Easy Bow
+一目惚れアロー=Love at First Sight Arrow
+フラワリーマギカ=Flowery Magica
+金色の祝福入刀=Golden Blessing Sword
 甘え上手の紫銃=Pampering Purple Gun
 美少女探偵の金銃=Beautiful Detective Gold Gun
 スポーツ少女のグローブ=Sports Girl Gloves
@@ -1568,3 +1579,6 @@ MT式-No.6…=MT Type - N...
 天才美少女のワンド=Genius Beautiful Girl's Wand
 アルバイトの力=Part-Time Power
 眠たい少女の白パジャマ=Sleepy Girl's White Pajamas
+手芸部部長の銀鎖=Handicraft President Silver Chain
+つよききゅうせい…=Bullish Salva...
+つよききゅうせいけん=Bullish Salvation Sword

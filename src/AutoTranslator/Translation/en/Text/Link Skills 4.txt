@@ -19,7 +19,7 @@
 カース・ジ・ヴァルン=Curse the Varun
 カース・ジ・ヴァ…=Curse the V...
 「カース・ジ・ヴァルン」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Curse the Varun is selected, select other Pierce Element physical attack skills total 2 or more.
-【エレメントバーストが発動するたびに、1ターンの間、自身がエレメントバーストで与えるダメージを15%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time an Element Burst is activated, increase Element Burst damage dealt by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+【エレメントバーストが発動するたびに、1ターンの間、自身がエレメントバーストで与えるダメージを15%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Each time an Element Burst is ignited, increase Element Burst damage dealt by 15% for 1 turn]. ※Applied buff is permanent for the rest of the battle
 シュヴァルツレインドラフ=Schwarz Reindorf
 敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases ATK during Element Burst (L) for 1 turn.
 
@@ -140,3 +140,41 @@
 自身がエレメントバーストで与えるダメージを35%上昇させる。※効果は発動ターンのみ=Increases Element Burst damage dealt by 35%. ※Effect lasts this turn only
 バウンドホッケー=Bound Hockey
 敵単体に魔法（衝）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（大）させる。=Attacks a single enemy with magical (Blow) damage. If CP is 4+, increases MATK during Element Burst (L) for 1 turn.
+
+//Est
+美絶嬢斬=Mize Chouzan
+自身がエレメントバーストで与えるダメージを40%上昇させ、更にエレメントバースト時の物理攻撃力を20%上昇させる。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 40% and increases ATK during Element Burst by 20%. ※Each effect lasts this turn only
+美麗閃光=Birei Senkou
+【自身がエレメントバーストを発動させたとき、自身のSPを3回復させる】効果を自身に付与する。※効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When igniting Element Burst, recovers 3 SP]. ※Applied buff is permanent for the rest of the battle
+美風花撃=Mifu Kageki
+上品で可愛い怒り=Elegant and Cute Anger
+
+//Sakuri Youkadou
+天態輝射=Tentai Kisha
+【水または光属性エレメントが付いている敵に対してエレメントバーストで与えるダメージを35%上昇させる】効果をポジション1・2のレイヤーに付与する。※付与効果は発動ターンのみ=Position 1 and 2 layers gain buff [Increases Element Burst damage dealt to enemies with Water or Light element stacks by 35%]. ※Applied buff lasts this turn only
+恍惚魅矢=Koukotsu Miya
+【速さ500につきエレメントバーストで与えるダメージが5%（最大50%）上昇する】効果をポジション1・2のレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Position 1 and 2 layers gain buff [Increases Element Burst damage dealt by 5% (Max 50%) for every 500 SPD]. ※Effect is permanent for the rest of the battle
+桃恋惚雨=Momoko Bokeu
+自身と発動条件を満たしたレイヤーのエレメントバーストで与えるダメージを25%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' Element Burst damage dealt by 25%. ※Applied buff lasts this turn only
+ハート弾の乱雨=Heart Bullet Barrage
+敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、味方全体のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases all allies' ATK during Element Burst (L) for 1 turn.
+
+//Haruko Ginjou
+楽陽転射=Rakuyou Tensha
+自身がエレメントバーストで与えるダメージを40%上昇させる。※効果は発動ターンのみ=Increases Element Burst damage dealt by 40%. ※Effect lasts this turn only
+好舞奇砲=Yoshimai Kihou
+【自身がエレメントバーストを発動させたとき、自身のエレメントバースト時の物理攻撃力を15%上昇させる】効果を自身に付与する。※攻撃力上昇と付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When igniting an Element Burst, increases ATK during Element Burst by 15%]. ※Applied buff is permanent for the rest of the battle
+嬉蓮水矢=Ureshihasu Miya
+澄み渡る水撃砲=Clear Water Cannon
+敵単体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK during Element Burst (L) for 1 turn.
+
+//Lumine Ookura
+日流懃剣=Hiryuu Ginken
+水冷富斬=Suirei Fuzan
+厳明守刀=Geimei Shutou
+無量剣斬=Infinite Sword Slash
+武器種が「剣・弓」のレイヤーのエレメントバーストで与えるダメージを40%上昇させ、更にエレメントバースト時の物理攻撃力を10%上昇させる。※それぞれ効果は発動ターンのみ=Increases the damage dealt with element bursts in the weapon type of "Sword/Bow" layer by 40%, and also increases physical attack power when using element bursts by 10%.\n*Each effect is only activated turn.
+
+敵単体に物理（刃）で攻撃する。CP4以上の場合、1ターンの間、味方全体の物理攻撃力と物理防御力を上昇（中）する。=Attacks an enemy with a physical (blade).\nIf you have CP4 or higher, the physical attack power and physical defense power of all allies will increase (medium) for one turn.
+威力B以下の物理攻撃スキル（※合計威力を除く）=Physical attack skills with power B or lower (excluding total power)
+【行動前、1ターンの間、エレメントバーストで与えるダメージを15%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=[Increases damage dealt by element burst by 15% for 1 turn before action] Gives an effect to all allies.\n*The effect awarded will not be cancelled during battle or when moving waves or passing turns.

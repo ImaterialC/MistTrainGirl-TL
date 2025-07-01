@@ -460,7 +460,7 @@
 白竜戟=Hakuryuugeki
 「白竜戟」を選択した同じターンに、貫属性または水属性スキルを、自身を除く2体以上が選択する。=When Hakuryuugeki is selected, select other Pierce Element or Water Element skills total 2 or more.
 自身と発動条件を満たしているレイヤーの、コンディションを50%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' Condition by 50%. ※Effect lasts this turn only
-夕月槍=Yuuzukiyari
+夕月槍=Yuudukiyari
 自身の敵視を上昇（大）させ、攻撃を受けた後、自身を回復（極小）する。※それぞれ効果は発動ターンのみ=Increases self hostility (L) and when attacked, recovers HP (XS). ※Each effect lasts this turn only
 「夕月槍」を選択した同じターンに、貫属性物理攻撃スキルを、自身を除く2体以上が選択する。=When Yuuzukiyari is selected, select other Pierce Element physical attack skills total 2 or more.
 夜長の大身=Yonaga no Daishin
@@ -468,14 +468,14 @@
 【ターン終了時、HPを回復する】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Recovers HP at the end of a turn]. ※Applied buff is permanent for the rest of the battle
 ヒノモト浮游=Hinomoto Fuyuu
 敵単体に物理（貫）で攻撃する。CP4以上の場合、味方全体のHPを回復する。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, recovers all allies' HP.
-朧月槍=Oborozukiyari
+朧月槍=Oborodukiyari
 「朧月槍」を選択した同じターンに、貫属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Oborozukiyari is selected, select other Pierce Element physical attack all-target skills total 2 or more.
 月光千突=Gekkou Sentsuki
 「月光千突」を選択した同じターンに、貫属性物理攻撃全体スキルを、自身を除く2体以上が選択する。=When Gekkou Sentsuki is selected, select other Pierce Element physical attack all-target skills total 2 or more.
 【光属性スキルを使用する場合、1ターンの間、コンディションを40%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a Light Element skill, increases Condition by 40%]. ※Applied buff is permanent for the rest of the battle
 夕景・月光ヒノモト=Sunset Gekkou Hinomoto
 敵全体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks all enemies with physical (Pierce) damage. If CP is 4+, increases ATK (VL) for 1 turn.
-幸せな花槍=Shiawasena Hanasou
+幸せな花槍=Shiawase na Hanasou
 自身のエレメントバースト時の物理攻撃力を20%上昇させ、更にエレメントバーストで与えるダメージを30%上昇させる。※それぞれ効果は発動ターンのみ=Increases ATK during Element Burst by 20% and increases Element Burst damage dealt by 30%. ※Each effect lasts this turn only
 順花猫嫁=Junhana Nekoyome
 【闇属性エレメントが付いている敵に対して、エレメントバーストで与えるダメージを40%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases Element Burst damage dealt to enemies with Dark Element stacks by 40%]. ※Applied buff is permanent for the rest of the battle
@@ -1124,7 +1124,8 @@
 「カオスドミネート」を選択した同じターンに、威力S以上の魔法攻撃スキル（※合計威力を除く）を、自身を除く2体以上が選択する。=When Chaos Dominate is selected, select other S+ Power magical attack skills (※Excludes total power) total 2 or more.
 単体攻撃スキルを使用するレイヤーのコンディション【ダメージを上昇させる効果】を40%上昇させる。※効果はバトル中、waveの移動やターン経過では解除されない=Increases layers using single-target skills' Condition by 40%. ※Effect is permanent for the rest of the battle
 グレールーチェ=Gray Luce
-「グレールーチェ」を選択した同じターンに、闇属性または光属性単体スキルを、自身を除く2体以上が選択する。=Gray Luce is selected, select other Dark Element or Light Element single-target skills total 2 or more.
+「グレールーチェ」を選択した同じターンに、闇属性または光属性単体スキルを、自身を除く2体以上が選択する。=When Gray Luce is selected, select other Dark Element or Light Element single-target skills total 2 or more.
+自身と発動条件を満たしたレイヤーの魔法攻撃力を20%上昇させる。※効果は発動ターンのみ=Increases self and linked layers' MATK by 20%. ※Effect lasts this turn only
 エンシェントメモリーズ=Ancient Memories
 カオスストライク=Chaos Strike
 「カオスストライク」を選択した同じターンに、闇属性または光属性スキルを、自身を除く3体以上が選択する=When Chaos Strike is selected, select other Dark Element or Light Element skills total 3 or more.
@@ -1214,9 +1215,15 @@
 リンクスキル発動時、自身のHPが50％以上の場合、自身のコンディションを100%上昇させ、50％未満の場合、プロテクトを20％上昇させる。※効果は発動ターンのみ =When skill is linked, if HP is 50% or more, increases Condition by 100%; If HP is less than 50%, increases Protect by 20%. ※Effect lasts this turn only
 紅蓮行軍=Hónglián Xíngjūn
 「紅蓮行軍」を選択した同じターンに、刃属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Hónglián Xíngjūn is selected, select other Cut Element included double-element skills total 2 or more.
-自身のバトル中の本リンクスキル発動回数が1回目の時に、【自身の物理攻撃力を50%上昇させ、更に残りHP以上のダメージを受けても1度だけHP1で踏ん張る】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases ATK by 50% and survive only once with 1 HP left when taking more damage than remaining HP] if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
+自身のバトル中の本リンクスキル発動回数が1回目の時に、【自身の物理攻撃力を50%上昇させ、更に残りHP以上のダメージを受けても1度だけHP1で踏ん張る】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Increases ATK by 50% and survive only once with 1 HP left when taking more damage than remaining HP] if this skill is linked for the first time in this battle. ※Applied buff is permanent for the rest of the battle
 愛爛漫の舞=Àilàngmàn de Wǔ
 敵全体に物理（刃）で攻撃し、3ターンの間、自身に対する敵視を上昇（大）させる。=Attacks all enemies with physical (Cut) damage and increases self hostility (L) for 3 turns.
+エアリィ・マーメイド=Airy Mermaid
+【ポジション1にいる場合、1ターンの間、エレメントバーストで与えるダメージを30%上昇させる】効果を発動条件を満たしたレイヤーに付与する。※付与効果は発動ターンのみ=Linked layers gain buff [If on Position 1, increases Element Burst damage dealt by 30% for 1 turn]. ※Applied buff lasts this turn only
+ブライド・サーフブレード=Bride Surf Blade
+【wave開始時、1ターンの間、武器種が剣のレイヤーのエレメントバーストで与えるダメージを15%上昇させ、更にエレメントバースト時の物理攻撃力を20%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [At the start of a wave, increases Sword weapon layers' Element Burst damage dealt by 15% and increases ATK during Element Burst by 20% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+泡きらめく桃渦=Sparkling Peach Vortex
+敵全体に物理（刃）で攻撃する。CP4以上の場合、1ターンの間、味方全体のエレメントバースト時の物理攻撃力を上昇（大）させる。=Attacks all enemies with physical (Cut) damage. If CP is 4+, increases all allies' ATK during Element Burst for 1 turn.
 
 //Freiburg
 プレゼントフィーバー=Present Fever
@@ -1312,7 +1319,7 @@
 「ライトニングロア」を選択した同じターンに、貫属性単体スキルまたは光属性スキルを、自身を除く2体以上が選択する。=When Lightning Roar is selected, select other Pierce Element single-target skills or Light Element skills total 2 or more.
 自身の魔法攻撃力を50%上昇させ、行動後に自身のHPを回復させる※それぞれ効果は発動ターンのみ=Increases MATK by 50% and recovers HP after taking action. ※Each effect lasts this turn only
 アポログラッセ=Apollo Glacé
-「アポログラッセ」を選択した同じターンに、貫属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=In the same turn where "Apollo Grasse" is selected, two or more bodies, excluding themselves, select twin attribute skills containing penetration.
+「アポログラッセ」を選択した同じターンに、貫属性を含んだ双属性スキルを、自身を除く2体以上が選択する。=When Apollo Glacé is selected, select other Pierce Element included double-element skills total 2 or more.
 【味方全体のコンディションを20%上昇させる】『『Over Heal（HP100%以上）』』効果を自身に付与する。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [Over Heal (HP 100%+) - Increases all allies' Condition by 20%]. ※Each effect is permanent for the rest of the battle
 ライトニングガン=Lightning Gun
 【行動前、味方全体のHPを回復し、1ターンの間、魔法攻撃力を15%上昇させる】効果を自身に付与する。※効果は2ターンのみ=Gain buff [Before taking action, recovers all allies' HP and increases MATK by 15% for 1 turn]. ※Applied buff lasts this turn only
@@ -1331,6 +1338,7 @@
 ロンダリー・ヘル=Laundry Hell
 敵全体に魔法（貫）で攻撃する。CP4以上の場合、1ターンの間、味方全体の魔法防御力を上昇（大）させる。=Attacks a single enemy with magical (Pierce) damage. If CP is 4+, all allies gain MDEF (L) for 1 turn.
 紅嫁灼蓮砲=Red Bride Lotus Cannon
+「紅嫁灼蓮砲」を選択した同じターンに、貫\r\n属性を含む双属性スキルを、自身を除く2体\r\n以上が選択する。\r\n=When [Red Bride Lotus Cannon] is selected, select other Pierce Element-included double element skills total 2 or more.\r\n
 敵単体に魔法（貫）か魔法（火）で攻撃し、自身のHPを最大HPの5%分減少させる。=Attacks a single enemy with magical (Pierce) or magical (Fire) damage and decreases self Max HP by 5%.
 自身の魔法攻撃力を50%上昇させ、行動後に自身のSPを3回復する。※それぞれ効果は発動ターンのみ=Increases MATK by 50% and recovers 3 SP after taking action. ※Each effect lasts this turn only.
 火照花弾=Firelight Flower Round

@@ -1141,3 +1141,4 @@ r:"^毎ターン開始時、敵全体のHPを最大HPの([0-9]+)%減少させる
 ジャンプキック=Jump Kick
 古代の機械部品=Ancient Machine Parts
 宴妖怪・シュチニ＝クリン=Banquet Youkai Šczyny-Klin
+マリーザ=Marieza

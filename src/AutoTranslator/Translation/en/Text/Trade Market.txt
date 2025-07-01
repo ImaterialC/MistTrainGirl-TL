@@ -158,4 +158,13 @@ D.C.ⅢコラボⅡ\r\nガチャメダル=D.C. III Collab II\r\nGacha Medal
 レイヤー1000体突破Ⅱ\r\nご指名SS切符=1000 Layers II\r\nSelect SS Ticket
 レイヤー1000体突破Ⅲ\r\nご指名SS切符=1000 Layers III\r\nSelect SS ticket
 レイヤー1000体突破Ⅳ\r\nご指名SS切符=1000 Layers IV\r\nSelect SS Ticket
+獲得済みのレイヤーのためアイテムに変換されます=This will be converted into items as as the layer is already owned.
+つり乙復刻記念キャンペーン\r\n専用交換所=TsuriOtsu Memorial\r\nRerun Trade Market
+召喚パック専用合宿チケットⅡ=Summon Pack Training Camp Ticket II
+大蔵ルミネ\r\nガチャメダル=Lumine Ookura\r\nGacha medal
+つり乙2コラボ\r\nガチャメダル=TsuriOtsu 2 Collab\r\nGacha Medal
+『乙女はティータイムのお時間です。』パック="It's Tea Time for the Maidens." Pack
+復刻『主役は素敵な花嫁たち』パック=Reprint "The Main Characters are Wonderful Brides" Pack
+復刻『メルヘン漂う２人の花嫁』パック=Reprint "Two Brides in a Fairy Tale" Pack
+『夏の訪れを感じて』パック="Feeling Summer's Arrival" Pack
 

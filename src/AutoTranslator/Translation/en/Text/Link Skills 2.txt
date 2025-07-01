@@ -15,6 +15,7 @@
 旋乱彩色の筆=Senran Saishiki no Fude
 敵単体に物理（貫）で攻撃する。CP4以上の場合、1ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks a single enemy with physical (Pierce) damage. If CP is 4+, increases ATK (VL) for 1 turn.
 ファンコールランス=Fan Call Lance
+ファンコールラン…=Fan Call Lance
 タッグジャベリン=Tag Javelin
 【ポジション2にいる場合、コンディションを40%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked layers gain buff [If on position 2, increase Condition by 40%]. ※Applied buff is permanent for the rest of the battle.
 ファンへのラブプレゼント=Love Present for Fans
@@ -158,6 +159,13 @@
 「玄のツルギ」を選択した同じターンに、刃属性全体または闇属性スキルを、自身を除く2体以上が選択する。=When Gen no Tsurugi is selected, select other Cut Element all-target or Dark Element skills total 2 or more.
 リンクスキル発動時、パーティ内で魔法攻撃力が1・2番目に高いレイヤーの魔法攻撃力を30%上昇させ、更にHPを回復させる。※効果は発動ターンのみ=When this skill is linked, increases layers with 1st and 2nd highest MATK's MATK by 30% and recovers HP. ※Effect lasts this turn only
 恋狂乱の舞=Koikyouran no Mai
+マナ・イースター=Mana Easter
+双属性魔法攻撃全体スキル=double-element magical attack all-target skills
+自身と発動条件を満たしたレイヤーのエレメントバーストで与えるダメージを20%上昇させ、更にエレメントバースト時の魔法攻撃力を15%上昇させる。※それぞれ効果は発動ターンのみ=Increases self and linked layers' Element Burst damage dealt by 20%, and also increases MATK during Element Burst by 15%. ※Each effect lasts this turn only
+マナ・ラブブライト=Mana Lovebright
+【エレメントバーストが発動するたびに、1ターンの間、エレメントバースト時の魔法攻撃力を10%上昇させる】効果を自身と発動条件を満たしたレイヤーに付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Self and linked layers gain buff [Each time Element Burst is ignited, increases MATK during Element Burst by 10% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+かわいいバニーガールの祝福=Cute Bunny Girl Blessing
+2ターンの間、味方全体の、エレメントバースト時の魔法攻撃力を上昇（大）させる。CP5の場合、1ターンの間、敵全体のエレメントバースト時の魔法防御力を減少（中）させる。=Increases all allies' MATK during Element Burst (L) for 2 turns. If CP is 5, decreases all enemies' MDEF during Element Burst (M) for 1 turn.
 
 //Akihabara
 ホロウエンド=Hollow End
@@ -513,6 +521,12 @@
 自身の敵視を上昇（大）させ、【自身に対する全ての攻撃で受けるダメージを無効化する】効果を自身に付与する。※それぞれ効果は発動ターンのみ=Increases self hostility (L) and gain buff [Nullifies all damage taken from attacks]. ※Each effect lasts this turn only
 特売勘定大安売り=<size\=13>Special Promo Mega Bargain Sale</size>
 敵単体に物理（刃）で攻撃し、3ターンの間、自身に対する敵視を上昇（大）させる。=Attacks a single enemy with physical (Cut) damage and increases self hostility (L) for 3 turns.
+火育剣=Hiikuken
+自身と発動条件を満たしたレイヤーの物理防御力と魔法防御力を35%上昇させる。※それぞれ効果は発動ターンのみ=Increases self and linked layers' DEF and MDEF by 35%. ※Each effect lasts this turn only
+育火閃剣=Ikuka Senken
+【ターン開始時かつ自身のHPが85%未満の場合、1ターンの間、プロテクトを25%上昇させる】効果を味方全体に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=All allies gain buff [If HP is less than 85% at the start of a turn, increases Protect by 25% for 1 turn]. ※Applied buff is permanent for the rest of the battle
+俊敏なお片付け=Quick Tidying Up
+敵全体に物理（刃）で攻撃する。CP4以上の場合、2ターンの間、味方全体の物理防御力と魔法防御力を上昇（大）する。=Attacks all enemies with physical (Cut) damage. If CP is 4+, increases all allies' DEF and MDEF (L) for 2 turns.
 
 //Woking
 シェードスピナー=Shade Spinner
@@ -734,6 +748,11 @@
 敵単体に物理（刃）か物理（風）で攻撃し、味方全体の命中を上昇（中）させる。※効果は2ターンのみ=Attacks a single enemy with physical (Cut) and physical (Wind) damage and increases all allies' HIT (M). ※Effect lasts 2 turns only
 ソーラロディ=Solarlody
 敵全体に物理（刃）で攻撃し、2ターンの間、相手の速さを減少（大）させる。=Attacks all enemies with physical (Cut) damage and decreases SPD (L) for 2 turns.
+サニースラッシュ=Sunny Slash
+【自身の攻撃1回ごとに、1ターンの間、与えるダメージを10%上昇させる】効果を自身に付与する。※付与効果は発動ターンのみ。『追撃』『連撃』『反撃』は対象外。2回以上連続で攻撃を行うスキルは、1回ごとにカウントする。=Gain buff [Increase the damage dealt per attack by 10% for 1 turn]. ※Applied buff lasts this turn only ※Excludes Pursuit, Combo, and Counter attacks. Skills that attack 2 or more times in a row are counted as 1
+レイディアントスピン=Radiant Spin
+刃または光属性を含む双属性スキル=Cut or Light Element included double-element skills
+待ち合わせ中のハプニング！？=A Meeting Incident!?
 
 //Asahikawa
 フロストマスケット=Frost Musket
@@ -908,6 +927,14 @@
 アルテミス=Artemis
 「アルテミス」を選択した同じターンに、貫属性または風属性スキルを、自身を除く2体以上が選択する=When Artemis is selected, select other Pierce Element or Wind Element skills total 2 or more.
 アローロア=Arrow Roar
+サンレイズアロー=Sunrays Arrow
+火属性を含む双属性スキル=Fire Element included double element skills
+自身が敵に与えるダメージを50%上昇させ、更に自身の「サンレイズアロー」発動時、【威力S】の全体攻撃として攻撃する。※それぞれ効果は発動ターンのみ=Increases damage dealt to enemies by 50% and when [Sunrays Arrow] is activated, attack becomes all-target S Power. ※Each effect lasts this turn only
+ライジング・ブレイアロー=Rising Brae Arrow
+1ターンの間、自身の物理攻撃力を上昇（特大）させ、敵全体に物理（貫）か物理（火）で攻撃する。=Increases ATK (VL) for 1 turn and attacks all enemies with physical (Pierce) or physical (Fire) damage.
+「ライジング・ブレイアロー」を選択した同じターンに、自身を除く武器種が弓のレイヤー3体以上がスキルを選択する。=When [Rising Bray Arrow] is selected, select other skills from Bow weapon layers total 3 or more.
+【威力S以上のスキルを使用する場合、1ターンの間、物理攻撃力を50%上昇させる】効果を自身に付与する。※付与効果はバトル中、waveの移動やターン経過では解除されない=Gain buff [When using a S+ Power skill, increases ATK by 50% for 1 turn]. ※Applied buff is permanent for the rest of the battle.
+ルースレスアニマルズ=Ruthless Animals
 
 //Hebiko Aishu
 ハッピーペイント=Happy Paint

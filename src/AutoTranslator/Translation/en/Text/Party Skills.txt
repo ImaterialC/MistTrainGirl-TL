@@ -883,7 +883,7 @@ r:"^水属性ダメージを(\d+)%軽減する$"=Decreases Water Element damage 
 パーティ全員がターン開始時に稀に自身を回復（中）する。=At the start of a turn, rarely recovers all party members' HP (M).
 
 学園祭のはじまり=Beginning of the Academy Festival
-アタック&バーストアタックブースト【特…=Attack & Burst Attack Boost [Special ...
+アタック&バーストアタックブースト【特…=Attack & Burst Attack Boost [VL]
 アタック&バーストアタッ…=Attack & Burst Atta...
 r:"^wave開始時、味方全体の物理攻撃力とエレメントバースト時の物理攻撃力を(\d+)%上昇させる。※効果は発動ターンのみ$"=At the start of a wave, increases all allies' ATK and ATK during Element Burst by $1%. ※Effect lasts this turn only
 槍の進攻【Ⅱ】=Spear Advance [II]
@@ -939,6 +939,8 @@ r:"^ポジション１の物理攻撃で与えるダメージを(\d+)%上昇さ�
 オオエファミリー出陣=Ooe Family Goes to Battle
 大悪鬼討伐=Daiyaki Subjugation
 物理攻撃で与えるダメージを30%上昇させ、更にエレメントの付いている敵に対して、与えるダメージを15%上昇する。=Increases physical attack damage by 30% and increases damage dealt to enemies with Element stacks by 15%.
+ダメージアップ&バーストダメージアップ【Ⅳ】=Damage Up & Burst Damage Up [IV]
+物理攻撃で与えるダメージを30%上昇させ、更にエレメントの付いている敵に対して、与えるダメージを20%上昇する。=Increases physical attack damage dealt by 30% and increases damage dealt against enemies with element stacks by 20%.
 
 お花見より三色団子=Sanshoku Dango Over Cherry Blossom Viewing
 桜と三色団子=Sakura and Sanshoku Dango
@@ -1177,4 +1179,45 @@ No.1になる為に=To be No. 1
 パラライブースト=Paralyze Boost
 ダメージ＆バーストダメ…=Damage & Burst Damage...
 
-出会いは明日も、くるる=Encounter Tomorrow, Kururu
+出会いは明日も、くるる=Deai Wa Ashita Mo, Kururu
+
+主役は素敵な花嫁たち=The Main Characters are Wonderful Brides
+二人の花嫁=Two Brides
+
+メルヘン漂う２人の花嫁=Two Brides in a Fairy Tale
+お花畑と花嫁=Flower Fields and Brides
+ポジション4・5が、エレメントバーストで敵に与えるダメージを15%上昇させ、更にwave開始時、2ターンの間、パーティ全員の命中を15％上昇させる。=Increases Positions 4 and 5's Element Burst damage dealt to enemies by 15% and at the start of wave, increases all party members' HIT by 15% for 2 turns.
+
+夏の訪れを感じて=Feeling Summer's Arrival
+夏入りの雨=Summer Rain
+武器種が剣・弓・杖のレイヤーの敵に与えるダメージを20%上昇させる。更にwave開始時かつHPが満タンの時、2ターンの間、敵に与えるダメージを50%上昇させる。=Increases Sword, Bow and Staff weapon layers' damage dealt to enemies by 20%; at the start of a wave and when HP is full, increases damage dealt to enemies by 50% for 2 turns.
+ダメージアップブースト【…=Damage Boost […
+ダメージアップブースト【Ⅵ】：フルコン…=Damage Up Boost [VI]: Full Con...
+wave開始時かつHPが満タンの時、味方全体の敵に与えるダメージを30%上昇させる。※効果は発動ターンのみ=At the start of a wave and when HP is full, increases all allies' damage dealt to enemies by 30%. ※Effect lasts this turn only.
+
+似たような出来事=A Deja Vu Incident
+ブレイドカット【Ⅲ】=Blade Cut [III]
+
+乙女はティータイムのお時間です。=It's Tea Time for the Maidens.
+乙女はティータイムのお時間…=It's Tea Time for the Maide...
+おいしいお菓子=Delicious Sweets
+武器種が「剣・弓」のレイヤーのエレメントバースト時の物理攻撃力を30%上昇させる。更にwave開始時、1ターンの間、武器種が「剣・弓」のレイヤーのエレメントバーストで与えるダメージを35%上昇させる。=Increases Sword or Bow weapon layers' ATK during Element Burst by 30%; at the start of a wave, increases Sword or Bow weapon layers' Element Burst damage dealt by 35%.
+アタック&バーストアタックブースト【特大】=Attack & Burst Attack Boost [VL]
+複雑な心情=Mixed Feelings
+清々しい気分=Refreshing Mood
+異常開花事件の解決=Resolution of the Flowering Incident
+飛行のスペシャリスト=Flight Specialist
+推しの娘=Oshi no Musume
+凄まじい家事能力=Amazing Housekeeping Skills
+武器種が魔具のレイヤーの速さを10%上昇させる。=Increases artifact weapon layers' SPD by 10%.
+桜舞う=Sakura Dance
+マジック&バーストマジックブースト【極大】：4&5=Magic & Burst Magic Boost [XL]: 4 & 5
+マジック&バーストマジックブースト【特大】=Magic & Burst Magic Boost [VL]
+沈黙耐性=Silence Resistance
+ダメージアップ&バーストダメージアップ【Ⅱ】：槍=Damage Up & Burst Damage Up [II]: Spear
+空守=Sky Guardian
+ダメージアップ&バーストダメージアップ【Ⅱ】：魔具=Damage Up & Burst Damage Up [II]: Artifact
+武器種が魔具のレイヤーの魔法攻撃力を20%上昇させる。=Increases Artifact weapon layers' MATK by 20%.
+マジックプラス【Ⅵ】&マ…=Magic Plus [VI] & Ma...
+マジックプラス【Ⅵ】&マジックプロダク…=Magic Plus [VI] & Magic Product...
+武器種が魔具のレイヤーのエレメントバースト時の魔法攻撃力を15%上昇させ、エレメントバーストで与えるダメージを50%上昇させる。更に武器種が杖のレイヤーが双属性スキルで与えるダメージを30%上昇させる。=Increases Artifact weapon layers' MATK during Element Burst by 15% and increases Element Burst damage dealt by 50%; increases Staff weapon layers' double element skill damage dealt by 30%.

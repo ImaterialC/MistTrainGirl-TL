@@ -4,7 +4,7 @@ Level: 0
 キャラ=Chara
 装備=Equip
 編成中優先表示=In Use
-所持数=<size\=12>Owned</size>
+所持数=Amt.
 レベルアップまで=Until Level Up
 ランクアップまで=Until Rank Up
 獲得\rEXP=Gained EXP

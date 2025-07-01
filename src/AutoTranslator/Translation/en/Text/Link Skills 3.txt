@@ -75,31 +75,37 @@
 ネグロショット=Negro Shot
 「ネグロショット」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Negro Shot is selected, select other physical attack single-target skills total 2 or more.
 自身の「ネグロショット」発動時、攻撃回数を1回から2回に増やす。※効果は発動ターンのみ=When Negro Shot is activated, increases the number of attacks from 1 to 2 times. ※Effect lasts this turn only
-麗弓・黒揚羽=Beautiful Bow Spangle
+麗弓・黒揚羽=Beautiful Bow Kuroageha
+麗弓・黒揚羽改=Beautiful Bow Kuroageha Kai
+敵全体に物理（貫）もしくは物理（闇）で攻撃する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks all enemies with physical (Pierce) or physical (Dark) damage. If CP is 4+, increases ATK (VL) for 2 turns.
 
 //Minato Yanagase
-疾風迅雷=Gale Thunderclap
-「疾風迅雷」を選択した同じターンに、衝属性物理攻撃または風属性物理攻撃スキルを、自身を除く2体以上が選択する=When Gale Thunderclap is selected, select other Blow Element physical attack or Wind Element physical attack skills total 2 or more.
+疾風迅雷=Shippuu Jinrai
+「疾風迅雷」を選択した同じターンに、衝属性物理攻撃または風属性物理攻撃スキルを、自身を除く2体以上が選択する=When Shippuu Jinrai is selected, select other Blow Element physical attack or Wind Element physical attack skills total 2 or more.
 発動条件を満たしたレイヤー1体につき、自身の物理攻撃力を20%上昇させる。※効果は発動ターンのみ=Increases ATK by 20% for each linked layer. ※Effect lasts this turn only
-竜巻墜とし=Tornado Drop
+竜巻墜とし=Tatsumaki Otoshi
 自身の物理攻撃力を上昇（中）させ、敵全体に物理（衝）か物理（風）で攻撃する。※効果は2ターンのみ=Increases ATK (M) and attacks all enemies with physical (Blow) or physical (Wind) damage. ※Effect lasts 2 turns only
-「竜巻墜とし」を選択した同じターンに、初期SPが13以上の衝属性全体攻撃スキルを、自身を除く1体以上が選択する=When Tornado Drop is selected, select other 13+ original SP cost Blow Element all-target attack skills total 1+ excluding self on the same turn.
+「竜巻墜とし」を選択した同じターンに、初期SPが13以上の衝属性全体攻撃スキルを、自身を除く1体以上が選択する=When Tatsumaki Otoshi is selected, select other 13+ original SP cost Blow Element all-target attack skills total 1+ excluding self on the same turn.
 【行動後、SPを3回復する】効果を自身と発動条件を満たしたレイヤーに付与する。※効果は発動ターンのみ=Self and linked layers gain effect [After taking action, recovers 3 SP]. ※Effect lasts this turn only
-疾風撃=Gale Attack
-「疾風撃」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Gale Attack is selected, select other physical attack single-target skills total 2 or more.
+疾風撃=Shippuugeki
+「疾風撃」を選択した同じターンに、物理攻撃単体スキルを、自身を除く2体以上が選択する=When Shippuugeki is selected, select other physical attack single-target skills total 2 or more.
 発動条件を満たしたレイヤー1体につき、味方全体の物理攻撃力を10%上昇させる。※効果は発動ターンのみ=Increases all allies' ATK by 10% for each linked layer. ※Effect lasts this turn only
 新米お嬢様の鉄拳=Novice Lady's Iron Fist
+新米お嬢様の鉄拳改=Novice Lady's Iron Fist Kai
+敵単体に物理（衝）で攻撃する。CP4以上の場合、２ターンの間、自身の物理攻撃力を上昇（特大）させる。=Attacks a single enemy with physical (Blow) damage. If CP is 4+, increases ATK (VL) for 2 turns.
 
 //Luna Sakurakouji
-花蓮裂風=Lotus Squall
-「花蓮裂風」を選択した同じターンに、刃属性単体スキルを、自身を除く2体以上が選択する。=When Lotus Squall is selected, select other Cut Element single-target skills total 2 or more.
+花蓮裂風=Karen Retsukaze
+「花蓮裂風」を選択した同じターンに、刃属性単体スキルを、自身を除く2体以上が選択する。=When Karen Retsukaze is selected, select other Cut Element single-target skills total 2 or more.
 自身か発動条件を満たしたレイヤーがポジション5にいる場合、そのレイヤーの魔法攻撃力を10%上昇させ、行動後にSPを3回復させる。※効果は発動ターンのみ=If self or a linked layer is on Position 5, increases that layer's MATK by 10% and recovers 3 SP after taking action. ※Effect lasts this turn only
-凄風散花=Gust of Petals
-「凄風散花」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する。=When Gust of Petals is selected, select other Cut Element or Wind Element skills total 2 or more.
+凄風散花=Sugofuu Sanka
+「凄風散花」を選択した同じターンに、刃属性または風属性スキルを、自身を除く2体以上が選択する。=When Sugofuu Sanka is selected, select other Cut Element or Wind Element skills total 2 or more.
 行動後、自身のSPを3回復させる。更に【行動前、1ターンの間、魔法攻撃力を25％上昇させる】効果を味方全体に付与する。※SP回復は発動ターンのみ。付与効果はバトル中、waveの移動やターン経過では解除されない=After taking action, recovers 3 SP; all allies gain buff [Before taking action, increases MATK by 25% for 1 turn]. ※SP recovery lasts this turn only. Applied buff is permanent for the rest of the battle
-恵風花蓮=Zephyr Lotus
-「恵風花蓮」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Zephyr Lotus is selected, select other Cut Element all-target skills total 2 or more.
+恵風花蓮=Keifuu Karen
+「恵風花蓮」を選択した同じターンに、刃属性全体スキルを、自身を除く2体以上が選択する。=When Keifuu Karen is selected, select other Cut Element all-target skills total 2 or more.
 ライジング・サン=Rising Sun
+ライジング・サン改=Rising Sun Kai
+敵全体に魔法（刃）で攻撃する。CP4以上の場合、2ターンの間、味方全体の魔法攻撃力を上昇（大）する。=Attacks all enemies with magical (Cut) damage. If CP is 4+, increases all allies' MATK (L) for 2 turns.
 
 //Oshiage
 炸裂槍=Sakuretsusou
@@ -185,6 +191,12 @@
 自身のバトル中の本リンクスキル発動回数が1回目の時に、自身の「Over Limit」を2段階強化する。※効果はバトル中、waveの移動やターン経過では解除されない=Increases Over Limit by 2 stages if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
 カリスマ的勝利！=Charismatic Victory!
 敵単体に魔法（闇）で攻撃する。CP4以上の場合、1ターンの間、自身のエレメントバースト時の魔法攻撃力を上昇（極大）させる。=Attacks a single enemy with magical (Dark) damage. If CP is 4+, increases MATK during Element Burst (XL) for 1 turn.
+光雫祝福=Koushizuku Shukufuku
+自身がエレメントバーストで与えるダメージを30%上昇させ、行動後に自身のSPを3回復する。※それぞれ効果は発動ターンのみ=Increases Element Burst damage dealt by 30% and recovers 3 SP after taking action. ※Each effect lasts this turn only
+泡護光救=Awamori Mitsukyuu
+敵単体に魔法（水）か魔法（光）で攻撃し、自身のSPを3回復する。=Attacks a single enemy with magical (Water) or magical (Light) damage and recovers 3 SP.
+自身のバトル中の本リンクスキル発動回数が1回目の時に、自身のエレメントバースト時の魔法攻撃力を30%上昇させ、更にエレメントバーストで与えるダメージを25%上昇させる。※それぞれ効果はバトル中、waveの移動やターン経過では解除されない=Increases MATK during Element Burst by 30% and increases Element Burst damage dealt by 25% if this skill is linked for the first time in this battle. ※Effect is permanent for the rest of the battle
+子守りのバードストライク=Babysitting Bird Strike
 
 //Guernica
 ブラッドノヴァ=Blood Nova
@@ -362,6 +374,7 @@
 妖炎の手=Fairy Fire Hand
 敵全体に魔法（刃）か魔法（火）で攻撃し、自身の命中を上昇（中）させる。※効果はバトル中、waveの移動やターン経過では解除されない=<size\=13>Attacks all enemies with magical (Cut) or magical (Fire) damage and increases HIT (M). ※Effect is permanent for the rest of the battle</size>
 「妖炎の手」を選択した同じターンに、刃属性魔法攻撃スキルを、自身を除く2体以上が選択する。=When Fairy Fire Hand is selected, select other Cut Element magical attack skills total 2 or more.
+自身の魔法攻撃力を90%上昇させる。※効果は発動ターンのみ=Increases MATK 90%. ※Effect lasts this turn only
 炎魔怪異=Balrog Mystery
 敵全体に魔法（刃）か魔法（火）で攻撃し、自身のSPを3回復する。=Attacks all enemies with magical (Cut) or magical (Fire) damage and recovers 3 SP.
 「炎魔怪異」を選択した同じターンに、刃属性魔法攻撃または火属性を含む双属性スキルを、自身を除く2体以上が選択する。=When Balrog Mystery is selected, select other Cut Element magical attack skills or Fire Element included double-element skills total 2 or more.

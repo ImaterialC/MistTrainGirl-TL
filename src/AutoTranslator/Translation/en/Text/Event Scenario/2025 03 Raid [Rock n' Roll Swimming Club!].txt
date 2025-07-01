@@ -448,12 +448,11 @@ Udon Thaniは花の浮力で浮かせたピックを\r\nさも指で摘まんで
 「う。やっぱりそうなるのか？」="Ugh. Is that really what's going to happen?"
 「当たり前でしょ。\r\n　今回は部長と副部長に振り回される旅だったんだから、\r\n　それくらい受け入れろって感じよねん」="Obviously.\r\n We both were being pushed around this entire trip by the captain and\r\n vice-captain, so I feel like we should just deserve that."
 SAりげなくこちらのことを責めてくるモンテカルロ。\r\n海上での出来事は忘れてくれていないようである。=Monte Carlo casually blamed us. \r\nIt seems she hasn't forgotten what happened at sea.
-
 さりげなくこちらのことを責めてくるモンテカルロ。\r\n海上での出来事は忘れてくれていないようである。=Monte Carlo casually blamed us. \r\nIt seems she hasn't forgotten what happened at sea.
 「よしわかった。\r\n　今回のお詫びも兼ねてスパリゾートは\r\n　私と副部長で奢ろうじゃないか」="Okay, I get it.\r\n As an apology, why don't Vice-Captain and I\r\n treat you all to the spa resort?"
 「車掌。今『こちらを巻き込むな』って顔をしたな？\r\n　残念だが逃がさないからな！」="Conductor, you face looked like it said 'don't drag me into this', right?\r\n So sorry, but I won't let you get away with it!"
 こちらの腕を掴んで放そうとしないアルビダ。\r\nどうやらこちらも覚悟を決めるしかないようである……。=Awilda grabbed my arm and wouldn't let go. \r\nIt seems I have no choice but to brace myself...
-「やった、奢り確定。\r\n　ウドちゃん、スパリゾート思いっきり楽しもうねん♪」="Yay, we got treated for sure.\r\n Udo, let's have as much fun as we can at the spa resort♪"
+「やった、奢り確定。\r\n　ウドちゃん、スパリゾート思いっきり楽しもうねん♪」="Yay, treat confirmed.\r\n Udo, let's have as much fun as we can at the spa resort♪"
 「はい～。みなさんと心ゆくまで遊びたいと思います～」="Yees～ I want to have as much fun as I can with you aall～"
 「じゃあわたしたちの出番も終わったし、そろそろ帰る？」="Well, our part's over now, shall we go home now?"
 「いや、どうやらまだ帰れないみたいだ」="No, looks like we can't go home yet."
